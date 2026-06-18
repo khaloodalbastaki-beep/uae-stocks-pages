@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "AGTHIA",
-    "price": 8.29,
-    "change": -0.04,
-    "change_pct": -0.0047,
-    "volume": 34025748,
-    "market_cap": 73326000000.0,
-    "high_52w": 9.38,
-    "low_52w": 7.23,
+    "price": 3.69,
+    "change": 0.06,
+    "change_pct": 0.0165,
+    "volume": 492978,
+    "market_cap": null,
+    "high_52w": 3.722,
+    "low_52w": 3.493,
     "spark": [
-      8.263,
-      8.174,
-      8.035,
-      8.042,
-      8.199,
-      8.303,
-      8.32,
-      8.304,
-      8.165,
-      8.046,
-      8.163,
-      8.195,
-      8.342,
-      8.519,
-      8.684,
-      8.512,
-      8.529,
-      8.586,
-      8.417,
-      8.462,
-      8.476,
-      8.417,
-      8.528,
-      8.504,
-      8.655,
-      8.562,
-      8.473,
-      8.382,
-      8.374,
-      8.29
+      3.53,
+      3.523,
+      3.549,
+      3.585,
+      3.603,
+      3.652,
+      3.622,
+      3.581,
+      3.567,
+      3.528,
+      3.493,
+      3.541,
+      3.543,
+      3.51,
+      3.495,
+      3.535,
+      3.568,
+      3.578,
+      3.586,
+      3.611,
+      3.633,
+      3.595,
+      3.636,
+      3.666,
+      3.63,
+      3.65,
+      3.645,
+      3.675,
+      3.722,
+      3.69
     ],
     "prov": {
-      "source_type": "mock",
-      "source_name": "Demo seed",
-      "data_quality": "demo",
-      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "source_type": "official",
+      "source_name": "ADX (delayed)",
+      "data_quality": "delayed",
+      "retrieved_at": "2026-06-18T09:23:48.215Z",
       "url": null,
       "lang": null
     }
@@ -284,10 +284,10 @@
       "ADX"
     ],
     "quick_stats": {
-      "market_cap": 73326000000.0,
-      "volume": 34025748,
-      "high_52w": 9.38,
-      "low_52w": 7.23,
+      "market_cap": null,
+      "volume": 492978,
+      "high_52w": 3.722,
+      "low_52w": 3.493,
       "dividend_yield": 0.0212
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "AGTHIA-2-1781329916",
+      "id": "AGTHIA-2-1781331828",
       "symbol": "AGTHIA",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-06-13T05:51:56+00:00",
+      "published_at": "2026-06-13T06:23:48+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "retrieved_at": "2026-06-18T09:23:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "AGTHIA-0-1781074316",
+      "id": "AGTHIA-0-1781076228",
       "symbol": "AGTHIA",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-06-10T06:51:56+00:00",
+      "published_at": "2026-06-10T07:23:48+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "retrieved_at": "2026-06-18T09:23:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "AGTHIA-4-1779249116",
+      "id": "AGTHIA-4-1779251028",
       "symbol": "AGTHIA",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-05-20T03:51:56+00:00",
+      "published_at": "2026-05-20T04:23:48+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "retrieved_at": "2026-06-18T09:23:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "AGTHIA-3-1778799116",
+      "id": "AGTHIA-3-1778801028",
       "symbol": "AGTHIA",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-05-14T22:51:56+00:00",
+      "published_at": "2026-05-14T23:23:48+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -396,20 +396,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "retrieved_at": "2026-06-18T09:23:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "AGTHIA-1-1776138716",
+      "id": "AGTHIA-1-1776140628",
       "symbol": "AGTHIA",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-04-14T03:51:56+00:00",
+      "published_at": "2026-04-14T04:23:48+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -422,20 +422,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "retrieved_at": "2026-06-18T09:23:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "AGTHIA-5-1775886716",
+      "id": "AGTHIA-5-1775888628",
       "symbol": "AGTHIA",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-04-11T05:51:56+00:00",
+      "published_at": "2026-04-11T06:23:48+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -448,20 +448,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "retrieved_at": "2026-06-18T09:23:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "AGTHIA-7-1774597916",
+      "id": "AGTHIA-7-1774599828",
       "symbol": "AGTHIA",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-03-27T07:51:56+00:00",
+      "published_at": "2026-03-27T08:23:48+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -474,20 +474,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "retrieved_at": "2026-06-18T09:23:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "AGTHIA-6-1774569116",
+      "id": "AGTHIA-6-1774571028",
       "symbol": "AGTHIA",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-03-26T23:51:56+00:00",
+      "published_at": "2026-03-27T00:23:48+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -500,7 +500,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "retrieved_at": "2026-06-18T09:23:48+00:00",
         "url": null,
         "lang": null
       },
@@ -526,7 +526,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "retrieved_at": "2026-06-18T09:23:48+00:00",
         "url": null,
         "lang": null
       }
@@ -551,7 +551,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "retrieved_at": "2026-06-18T09:23:48+00:00",
         "url": null,
         "lang": null
       }
@@ -577,7 +577,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "retrieved_at": "2026-06-18T09:23:48+00:00",
         "url": null,
         "lang": null
       }
@@ -608,7 +608,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "retrieved_at": "2026-06-18T09:23:48+00:00",
       "url": null,
       "lang": null
     }
@@ -622,25 +622,25 @@
       2026
     ],
     "revenue": [
-      20661600000.0,
-      21812500000.0,
-      23027400000.0,
-      24310000000.0,
-      25664100000.0
+      2817800000.0,
+      2974700000.0,
+      3140400000.0,
+      3315300000.0,
+      3500000000.0
     ],
     "net_income": [
-      3617800000.0,
-      3984000000.0,
-      4379800000.0,
-      4807300000.0,
-      5268800000.0
+      493400000.0,
+      543300000.0,
+      597300000.0,
+      655600000.0,
+      718600000.0
     ],
     "operating_cash_flow": [
-      4124300000.0,
-      4541800000.0,
-      4993000000.0,
-      5480300000.0,
-      6006500000.0
+      562500000.0,
+      619400000.0,
+      680900000.0,
+      747400000.0,
+      819100000.0
     ],
     "ratios": {
       "net_margin": 0.2053,
@@ -688,12 +688,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-18T08:51:56+00:00",
+        "as_of": "2026-06-18T09:23:48+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "retrieved_at": "2026-06-18T09:23:48+00:00",
           "url": null,
           "lang": null
         }
@@ -704,12 +704,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-18T08:51:56+00:00",
+        "as_of": "2026-06-18T09:23:48+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "retrieved_at": "2026-06-18T09:23:48+00:00",
           "url": null,
           "lang": null
         }
@@ -720,12 +720,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T08:51:56+00:00",
+        "as_of": "2026-06-18T09:23:48+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "retrieved_at": "2026-06-18T09:23:48+00:00",
           "url": null,
           "lang": null
         }
@@ -736,12 +736,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T08:51:56+00:00",
+        "as_of": "2026-06-18T09:23:48+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "retrieved_at": "2026-06-18T09:23:48+00:00",
           "url": null,
           "lang": null
         }
@@ -752,12 +752,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T08:51:56+00:00",
+        "as_of": "2026-06-18T09:23:48+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "retrieved_at": "2026-06-18T09:23:48+00:00",
           "url": null,
           "lang": null
         }
@@ -768,12 +768,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-18T08:51:56+00:00",
+        "as_of": "2026-06-18T09:23:48+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "retrieved_at": "2026-06-18T09:23:48+00:00",
           "url": null,
           "lang": null
         }
@@ -783,7 +783,7 @@
       {
         "title": "Wheat headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-17T10:51:56+00:00",
+        "published_at": "2026-06-17T11:23:48+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 0.79,
@@ -791,7 +791,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "retrieved_at": "2026-06-18T09:23:48+00:00",
           "url": null,
           "lang": null
         }
@@ -799,7 +799,7 @@
       {
         "title": "Wheat headline — global macro update 2",
         "theme": "TOURISM",
-        "published_at": "2026-06-18T06:51:56+00:00",
+        "published_at": "2026-06-18T07:23:48+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -0.42,
@@ -807,7 +807,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "retrieved_at": "2026-06-18T09:23:48+00:00",
           "url": null,
           "lang": null
         }
@@ -815,7 +815,7 @@
       {
         "title": "Wheat headline — global macro update 3",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-15T16:51:56+00:00",
+        "published_at": "2026-06-15T17:23:48+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -5.45,
@@ -823,7 +823,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "retrieved_at": "2026-06-18T09:23:48+00:00",
           "url": null,
           "lang": null
         }
@@ -831,7 +831,7 @@
       {
         "title": "Wheat headline — global macro update 4",
         "theme": "TRADE",
-        "published_at": "2026-06-17T13:51:56+00:00",
+        "published_at": "2026-06-17T14:23:48+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": 0.02,
@@ -839,7 +839,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "retrieved_at": "2026-06-18T09:23:48+00:00",
           "url": null,
           "lang": null
         }
@@ -847,7 +847,7 @@
       {
         "title": "Wheat headline — global macro update 5",
         "theme": "TRADE",
-        "published_at": "2026-06-15T10:51:56+00:00",
+        "published_at": "2026-06-15T11:23:48+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": -3.44,
@@ -855,7 +855,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "retrieved_at": "2026-06-18T09:23:48+00:00",
           "url": null,
           "lang": null
         }
@@ -868,6 +868,7 @@
       "stance": "Neutral",
       "confidence": "medium",
       "reasons": [
+        "Positive price momentum (+1.7% on the session in demo data)",
         "A high-materiality disclosure (84/100) is in the recent flow"
       ],
       "risks": [
@@ -890,8 +891,9 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 52.7,
+        "score": 59.0,
         "reasons": [
+          "Positive price momentum (+1.7% on the session in demo data)",
           "A high-materiality disclosure (84/100) is in the recent flow"
         ],
         "risks": [
@@ -912,7 +914,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-18T08:51:56+00:00"
+    "generated_at": "2026-06-18T09:23:48+00:00"
   },
-  "generated_at": "2026-06-18T08:51:56+00:00"
+  "generated_at": "2026-06-18T09:23:48+00:00"
 }
