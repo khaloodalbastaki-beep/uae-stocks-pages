@@ -1,0 +1,1061 @@
+{
+  "symbol": "NMDCENR",
+  "name_en": "NMDC Energy",
+  "name_ar": "إن إم دي سي للطاقة",
+  "exchange": "ADX",
+  "sector": "Energy",
+  "archetype": "oil_services",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "NMDCENR",
+    "price": 8.11,
+    "change": -0.17,
+    "change_pct": -0.0203,
+    "volume": 21608435,
+    "market_cap": 22072000000.0,
+    "high_52w": 9.12,
+    "low_52w": 6.84,
+    "spark": [
+      7.865,
+      7.916,
+      7.86,
+      7.734,
+      7.65,
+      7.605,
+      7.716,
+      7.644,
+      7.742,
+      7.898,
+      7.798,
+      7.878,
+      7.918,
+      8.042,
+      7.957,
+      7.962,
+      7.867,
+      8.014,
+      8.175,
+      8.322,
+      8.203,
+      8.113,
+      8.13,
+      8.272,
+      8.26,
+      8.188,
+      8.246,
+      8.303,
+      8.441,
+      8.11
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 37,
+      "grade": "D",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.0408,
+          "points": 30.26666666666667,
+          "weight": 0.26,
+          "note": "4.1% top-line growth",
+          "contribution": 7.9
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.0901,
+          "points": 47.52499999999999,
+          "weight": 0.24,
+          "note": "9.0% earnings growth",
+          "contribution": 11.4
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0317,
+          "points": 15.849999999999998,
+          "weight": 0.16,
+          "note": "3.2% 3-year CAGR",
+          "contribution": 2.5
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": 0.0221,
+          "points": 74.42857142857142,
+          "weight": 0.14,
+          "note": "expanding margins",
+          "contribution": 10.4
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.33,
+          "points": 18.571428571428573,
+          "weight": 0.1,
+          "note": "light reinvestment",
+          "contribution": 1.9
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 1,
+          "points": 25.0,
+          "weight": 0.1,
+          "note": "1 identified growth catalyst(s)",
+          "contribution": 2.5
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 75,
+      "grade": "B+",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 1.21,
+          "points": 84.22222222222223,
+          "weight": 0.22,
+          "note": "conservative balance sheet",
+          "contribution": 18.5
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.99,
+          "points": 84.99999999999999,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 11.9
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.81,
+          "points": 72.85714285714286,
+          "weight": 0.18,
+          "note": "steady cash generation",
+          "contribution": 13.1
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.181,
+          "points": 85.81395348837209,
+          "weight": 0.14,
+          "note": "low volatility",
+          "contribution": 12.0
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.82,
+          "points": 74.28571428571429,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 8.9
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.57,
+          "points": 38.57142857142857,
+          "weight": 0.1,
+          "note": "patchy disclosure",
+          "contribution": 3.9
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.37,
+          "points": 66.25,
+          "weight": 0.1,
+          "note": "macro-insulated",
+          "contribution": 6.6
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 75,
+      "grade": "B+",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0742,
+          "points": 91.47999999999999,
+          "weight": 0.18,
+          "note": "7.42% yield",
+          "contribution": 16.5
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.38,
+          "points": 76.2,
+          "weight": 0.2,
+          "note": "38% of earnings paid out",
+          "contribution": 15.2
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.53,
+          "points": 66.42857142857143,
+          "weight": 0.22,
+          "note": "comfortably covered",
+          "contribution": 14.6
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.31,
+          "points": 73.75,
+          "weight": 0.14,
+          "note": "low debt strain",
+          "contribution": 10.3
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 1,
+          "points": 66.66666666666667,
+          "weight": 0.16,
+          "note": "1 cut(s)/miss(es) recently",
+          "contribution": 10.7
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "semi",
+          "points": 75.0,
+          "weight": 0.1,
+          "note": "semi distribution, 0y streak",
+          "contribution": 7.5
+        }
+      ]
+    },
+    "headline": 60,
+    "headline_grade": "C+",
+    "archetype": "oil_services",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.0408,
+    "profit_growth": 0.0901,
+    "revenue_cagr_3y": 0.0317,
+    "margin_trend": 0.0221,
+    "reinvestment": 0.33,
+    "catalysts": 1,
+    "net_debt_to_ebitda": 1.21,
+    "current_ratio": 1.99,
+    "ocf_consistency": 0.81,
+    "price_volatility": 0.181,
+    "governance_cadence": 0.82,
+    "disclosure_quality": 0.57,
+    "macro_sensitivity": 0.37,
+    "dividend_yield": 0.0742,
+    "payout_ratio": 0.38,
+    "fcf_coverage": 1.53,
+    "net_debt_pressure": 0.31,
+    "cut_history": 1,
+    "frequency": "semi",
+    "years_paid": 0
+  },
+  "overview": {
+    "business_summary_en": "NMDC Energy is a UAE oilfield-services provider, listed on ADX in the Energy sector.",
+    "business_summary_ar": "إن إم دي سي للطاقة شركة مدرجة في سوق أبوظبي ضمن قطاع Energy.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 22072000000.0,
+      "volume": 21608435,
+      "high_52w": 9.12,
+      "low_52w": 6.84,
+      "dividend_yield": 0.0742
+    },
+    "top_catalysts": [
+      "Resilient balance sheet / stability (Stability 75/100)",
+      "Dependable dividend characteristics (Dividend 75/100)"
+    ],
+    "top_risks": [
+      "Weak growth signal (Growth 37/100)"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "NMDCENR-6-1781563916",
+      "symbol": "NMDCENR",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-06-15T22:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 92,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "NMDCENR-3-1781506316",
+      "symbol": "NMDCENR",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-06-15T06:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 21,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "NMDCENR-2-1781419916",
+      "symbol": "NMDCENR",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-06-14T06:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 30,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "NMDCENR-4-1780969916",
+      "symbol": "NMDCENR",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-06-09T01:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 28,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "NMDCENR-1-1779785516",
+      "symbol": "NMDCENR",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-05-26T08:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 78,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "NMDCENR-5-1779497516",
+      "symbol": "NMDCENR",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-05-23T00:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 23,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "NMDCENR-7-1778712716",
+      "symbol": "NMDCENR",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-05-13T22:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 87,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "NMDCENR-0-1777449116",
+      "symbol": "NMDCENR",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-04-29T07:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 76,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "NMDCENR-8-1775623916",
+      "symbol": "NMDCENR",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-04-08T04:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 57,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "NMDCENR",
+      "kind": "board",
+      "date": "2026-07-10",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "NMDCENR",
+      "kind": "agm",
+      "date": "2026-08-15",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "NMDCENR",
+      "kind": "board",
+      "date": "2026-02-19",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "NMDCENR",
+      "amount": 0.3009,
+      "currency": "AED",
+      "agm_date": "2026-07-21",
+      "entitlement_date": "2026-08-10",
+      "ex_date": "2026-08-09",
+      "payment_date": "2026-08-30",
+      "frequency": "semi",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "NMDCENR",
+      "amount": 0.3009,
+      "currency": "AED",
+      "agm_date": "2026-05-19",
+      "entitlement_date": "2026-06-06",
+      "ex_date": "2026-06-05",
+      "payment_date": "2026-06-22",
+      "frequency": "semi",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "NMDCENR",
+      "amount": 0.3009,
+      "currency": "AED",
+      "agm_date": "2025-11-21",
+      "entitlement_date": "2025-12-09",
+      "ex_date": "2025-12-08",
+      "payment_date": "2025-12-25",
+      "frequency": "semi",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "NMDCENR",
+      "amount": 0.3009,
+      "currency": "AED",
+      "agm_date": "2025-05-11",
+      "entitlement_date": "2025-05-29",
+      "ex_date": "2025-05-28",
+      "payment_date": "2025-06-14",
+      "frequency": "semi",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "NMDCENR",
+      "amount": 0.3009,
+      "currency": "AED",
+      "agm_date": "2024-11-13",
+      "entitlement_date": "2024-12-01",
+      "ex_date": "2024-11-30",
+      "payment_date": "2024-12-17",
+      "frequency": "semi",
+      "fiscal_year": "2024",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "NMDCENR",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 64.9
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 17.9
+      },
+      {
+        "name": "Free float",
+        "pct": 17.2
+      }
+    ],
+    "foreign_permitted": 40,
+    "foreign_actual": 23.1,
+    "foreign_available": 16.9,
+    "free_float": 17.2,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      6583300000.0,
+      6851900000.0,
+      7131400000.0,
+      7422400000.0,
+      7725200000.0
+    ],
+    "net_income": [
+      1198800000.0,
+      1323400000.0,
+      1456200000.0,
+      1597700000.0,
+      1748200000.0
+    ],
+    "operating_cash_flow": [
+      1370200000.0,
+      1512700000.0,
+      1664500000.0,
+      1826100000.0,
+      1998200000.0
+    ],
+    "ratios": {
+      "net_margin": 0.2263,
+      "net_debt_to_ebitda": 1.21,
+      "current_ratio": 1.99,
+      "payout_ratio": 0.38
+    },
+    "revenue_cagr_3y": 0.0317,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "oil",
+        "label_en": "Crude oil (Brent)",
+        "label_ar": "النفط الخام",
+        "unit": "USD/bbl",
+        "wb_series": "CRUDE_BRENT",
+        "latest_value": 77.2,
+        "latest_change_pct": -0.0103
+      },
+      {
+        "key": "oil_services",
+        "label_en": "Oilfield services",
+        "label_ar": "خدمات النفط",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "rig_demand",
+        "label_en": "Drilling rig demand",
+        "label_ar": "الطلب على الحفر",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Energy headline — global macro update 1",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T03:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 0.37,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Energy headline — global macro update 2",
+        "theme": "TRADE",
+        "published_at": "2026-06-16T13:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 4.74,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Energy headline — global macro update 3",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-16T13:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 3.45,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Energy headline — global macro update 4",
+        "theme": "MARITIME",
+        "published_at": "2026-06-17T23:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 2.16,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Energy headline — global macro update 5",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T10:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 0.91,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Energy headline — global macro update 6",
+        "theme": "ECON_INTEREST_RATE",
+        "published_at": "2026-06-16T12:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -3.68,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "medium",
+      "reasons": [
+        "A high-materiality disclosure (92/100) is in the recent flow",
+        "Recent disclosure tone skews positive"
+      ],
+      "risks": [
+        "Negative price momentum (-2.0% on the session in demo data)"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Resilient balance sheet / stability (Stability 75/100)",
+        "Dependable dividend characteristics (Dividend 75/100)"
+      ],
+      "risks": [
+        "Weak growth signal (Growth 37/100)"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 52.9,
+        "reasons": [
+          "A high-materiality disclosure (92/100) is in the recent flow",
+          "Recent disclosure tone skews positive"
+        ],
+        "risks": [
+          "Negative price momentum (-2.0% on the session in demo data)"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 59.0,
+        "reasons": [
+          "Resilient balance sheet / stability (Stability 75/100)",
+          "Dependable dividend characteristics (Dividend 75/100)"
+        ],
+        "risks": [
+          "Weak growth signal (Growth 37/100)"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

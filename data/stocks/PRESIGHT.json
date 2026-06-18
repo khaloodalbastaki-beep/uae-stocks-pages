@@ -1,0 +1,815 @@
+{
+  "symbol": "PRESIGHT",
+  "name_en": "Presight AI Holding",
+  "name_ar": "بريسايت",
+  "exchange": "ADX",
+  "sector": "Holding / Diversified",
+  "archetype": "tech",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "PRESIGHT",
+    "price": 2.85,
+    "change": 0.0,
+    "change_pct": 0.0002,
+    "volume": 12279339,
+    "market_cap": 17992000000.0,
+    "high_52w": 3.44,
+    "low_52w": 2.5,
+    "spark": [
+      2.782,
+      2.833,
+      2.894,
+      2.904,
+      2.871,
+      2.908,
+      2.948,
+      2.961,
+      2.994,
+      3.002,
+      3.038,
+      3.009,
+      3.057,
+      3.038,
+      3.055,
+      3.006,
+      3.065,
+      3.098,
+      3.075,
+      3.038,
+      3.057,
+      3.109,
+      3.102,
+      3.145,
+      3.181,
+      3.119,
+      3.098,
+      3.074,
+      3.105,
+      2.85
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 73,
+      "grade": "B+",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.2061,
+          "points": 85.36666666666667,
+          "weight": 0.26,
+          "note": "20.6% top-line growth",
+          "contribution": 22.2
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.2122,
+          "points": 78.05000000000001,
+          "weight": 0.24,
+          "note": "21.2% earnings growth",
+          "contribution": 18.7
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.1416,
+          "points": 70.8,
+          "weight": 0.16,
+          "note": "14.2% 3-year CAGR",
+          "contribution": 11.3
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": 0.0021,
+          "points": 45.85714285714285,
+          "weight": 0.14,
+          "note": "expanding margins",
+          "contribution": 6.4
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.84,
+          "points": 91.42857142857143,
+          "weight": 0.1,
+          "note": "capital being put to work",
+          "contribution": 9.1
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 2,
+          "points": 50.0,
+          "weight": 0.1,
+          "note": "2 identified growth catalyst(s)",
+          "contribution": 5.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 42,
+      "grade": "D+",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 2.94,
+          "points": 45.777777777777786,
+          "weight": 0.22,
+          "note": "leveraged",
+          "contribution": 10.1
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.89,
+          "points": 77.85714285714283,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 10.9
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.5,
+          "points": 28.571428571428577,
+          "weight": 0.18,
+          "note": "lumpy cash flow",
+          "contribution": 5.1
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.588,
+          "points": 0.0,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 0.0
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.61,
+          "points": 44.28571428571429,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 5.3
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.77,
+          "points": 67.14285714285715,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 6.7
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.57,
+          "points": 41.25000000000001,
+          "weight": 0.1,
+          "note": "macro-exposed",
+          "contribution": 4.1
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 53,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0,
+          "points": 0.0,
+          "weight": 0.18,
+          "note": "0.00% yield",
+          "contribution": 0.0
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.28,
+          "points": 59.2,
+          "weight": 0.2,
+          "note": "28% of earnings paid out",
+          "contribution": 11.8
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.51,
+          "points": 65.0,
+          "weight": 0.22,
+          "note": "comfortably covered",
+          "contribution": 14.3
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.72,
+          "points": 22.500000000000014,
+          "weight": 0.14,
+          "note": "debt may pressure payout",
+          "contribution": 3.2
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "semi",
+          "points": 75.0,
+          "weight": 0.1,
+          "note": "semi distribution, 6y streak",
+          "contribution": 7.5
+        }
+      ]
+    },
+    "headline": 57,
+    "headline_grade": "C+",
+    "archetype": "tech",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.2061,
+    "profit_growth": 0.2122,
+    "revenue_cagr_3y": 0.1416,
+    "margin_trend": 0.0021,
+    "reinvestment": 0.84,
+    "catalysts": 2,
+    "net_debt_to_ebitda": 2.94,
+    "current_ratio": 1.89,
+    "ocf_consistency": 0.5,
+    "price_volatility": 0.588,
+    "governance_cadence": 0.61,
+    "disclosure_quality": 0.77,
+    "macro_sensitivity": 0.57,
+    "dividend_yield": 0.0,
+    "payout_ratio": 0.28,
+    "fcf_coverage": 1.51,
+    "net_debt_pressure": 0.72,
+    "cut_history": 0,
+    "frequency": "semi",
+    "years_paid": 6
+  },
+  "overview": {
+    "business_summary_en": "Presight AI Holding is a UAE technology company, listed on ADX in the Holding / Diversified sector.",
+    "business_summary_ar": "بريسايت شركة مدرجة في سوق أبوظبي ضمن قطاع Holding / Diversified.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 17992000000.0,
+      "volume": 12279339,
+      "high_52w": 3.44,
+      "low_52w": 2.5,
+      "dividend_yield": 0.0
+    },
+    "top_catalysts": [
+      "Solid growth profile (Growth 73/100)"
+    ],
+    "top_risks": [
+      "Balance-sheet / stability concerns (Stability 42/100)"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "PRESIGHT-2-1781131916",
+      "symbol": "PRESIGHT",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-06-10T22:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 40,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "PRESIGHT-0-1779677516",
+      "symbol": "PRESIGHT",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-05-25T02:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 18,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "PRESIGHT-4-1779252716",
+      "symbol": "PRESIGHT",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-05-20T04:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 59,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "PRESIGHT-3-1778295116",
+      "symbol": "PRESIGHT",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-05-09T02:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 17,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "PRESIGHT-1-1776329516",
+      "symbol": "PRESIGHT",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-04-16T08:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 45,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "PRESIGHT",
+      "kind": "board",
+      "date": "2026-07-06",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "PRESIGHT",
+      "kind": "agm",
+      "date": "2026-08-24",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "PRESIGHT",
+      "kind": "board",
+      "date": "2026-01-27",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [],
+  "ownership": {
+    "symbol": "PRESIGHT",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 63.6
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 16.6
+      },
+      {
+        "name": "Free float",
+        "pct": 19.8
+      }
+    ],
+    "foreign_permitted": 100,
+    "foreign_actual": 25.6,
+    "foreign_available": 74.4,
+    "free_float": 19.8,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      2975900000.0,
+      3589200000.0,
+      4328900000.0,
+      5221100000.0,
+      6297200000.0
+    ],
+    "net_income": [
+      482400000.0,
+      585600000.0,
+      710800000.0,
+      862800000.0,
+      1047200000.0
+    ],
+    "operating_cash_flow": [
+      506500000.0,
+      614900000.0,
+      746400000.0,
+      905900000.0,
+      1099600000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1663,
+      "net_debt_to_ebitda": 2.94,
+      "current_ratio": 1.89,
+      "payout_ratio": 0.28
+    },
+    "revenue_cagr_3y": 0.1416,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "ai_capex",
+        "label_en": "AI / data-centre capex",
+        "label_ar": "إنفاق الذكاء الاصطناعي",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "uae_gov_spend",
+        "label_en": "UAE government spending",
+        "label_ar": "الإنفاق الحكومي",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Ai headline — global macro update 1",
+        "theme": "ECON_INTEREST_RATE",
+        "published_at": "2026-06-15T10:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 3.75,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Ai headline — global macro update 2",
+        "theme": "MARITIME",
+        "published_at": "2026-06-17T15:51:56+00:00",
+        "domain": "reuters.com",
+        "url": null,
+        "tone": -5.87,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Ai headline — global macro update 3",
+        "theme": "MARITIME",
+        "published_at": "2026-06-17T23:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 1.68,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Ai headline — global macro update 4",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-15T18:51:56+00:00",
+        "domain": "reuters.com",
+        "url": null,
+        "tone": 5.91,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "medium",
+      "reasons": [
+        "Recent disclosure tone skews positive"
+      ],
+      "risks": [
+        "A surprise filing or a sector-wide move could shift the picture quickly"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Solid growth profile (Growth 73/100)"
+      ],
+      "risks": [
+        "Balance-sheet / stability concerns (Stability 42/100)"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 55.1,
+        "reasons": [
+          "Recent disclosure tone skews positive"
+        ],
+        "risks": [
+          "A surprise filing or a sector-wide move could shift the picture quickly"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 57.4,
+        "reasons": [
+          "Solid growth profile (Growth 73/100)"
+        ],
+        "risks": [
+          "Balance-sheet / stability concerns (Stability 42/100)"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

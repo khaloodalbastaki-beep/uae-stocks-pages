@@ -1,0 +1,979 @@
+{
+  "symbol": "ALDAR",
+  "name_en": "Aldar Properties",
+  "name_ar": "الدار العقارية",
+  "exchange": "ADX",
+  "sector": "Real Estate",
+  "archetype": "developer",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "ALDAR",
+    "price": 9.12,
+    "change": -0.28,
+    "change_pct": -0.0302,
+    "volume": 7596016,
+    "market_cap": 43181000000.0,
+    "high_52w": 10.9,
+    "low_52w": 8.06,
+    "spark": [
+      9.025,
+      9.007,
+      9.0,
+      9.044,
+      8.992,
+      9.119,
+      8.952,
+      9.1,
+      9.272,
+      9.117,
+      9.033,
+      9.168,
+      9.037,
+      9.01,
+      9.086,
+      9.157,
+      9.278,
+      9.39,
+      9.48,
+      9.537,
+      9.688,
+      9.9,
+      9.76,
+      9.863,
+      10.029,
+      9.952,
+      9.972,
+      10.082,
+      10.095,
+      9.12
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 38,
+      "grade": "D",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.2886,
+          "points": 100.0,
+          "weight": 0.22,
+          "note": "28.9% top-line growth",
+          "contribution": 22.0
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.0052,
+          "points": 26.3,
+          "weight": 0.24,
+          "note": "0.5% earnings growth",
+          "contribution": 6.3
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0,
+          "points": 0.0,
+          "weight": 0.16,
+          "note": "0.0% 3-year CAGR",
+          "contribution": 0.0
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": 0.0099,
+          "points": 56.99999999999999,
+          "weight": 0.14,
+          "note": "expanding margins",
+          "contribution": 8.0
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.4,
+          "points": 28.571428571428577,
+          "weight": 0.1,
+          "note": "light reinvestment",
+          "contribution": 2.9
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 0,
+          "points": 0.0,
+          "weight": 0.18,
+          "note": "0 identified growth catalyst(s)",
+          "contribution": 0.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 60,
+      "grade": "C+",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 0.84,
+          "points": 92.44444444444444,
+          "weight": 0.24,
+          "note": "conservative balance sheet",
+          "contribution": 22.2
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.99,
+          "points": 84.99999999999999,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 11.9
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.68,
+          "points": 54.28571428571429,
+          "weight": 0.18,
+          "note": "lumpy cash flow",
+          "contribution": 9.8
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.319,
+          "points": 53.720930232558146,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 7.5
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.53,
+          "points": 32.85714285714286,
+          "weight": 0.12,
+          "note": "irregular cadence",
+          "contribution": 3.9
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.52,
+          "points": 31.428571428571434,
+          "weight": 0.1,
+          "note": "patchy disclosure",
+          "contribution": 3.1
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.57,
+          "points": 41.25000000000001,
+          "weight": 0.18,
+          "note": "macro-exposed",
+          "contribution": 7.4
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 50,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0271,
+          "points": 45.166666666666664,
+          "weight": 0.18,
+          "note": "2.71% yield",
+          "contribution": 8.1
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.85,
+          "points": 43.900000000000006,
+          "weight": 0.2,
+          "note": "85% of earnings paid out",
+          "contribution": 8.8
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 0.89,
+          "points": 20.71428571428572,
+          "weight": 0.22,
+          "note": "thin / uncovered coverage",
+          "contribution": 4.6
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.51,
+          "points": 48.75000000000001,
+          "weight": 0.14,
+          "note": "debt may pressure payout",
+          "contribution": 6.8
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "annual",
+          "points": 55.0,
+          "weight": 0.1,
+          "note": "annual distribution, 7y streak",
+          "contribution": 5.5
+        }
+      ]
+    },
+    "headline": 49,
+    "headline_grade": "C",
+    "archetype": "developer",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.2886,
+    "profit_growth": 0.0052,
+    "revenue_cagr_3y": 0.0,
+    "margin_trend": 0.0099,
+    "reinvestment": 0.4,
+    "catalysts": 0,
+    "net_debt_to_ebitda": 0.84,
+    "current_ratio": 1.99,
+    "ocf_consistency": 0.68,
+    "price_volatility": 0.319,
+    "governance_cadence": 0.53,
+    "disclosure_quality": 0.52,
+    "macro_sensitivity": 0.57,
+    "dividend_yield": 0.0271,
+    "payout_ratio": 0.85,
+    "fcf_coverage": 0.89,
+    "net_debt_pressure": 0.51,
+    "cut_history": 0,
+    "frequency": "annual",
+    "years_paid": 7
+  },
+  "overview": {
+    "business_summary_en": "Aldar Properties is a UAE real-estate developer building and managing residential and commercial property, listed on ADX in the Real Estate sector.",
+    "business_summary_ar": "الدار العقارية شركة مدرجة في سوق أبوظبي ضمن قطاع Real Estate.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 43181000000.0,
+      "volume": 7596016,
+      "high_52w": 10.9,
+      "low_52w": 8.06,
+      "dividend_yield": 0.0271
+    },
+    "top_catalysts": [
+      "Mixed fundamentals; no single pillar stands out"
+    ],
+    "top_risks": [
+      "Weak growth signal (Growth 38/100)"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "ALDAR-3-1781585516",
+      "symbol": "ALDAR",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-06-16T04:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 44,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ALDAR-6-1781567516",
+      "symbol": "ALDAR",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-06-15T23:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 56,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ALDAR-4-1780962716",
+      "symbol": "ALDAR",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-06-08T23:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 62,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ALDAR-8-1780012316",
+      "symbol": "ALDAR",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-05-28T23:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 65,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ALDAR-0-1778464316",
+      "symbol": "ALDAR",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-05-11T01:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 25,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ALDAR-5-1777758716",
+      "symbol": "ALDAR",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-05-02T21:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 56,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ALDAR-7-1775944316",
+      "symbol": "ALDAR",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-04-11T21:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 38,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ALDAR-1-1775879516",
+      "symbol": "ALDAR",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-04-11T03:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 90,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ALDAR-2-1774846316",
+      "symbol": "ALDAR",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-03-30T04:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 65,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "ALDAR",
+      "kind": "board",
+      "date": "2026-07-22",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ALDAR",
+      "kind": "agm",
+      "date": "2026-07-29",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ALDAR",
+      "kind": "board",
+      "date": "2026-02-08",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "ALDAR",
+      "amount": 0.2472,
+      "currency": "AED",
+      "agm_date": "2026-06-13",
+      "entitlement_date": "2026-07-03",
+      "ex_date": "2026-07-02",
+      "payment_date": "2026-07-23",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ALDAR",
+      "amount": 0.2472,
+      "currency": "AED",
+      "agm_date": "2026-05-14",
+      "entitlement_date": "2026-06-01",
+      "ex_date": "2026-05-31",
+      "payment_date": "2026-06-17",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ALDAR",
+      "amount": 0.2472,
+      "currency": "AED",
+      "agm_date": "2025-05-13",
+      "entitlement_date": "2025-05-31",
+      "ex_date": "2025-05-30",
+      "payment_date": "2025-06-16",
+      "frequency": "annual",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "ALDAR",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 58.9
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 6.6
+      },
+      {
+        "name": "Free float",
+        "pct": 34.5
+      }
+    ],
+    "foreign_permitted": 100,
+    "foreign_actual": 61.1,
+    "foreign_available": 38.9,
+    "free_float": 34.5,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      5481400000.0,
+      7063300000.0,
+      9101700000.0,
+      11728500000.0,
+      15113300000.0
+    ],
+    "net_income": [
+      931300000.0,
+      1235000000.0,
+      1636500000.0,
+      2166800000.0,
+      2867000000.0
+    ],
+    "operating_cash_flow": [
+      1028100000.0,
+      1363500000.0,
+      1806700000.0,
+      2392200000.0,
+      3165200000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1897,
+      "net_debt_to_ebitda": 0.84,
+      "current_ratio": 1.99,
+      "payout_ratio": 0.85
+    },
+    "revenue_cagr_3y": 0.0,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "rates",
+        "label_en": "US / UAE interest rates",
+        "label_ar": "أسعار الفائدة",
+        "unit": "%",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "construction_metals",
+        "label_en": "Steel & aluminium",
+        "label_ar": "الصلب والألمنيوم",
+        "unit": "USD/mt",
+        "wb_series": "ALUMINUM",
+        "latest_value": 2396.1,
+        "latest_change_pct": -0.022
+      },
+      {
+        "key": "tourism",
+        "label_en": "Tourism & visitors",
+        "label_ar": "السياحة",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "population",
+        "label_en": "Population growth",
+        "label_ar": "النمو السكاني",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Federal headline — global macro update 1",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -3.75,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 2",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -4.32,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 3",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T14:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 1.18,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Recent disclosure tone skews positive"
+      ],
+      "risks": [
+        "Negative price momentum (-3.0% on the session in demo data)"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Mixed fundamentals; no single pillar stands out"
+      ],
+      "risks": [
+        "Weak growth signal (Growth 38/100)"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 50.7,
+        "reasons": [
+          "Recent disclosure tone skews positive"
+        ],
+        "risks": [
+          "Negative price momentum (-3.0% on the session in demo data)"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 48.6,
+        "reasons": [
+          "Mixed fundamentals; no single pillar stands out"
+        ],
+        "risks": [
+          "Weak growth signal (Growth 38/100)"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

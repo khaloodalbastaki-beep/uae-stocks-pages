@@ -1,0 +1,987 @@
+{
+  "symbol": "EMPOWER",
+  "name_en": "Emirates Central Cooling Systems (Empower)",
+  "name_ar": "إمباور",
+  "exchange": "DFM",
+  "sector": "Utilities",
+  "archetype": "utility",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "EMPOWER",
+    "price": 1.77,
+    "change": -0.01,
+    "change_pct": -0.0058,
+    "volume": 19753931,
+    "market_cap": 14084000000.0,
+    "high_52w": 1.91,
+    "low_52w": 1.49,
+    "spark": [
+      1.711,
+      1.706,
+      1.677,
+      1.672,
+      1.694,
+      1.704,
+      1.741,
+      1.72,
+      1.71,
+      1.688,
+      1.655,
+      1.658,
+      1.691,
+      1.682,
+      1.704,
+      1.672,
+      1.696,
+      1.672,
+      1.653,
+      1.673,
+      1.7,
+      1.721,
+      1.706,
+      1.715,
+      1.732,
+      1.711,
+      1.702,
+      1.679,
+      1.693,
+      1.77
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 46,
+      "grade": "D+",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.0818,
+          "points": 43.93333333333334,
+          "weight": 0.2,
+          "note": "8.2% top-line growth",
+          "contribution": 8.8
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.1227,
+          "points": 55.675,
+          "weight": 0.24,
+          "note": "12.3% earnings growth",
+          "contribution": 13.4
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0812,
+          "points": 40.599999999999994,
+          "weight": 0.16,
+          "note": "8.1% 3-year CAGR",
+          "contribution": 6.5
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": 0.0043,
+          "points": 48.99999999999999,
+          "weight": 0.14,
+          "note": "expanding margins",
+          "contribution": 6.9
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.38,
+          "points": 25.71428571428572,
+          "weight": 0.1,
+          "note": "light reinvestment",
+          "contribution": 2.6
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 2,
+          "points": 50.0,
+          "weight": 0.06,
+          "note": "2 identified growth catalyst(s)",
+          "contribution": 3.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 66,
+      "grade": "B",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 3.12,
+          "points": 41.77777777777778,
+          "weight": 0.22,
+          "note": "leveraged",
+          "contribution": 9.2
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.49,
+          "points": 49.28571428571428,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 6.9
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.8,
+          "points": 71.42857142857143,
+          "weight": 0.18,
+          "note": "steady cash generation",
+          "contribution": 12.9
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.142,
+          "points": 94.88372093023256,
+          "weight": 0.14,
+          "note": "low volatility",
+          "contribution": 13.3
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.85,
+          "points": 78.57142857142858,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 9.4
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.83,
+          "points": 75.71428571428572,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 7.6
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.35,
+          "points": 68.75,
+          "weight": 0.1,
+          "note": "macro-insulated",
+          "contribution": 6.9
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 63,
+      "grade": "C+",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0656,
+          "points": 96.64,
+          "weight": 0.2,
+          "note": "6.56% yield",
+          "contribution": 19.3
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.31,
+          "points": 64.3,
+          "weight": 0.2,
+          "note": "31% of earnings paid out",
+          "contribution": 12.9
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.06,
+          "points": 32.85714285714286,
+          "weight": 0.26,
+          "note": "thin / uncovered coverage",
+          "contribution": 8.5
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.74,
+          "points": 20.0,
+          "weight": 0.14,
+          "note": "debt may pressure payout",
+          "contribution": 2.8
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "semi",
+          "points": 75.0,
+          "weight": 0.1,
+          "note": "semi distribution, 5y streak",
+          "contribution": 7.5
+        }
+      ]
+    },
+    "headline": 57,
+    "headline_grade": "C+",
+    "archetype": "utility",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.0818,
+    "profit_growth": 0.1227,
+    "revenue_cagr_3y": 0.0812,
+    "margin_trend": 0.0043,
+    "reinvestment": 0.38,
+    "catalysts": 2,
+    "net_debt_to_ebitda": 3.12,
+    "current_ratio": 1.49,
+    "ocf_consistency": 0.8,
+    "price_volatility": 0.142,
+    "governance_cadence": 0.85,
+    "disclosure_quality": 0.83,
+    "macro_sensitivity": 0.35,
+    "dividend_yield": 0.0656,
+    "payout_ratio": 0.31,
+    "fcf_coverage": 1.06,
+    "net_debt_pressure": 0.74,
+    "cut_history": 0,
+    "frequency": "semi",
+    "years_paid": 5
+  },
+  "overview": {
+    "business_summary_en": "Emirates Central Cooling Systems (Empower) is a UAE utility providing power, water or cooling infrastructure, listed on DFM in the Utilities sector.",
+    "business_summary_ar": "إمباور شركة مدرجة في سوق دبي المالي ضمن قطاع Utilities.",
+    "index_membership": [
+      "DFM"
+    ],
+    "quick_stats": {
+      "market_cap": 14084000000.0,
+      "volume": 19753931,
+      "high_52w": 1.91,
+      "low_52w": 1.49,
+      "dividend_yield": 0.0656
+    },
+    "top_catalysts": [
+      "Resilient balance sheet / stability (Stability 66/100)",
+      "Dependable dividend characteristics (Dividend 63/100)"
+    ],
+    "top_risks": [
+      "Execution and macro conditions remain the key swing factors"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "EMPOWER-0-1780811516",
+      "symbol": "EMPOWER",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-06-07T05:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 32,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "EMPOWER-4-1779576716",
+      "symbol": "EMPOWER",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-05-23T22:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 69,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "EMPOWER-6-1777341116",
+      "symbol": "EMPOWER",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-04-28T01:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 32,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "EMPOWER-7-1776909116",
+      "symbol": "EMPOWER",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-04-23T01:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 53,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "EMPOWER-2-1776837116",
+      "symbol": "EMPOWER",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-04-22T05:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 88,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "EMPOWER-5-1775177516",
+      "symbol": "EMPOWER",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-04-03T00:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 36,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "EMPOWER-3-1774241516",
+      "symbol": "EMPOWER",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-03-23T04:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 46,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "EMPOWER-1-1774061516",
+      "symbol": "EMPOWER",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-03-21T02:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 74,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "EMPOWER",
+      "kind": "board",
+      "date": "2026-06-25",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMPOWER",
+      "kind": "agm",
+      "date": "2026-09-01",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMPOWER",
+      "kind": "board",
+      "date": "2026-01-03",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "EMPOWER",
+      "amount": 0.0581,
+      "currency": "AED",
+      "agm_date": "2026-07-13",
+      "entitlement_date": "2026-08-02",
+      "ex_date": "2026-08-01",
+      "payment_date": "2026-08-22",
+      "frequency": "semi",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMPOWER",
+      "amount": 0.0581,
+      "currency": "AED",
+      "agm_date": "2026-05-21",
+      "entitlement_date": "2026-06-08",
+      "ex_date": "2026-06-07",
+      "payment_date": "2026-06-24",
+      "frequency": "semi",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMPOWER",
+      "amount": 0.0581,
+      "currency": "AED",
+      "agm_date": "2025-11-18",
+      "entitlement_date": "2025-12-06",
+      "ex_date": "2025-12-05",
+      "payment_date": "2025-12-22",
+      "frequency": "semi",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMPOWER",
+      "amount": 0.0581,
+      "currency": "AED",
+      "agm_date": "2025-05-20",
+      "entitlement_date": "2025-06-07",
+      "ex_date": "2025-06-06",
+      "payment_date": "2025-06-23",
+      "frequency": "semi",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMPOWER",
+      "amount": 0.0581,
+      "currency": "AED",
+      "agm_date": "2024-11-22",
+      "entitlement_date": "2024-12-10",
+      "ex_date": "2024-12-09",
+      "payment_date": "2024-12-26",
+      "frequency": "semi",
+      "fiscal_year": "2024",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "EMPOWER",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 50.8
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 13.3
+      },
+      {
+        "name": "Free float",
+        "pct": 35.9
+      }
+    ],
+    "foreign_permitted": 40,
+    "foreign_actual": 5.4,
+    "foreign_available": 34.6,
+    "free_float": 35.9,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      3599200000.0,
+      3893600000.0,
+      4212100000.0,
+      4556700000.0,
+      4929400000.0
+    ],
+    "net_income": [
+      591300000.0,
+      648100000.0,
+      710200000.0,
+      778100000.0,
+      852300000.0
+    ],
+    "operating_cash_flow": [
+      674100000.0,
+      738800000.0,
+      809600000.0,
+      887000000.0,
+      971600000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1729,
+      "net_debt_to_ebitda": 3.12,
+      "current_ratio": 1.49,
+      "payout_ratio": 0.31
+    },
+    "revenue_cagr_3y": 0.0812,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "rates",
+        "label_en": "US / UAE interest rates",
+        "label_ar": "أسعار الفائدة",
+        "unit": "%",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "power_demand",
+        "label_en": "Power & cooling demand",
+        "label_ar": "الطلب على الطاقة",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "construction_metals",
+        "label_en": "Steel & aluminium",
+        "label_ar": "الصلب والألمنيوم",
+        "unit": "USD/mt",
+        "wb_series": "ALUMINUM",
+        "latest_value": 2396.1,
+        "latest_change_pct": -0.022
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Federal headline — global macro update 1",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -3.75,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 2",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -4.32,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 3",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T14:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 1.18,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "medium",
+      "reasons": [
+        "A high-materiality disclosure (88/100) is in the recent flow",
+        "Recent disclosure tone skews positive"
+      ],
+      "risks": [
+        "A surprise filing or a sector-wide move could shift the picture quickly"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Resilient balance sheet / stability (Stability 66/100)",
+        "Dependable dividend characteristics (Dividend 63/100)"
+      ],
+      "risks": [
+        "Execution and macro conditions remain the key swing factors"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 56.8,
+        "reasons": [
+          "A high-materiality disclosure (88/100) is in the recent flow",
+          "Recent disclosure tone skews positive"
+        ],
+        "risks": [
+          "A surprise filing or a sector-wide move could shift the picture quickly"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 56.9,
+        "reasons": [
+          "Resilient balance sheet / stability (Stability 66/100)",
+          "Dependable dividend characteristics (Dividend 63/100)"
+        ],
+        "risks": [
+          "Execution and macro conditions remain the key swing factors"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

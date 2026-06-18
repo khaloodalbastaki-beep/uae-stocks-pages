@@ -1,0 +1,862 @@
+{
+  "symbol": "RAKPROP",
+  "name_en": "RAK Properties",
+  "name_ar": "عقارات رأس الخيمة",
+  "exchange": "ADX",
+  "sector": "Real Estate",
+  "archetype": "developer",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "RAKPROP",
+    "price": 2.27,
+    "change": -0.04,
+    "change_pct": -0.0181,
+    "volume": 29674599,
+    "market_cap": 18612000000.0,
+    "high_52w": 2.51,
+    "low_52w": 1.9,
+    "spark": [
+      2.166,
+      2.172,
+      2.137,
+      2.132,
+      2.158,
+      2.2,
+      2.204,
+      2.213,
+      2.262,
+      2.264,
+      2.281,
+      2.316,
+      2.313,
+      2.326,
+      2.321,
+      2.293,
+      2.278,
+      2.24,
+      2.233,
+      2.19,
+      2.226,
+      2.199,
+      2.182,
+      2.18,
+      2.139,
+      2.11,
+      2.147,
+      2.177,
+      2.19,
+      2.27
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 58,
+      "grade": "C+",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.251,
+          "points": 100.0,
+          "weight": 0.22,
+          "note": "25.1% top-line growth",
+          "contribution": 22.0
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.0317,
+          "points": 32.925,
+          "weight": 0.24,
+          "note": "3.2% earnings growth",
+          "contribution": 7.9
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0225,
+          "points": 11.249999999999998,
+          "weight": 0.16,
+          "note": "2.2% 3-year CAGR",
+          "contribution": 1.8
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": 0.0285,
+          "points": 83.57142857142857,
+          "weight": 0.14,
+          "note": "expanding margins",
+          "contribution": 11.7
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.77,
+          "points": 81.42857142857144,
+          "weight": 0.1,
+          "note": "capital being put to work",
+          "contribution": 8.1
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 2,
+          "points": 50.0,
+          "weight": 0.18,
+          "note": "2 identified growth catalyst(s)",
+          "contribution": 9.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 53,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 1.21,
+          "points": 84.22222222222223,
+          "weight": 0.24,
+          "note": "conservative balance sheet",
+          "contribution": 20.2
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.8,
+          "points": 71.42857142857142,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 10.0
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.47,
+          "points": 24.285714285714285,
+          "weight": 0.18,
+          "note": "lumpy cash flow",
+          "contribution": 4.4
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.42,
+          "points": 30.232558139534888,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 4.2
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.81,
+          "points": 72.85714285714286,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 8.7
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.75,
+          "points": 64.28571428571429,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 6.4
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.72,
+          "points": 22.500000000000014,
+          "weight": 0.18,
+          "note": "macro-exposed",
+          "contribution": 4.1
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 68,
+      "grade": "B",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.068,
+          "points": 95.19999999999999,
+          "weight": 0.18,
+          "note": "6.80% yield",
+          "contribution": 17.1
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.76,
+          "points": 59.2,
+          "weight": 0.2,
+          "note": "76% of earnings paid out",
+          "contribution": 11.8
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.35,
+          "points": 53.571428571428584,
+          "weight": 0.22,
+          "note": "comfortably covered",
+          "contribution": 11.8
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.25,
+          "points": 81.25,
+          "weight": 0.14,
+          "note": "low debt strain",
+          "contribution": 11.4
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "none",
+          "points": 0.0,
+          "weight": 0.1,
+          "note": "none distribution, 1y streak",
+          "contribution": 0.0
+        }
+      ]
+    },
+    "headline": 59,
+    "headline_grade": "C+",
+    "archetype": "developer",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.251,
+    "profit_growth": 0.0317,
+    "revenue_cagr_3y": 0.0225,
+    "margin_trend": 0.0285,
+    "reinvestment": 0.77,
+    "catalysts": 2,
+    "net_debt_to_ebitda": 1.21,
+    "current_ratio": 1.8,
+    "ocf_consistency": 0.47,
+    "price_volatility": 0.42,
+    "governance_cadence": 0.81,
+    "disclosure_quality": 0.75,
+    "macro_sensitivity": 0.72,
+    "dividend_yield": 0.068,
+    "payout_ratio": 0.76,
+    "fcf_coverage": 1.35,
+    "net_debt_pressure": 0.25,
+    "cut_history": 0,
+    "frequency": "none",
+    "years_paid": 1
+  },
+  "overview": {
+    "business_summary_en": "RAK Properties is a UAE real-estate developer building and managing residential and commercial property, listed on ADX in the Real Estate sector.",
+    "business_summary_ar": "عقارات رأس الخيمة شركة مدرجة في سوق أبوظبي ضمن قطاع Real Estate.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 18612000000.0,
+      "volume": 29674599,
+      "high_52w": 2.51,
+      "low_52w": 1.9,
+      "dividend_yield": 0.068
+    },
+    "top_catalysts": [
+      "Dependable dividend characteristics (Dividend 68/100)"
+    ],
+    "top_risks": [
+      "High sensitivity to commodity / macro swings"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "RAKPROP-6-1780638716",
+      "symbol": "RAKPROP",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-06-05T05:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 83,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "RAKPROP-3-1779583916",
+      "symbol": "RAKPROP",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-05-24T00:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 24,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "RAKPROP-0-1779162716",
+      "symbol": "RAKPROP",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-05-19T03:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 52,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "RAKPROP-2-1779072716",
+      "symbol": "RAKPROP",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-05-18T02:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 61,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "RAKPROP-1-1777589516",
+      "symbol": "RAKPROP",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-04-30T22:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 46,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "RAKPROP-4-1777431116",
+      "symbol": "RAKPROP",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-04-29T02:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 48,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "RAKPROP-5-1776466316",
+      "symbol": "RAKPROP",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-04-17T22:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 21,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "RAKPROP",
+      "kind": "board",
+      "date": "2026-06-30",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "RAKPROP",
+      "kind": "agm",
+      "date": "2026-08-02",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "RAKPROP",
+      "kind": "board",
+      "date": "2026-03-10",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [],
+  "ownership": {
+    "symbol": "RAKPROP",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 56.8
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 9.1
+      },
+      {
+        "name": "Free float",
+        "pct": 34.1
+      }
+    ],
+    "foreign_permitted": 49,
+    "foreign_actual": 11.8,
+    "foreign_available": 37.2,
+    "free_float": 34.1,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      2659700000.0,
+      3327300000.0,
+      4162400000.0,
+      5207200000.0,
+      6514200000.0
+    ],
+    "net_income": [
+      501400000.0,
+      674600000.0,
+      903200000.0,
+      1204200000.0,
+      1599200000.0
+    ],
+    "operating_cash_flow": [
+      521900000.0,
+      702300000.0,
+      940300000.0,
+      1253500000.0,
+      1664800000.0
+    ],
+    "ratios": {
+      "net_margin": 0.2455,
+      "net_debt_to_ebitda": 1.21,
+      "current_ratio": 1.8,
+      "payout_ratio": 0.76
+    },
+    "revenue_cagr_3y": 0.0225,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "rates",
+        "label_en": "US / UAE interest rates",
+        "label_ar": "أسعار الفائدة",
+        "unit": "%",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "construction_metals",
+        "label_en": "Steel & aluminium",
+        "label_ar": "الصلب والألمنيوم",
+        "unit": "USD/mt",
+        "wb_series": "ALUMINUM",
+        "latest_value": 2396.1,
+        "latest_change_pct": -0.022
+      },
+      {
+        "key": "population",
+        "label_en": "Population growth",
+        "label_ar": "النمو السكاني",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Federal headline — global macro update 1",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -3.75,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 2",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -4.32,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 3",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T14:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 1.18,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "medium",
+      "reasons": [
+        "A high-materiality disclosure (83/100) is in the recent flow"
+      ],
+      "risks": [
+        "Negative price momentum (-1.8% on the session in demo data)",
+        "Recent disclosure tone skews cautious/negative"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Dependable dividend characteristics (Dividend 68/100)"
+      ],
+      "risks": [
+        "High sensitivity to commodity / macro swings"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 44.5,
+        "reasons": [
+          "A high-materiality disclosure (83/100) is in the recent flow"
+        ],
+        "risks": [
+          "Negative price momentum (-1.8% on the session in demo data)",
+          "Recent disclosure tone skews cautious/negative"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 58.4,
+        "reasons": [
+          "Dependable dividend characteristics (Dividend 68/100)"
+        ],
+        "risks": [
+          "High sensitivity to commodity / macro swings"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

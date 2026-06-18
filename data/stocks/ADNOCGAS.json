@@ -1,0 +1,908 @@
+{
+  "symbol": "ADNOCGAS",
+  "name_en": "ADNOC Gas",
+  "name_ar": "أدنوك للغاز",
+  "exchange": "ADX",
+  "sector": "Energy",
+  "archetype": "energy",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "ADNOCGAS",
+    "price": 3.54,
+    "change": -0.01,
+    "change_pct": -0.0025,
+    "volume": 18764882,
+    "market_cap": 8239000000.0,
+    "high_52w": 3.96,
+    "low_52w": 3.04,
+    "spark": [
+      3.403,
+      3.431,
+      3.446,
+      3.434,
+      3.477,
+      3.5,
+      3.455,
+      3.497,
+      3.43,
+      3.403,
+      3.378,
+      3.386,
+      3.428,
+      3.486,
+      3.516,
+      3.502,
+      3.482,
+      3.442,
+      3.386,
+      3.428,
+      3.462,
+      3.518,
+      3.556,
+      3.575,
+      3.651,
+      3.592,
+      3.653,
+      3.639,
+      3.665,
+      3.54
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 44,
+      "grade": "D+",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.0554,
+          "points": 35.13333333333333,
+          "weight": 0.26,
+          "note": "5.5% top-line growth",
+          "contribution": 9.1
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.0107,
+          "points": 27.675,
+          "weight": 0.24,
+          "note": "1.1% earnings growth",
+          "contribution": 6.6
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0604,
+          "points": 30.2,
+          "weight": 0.16,
+          "note": "6.0% 3-year CAGR",
+          "contribution": 4.8
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": 0.0086,
+          "points": 55.142857142857125,
+          "weight": 0.14,
+          "note": "expanding margins",
+          "contribution": 7.7
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.8,
+          "points": 85.71428571428574,
+          "weight": 0.1,
+          "note": "capital being put to work",
+          "contribution": 8.6
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 3,
+          "points": 75.0,
+          "weight": 0.1,
+          "note": "3 identified growth catalyst(s)",
+          "contribution": 7.5
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 55,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 4.03,
+          "points": 21.555555555555543,
+          "weight": 0.22,
+          "note": "leveraged",
+          "contribution": 4.7
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.13,
+          "points": 23.57142857142856,
+          "weight": 0.14,
+          "note": "tight liquidity",
+          "contribution": 3.3
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.82,
+          "points": 74.28571428571429,
+          "weight": 0.18,
+          "note": "steady cash generation",
+          "contribution": 13.4
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.158,
+          "points": 91.16279069767442,
+          "weight": 0.14,
+          "note": "low volatility",
+          "contribution": 12.8
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.93,
+          "points": 90.00000000000003,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 10.8
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.77,
+          "points": 67.14285714285715,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 6.7
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.6,
+          "points": 37.5,
+          "weight": 0.1,
+          "note": "macro-exposed",
+          "contribution": 3.8
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 82,
+      "grade": "A",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0801,
+          "points": 87.94,
+          "weight": 0.18,
+          "note": "8.01% yield — high, check sustainability",
+          "contribution": 15.8
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.5,
+          "points": 96.6,
+          "weight": 0.2,
+          "note": "50% of earnings paid out",
+          "contribution": 19.3
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.57,
+          "points": 69.28571428571429,
+          "weight": 0.22,
+          "note": "comfortably covered",
+          "contribution": 15.2
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.33,
+          "points": 71.25,
+          "weight": 0.14,
+          "note": "low debt strain",
+          "contribution": 10.0
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "annual",
+          "points": 55.0,
+          "weight": 0.1,
+          "note": "annual distribution, 3y streak",
+          "contribution": 5.5
+        }
+      ]
+    },
+    "headline": 57,
+    "headline_grade": "C+",
+    "archetype": "energy",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.0554,
+    "profit_growth": 0.0107,
+    "revenue_cagr_3y": 0.0604,
+    "margin_trend": 0.0086,
+    "reinvestment": 0.8,
+    "catalysts": 3,
+    "net_debt_to_ebitda": 4.03,
+    "current_ratio": 1.13,
+    "ocf_consistency": 0.82,
+    "price_volatility": 0.158,
+    "governance_cadence": 0.93,
+    "disclosure_quality": 0.77,
+    "macro_sensitivity": 0.6,
+    "dividend_yield": 0.0801,
+    "payout_ratio": 0.5,
+    "fcf_coverage": 1.57,
+    "net_debt_pressure": 0.33,
+    "cut_history": 0,
+    "frequency": "annual",
+    "years_paid": 3
+  },
+  "overview": {
+    "business_summary_en": "ADNOC Gas is a UAE energy company across the oil, gas and downstream value chain, listed on ADX in the Energy sector.",
+    "business_summary_ar": "أدنوك للغاز شركة مدرجة في سوق أبوظبي ضمن قطاع Energy.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 8239000000.0,
+      "volume": 18764882,
+      "high_52w": 3.96,
+      "low_52w": 3.04,
+      "dividend_yield": 0.0801
+    },
+    "top_catalysts": [
+      "Dependable dividend characteristics (Dividend 82/100)"
+    ],
+    "top_risks": [
+      "Weak growth signal (Growth 44/100)"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "ADNOCGAS-5-1780210316",
+      "symbol": "ADNOCGAS",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-05-31T06:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 30,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ADNOCGAS-3-1780177916",
+      "symbol": "ADNOCGAS",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-05-30T21:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 36,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ADNOCGAS-4-1780131116",
+      "symbol": "ADNOCGAS",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-05-30T08:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 58,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ADNOCGAS-0-1777157516",
+      "symbol": "ADNOCGAS",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-04-25T22:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 65,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ADNOCGAS-1-1776642716",
+      "symbol": "ADNOCGAS",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-04-19T23:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 26,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ADNOCGAS-2-1776207116",
+      "symbol": "ADNOCGAS",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-04-14T22:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 48,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "ADNOCGAS",
+      "kind": "board",
+      "date": "2026-06-22",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ADNOCGAS",
+      "kind": "agm",
+      "date": "2026-08-03",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ADNOCGAS",
+      "kind": "board",
+      "date": "2026-04-19",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "ADNOCGAS",
+      "amount": 0.2836,
+      "currency": "AED",
+      "agm_date": "2026-07-06",
+      "entitlement_date": "2026-07-26",
+      "ex_date": "2026-07-25",
+      "payment_date": "2026-08-15",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ADNOCGAS",
+      "amount": 0.2836,
+      "currency": "AED",
+      "agm_date": "2026-05-27",
+      "entitlement_date": "2026-06-14",
+      "ex_date": "2026-06-13",
+      "payment_date": "2026-06-30",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ADNOCGAS",
+      "amount": 0.2836,
+      "currency": "AED",
+      "agm_date": "2025-05-27",
+      "entitlement_date": "2025-06-14",
+      "ex_date": "2025-06-13",
+      "payment_date": "2025-06-30",
+      "frequency": "annual",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "ADNOCGAS",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 64.4
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 15.2
+      },
+      {
+        "name": "Free float",
+        "pct": 20.4
+      }
+    ],
+    "foreign_permitted": 100,
+    "foreign_actual": 27.5,
+    "foreign_available": 72.5,
+    "free_float": 20.4,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      2324200000.0,
+      2453000000.0,
+      2588900000.0,
+      2732300000.0,
+      2883600000.0
+    ],
+    "net_income": [
+      391900000.0,
+      424100000.0,
+      458700000.0,
+      495900000.0,
+      535800000.0
+    ],
+    "operating_cash_flow": [
+      449100000.0,
+      486000000.0,
+      525700000.0,
+      568300000.0,
+      614000000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1858,
+      "net_debt_to_ebitda": 4.03,
+      "current_ratio": 1.13,
+      "payout_ratio": 0.5
+    },
+    "revenue_cagr_3y": 0.0604,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "natural_gas",
+        "label_en": "Natural gas",
+        "label_ar": "الغاز الطبيعي",
+        "unit": "USD/mmbtu",
+        "wb_series": "NGAS_EUR",
+        "latest_value": 11.22,
+        "latest_change_pct": -0.024
+      },
+      {
+        "key": "oil",
+        "label_en": "Crude oil (Brent)",
+        "label_ar": "النفط الخام",
+        "unit": "USD/bbl",
+        "wb_series": "CRUDE_BRENT",
+        "latest_value": 77.2,
+        "latest_change_pct": -0.0103
+      },
+      {
+        "key": "lng",
+        "label_en": "LNG",
+        "label_ar": "الغاز المسال",
+        "unit": "USD/mmbtu",
+        "wb_series": "NGAS_JP",
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Natural headline — global macro update 1",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T16:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": -3.52,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Natural headline — global macro update 2",
+        "theme": "MARITIME",
+        "published_at": "2026-06-17T04:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -1.66,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Natural headline — global macro update 3",
+        "theme": "TRADE",
+        "published_at": "2026-06-16T21:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -0.42,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Natural headline — global macro update 4",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T20:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 0.05,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "medium",
+      "reasons": [
+        "No strong short-term catalysts; trading on broad market drift"
+      ],
+      "risks": [
+        "Recent disclosure tone skews cautious/negative"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Dependable dividend characteristics (Dividend 82/100)"
+      ],
+      "risks": [
+        "Weak growth signal (Growth 44/100)"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 47.0,
+        "reasons": [
+          "No strong short-term catalysts; trading on broad market drift"
+        ],
+        "risks": [
+          "Recent disclosure tone skews cautious/negative"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 56.3,
+        "reasons": [
+          "Dependable dividend characteristics (Dividend 82/100)"
+        ],
+        "risks": [
+          "Weak growth signal (Growth 44/100)"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

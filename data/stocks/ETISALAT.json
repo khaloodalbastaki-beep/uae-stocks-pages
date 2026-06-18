@@ -1,0 +1,894 @@
+{
+  "symbol": "ETISALAT",
+  "name_en": "e& (Emirates Telecom Group)",
+  "name_ar": "اتصالات (إي آند)",
+  "exchange": "ADX",
+  "sector": "Telecom",
+  "archetype": "telecom",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "ETISALAT",
+    "price": 17.85,
+    "change": -0.55,
+    "change_pct": -0.03,
+    "volume": 3862452,
+    "market_cap": 77178000000.0,
+    "high_52w": 22.52,
+    "low_52w": 15.81,
+    "spark": [
+      17.858,
+      17.567,
+      17.894,
+      17.891,
+      18.011,
+      18.093,
+      17.993,
+      18.005,
+      18.24,
+      18.181,
+      18.362,
+      18.63,
+      18.842,
+      19.093,
+      19.338,
+      19.702,
+      19.765,
+      19.609,
+      19.229,
+      19.512,
+      19.443,
+      19.704,
+      19.312,
+      19.656,
+      20.015,
+      20.056,
+      20.469,
+      20.848,
+      20.836,
+      17.85
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:24:09+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 71,
+      "grade": "B",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.2013,
+          "points": 83.76666666666668,
+          "weight": 0.26,
+          "note": "20.1% top-line growth",
+          "contribution": 21.8
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.2746,
+          "points": 93.65,
+          "weight": 0.24,
+          "note": "27.5% earnings growth",
+          "contribution": 22.5
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.2166,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "21.7% 3-year CAGR",
+          "contribution": 16.0
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": -0.0191,
+          "points": 15.57142857142857,
+          "weight": 0.14,
+          "note": "compressing margins",
+          "contribution": 2.2
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.6,
+          "points": 57.14285714285714,
+          "weight": 0.1,
+          "note": "capital being put to work",
+          "contribution": 5.7
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 1,
+          "points": 25.0,
+          "weight": 0.1,
+          "note": "1 identified growth catalyst(s)",
+          "contribution": 2.5
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 55,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 3.36,
+          "points": 36.44444444444444,
+          "weight": 0.22,
+          "note": "leveraged",
+          "contribution": 8.0
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.78,
+          "points": 70.0,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 9.8
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.76,
+          "points": 65.71428571428572,
+          "weight": 0.18,
+          "note": "steady cash generation",
+          "contribution": 11.8
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.44,
+          "points": 25.58139534883722,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 3.6
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.72,
+          "points": 60.0,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 7.2
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.81,
+          "points": 72.85714285714286,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 7.3
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.35,
+          "points": 68.75,
+          "weight": 0.1,
+          "note": "macro-insulated",
+          "contribution": 6.9
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 50,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0197,
+          "points": 32.83333333333333,
+          "weight": 0.18,
+          "note": "1.97% yield",
+          "contribution": 5.9
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.82,
+          "points": 49.000000000000014,
+          "weight": 0.2,
+          "note": "82% of earnings paid out",
+          "contribution": 9.8
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.15,
+          "points": 39.285714285714285,
+          "weight": 0.22,
+          "note": "thin / uncovered coverage",
+          "contribution": 8.6
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.37,
+          "points": 66.25,
+          "weight": 0.14,
+          "note": "low debt strain",
+          "contribution": 9.3
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 1,
+          "points": 66.66666666666667,
+          "weight": 0.16,
+          "note": "1 cut(s)/miss(es) recently",
+          "contribution": 10.7
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "annual",
+          "points": 55.0,
+          "weight": 0.1,
+          "note": "annual distribution, 2y streak",
+          "contribution": 5.5
+        }
+      ]
+    },
+    "headline": 60,
+    "headline_grade": "C+",
+    "archetype": "telecom",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.2013,
+    "profit_growth": 0.2746,
+    "revenue_cagr_3y": 0.2166,
+    "margin_trend": -0.0191,
+    "reinvestment": 0.6,
+    "catalysts": 1,
+    "net_debt_to_ebitda": 3.36,
+    "current_ratio": 1.78,
+    "ocf_consistency": 0.76,
+    "price_volatility": 0.44,
+    "governance_cadence": 0.72,
+    "disclosure_quality": 0.81,
+    "macro_sensitivity": 0.35,
+    "dividend_yield": 0.0197,
+    "payout_ratio": 0.82,
+    "fcf_coverage": 1.15,
+    "net_debt_pressure": 0.37,
+    "cut_history": 1,
+    "frequency": "annual",
+    "years_paid": 2
+  },
+  "overview": {
+    "business_summary_en": "e& (Emirates Telecom Group) is a UAE telecom and digital-services operator, listed on ADX in the Telecom sector.",
+    "business_summary_ar": "اتصالات (إي آند) شركة مدرجة في سوق أبوظبي ضمن قطاع Telecom.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 77178000000.0,
+      "volume": 3862452,
+      "high_52w": 22.52,
+      "low_52w": 15.81,
+      "dividend_yield": 0.0197
+    },
+    "top_catalysts": [
+      "Solid growth profile (Growth 71/100)"
+    ],
+    "top_risks": [
+      "Execution and macro conditions remain the key swing factors"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "ETISALAT-4-1779855849",
+      "symbol": "ETISALAT",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-05-27T04:24:09+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 54,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ETISALAT-2-1778570649",
+      "symbol": "ETISALAT",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-05-12T07:24:09+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 54,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ETISALAT-5-1777710249",
+      "symbol": "ETISALAT",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-05-02T08:24:09+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 69,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ETISALAT-0-1776392649",
+      "symbol": "ETISALAT",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-04-17T02:24:09+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 43,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ETISALAT-3-1775280249",
+      "symbol": "ETISALAT",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-04-04T05:24:09+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 42,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ETISALAT-1-1774484649",
+      "symbol": "ETISALAT",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-03-26T00:24:09+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 50,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "ETISALAT",
+      "kind": "board",
+      "date": "2026-07-05",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ETISALAT",
+      "kind": "agm",
+      "date": "2026-08-17",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ETISALAT",
+      "kind": "board",
+      "date": "2025-12-05",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "ETISALAT",
+      "amount": 0.3516,
+      "currency": "AED",
+      "agm_date": "2026-06-24",
+      "entitlement_date": "2026-07-14",
+      "ex_date": "2026-07-13",
+      "payment_date": "2026-08-03",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ETISALAT",
+      "amount": 0.3516,
+      "currency": "AED",
+      "agm_date": "2026-05-23",
+      "entitlement_date": "2026-06-10",
+      "ex_date": "2026-06-09",
+      "payment_date": "2026-06-26",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ETISALAT",
+      "amount": 0.3516,
+      "currency": "AED",
+      "agm_date": "2025-05-14",
+      "entitlement_date": "2025-06-01",
+      "ex_date": "2025-05-31",
+      "payment_date": "2025-06-17",
+      "frequency": "annual",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "ETISALAT",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 34.8
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 6.6
+      },
+      {
+        "name": "Free float",
+        "pct": 58.6
+      }
+    ],
+    "foreign_permitted": 49,
+    "foreign_actual": 17.2,
+    "foreign_available": 31.8,
+    "free_float": 58.6,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:24:09+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      12970500000.0,
+      15581400000.0,
+      18718000000.0,
+      22485900000.0,
+      27012300000.0
+    ],
+    "net_income": [
+      1827500000.0,
+      2046600000.0,
+      2279800000.0,
+      2524000000.0,
+      2774200000.0
+    ],
+    "operating_cash_flow": [
+      2061500000.0,
+      2308600000.0,
+      2571700000.0,
+      2847100000.0,
+      3129300000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1027,
+      "net_debt_to_ebitda": 3.36,
+      "current_ratio": 1.78,
+      "payout_ratio": 0.82
+    },
+    "revenue_cagr_3y": 0.2166,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "usd",
+        "label_en": "US dollar (AED peg)",
+        "label_ar": "الدولار الأمريكي",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "em_fx",
+        "label_en": "Emerging-market FX",
+        "label_ar": "عملات الأسواق الناشئة",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "data_demand",
+        "label_en": "Data & connectivity demand",
+        "label_ar": "الطلب على البيانات",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:24:09+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:24:09+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:24:09+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:24:09+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:24:09+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:24:09+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Us headline — global macro update 1",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-17T22:24:09+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -1.29,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Us headline — global macro update 2",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T23:24:09+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 2.88,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Us headline — global macro update 3",
+        "theme": "TOURISM",
+        "published_at": "2026-06-17T01:24:09+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -5.76,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Cautious",
+      "confidence": "medium",
+      "reasons": [
+        "No strong short-term catalysts; trading on broad market drift"
+      ],
+      "risks": [
+        "Negative price momentum (-3.0% on the session in demo data)",
+        "Recent disclosure tone skews cautious/negative"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Solid growth profile (Growth 71/100)"
+      ],
+      "risks": [
+        "Execution and macro conditions remain the key swing factors"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Cautious",
+        "confidence": "medium",
+        "score": 41.3,
+        "reasons": [
+          "No strong short-term catalysts; trading on broad market drift"
+        ],
+        "risks": [
+          "Negative price momentum (-3.0% on the session in demo data)",
+          "Recent disclosure tone skews cautious/negative"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 60.6,
+        "reasons": [
+          "Solid growth profile (Growth 71/100)"
+        ],
+        "risks": [
+          "Execution and macro conditions remain the key swing factors"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:24:09+00:00"
+  },
+  "generated_at": "2026-06-18T08:24:09+00:00"
+}

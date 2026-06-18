@@ -1,0 +1,808 @@
+{
+  "symbol": "EMAARDEV",
+  "name_en": "Emaar Development",
+  "name_ar": "إعمار للتطوير",
+  "exchange": "DFM",
+  "sector": "Real Estate",
+  "archetype": "developer",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "EMAARDEV",
+    "price": 12.5,
+    "change": -0.1,
+    "change_pct": -0.0079,
+    "volume": 14799305,
+    "market_cap": 36886000000.0,
+    "high_52w": 13.5,
+    "low_52w": 9.86,
+    "spark": [
+      12.041,
+      12.131,
+      12.151,
+      11.982,
+      11.905,
+      11.785,
+      11.935,
+      11.754,
+      11.71,
+      11.77,
+      11.807,
+      11.598,
+      11.439,
+      11.291,
+      11.312,
+      11.133,
+      11.147,
+      10.96,
+      11.195,
+      11.379,
+      11.547,
+      11.492,
+      11.285,
+      11.454,
+      11.338,
+      11.349,
+      11.582,
+      11.407,
+      11.335,
+      12.5
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 46,
+      "grade": "D+",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.1455,
+          "points": 65.16666666666667,
+          "weight": 0.22,
+          "note": "14.5% top-line growth",
+          "contribution": 14.3
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.091,
+          "points": 47.75,
+          "weight": 0.24,
+          "note": "9.1% earnings growth",
+          "contribution": 11.5
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0692,
+          "points": 34.599999999999994,
+          "weight": 0.16,
+          "note": "6.9% 3-year CAGR",
+          "contribution": 5.5
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": 0.0024,
+          "points": 46.28571428571428,
+          "weight": 0.14,
+          "note": "expanding margins",
+          "contribution": 6.5
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.57,
+          "points": 52.85714285714285,
+          "weight": 0.1,
+          "note": "capital being put to work",
+          "contribution": 5.3
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 1,
+          "points": 25.0,
+          "weight": 0.18,
+          "note": "1 identified growth catalyst(s)",
+          "contribution": 4.5
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 49,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 3.32,
+          "points": 37.33333333333334,
+          "weight": 0.24,
+          "note": "leveraged",
+          "contribution": 9.0
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.97,
+          "points": 83.57142857142857,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 11.7
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.58,
+          "points": 40.0,
+          "weight": 0.18,
+          "note": "lumpy cash flow",
+          "contribution": 7.2
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.379,
+          "points": 39.76744186046513,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 5.6
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.83,
+          "points": 75.71428571428572,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 9.1
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.62,
+          "points": 45.714285714285715,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 4.6
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.62,
+          "points": 35.0,
+          "weight": 0.18,
+          "note": "macro-exposed",
+          "contribution": 6.3
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 37,
+      "grade": "D",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0153,
+          "points": 25.5,
+          "weight": 0.18,
+          "note": "1.53% yield",
+          "contribution": 4.6
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.25,
+          "points": 54.099999999999994,
+          "weight": 0.2,
+          "note": "25% of earnings paid out",
+          "contribution": 10.8
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 0.76,
+          "points": 11.42857142857143,
+          "weight": 0.22,
+          "note": "thin / uncovered coverage",
+          "contribution": 2.5
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.11,
+          "points": 98.75,
+          "weight": 0.14,
+          "note": "low debt strain",
+          "contribution": 13.8
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 2,
+          "points": 33.33333333333334,
+          "weight": 0.16,
+          "note": "2 cut(s)/miss(es) recently",
+          "contribution": 5.3
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "none",
+          "points": 0.0,
+          "weight": 0.1,
+          "note": "none distribution, 4y streak",
+          "contribution": 0.0
+        }
+      ]
+    },
+    "headline": 45,
+    "headline_grade": "D+",
+    "archetype": "developer",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.1455,
+    "profit_growth": 0.091,
+    "revenue_cagr_3y": 0.0692,
+    "margin_trend": 0.0024,
+    "reinvestment": 0.57,
+    "catalysts": 1,
+    "net_debt_to_ebitda": 3.32,
+    "current_ratio": 1.97,
+    "ocf_consistency": 0.58,
+    "price_volatility": 0.379,
+    "governance_cadence": 0.83,
+    "disclosure_quality": 0.62,
+    "macro_sensitivity": 0.62,
+    "dividend_yield": 0.0153,
+    "payout_ratio": 0.25,
+    "fcf_coverage": 0.76,
+    "net_debt_pressure": 0.11,
+    "cut_history": 2,
+    "frequency": "none",
+    "years_paid": 4
+  },
+  "overview": {
+    "business_summary_en": "Emaar Development is a UAE real-estate developer building and managing residential and commercial property, listed on DFM in the Real Estate sector.",
+    "business_summary_ar": "إعمار للتطوير شركة مدرجة في سوق دبي المالي ضمن قطاع Real Estate.",
+    "index_membership": [
+      "DFM"
+    ],
+    "quick_stats": {
+      "market_cap": 36886000000.0,
+      "volume": 14799305,
+      "high_52w": 13.5,
+      "low_52w": 9.86,
+      "dividend_yield": 0.0153
+    },
+    "top_catalysts": [
+      "Mixed fundamentals; no single pillar stands out"
+    ],
+    "top_risks": [
+      "Execution and macro conditions remain the key swing factors"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "EMAARDEV-0-1780188716",
+      "symbol": "EMAARDEV",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-05-31T00:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 37,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "EMAARDEV-3-1777798316",
+      "symbol": "EMAARDEV",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-05-03T08:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 52,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "EMAARDEV-4-1775188316",
+      "symbol": "EMAARDEV",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-04-03T03:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 26,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "EMAARDEV-2-1774414316",
+      "symbol": "EMAARDEV",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-03-25T04:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 60,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "EMAARDEV-1-1774043516",
+      "symbol": "EMAARDEV",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-03-20T21:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 54,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "EMAARDEV",
+      "kind": "board",
+      "date": "2026-07-09",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMAARDEV",
+      "kind": "agm",
+      "date": "2026-07-28",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMAARDEV",
+      "kind": "board",
+      "date": "2026-03-08",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [],
+  "ownership": {
+    "symbol": "EMAARDEV",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 25.1
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 14.2
+      },
+      {
+        "name": "Free float",
+        "pct": 60.7
+      }
+    ],
+    "foreign_permitted": 49,
+    "foreign_actual": 46.4,
+    "foreign_available": 2.6,
+    "free_float": 60.7,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      7498100000.0,
+      8589000000.0,
+      9838700000.0,
+      11270300000.0,
+      12910100000.0
+    ],
+    "net_income": [
+      1217700000.0,
+      1405200000.0,
+      1621400000.0,
+      1870900000.0,
+      2158600000.0
+    ],
+    "operating_cash_flow": [
+      1307800000.0,
+      1509100000.0,
+      1741400000.0,
+      2009300000.0,
+      2318300000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1672,
+      "net_debt_to_ebitda": 3.32,
+      "current_ratio": 1.97,
+      "payout_ratio": 0.25
+    },
+    "revenue_cagr_3y": 0.0692,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "rates",
+        "label_en": "US / UAE interest rates",
+        "label_ar": "أسعار الفائدة",
+        "unit": "%",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "construction_metals",
+        "label_en": "Steel & aluminium",
+        "label_ar": "الصلب والألمنيوم",
+        "unit": "USD/mt",
+        "wb_series": "ALUMINUM",
+        "latest_value": 2396.1,
+        "latest_change_pct": -0.022
+      },
+      {
+        "key": "population",
+        "label_en": "Population growth",
+        "label_ar": "النمو السكاني",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Federal headline — global macro update 1",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -3.75,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 2",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -4.32,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 3",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T14:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 1.18,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "medium",
+      "reasons": [
+        "Recent disclosure tone skews positive"
+      ],
+      "risks": [
+        "A surprise filing or a sector-wide move could shift the picture quickly"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Mixed fundamentals; no single pillar stands out"
+      ],
+      "risks": [
+        "Execution and macro conditions remain the key swing factors"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 56.8,
+        "reasons": [
+          "Recent disclosure tone skews positive"
+        ],
+        "risks": [
+          "A surprise filing or a sector-wide move could shift the picture quickly"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 45.1,
+        "reasons": [
+          "Mixed fundamentals; no single pillar stands out"
+        ],
+        "risks": [
+          "Execution and macro conditions remain the key swing factors"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

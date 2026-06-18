@@ -1,0 +1,977 @@
+{
+  "symbol": "RAKBANK",
+  "name_en": "National Bank of Ras Al Khaimah",
+  "name_ar": "بنك رأس الخيمة الوطني",
+  "exchange": "ADX",
+  "sector": "Banks",
+  "archetype": "bank",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "RAKBANK",
+    "price": 12.69,
+    "change": 0.43,
+    "change_pct": 0.0349,
+    "volume": 15684896,
+    "market_cap": 43682000000.0,
+    "high_52w": 14.23,
+    "low_52w": 10.73,
+    "spark": [
+      12.072,
+      12.102,
+      12.168,
+      12.07,
+      12.317,
+      12.316,
+      12.132,
+      11.95,
+      11.993,
+      11.919,
+      11.948,
+      12.197,
+      12.318,
+      12.524,
+      12.285,
+      12.345,
+      12.263,
+      12.158,
+      12.421,
+      12.337,
+      12.383,
+      12.457,
+      12.427,
+      12.515,
+      12.733,
+      12.985,
+      13.166,
+      13.18,
+      12.945,
+      12.69
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 84,
+      "grade": "A",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.1819,
+          "points": 77.3,
+          "weight": 0.26,
+          "note": "18.2% top-line growth",
+          "contribution": 20.1
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.2684,
+          "points": 92.10000000000001,
+          "weight": 0.24,
+          "note": "26.8% earnings growth",
+          "contribution": 22.1
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.1626,
+          "points": 81.3,
+          "weight": 0.16,
+          "note": "16.3% 3-year CAGR",
+          "contribution": 13.0
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": 0.0205,
+          "points": 72.14285714285714,
+          "weight": 0.14,
+          "note": "expanding margins",
+          "contribution": 10.1
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.81,
+          "points": 87.14285714285717,
+          "weight": 0.1,
+          "note": "capital being put to work",
+          "contribution": 8.7
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 4,
+          "points": 100.0,
+          "weight": 0.1,
+          "note": "4 identified growth catalyst(s)",
+          "contribution": 10.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 60,
+      "grade": "C+",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 0.82,
+          "points": 92.88888888888889,
+          "weight": 0.08,
+          "note": "conservative balance sheet",
+          "contribution": 7.4
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.63,
+          "points": 59.28571428571426,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 8.3
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.85,
+          "points": 78.57142857142858,
+          "weight": 0.24,
+          "note": "steady cash generation",
+          "contribution": 18.9
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.331,
+          "points": 50.93023255813954,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 7.1
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.51,
+          "points": 30.000000000000004,
+          "weight": 0.18,
+          "note": "irregular cadence",
+          "contribution": 5.4
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.9,
+          "points": 85.71428571428574,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 8.6
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.57,
+          "points": 41.25000000000001,
+          "weight": 0.16,
+          "note": "macro-exposed",
+          "contribution": 6.6
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 68,
+      "grade": "B",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0437,
+          "points": 72.83333333333334,
+          "weight": 0.18,
+          "note": "4.37% yield",
+          "contribution": 13.1
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.43,
+          "points": 84.69999999999999,
+          "weight": 0.2,
+          "note": "43% of earnings paid out",
+          "contribution": 16.9
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.11,
+          "points": 36.42857142857144,
+          "weight": 0.22,
+          "note": "thin / uncovered coverage",
+          "contribution": 8.0
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.43,
+          "points": 58.75000000000001,
+          "weight": 0.14,
+          "note": "debt may pressure payout",
+          "contribution": 8.2
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "annual",
+          "points": 55.0,
+          "weight": 0.1,
+          "note": "annual distribution, 3y streak",
+          "contribution": 5.5
+        }
+      ]
+    },
+    "headline": 72,
+    "headline_grade": "B+",
+    "archetype": "bank",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.1819,
+    "profit_growth": 0.2684,
+    "revenue_cagr_3y": 0.1626,
+    "margin_trend": 0.0205,
+    "reinvestment": 0.81,
+    "catalysts": 4,
+    "net_debt_to_ebitda": 0.82,
+    "current_ratio": 1.63,
+    "ocf_consistency": 0.85,
+    "price_volatility": 0.331,
+    "governance_cadence": 0.51,
+    "disclosure_quality": 0.9,
+    "macro_sensitivity": 0.57,
+    "dividend_yield": 0.0437,
+    "payout_ratio": 0.43,
+    "fcf_coverage": 1.11,
+    "net_debt_pressure": 0.43,
+    "cut_history": 0,
+    "frequency": "annual",
+    "years_paid": 3
+  },
+  "overview": {
+    "business_summary_en": "National Bank of Ras Al Khaimah is a UAE bank offering corporate, retail and Islamic financial services, listed on ADX in the Banks sector.",
+    "business_summary_ar": "بنك رأس الخيمة الوطني شركة مدرجة في سوق أبوظبي ضمن قطاع Banks.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 43682000000.0,
+      "volume": 15684896,
+      "high_52w": 14.23,
+      "low_52w": 10.73,
+      "dividend_yield": 0.0437
+    },
+    "top_catalysts": [
+      "Solid growth profile (Growth 84/100)",
+      "Dependable dividend characteristics (Dividend 68/100)"
+    ],
+    "top_risks": [
+      "Execution and macro conditions remain the key swing factors"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "RAKBANK-8-1781682716",
+      "symbol": "RAKBANK",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-06-17T07:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 16,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "RAKBANK-3-1780966316",
+      "symbol": "RAKBANK",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-06-09T00:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 85,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "RAKBANK-2-1780908716",
+      "symbol": "RAKBANK",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-06-08T08:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 72,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "RAKBANK-1-1780876316",
+      "symbol": "RAKBANK",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-06-07T23:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 51,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "RAKBANK-4-1780462316",
+      "symbol": "RAKBANK",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-06-03T04:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 65,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "RAKBANK-6-1778802716",
+      "symbol": "RAKBANK",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-05-14T23:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 39,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "RAKBANK-0-1777884716",
+      "symbol": "RAKBANK",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-05-04T08:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 78,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "RAKBANK-7-1775458316",
+      "symbol": "RAKBANK",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-04-06T06:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 33,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "RAKBANK-5-1774673516",
+      "symbol": "RAKBANK",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-03-28T04:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 80,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "RAKBANK",
+      "kind": "board",
+      "date": "2026-07-17",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "RAKBANK",
+      "kind": "agm",
+      "date": "2026-08-02",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "RAKBANK",
+      "kind": "board",
+      "date": "2026-03-24",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "RAKBANK",
+      "amount": 0.5546,
+      "currency": "AED",
+      "agm_date": "2026-06-30",
+      "entitlement_date": "2026-07-20",
+      "ex_date": "2026-07-19",
+      "payment_date": "2026-08-09",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "RAKBANK",
+      "amount": 0.5546,
+      "currency": "AED",
+      "agm_date": "2026-05-15",
+      "entitlement_date": "2026-06-02",
+      "ex_date": "2026-06-01",
+      "payment_date": "2026-06-18",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "RAKBANK",
+      "amount": 0.5546,
+      "currency": "AED",
+      "agm_date": "2025-05-11",
+      "entitlement_date": "2025-05-29",
+      "ex_date": "2025-05-28",
+      "payment_date": "2025-06-14",
+      "frequency": "annual",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "RAKBANK",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 53.3
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 16.8
+      },
+      {
+        "name": "Free float",
+        "pct": 29.9
+      }
+    ],
+    "foreign_permitted": 49,
+    "foreign_actual": 10.5,
+    "foreign_available": 38.5,
+    "free_float": 29.9,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      7835200000.0,
+      9260400000.0,
+      10944800000.0,
+      12935700000.0,
+      15288700000.0
+    ],
+    "net_income": [
+      1414200000.0,
+      1766400000.0,
+      2199900000.0,
+      2732700000.0,
+      3386400000.0
+    ],
+    "operating_cash_flow": [
+      1633500000.0,
+      2040200000.0,
+      2540900000.0,
+      3156200000.0,
+      3911300000.0
+    ],
+    "ratios": {
+      "net_margin": 0.2215,
+      "net_debt_to_ebitda": 0.82,
+      "current_ratio": 1.63,
+      "payout_ratio": 0.43
+    },
+    "revenue_cagr_3y": 0.1626,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "rates",
+        "label_en": "US / UAE interest rates",
+        "label_ar": "أسعار الفائدة",
+        "unit": "%",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "uae_credit",
+        "label_en": "UAE credit demand",
+        "label_ar": "الطلب على الائتمان",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "oil",
+        "label_en": "Crude oil (Brent)",
+        "label_ar": "النفط الخام",
+        "unit": "USD/bbl",
+        "wb_series": "CRUDE_BRENT",
+        "latest_value": 77.2,
+        "latest_change_pct": -0.0103
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Federal headline — global macro update 1",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -3.75,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 2",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -4.32,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 3",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T14:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 1.18,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Bullish",
+      "confidence": "high",
+      "reasons": [
+        "Positive price momentum (+3.5% on the session in demo data)",
+        "A high-materiality disclosure (85/100) is in the recent flow",
+        "Recent disclosure tone skews positive"
+      ],
+      "risks": [
+        "A surprise filing or a sector-wide move could shift the picture quickly"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Bullish",
+      "confidence": "medium",
+      "reasons": [
+        "Solid growth profile (Growth 84/100)",
+        "Dependable dividend characteristics (Dividend 68/100)"
+      ],
+      "risks": [
+        "Execution and macro conditions remain the key swing factors"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Bullish",
+        "confidence": "high",
+        "score": 72.7,
+        "reasons": [
+          "Positive price momentum (+3.5% on the session in demo data)",
+          "A high-materiality disclosure (85/100) is in the recent flow",
+          "Recent disclosure tone skews positive"
+        ],
+        "risks": [
+          "A surprise filing or a sector-wide move could shift the picture quickly"
+        ]
+      },
+      "long": {
+        "stance": "Bullish",
+        "confidence": "medium",
+        "score": 71.8,
+        "reasons": [
+          "Solid growth profile (Growth 84/100)",
+          "Dependable dividend characteristics (Dividend 68/100)"
+        ],
+        "risks": [
+          "Execution and macro conditions remain the key swing factors"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

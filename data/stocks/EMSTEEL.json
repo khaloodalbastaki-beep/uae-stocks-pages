@@ -1,0 +1,878 @@
+{
+  "symbol": "EMSTEEL",
+  "name_en": "Emirates Steel Arkan",
+  "name_ar": "الإمارات للحديد والصلب أركان",
+  "exchange": "ADX",
+  "sector": "Industrials",
+  "archetype": "industrials",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "EMSTEEL",
+    "price": 5.83,
+    "change": 0.17,
+    "change_pct": 0.0299,
+    "volume": 35141879,
+    "market_cap": 30291000000.0,
+    "high_52w": 6.61,
+    "low_52w": 4.95,
+    "spark": [
+      5.496,
+      5.548,
+      5.643,
+      5.566,
+      5.643,
+      5.655,
+      5.585,
+      5.69,
+      5.715,
+      5.787,
+      5.871,
+      5.85,
+      5.897,
+      6.003,
+      6.046,
+      5.991,
+      5.883,
+      5.78,
+      5.74,
+      5.844,
+      5.905,
+      5.981,
+      6.069,
+      6.114,
+      6.108,
+      6.124,
+      6.052,
+      5.985,
+      6.088,
+      5.83
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 33,
+      "grade": "D",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.028,
+          "points": 26.0,
+          "weight": 0.26,
+          "note": "2.8% top-line growth",
+          "contribution": 6.8
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.062,
+          "points": 40.5,
+          "weight": 0.24,
+          "note": "6.2% earnings growth",
+          "contribution": 9.7
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0162,
+          "points": 8.1,
+          "weight": 0.16,
+          "note": "1.6% 3-year CAGR",
+          "contribution": 1.3
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": -0.0084,
+          "points": 30.857142857142854,
+          "weight": 0.14,
+          "note": "compressing margins",
+          "contribution": 4.3
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.44,
+          "points": 34.285714285714285,
+          "weight": 0.1,
+          "note": "light reinvestment",
+          "contribution": 3.4
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 3,
+          "points": 75.0,
+          "weight": 0.1,
+          "note": "3 identified growth catalyst(s)",
+          "contribution": 7.5
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 50,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 2.24,
+          "points": 61.33333333333333,
+          "weight": 0.22,
+          "note": "leveraged",
+          "contribution": 13.5
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.17,
+          "points": 26.428571428571416,
+          "weight": 0.14,
+          "note": "tight liquidity",
+          "contribution": 3.7
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.84,
+          "points": 77.14285714285715,
+          "weight": 0.18,
+          "note": "steady cash generation",
+          "contribution": 13.9
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.499,
+          "points": 11.860465116279087,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 1.7
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.86,
+          "points": 80.00000000000001,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 9.6
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.61,
+          "points": 44.28571428571429,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 4.4
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.62,
+          "points": 35.0,
+          "weight": 0.1,
+          "note": "macro-exposed",
+          "contribution": 3.5
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 41,
+      "grade": "D+",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.005,
+          "points": 8.333333333333334,
+          "weight": 0.18,
+          "note": "0.50% yield",
+          "contribution": 1.5
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.72,
+          "points": 66.0,
+          "weight": 0.2,
+          "note": "72% of earnings paid out",
+          "contribution": 13.2
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.09,
+          "points": 35.00000000000001,
+          "weight": 0.22,
+          "note": "thin / uncovered coverage",
+          "contribution": 7.7
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.17,
+          "points": 91.25,
+          "weight": 0.14,
+          "note": "low debt strain",
+          "contribution": 12.8
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 2,
+          "points": 33.33333333333334,
+          "weight": 0.16,
+          "note": "2 cut(s)/miss(es) recently",
+          "contribution": 5.3
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "none",
+          "points": 0.0,
+          "weight": 0.1,
+          "note": "none distribution, 8y streak",
+          "contribution": 0.0
+        }
+      ]
+    },
+    "headline": 41,
+    "headline_grade": "D+",
+    "archetype": "industrials",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.028,
+    "profit_growth": 0.062,
+    "revenue_cagr_3y": 0.0162,
+    "margin_trend": -0.0084,
+    "reinvestment": 0.44,
+    "catalysts": 3,
+    "net_debt_to_ebitda": 2.24,
+    "current_ratio": 1.17,
+    "ocf_consistency": 0.84,
+    "price_volatility": 0.499,
+    "governance_cadence": 0.86,
+    "disclosure_quality": 0.61,
+    "macro_sensitivity": 0.62,
+    "dividend_yield": 0.005,
+    "payout_ratio": 0.72,
+    "fcf_coverage": 1.09,
+    "net_debt_pressure": 0.17,
+    "cut_history": 2,
+    "frequency": "none",
+    "years_paid": 8
+  },
+  "overview": {
+    "business_summary_en": "Emirates Steel Arkan is a UAE industrials / materials company (steel, construction, marine works), listed on ADX in the Industrials sector.",
+    "business_summary_ar": "الإمارات للحديد والصلب أركان شركة مدرجة في سوق أبوظبي ضمن قطاع Industrials.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 30291000000.0,
+      "volume": 35141879,
+      "high_52w": 6.61,
+      "low_52w": 4.95,
+      "dividend_yield": 0.005
+    },
+    "top_catalysts": [
+      "Mixed fundamentals; no single pillar stands out"
+    ],
+    "top_risks": [
+      "Weak growth signal (Growth 33/100)"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "EMSTEEL-2-1780883516",
+      "symbol": "EMSTEEL",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-06-08T01:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 30,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "EMSTEEL-4-1780728716",
+      "symbol": "EMSTEEL",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-06-06T06:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 44,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "EMSTEEL-3-1780113116",
+      "symbol": "EMSTEEL",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-05-30T03:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 42,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "EMSTEEL-0-1780109516",
+      "symbol": "EMSTEEL",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-05-30T02:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 40,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "EMSTEEL-5-1776149516",
+      "symbol": "EMSTEEL",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-04-14T06:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 55,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "EMSTEEL-1-1774428716",
+      "symbol": "EMSTEEL",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-03-25T08:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 40,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "EMSTEEL-6-1774129916",
+      "symbol": "EMSTEEL",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-03-21T21:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 37,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "EMSTEEL",
+      "kind": "board",
+      "date": "2026-07-15",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMSTEEL",
+      "kind": "agm",
+      "date": "2026-07-22",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMSTEEL",
+      "kind": "board",
+      "date": "2026-04-07",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [],
+  "ownership": {
+    "symbol": "EMSTEEL",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 29.2
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 17.4
+      },
+      {
+        "name": "Free float",
+        "pct": 53.4
+      }
+    ],
+    "foreign_permitted": 49,
+    "foreign_actual": 37.3,
+    "foreign_available": 11.7,
+    "free_float": 53.4,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      9493100000.0,
+      9758900000.0,
+      10032200000.0,
+      10313100000.0,
+      10601800000.0
+    ],
+    "net_income": [
+      1439200000.0,
+      1438500000.0,
+      1436600000.0,
+      1433500000.0,
+      1429100000.0
+    ],
+    "operating_cash_flow": [
+      1657900000.0,
+      1657100000.0,
+      1655000000.0,
+      1651400000.0,
+      1646400000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1348,
+      "net_debt_to_ebitda": 2.24,
+      "current_ratio": 1.17,
+      "payout_ratio": 0.72
+    },
+    "revenue_cagr_3y": 0.0162,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "construction_metals",
+        "label_en": "Steel & aluminium",
+        "label_ar": "الصلب والألمنيوم",
+        "unit": "USD/mt",
+        "wb_series": "ALUMINUM",
+        "latest_value": 2396.1,
+        "latest_change_pct": -0.022
+      },
+      {
+        "key": "construction",
+        "label_en": "Construction activity",
+        "label_ar": "نشاط البناء",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "natural_gas",
+        "label_en": "Natural gas",
+        "label_ar": "الغاز الطبيعي",
+        "unit": "USD/mmbtu",
+        "wb_series": "NGAS_EUR",
+        "latest_value": 11.22,
+        "latest_change_pct": -0.024
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Steel headline — global macro update 1",
+        "theme": "ENERGY",
+        "published_at": "2026-06-18T06:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 5.88,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Steel headline — global macro update 2",
+        "theme": "ECON_INTEREST_RATE",
+        "published_at": "2026-06-16T13:51:56+00:00",
+        "domain": "gulfnews.com",
+        "url": null,
+        "tone": 4.46,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Steel headline — global macro update 3",
+        "theme": "MARITIME",
+        "published_at": "2026-06-17T20:51:56+00:00",
+        "domain": "reuters.com",
+        "url": null,
+        "tone": 3.34,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Steel headline — global macro update 4",
+        "theme": "ECON_INTEREST_RATE",
+        "published_at": "2026-06-16T14:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 4.16,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "medium",
+      "reasons": [
+        "Positive price momentum (+3.0% on the session in demo data)",
+        "Recent disclosure tone skews positive"
+      ],
+      "risks": [
+        "A surprise filing or a sector-wide move could shift the picture quickly"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Cautious",
+      "confidence": "low",
+      "reasons": [
+        "Mixed fundamentals; no single pillar stands out"
+      ],
+      "risks": [
+        "Weak growth signal (Growth 33/100)"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 63.6,
+        "reasons": [
+          "Positive price momentum (+3.0% on the session in demo data)",
+          "Recent disclosure tone skews positive"
+        ],
+        "risks": [
+          "A surprise filing or a sector-wide move could shift the picture quickly"
+        ]
+      },
+      "long": {
+        "stance": "Cautious",
+        "confidence": "low",
+        "score": 40.9,
+        "reasons": [
+          "Mixed fundamentals; no single pillar stands out"
+        ],
+        "risks": [
+          "Weak growth signal (Growth 33/100)"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

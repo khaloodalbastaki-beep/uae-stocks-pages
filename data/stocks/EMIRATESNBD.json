@@ -1,0 +1,878 @@
+{
+  "symbol": "EMIRATESNBD",
+  "name_en": "Emirates NBD",
+  "name_ar": "بنك الإمارات دبي الوطني",
+  "exchange": "DFM",
+  "sector": "Banks",
+  "archetype": "bank",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "EMIRATESNBD",
+    "price": 23.04,
+    "change": 0.04,
+    "change_pct": 0.0019,
+    "volume": 8529721,
+    "market_cap": 151542000000.0,
+    "high_52w": 25.25,
+    "low_52w": 19.57,
+    "spark": [
+      22.561,
+      22.315,
+      21.989,
+      22.083,
+      21.75,
+      22.095,
+      22.103,
+      22.448,
+      22.211,
+      22.379,
+      21.965,
+      22.104,
+      22.092,
+      22.53,
+      22.88,
+      23.381,
+      23.094,
+      22.941,
+      22.647,
+      22.469,
+      22.55,
+      22.793,
+      23.148,
+      22.862,
+      22.924,
+      22.547,
+      22.625,
+      22.504,
+      22.746,
+      23.04
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 81,
+      "grade": "A",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.1851,
+          "points": 78.36666666666666,
+          "weight": 0.26,
+          "note": "18.5% top-line growth",
+          "contribution": 20.4
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.2244,
+          "points": 81.10000000000001,
+          "weight": 0.24,
+          "note": "22.4% earnings growth",
+          "contribution": 19.5
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.1814,
+          "points": 90.7,
+          "weight": 0.16,
+          "note": "18.1% 3-year CAGR",
+          "contribution": 14.5
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": 0.025,
+          "points": 78.57142857142857,
+          "weight": 0.14,
+          "note": "expanding margins",
+          "contribution": 11.0
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.78,
+          "points": 82.85714285714288,
+          "weight": 0.1,
+          "note": "capital being put to work",
+          "contribution": 8.3
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 3,
+          "points": 75.0,
+          "weight": 0.1,
+          "note": "3 identified growth catalyst(s)",
+          "contribution": 7.5
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 55,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 1.15,
+          "points": 85.55555555555556,
+          "weight": 0.08,
+          "note": "conservative balance sheet",
+          "contribution": 6.8
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.63,
+          "points": 59.28571428571426,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 8.3
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.77,
+          "points": 67.14285714285715,
+          "weight": 0.24,
+          "note": "steady cash generation",
+          "contribution": 16.1
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.389,
+          "points": 37.441860465116285,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 5.2
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.73,
+          "points": 61.42857142857143,
+          "weight": 0.18,
+          "note": "regular board/AGM rhythm",
+          "contribution": 11.1
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.68,
+          "points": 54.28571428571429,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 5.4
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.69,
+          "points": 26.25,
+          "weight": 0.16,
+          "note": "macro-exposed",
+          "contribution": 4.2
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 70,
+      "grade": "B",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0701,
+          "points": 93.94,
+          "weight": 0.18,
+          "note": "7.01% yield",
+          "contribution": 16.9
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.56,
+          "points": 93.19999999999999,
+          "weight": 0.2,
+          "note": "56% of earnings paid out",
+          "contribution": 18.6
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.21,
+          "points": 43.57142857142857,
+          "weight": 0.22,
+          "note": "comfortably covered",
+          "contribution": 9.6
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.68,
+          "points": 27.499999999999986,
+          "weight": 0.14,
+          "note": "debt may pressure payout",
+          "contribution": 3.8
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "annual",
+          "points": 55.0,
+          "weight": 0.1,
+          "note": "annual distribution, 4y streak",
+          "contribution": 5.5
+        }
+      ]
+    },
+    "headline": 69,
+    "headline_grade": "B",
+    "archetype": "bank",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.1851,
+    "profit_growth": 0.2244,
+    "revenue_cagr_3y": 0.1814,
+    "margin_trend": 0.025,
+    "reinvestment": 0.78,
+    "catalysts": 3,
+    "net_debt_to_ebitda": 1.15,
+    "current_ratio": 1.63,
+    "ocf_consistency": 0.77,
+    "price_volatility": 0.389,
+    "governance_cadence": 0.73,
+    "disclosure_quality": 0.68,
+    "macro_sensitivity": 0.69,
+    "dividend_yield": 0.0701,
+    "payout_ratio": 0.56,
+    "fcf_coverage": 1.21,
+    "net_debt_pressure": 0.68,
+    "cut_history": 0,
+    "frequency": "annual",
+    "years_paid": 4
+  },
+  "overview": {
+    "business_summary_en": "Emirates NBD is a UAE bank offering corporate, retail and Islamic financial services, listed on DFM in the Banks sector.",
+    "business_summary_ar": "بنك الإمارات دبي الوطني شركة مدرجة في سوق دبي المالي ضمن قطاع Banks.",
+    "index_membership": [
+      "DFM"
+    ],
+    "quick_stats": {
+      "market_cap": 151542000000.0,
+      "volume": 8529721,
+      "high_52w": 25.25,
+      "low_52w": 19.57,
+      "dividend_yield": 0.0701
+    },
+    "top_catalysts": [
+      "Solid growth profile (Growth 81/100)",
+      "Dependable dividend characteristics (Dividend 70/100)"
+    ],
+    "top_risks": [
+      "High sensitivity to commodity / macro swings"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "EMIRATESNBD-2-1781412716",
+      "symbol": "EMIRATESNBD",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-06-14T04:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 89,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "EMIRATESNBD-1-1781135516",
+      "symbol": "EMIRATESNBD",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-06-10T23:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 57,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "EMIRATESNBD-0-1780386716",
+      "symbol": "EMIRATESNBD",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-06-02T07:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 68,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "EMIRATESNBD-4-1776563516",
+      "symbol": "EMIRATESNBD",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-04-19T01:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 69,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "EMIRATESNBD-3-1775706716",
+      "symbol": "EMIRATESNBD",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-04-09T03:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 27,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "EMIRATESNBD",
+      "kind": "board",
+      "date": "2026-06-29",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMIRATESNBD",
+      "kind": "agm",
+      "date": "2026-08-22",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMIRATESNBD",
+      "kind": "board",
+      "date": "2026-05-08",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "EMIRATESNBD",
+      "amount": 1.6151,
+      "currency": "AED",
+      "agm_date": "2026-07-22",
+      "entitlement_date": "2026-08-11",
+      "ex_date": "2026-08-10",
+      "payment_date": "2026-08-31",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMIRATESNBD",
+      "amount": 1.6151,
+      "currency": "AED",
+      "agm_date": "2026-05-15",
+      "entitlement_date": "2026-06-02",
+      "ex_date": "2026-06-01",
+      "payment_date": "2026-06-18",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "EMIRATESNBD",
+      "amount": 1.6151,
+      "currency": "AED",
+      "agm_date": "2025-05-27",
+      "entitlement_date": "2025-06-14",
+      "ex_date": "2025-06-13",
+      "payment_date": "2025-06-30",
+      "frequency": "annual",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "EMIRATESNBD",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 24.7
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 5.2
+      },
+      {
+        "name": "Free float",
+        "pct": 70.1
+      }
+    ],
+    "foreign_permitted": 40,
+    "foreign_actual": 20.8,
+    "foreign_available": 19.2,
+    "free_float": 70.1,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      26889400000.0,
+      31866600000.0,
+      37765100000.0,
+      44755500000.0,
+      53039700000.0
+    ],
+    "net_income": [
+      4974500000.0,
+      6293700000.0,
+      7930700000.0,
+      9958100000.0,
+      12464300000.0
+    ],
+    "operating_cash_flow": [
+      5626200000.0,
+      7118100000.0,
+      8969600000.0,
+      11262600000.0,
+      14097200000.0
+    ],
+    "ratios": {
+      "net_margin": 0.235,
+      "net_debt_to_ebitda": 1.15,
+      "current_ratio": 1.63,
+      "payout_ratio": 0.56
+    },
+    "revenue_cagr_3y": 0.1814,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "rates",
+        "label_en": "US / UAE interest rates",
+        "label_ar": "أسعار الفائدة",
+        "unit": "%",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "usd",
+        "label_en": "US dollar (AED peg)",
+        "label_ar": "الدولار الأمريكي",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "uae_credit",
+        "label_en": "UAE credit demand",
+        "label_ar": "الطلب على الائتمان",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "tourism",
+        "label_en": "Tourism & visitors",
+        "label_ar": "السياحة",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Federal headline — global macro update 1",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -3.75,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 2",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -4.32,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 3",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T14:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 1.18,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "medium",
+      "reasons": [
+        "A high-materiality disclosure (89/100) is in the recent flow"
+      ],
+      "risks": [
+        "Recent disclosure tone skews cautious/negative"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Bullish",
+      "confidence": "medium",
+      "reasons": [
+        "Solid growth profile (Growth 81/100)",
+        "Dependable dividend characteristics (Dividend 70/100)"
+      ],
+      "risks": [
+        "High sensitivity to commodity / macro swings"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 47.2,
+        "reasons": [
+          "A high-materiality disclosure (89/100) is in the recent flow"
+        ],
+        "risks": [
+          "Recent disclosure tone skews cautious/negative"
+        ]
+      },
+      "long": {
+        "stance": "Bullish",
+        "confidence": "medium",
+        "score": 69.2,
+        "reasons": [
+          "Solid growth profile (Growth 81/100)",
+          "Dependable dividend characteristics (Dividend 70/100)"
+        ],
+        "risks": [
+          "High sensitivity to commodity / macro swings"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

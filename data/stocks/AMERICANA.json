@@ -1,0 +1,953 @@
+{
+  "symbol": "AMERICANA",
+  "name_en": "Americana Restaurants",
+  "name_ar": "أمريكانا",
+  "exchange": "ADX",
+  "sector": "Consumer",
+  "archetype": "consumer",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "AMERICANA",
+    "price": 2.89,
+    "change": -0.06,
+    "change_pct": -0.0217,
+    "volume": 35245065,
+    "market_cap": 11996000000.0,
+    "high_52w": 3.19,
+    "low_52w": 2.46,
+    "spark": [
+      2.873,
+      2.819,
+      2.809,
+      2.815,
+      2.863,
+      2.862,
+      2.871,
+      2.87,
+      2.896,
+      2.957,
+      2.916,
+      2.907,
+      2.868,
+      2.863,
+      2.816,
+      2.772,
+      2.737,
+      2.785,
+      2.756,
+      2.792,
+      2.748,
+      2.804,
+      2.823,
+      2.829,
+      2.886,
+      2.836,
+      2.78,
+      2.791,
+      2.791,
+      2.89
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 39,
+      "grade": "D",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.0301,
+          "points": 26.700000000000003,
+          "weight": 0.26,
+          "note": "3.0% top-line growth",
+          "contribution": 6.9
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.0034,
+          "points": 25.85,
+          "weight": 0.24,
+          "note": "0.3% earnings growth",
+          "contribution": 6.2
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0343,
+          "points": 17.15,
+          "weight": 0.16,
+          "note": "3.4% 3-year CAGR",
+          "contribution": 2.7
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": 0.0083,
+          "points": 54.714285714285715,
+          "weight": 0.14,
+          "note": "expanding margins",
+          "contribution": 7.7
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.6,
+          "points": 57.14285714285714,
+          "weight": 0.1,
+          "note": "capital being put to work",
+          "contribution": 5.7
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 4,
+          "points": 100.0,
+          "weight": 0.1,
+          "note": "4 identified growth catalyst(s)",
+          "contribution": 10.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 54,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 1.27,
+          "points": 82.88888888888889,
+          "weight": 0.22,
+          "note": "conservative balance sheet",
+          "contribution": 18.2
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.52,
+          "points": 51.42857142857142,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 7.2
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.69,
+          "points": 55.714285714285715,
+          "weight": 0.18,
+          "note": "lumpy cash flow",
+          "contribution": 10.0
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.454,
+          "points": 22.325581395348834,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 3.1
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.59,
+          "points": 41.42857142857142,
+          "weight": 0.12,
+          "note": "irregular cadence",
+          "contribution": 5.0
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.62,
+          "points": 45.714285714285715,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 4.6
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.46,
+          "points": 55.00000000000001,
+          "weight": 0.1,
+          "note": "macro-exposed",
+          "contribution": 5.5
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 67,
+      "grade": "B",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0,
+          "points": 0.0,
+          "weight": 0.18,
+          "note": "0.00% yield",
+          "contribution": 0.0
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.7,
+          "points": 69.4,
+          "weight": 0.2,
+          "note": "70% of earnings paid out",
+          "contribution": 13.9
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.95,
+          "points": 96.42857142857144,
+          "weight": 0.22,
+          "note": "comfortably covered",
+          "contribution": 21.2
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.43,
+          "points": 58.75000000000001,
+          "weight": 0.14,
+          "note": "debt may pressure payout",
+          "contribution": 8.2
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "semi",
+          "points": 75.0,
+          "weight": 0.1,
+          "note": "semi distribution, 0y streak",
+          "contribution": 7.5
+        }
+      ]
+    },
+    "headline": 51,
+    "headline_grade": "C",
+    "archetype": "consumer",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.0301,
+    "profit_growth": 0.0034,
+    "revenue_cagr_3y": 0.0343,
+    "margin_trend": 0.0083,
+    "reinvestment": 0.6,
+    "catalysts": 4,
+    "net_debt_to_ebitda": 1.27,
+    "current_ratio": 1.52,
+    "ocf_consistency": 0.69,
+    "price_volatility": 0.454,
+    "governance_cadence": 0.59,
+    "disclosure_quality": 0.62,
+    "macro_sensitivity": 0.46,
+    "dividend_yield": 0.0,
+    "payout_ratio": 0.7,
+    "fcf_coverage": 1.95,
+    "net_debt_pressure": 0.43,
+    "cut_history": 0,
+    "frequency": "semi",
+    "years_paid": 0
+  },
+  "overview": {
+    "business_summary_en": "Americana Restaurants is a UAE consumer / food-services business, listed on ADX in the Consumer sector.",
+    "business_summary_ar": "أمريكانا شركة مدرجة في سوق أبوظبي ضمن قطاع Consumer.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 11996000000.0,
+      "volume": 35245065,
+      "high_52w": 3.19,
+      "low_52w": 2.46,
+      "dividend_yield": 0.0
+    },
+    "top_catalysts": [
+      "Dependable dividend characteristics (Dividend 67/100)"
+    ],
+    "top_risks": [
+      "Weak growth signal (Growth 39/100)"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "AMERICANA-6-1780987916",
+      "symbol": "AMERICANA",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-06-09T06:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 47,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "AMERICANA-7-1780721516",
+      "symbol": "AMERICANA",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-06-06T04:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 61,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "AMERICANA-4-1777261916",
+      "symbol": "AMERICANA",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-04-27T03:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 64,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "AMERICANA-0-1776743516",
+      "symbol": "AMERICANA",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-04-21T03:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 50,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "AMERICANA-1-1775944316",
+      "symbol": "AMERICANA",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-04-11T21:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 48,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "AMERICANA-3-1775361116",
+      "symbol": "AMERICANA",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-04-05T03:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 52,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "AMERICANA-5-1775087516",
+      "symbol": "AMERICANA",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-04-01T23:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 66,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "AMERICANA-2-1774669916",
+      "symbol": "AMERICANA",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-03-28T03:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 29,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "AMERICANA-8-1774403516",
+      "symbol": "AMERICANA",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-03-25T01:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 88,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "AMERICANA",
+      "kind": "board",
+      "date": "2026-07-08",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "AMERICANA",
+      "kind": "agm",
+      "date": "2026-08-10",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "AMERICANA",
+      "kind": "board",
+      "date": "2026-04-03",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [],
+  "ownership": {
+    "symbol": "AMERICANA",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 48.5
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 17.5
+      },
+      {
+        "name": "Free float",
+        "pct": 34.0
+      }
+    ],
+    "foreign_permitted": 49,
+    "foreign_actual": 35.5,
+    "foreign_available": 13.5,
+    "free_float": 34.0,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      3729000000.0,
+      3841200000.0,
+      3956800000.0,
+      4075900000.0,
+      4198600000.0
+    ],
+    "net_income": [
+      627600000.0,
+      662400000.0,
+      698800000.0,
+      736700000.0,
+      776300000.0
+    ],
+    "operating_cash_flow": [
+      694700000.0,
+      733300000.0,
+      773500000.0,
+      815600000.0,
+      859400000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1849,
+      "net_debt_to_ebitda": 1.27,
+      "current_ratio": 1.52,
+      "payout_ratio": 0.7
+    },
+    "revenue_cagr_3y": 0.0343,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "wheat",
+        "label_en": "Wheat",
+        "label_ar": "القمح",
+        "unit": "USD/mt",
+        "wb_series": "WHEAT_US_HRW",
+        "latest_value": 242.82,
+        "latest_change_pct": -0.0089
+      },
+      {
+        "key": "chicken",
+        "label_en": "Poultry / feed",
+        "label_ar": "الدواجن والأعلاف",
+        "unit": "USD/kg",
+        "wb_series": "CHICKEN",
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "consumer_demand",
+        "label_en": "Consumer spending",
+        "label_ar": "الإنفاق الاستهلاكي",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "tourism",
+        "label_en": "Tourism & visitors",
+        "label_ar": "السياحة",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Wheat headline — global macro update 1",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T10:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 0.79,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Wheat headline — global macro update 2",
+        "theme": "TOURISM",
+        "published_at": "2026-06-18T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -0.42,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Wheat headline — global macro update 3",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-15T16:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -5.45,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Wheat headline — global macro update 4",
+        "theme": "TRADE",
+        "published_at": "2026-06-17T13:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": 0.02,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Wheat headline — global macro update 5",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T10:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": -3.44,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Recent disclosure tone skews positive"
+      ],
+      "risks": [
+        "Negative price momentum (-2.2% on the session in demo data)"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Dependable dividend characteristics (Dividend 67/100)"
+      ],
+      "risks": [
+        "Weak growth signal (Growth 39/100)"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 49.2,
+        "reasons": [
+          "Recent disclosure tone skews positive"
+        ],
+        "risks": [
+          "Negative price momentum (-2.2% on the session in demo data)"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 50.6,
+        "reasons": [
+          "Dependable dividend characteristics (Dividend 67/100)"
+        ],
+        "risks": [
+          "Weak growth signal (Growth 39/100)"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

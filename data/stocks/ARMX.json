@@ -1,0 +1,977 @@
+{
+  "symbol": "ARMX",
+  "name_en": "Aramex",
+  "name_ar": "أرامكس",
+  "exchange": "DFM",
+  "sector": "Logistics & Transport",
+  "archetype": "logistics",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "ARMX",
+    "price": 3.23,
+    "change": -0.1,
+    "change_pct": -0.0286,
+    "volume": 12022239,
+    "market_cap": 16186000000.0,
+    "high_52w": 3.68,
+    "low_52w": 2.8,
+    "spark": [
+      3.109,
+      3.115,
+      3.163,
+      3.142,
+      3.161,
+      3.222,
+      3.167,
+      3.168,
+      3.201,
+      3.177,
+      3.197,
+      3.261,
+      3.294,
+      3.257,
+      3.297,
+      3.287,
+      3.257,
+      3.197,
+      3.22,
+      3.186,
+      3.226,
+      3.286,
+      3.34,
+      3.365,
+      3.332,
+      3.335,
+      3.285,
+      3.354,
+      3.41,
+      3.23
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 33,
+      "grade": "D",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.0111,
+          "points": 20.36666666666667,
+          "weight": 0.26,
+          "note": "1.1% top-line growth",
+          "contribution": 5.3
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": -0.0269,
+          "points": 18.275,
+          "weight": 0.24,
+          "note": "-2.7% earnings growth",
+          "contribution": 4.4
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0087,
+          "points": 4.35,
+          "weight": 0.16,
+          "note": "0.9% 3-year CAGR",
+          "contribution": 0.7
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": -0.0093,
+          "points": 29.57142857142857,
+          "weight": 0.14,
+          "note": "compressing margins",
+          "contribution": 4.1
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.82,
+          "points": 88.57142857142856,
+          "weight": 0.1,
+          "note": "capital being put to work",
+          "contribution": 8.9
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 4,
+          "points": 100.0,
+          "weight": 0.1,
+          "note": "4 identified growth catalyst(s)",
+          "contribution": 10.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 48,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 3.95,
+          "points": 23.33333333333333,
+          "weight": 0.22,
+          "note": "leveraged",
+          "contribution": 5.1
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 0.96,
+          "points": 11.428571428571422,
+          "weight": 0.14,
+          "note": "tight liquidity",
+          "contribution": 1.6
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.59,
+          "points": 41.42857142857142,
+          "weight": 0.18,
+          "note": "lumpy cash flow",
+          "contribution": 7.5
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.156,
+          "points": 91.62790697674419,
+          "weight": 0.14,
+          "note": "low volatility",
+          "contribution": 12.8
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.86,
+          "points": 80.00000000000001,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 9.6
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.62,
+          "points": 45.714285714285715,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 4.6
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.32,
+          "points": 72.5,
+          "weight": 0.1,
+          "note": "macro-insulated",
+          "contribution": 7.2
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 73,
+      "grade": "B+",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0314,
+          "points": 52.33333333333333,
+          "weight": 0.18,
+          "note": "3.14% yield",
+          "contribution": 9.4
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.56,
+          "points": 93.19999999999999,
+          "weight": 0.2,
+          "note": "56% of earnings paid out",
+          "contribution": 18.6
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.46,
+          "points": 61.42857142857143,
+          "weight": 0.22,
+          "note": "comfortably covered",
+          "contribution": 13.5
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.36,
+          "points": 67.5,
+          "weight": 0.14,
+          "note": "low debt strain",
+          "contribution": 9.5
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "annual",
+          "points": 55.0,
+          "weight": 0.1,
+          "note": "annual distribution, 2y streak",
+          "contribution": 5.5
+        }
+      ]
+    },
+    "headline": 48,
+    "headline_grade": "C",
+    "archetype": "logistics",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.0111,
+    "profit_growth": -0.0269,
+    "revenue_cagr_3y": 0.0087,
+    "margin_trend": -0.0093,
+    "reinvestment": 0.82,
+    "catalysts": 4,
+    "net_debt_to_ebitda": 3.95,
+    "current_ratio": 0.96,
+    "ocf_consistency": 0.59,
+    "price_volatility": 0.156,
+    "governance_cadence": 0.86,
+    "disclosure_quality": 0.62,
+    "macro_sensitivity": 0.32,
+    "dividend_yield": 0.0314,
+    "payout_ratio": 0.56,
+    "fcf_coverage": 1.46,
+    "net_debt_pressure": 0.36,
+    "cut_history": 0,
+    "frequency": "annual",
+    "years_paid": 2
+  },
+  "overview": {
+    "business_summary_en": "Aramex is a UAE logistics and transport operator, listed on DFM in the Logistics & Transport sector.",
+    "business_summary_ar": "أرامكس شركة مدرجة في سوق دبي المالي ضمن قطاع Logistics & Transport.",
+    "index_membership": [
+      "DFM"
+    ],
+    "quick_stats": {
+      "market_cap": 16186000000.0,
+      "volume": 12022239,
+      "high_52w": 3.68,
+      "low_52w": 2.8,
+      "dividend_yield": 0.0314
+    },
+    "top_catalysts": [
+      "Dependable dividend characteristics (Dividend 73/100)"
+    ],
+    "top_risks": [
+      "Weak growth signal (Growth 33/100)"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "ARMX-1-1781419916",
+      "symbol": "ARMX",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-06-14T06:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 67,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ARMX-5-1781077916",
+      "symbol": "ARMX",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-06-10T07:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 27,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ARMX-6-1779756716",
+      "symbol": "ARMX",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-05-26T00:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 91,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ARMX-2-1778741516",
+      "symbol": "ARMX",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-05-14T06:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 60,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ARMX-3-1777081916",
+      "symbol": "ARMX",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-04-25T01:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 50,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ARMX-4-1777017116",
+      "symbol": "ARMX",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-04-24T07:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 43,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ARMX-0-1775461916",
+      "symbol": "ARMX",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-04-06T07:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 89,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "ARMX",
+      "kind": "board",
+      "date": "2026-07-09",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ARMX",
+      "kind": "agm",
+      "date": "2026-07-20",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ARMX",
+      "kind": "board",
+      "date": "2026-04-11",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "ARMX",
+      "amount": 0.1014,
+      "currency": "AED",
+      "agm_date": "2026-07-20",
+      "entitlement_date": "2026-08-09",
+      "ex_date": "2026-08-08",
+      "payment_date": "2026-08-29",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ARMX",
+      "amount": 0.1014,
+      "currency": "AED",
+      "agm_date": "2026-05-17",
+      "entitlement_date": "2026-06-04",
+      "ex_date": "2026-06-03",
+      "payment_date": "2026-06-20",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ARMX",
+      "amount": 0.1014,
+      "currency": "AED",
+      "agm_date": "2025-05-10",
+      "entitlement_date": "2025-05-28",
+      "ex_date": "2025-05-27",
+      "payment_date": "2025-06-13",
+      "frequency": "annual",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "ARMX",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 62.3
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 19.7
+      },
+      {
+        "name": "Free float",
+        "pct": 18.0
+      }
+    ],
+    "foreign_permitted": 49,
+    "foreign_actual": 44.1,
+    "foreign_available": 4.9,
+    "free_float": 18.0,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      5420400000.0,
+      5480600000.0,
+      5541400000.0,
+      5602900000.0,
+      5665100000.0
+    ],
+    "net_income": [
+      816900000.0,
+      800400000.0,
+      783600000.0,
+      766200000.0,
+      748400000.0
+    ],
+    "operating_cash_flow": [
+      879800000.0,
+      862100000.0,
+      843900000.0,
+      825200000.0,
+      806000000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1321,
+      "net_debt_to_ebitda": 3.95,
+      "current_ratio": 0.96,
+      "payout_ratio": 0.56
+    },
+    "revenue_cagr_3y": 0.0087,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "freight",
+        "label_en": "Freight & shipping rates",
+        "label_ar": "أسعار الشحن",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "trade",
+        "label_en": "Trade flows",
+        "label_ar": "التجارة",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "fuel_demand",
+        "label_en": "Fuel demand",
+        "label_ar": "الطلب على الوقود",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "ecommerce",
+        "label_en": "E-commerce volume",
+        "label_ar": "التجارة الإلكترونية",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Shipping headline — global macro update 1",
+        "theme": "ECON_INTEREST_RATE",
+        "published_at": "2026-06-16T20:51:56+00:00",
+        "domain": "gulfnews.com",
+        "url": null,
+        "tone": 3.19,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Shipping headline — global macro update 2",
+        "theme": "ECON_INTEREST_RATE",
+        "published_at": "2026-06-17T11:51:56+00:00",
+        "domain": "gulfnews.com",
+        "url": null,
+        "tone": 0.38,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Shipping headline — global macro update 3",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T16:51:56+00:00",
+        "domain": "reuters.com",
+        "url": null,
+        "tone": -3.36,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Shipping headline — global macro update 4",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T20:51:56+00:00",
+        "domain": "gulfnews.com",
+        "url": null,
+        "tone": 1.65,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Shipping headline — global macro update 5",
+        "theme": "MARITIME",
+        "published_at": "2026-06-17T01:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 1.15,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Shipping headline — global macro update 6",
+        "theme": "ENERGY",
+        "published_at": "2026-06-16T16:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": 2.1,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "medium",
+      "reasons": [
+        "A high-materiality disclosure (91/100) is in the recent flow"
+      ],
+      "risks": [
+        "Negative price momentum (-2.9% on the session in demo data)",
+        "Recent disclosure tone skews cautious/negative"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Dependable dividend characteristics (Dividend 73/100)"
+      ],
+      "risks": [
+        "Weak growth signal (Growth 33/100)"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 42.3,
+        "reasons": [
+          "A high-materiality disclosure (91/100) is in the recent flow"
+        ],
+        "risks": [
+          "Negative price momentum (-2.9% on the session in demo data)",
+          "Recent disclosure tone skews cautious/negative"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 47.2,
+        "reasons": [
+          "Dependable dividend characteristics (Dividend 73/100)"
+        ],
+        "risks": [
+          "Weak growth signal (Growth 33/100)"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

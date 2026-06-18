@@ -1,0 +1,850 @@
+{
+  "symbol": "JULPHAR",
+  "name_en": "Gulf Pharmaceutical Industries (Julphar)",
+  "name_ar": "الخليج للصناعات الدوائية (جلفار)",
+  "exchange": "ADX",
+  "sector": "Healthcare",
+  "archetype": "healthcare",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "JULPHAR",
+    "price": 3.47,
+    "change": -0.05,
+    "change_pct": -0.0142,
+    "volume": 19583214,
+    "market_cap": 22960000000.0,
+    "high_52w": 3.97,
+    "low_52w": 2.97,
+    "spark": [
+      3.415,
+      3.39,
+      3.406,
+      3.416,
+      3.428,
+      3.502,
+      3.56,
+      3.614,
+      3.597,
+      3.571,
+      3.608,
+      3.657,
+      3.68,
+      3.659,
+      3.628,
+      3.588,
+      3.625,
+      3.564,
+      3.528,
+      3.47,
+      3.443,
+      3.398,
+      3.343,
+      3.299,
+      3.324,
+      3.386,
+      3.409,
+      3.422,
+      3.409,
+      3.47
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 62,
+      "grade": "C+",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.2078,
+          "points": 85.93333333333335,
+          "weight": 0.26,
+          "note": "20.8% top-line growth",
+          "contribution": 22.3
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.2271,
+          "points": 81.77499999999999,
+          "weight": 0.24,
+          "note": "22.7% earnings growth",
+          "contribution": 19.6
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.1483,
+          "points": 74.14999999999999,
+          "weight": 0.16,
+          "note": "14.8% 3-year CAGR",
+          "contribution": 11.9
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": -0.014,
+          "points": 22.857142857142858,
+          "weight": 0.14,
+          "note": "compressing margins",
+          "contribution": 3.2
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.39,
+          "points": 27.142857142857146,
+          "weight": 0.1,
+          "note": "light reinvestment",
+          "contribution": 2.7
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 1,
+          "points": 25.0,
+          "weight": 0.1,
+          "note": "1 identified growth catalyst(s)",
+          "contribution": 2.5
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 56,
+      "grade": "C+",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 0.92,
+          "points": 90.66666666666667,
+          "weight": 0.22,
+          "note": "conservative balance sheet",
+          "contribution": 19.9
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.06,
+          "points": 18.57142857142857,
+          "weight": 0.14,
+          "note": "tight liquidity",
+          "contribution": 2.6
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.67,
+          "points": 52.85714285714287,
+          "weight": 0.18,
+          "note": "lumpy cash flow",
+          "contribution": 9.5
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.334,
+          "points": 50.23255813953488,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 7.0
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.89,
+          "points": 84.28571428571429,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 10.1
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.71,
+          "points": 58.57142857142858,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 5.9
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.79,
+          "points": 13.75,
+          "weight": 0.1,
+          "note": "macro-exposed",
+          "contribution": 1.4
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 69,
+      "grade": "B",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0452,
+          "points": 75.33333333333333,
+          "weight": 0.18,
+          "note": "4.52% yield",
+          "contribution": 13.6
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.46,
+          "points": 89.8,
+          "weight": 0.2,
+          "note": "46% of earnings paid out",
+          "contribution": 18.0
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.01,
+          "points": 29.28571428571429,
+          "weight": 0.22,
+          "note": "thin / uncovered coverage",
+          "contribution": 6.4
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.33,
+          "points": 71.25,
+          "weight": 0.14,
+          "note": "low debt strain",
+          "contribution": 10.0
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "annual",
+          "points": 55.0,
+          "weight": 0.1,
+          "note": "annual distribution, 4y streak",
+          "contribution": 5.5
+        }
+      ]
+    },
+    "headline": 62,
+    "headline_grade": "C+",
+    "archetype": "healthcare",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.2078,
+    "profit_growth": 0.2271,
+    "revenue_cagr_3y": 0.1483,
+    "margin_trend": -0.014,
+    "reinvestment": 0.39,
+    "catalysts": 1,
+    "net_debt_to_ebitda": 0.92,
+    "current_ratio": 1.06,
+    "ocf_consistency": 0.67,
+    "price_volatility": 0.334,
+    "governance_cadence": 0.89,
+    "disclosure_quality": 0.71,
+    "macro_sensitivity": 0.79,
+    "dividend_yield": 0.0452,
+    "payout_ratio": 0.46,
+    "fcf_coverage": 1.01,
+    "net_debt_pressure": 0.33,
+    "cut_history": 0,
+    "frequency": "annual",
+    "years_paid": 4
+  },
+  "overview": {
+    "business_summary_en": "Gulf Pharmaceutical Industries (Julphar) is a UAE healthcare provider, listed on ADX in the Healthcare sector.",
+    "business_summary_ar": "الخليج للصناعات الدوائية (جلفار) شركة مدرجة في سوق أبوظبي ضمن قطاع Healthcare.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 22960000000.0,
+      "volume": 19583214,
+      "high_52w": 3.97,
+      "low_52w": 2.97,
+      "dividend_yield": 0.0452
+    },
+    "top_catalysts": [
+      "Solid growth profile (Growth 62/100)",
+      "Dependable dividend characteristics (Dividend 69/100)"
+    ],
+    "top_risks": [
+      "High sensitivity to commodity / macro swings"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "JULPHAR-1-1779227516",
+      "symbol": "JULPHAR",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-05-19T21:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 24,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "JULPHAR-2-1778719916",
+      "symbol": "JULPHAR",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-05-14T00:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 16,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "JULPHAR-3-1777949516",
+      "symbol": "JULPHAR",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-05-05T02:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 19,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "JULPHAR-0-1777758716",
+      "symbol": "JULPHAR",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-05-02T21:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 21,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "JULPHAR",
+      "kind": "board",
+      "date": "2026-07-17",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "JULPHAR",
+      "kind": "agm",
+      "date": "2026-08-06",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "JULPHAR",
+      "kind": "board",
+      "date": "2026-05-05",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "JULPHAR",
+      "amount": 0.1568,
+      "currency": "AED",
+      "agm_date": "2026-07-02",
+      "entitlement_date": "2026-07-22",
+      "ex_date": "2026-07-21",
+      "payment_date": "2026-08-11",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "JULPHAR",
+      "amount": 0.1568,
+      "currency": "AED",
+      "agm_date": "2026-05-27",
+      "entitlement_date": "2026-06-14",
+      "ex_date": "2026-06-13",
+      "payment_date": "2026-06-30",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "JULPHAR",
+      "amount": 0.1568,
+      "currency": "AED",
+      "agm_date": "2025-05-22",
+      "entitlement_date": "2025-06-09",
+      "ex_date": "2025-06-08",
+      "payment_date": "2025-06-25",
+      "frequency": "annual",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "JULPHAR",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 50.5
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 18.6
+      },
+      {
+        "name": "Free float",
+        "pct": 30.9
+      }
+    ],
+    "foreign_permitted": 100,
+    "foreign_actual": 66.9,
+    "foreign_available": 33.1,
+    "free_float": 30.9,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      3776200000.0,
+      4560900000.0,
+      5508700000.0,
+      6653400000.0,
+      8036000000.0
+    ],
+    "net_income": [
+      551300000.0,
+      634000000.0,
+      727100000.0,
+      831700000.0,
+      948200000.0
+    ],
+    "operating_cash_flow": [
+      607000000.0,
+      698000000.0,
+      800600000.0,
+      915700000.0,
+      1044000000.0
+    ],
+    "ratios": {
+      "net_margin": 0.118,
+      "net_debt_to_ebitda": 0.92,
+      "current_ratio": 1.06,
+      "payout_ratio": 0.46
+    },
+    "revenue_cagr_3y": 0.1483,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "health_spend",
+        "label_en": "Healthcare spend",
+        "label_ar": "الإنفاق الصحي",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "population",
+        "label_en": "Population growth",
+        "label_ar": "النمو السكاني",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Healthcare headline — global macro update 1",
+        "theme": "ECON_INTEREST_RATE",
+        "published_at": "2026-06-18T04:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": -2.24,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Healthcare headline — global macro update 2",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T10:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -2.28,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Healthcare headline — global macro update 3",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T15:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -0.09,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Healthcare headline — global macro update 4",
+        "theme": "ENERGY",
+        "published_at": "2026-06-16T21:51:56+00:00",
+        "domain": "reuters.com",
+        "url": null,
+        "tone": 3.21,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Recent disclosure tone skews positive"
+      ],
+      "risks": [
+        "Negative price momentum (-1.4% on the session in demo data)"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Solid growth profile (Growth 62/100)",
+        "Dependable dividend characteristics (Dividend 69/100)"
+      ],
+      "risks": [
+        "High sensitivity to commodity / macro swings"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 46.6,
+        "reasons": [
+          "Recent disclosure tone skews positive"
+        ],
+        "risks": [
+          "Negative price momentum (-1.4% on the session in demo data)"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 61.4,
+        "reasons": [
+          "Solid growth profile (Growth 62/100)",
+          "Dependable dividend characteristics (Dividend 69/100)"
+        ],
+        "risks": [
+          "High sensitivity to commodity / macro swings"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

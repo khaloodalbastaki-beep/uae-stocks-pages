@@ -1,0 +1,897 @@
+{
+  "symbol": "DEWA",
+  "name_en": "Dubai Electricity & Water Authority",
+  "name_ar": "ديوا",
+  "exchange": "DFM",
+  "sector": "Utilities",
+  "archetype": "utility",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "DEWA",
+    "price": 2.65,
+    "change": 0.03,
+    "change_pct": 0.013,
+    "volume": 27828195,
+    "market_cap": 9971000000.0,
+    "high_52w": 2.86,
+    "low_52w": 2.23,
+    "spark": [
+      2.535,
+      2.519,
+      2.555,
+      2.519,
+      2.563,
+      2.543,
+      2.503,
+      2.54,
+      2.518,
+      2.569,
+      2.569,
+      2.523,
+      2.576,
+      2.586,
+      2.578,
+      2.561,
+      2.572,
+      2.566,
+      2.517,
+      2.475,
+      2.521,
+      2.533,
+      2.498,
+      2.542,
+      2.578,
+      2.56,
+      2.552,
+      2.568,
+      2.551,
+      2.65
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 29,
+      "grade": "D",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.0349,
+          "points": 28.300000000000004,
+          "weight": 0.2,
+          "note": "3.5% top-line growth",
+          "contribution": 5.7
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.0742,
+          "points": 43.550000000000004,
+          "weight": 0.24,
+          "note": "7.4% earnings growth",
+          "contribution": 10.5
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0325,
+          "points": 16.25,
+          "weight": 0.16,
+          "note": "3.2% 3-year CAGR",
+          "contribution": 2.6
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": -0.0197,
+          "points": 14.714285714285714,
+          "weight": 0.14,
+          "note": "compressing margins",
+          "contribution": 2.1
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.34,
+          "points": 20.000000000000004,
+          "weight": 0.1,
+          "note": "light reinvestment",
+          "contribution": 2.0
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 2,
+          "points": 50.0,
+          "weight": 0.06,
+          "note": "2 identified growth catalyst(s)",
+          "contribution": 3.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 68,
+      "grade": "B",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 0.8,
+          "points": 93.33333333333333,
+          "weight": 0.22,
+          "note": "conservative balance sheet",
+          "contribution": 20.5
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.07,
+          "points": 19.285714285714285,
+          "weight": 0.14,
+          "note": "tight liquidity",
+          "contribution": 2.7
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.92,
+          "points": 88.57142857142858,
+          "weight": 0.18,
+          "note": "steady cash generation",
+          "contribution": 15.9
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.219,
+          "points": 76.97674418604652,
+          "weight": 0.14,
+          "note": "low volatility",
+          "contribution": 10.8
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.84,
+          "points": 77.14285714285715,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 9.3
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.79,
+          "points": 70.0,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 7.0
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.78,
+          "points": 15.0,
+          "weight": 0.1,
+          "note": "macro-exposed",
+          "contribution": 1.5
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 76,
+      "grade": "B+",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0741,
+          "points": 91.53999999999999,
+          "weight": 0.2,
+          "note": "7.41% yield",
+          "contribution": 18.3
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.63,
+          "points": 81.3,
+          "weight": 0.2,
+          "note": "63% of earnings paid out",
+          "contribution": 16.3
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.52,
+          "points": 65.71428571428572,
+          "weight": 0.26,
+          "note": "comfortably covered",
+          "contribution": 17.1
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.3,
+          "points": 75.0,
+          "weight": 0.14,
+          "note": "low debt strain",
+          "contribution": 10.5
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 1,
+          "points": 66.66666666666667,
+          "weight": 0.16,
+          "note": "1 cut(s)/miss(es) recently",
+          "contribution": 10.7
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "semi",
+          "points": 75.0,
+          "weight": 0.1,
+          "note": "semi distribution, 7y streak",
+          "contribution": 7.5
+        }
+      ]
+    },
+    "headline": 54,
+    "headline_grade": "C",
+    "archetype": "utility",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.0349,
+    "profit_growth": 0.0742,
+    "revenue_cagr_3y": 0.0325,
+    "margin_trend": -0.0197,
+    "reinvestment": 0.34,
+    "catalysts": 2,
+    "net_debt_to_ebitda": 0.8,
+    "current_ratio": 1.07,
+    "ocf_consistency": 0.92,
+    "price_volatility": 0.219,
+    "governance_cadence": 0.84,
+    "disclosure_quality": 0.79,
+    "macro_sensitivity": 0.78,
+    "dividend_yield": 0.0741,
+    "payout_ratio": 0.63,
+    "fcf_coverage": 1.52,
+    "net_debt_pressure": 0.3,
+    "cut_history": 1,
+    "frequency": "semi",
+    "years_paid": 7
+  },
+  "overview": {
+    "business_summary_en": "Dubai Electricity & Water Authority is a UAE utility providing power, water or cooling infrastructure, listed on DFM in the Utilities sector.",
+    "business_summary_ar": "ديوا شركة مدرجة في سوق دبي المالي ضمن قطاع Utilities.",
+    "index_membership": [
+      "DFM"
+    ],
+    "quick_stats": {
+      "market_cap": 9971000000.0,
+      "volume": 27828195,
+      "high_52w": 2.86,
+      "low_52w": 2.23,
+      "dividend_yield": 0.0741
+    },
+    "top_catalysts": [
+      "Resilient balance sheet / stability (Stability 68/100)",
+      "Dependable dividend characteristics (Dividend 76/100)"
+    ],
+    "top_risks": [
+      "Weak growth signal (Growth 29/100)",
+      "High sensitivity to commodity / macro swings"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "DEWA-2-1780710716",
+      "symbol": "DEWA",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-06-06T01:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 50,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "DEWA-1-1780537916",
+      "symbol": "DEWA",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-06-04T01:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 83,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "DEWA-0-1776156716",
+      "symbol": "DEWA",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-04-14T08:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 38,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "DEWA-3-1774237916",
+      "symbol": "DEWA",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-03-23T03:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 45,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "DEWA",
+      "kind": "board",
+      "date": "2026-07-03",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "DEWA",
+      "kind": "agm",
+      "date": "2026-08-03",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "DEWA",
+      "kind": "board",
+      "date": "2026-03-02",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "DEWA",
+      "amount": 0.0982,
+      "currency": "AED",
+      "agm_date": "2026-07-18",
+      "entitlement_date": "2026-08-07",
+      "ex_date": "2026-08-06",
+      "payment_date": "2026-08-27",
+      "frequency": "semi",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "DEWA",
+      "amount": 0.0982,
+      "currency": "AED",
+      "agm_date": "2026-05-18",
+      "entitlement_date": "2026-06-05",
+      "ex_date": "2026-06-04",
+      "payment_date": "2026-06-21",
+      "frequency": "semi",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "DEWA",
+      "amount": 0.0982,
+      "currency": "AED",
+      "agm_date": "2025-11-22",
+      "entitlement_date": "2025-12-10",
+      "ex_date": "2025-12-09",
+      "payment_date": "2025-12-26",
+      "frequency": "semi",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "DEWA",
+      "amount": 0.0982,
+      "currency": "AED",
+      "agm_date": "2025-05-21",
+      "entitlement_date": "2025-06-08",
+      "ex_date": "2025-06-07",
+      "payment_date": "2025-06-24",
+      "frequency": "semi",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "DEWA",
+      "amount": 0.0982,
+      "currency": "AED",
+      "agm_date": "2024-11-13",
+      "entitlement_date": "2024-12-01",
+      "ex_date": "2024-11-30",
+      "payment_date": "2024-12-17",
+      "frequency": "semi",
+      "fiscal_year": "2024",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "DEWA",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 63.0
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 17.5
+      },
+      {
+        "name": "Free float",
+        "pct": 19.5
+      }
+    ],
+    "foreign_permitted": 40,
+    "foreign_actual": 38.5,
+    "foreign_available": 1.5,
+    "free_float": 19.5,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      3042400000.0,
+      3148600000.0,
+      3258400000.0,
+      3372200000.0,
+      3489800000.0
+    ],
+    "net_income": [
+      426800000.0,
+      410700000.0,
+      393000000.0,
+      373500000.0,
+      352100000.0
+    ],
+    "operating_cash_flow": [
+      502000000.0,
+      483000000.0,
+      462100000.0,
+      439200000.0,
+      414100000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1009,
+      "net_debt_to_ebitda": 0.8,
+      "current_ratio": 1.07,
+      "payout_ratio": 0.63
+    },
+    "revenue_cagr_3y": 0.0325,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "rates",
+        "label_en": "US / UAE interest rates",
+        "label_ar": "أسعار الفائدة",
+        "unit": "%",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "natural_gas",
+        "label_en": "Natural gas",
+        "label_ar": "الغاز الطبيعي",
+        "unit": "USD/mmbtu",
+        "wb_series": "NGAS_EUR",
+        "latest_value": 11.22,
+        "latest_change_pct": -0.024
+      },
+      {
+        "key": "population",
+        "label_en": "Population growth",
+        "label_ar": "النمو السكاني",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "power_demand",
+        "label_en": "Power & cooling demand",
+        "label_ar": "الطلب على الطاقة",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Federal headline — global macro update 1",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -3.75,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 2",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -4.32,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 3",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T14:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 1.18,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "high",
+      "reasons": [
+        "Positive price momentum (+1.3% on the session in demo data)",
+        "A high-materiality disclosure (83/100) is in the recent flow",
+        "Recent disclosure tone skews positive"
+      ],
+      "risks": [
+        "A surprise filing or a sector-wide move could shift the picture quickly"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Resilient balance sheet / stability (Stability 68/100)",
+        "Dependable dividend characteristics (Dividend 76/100)"
+      ],
+      "risks": [
+        "Weak growth signal (Growth 29/100)",
+        "High sensitivity to commodity / macro swings"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "high",
+        "score": 63.9,
+        "reasons": [
+          "Positive price momentum (+1.3% on the session in demo data)",
+          "A high-materiality disclosure (83/100) is in the recent flow",
+          "Recent disclosure tone skews positive"
+        ],
+        "risks": [
+          "A surprise filing or a sector-wide move could shift the picture quickly"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 53.4,
+        "reasons": [
+          "Resilient balance sheet / stability (Stability 68/100)",
+          "Dependable dividend characteristics (Dividend 76/100)"
+        ],
+        "risks": [
+          "Weak growth signal (Growth 29/100)",
+          "High sensitivity to commodity / macro swings"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

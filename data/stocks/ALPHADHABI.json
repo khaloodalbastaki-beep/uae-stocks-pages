@@ -1,0 +1,946 @@
+{
+  "symbol": "ALPHADHABI",
+  "name_en": "Alpha Dhabi Holding",
+  "name_ar": "ألفا ظبي القابضة",
+  "exchange": "ADX",
+  "sector": "Holding / Diversified",
+  "archetype": "holding",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "ALPHADHABI",
+    "price": 12.93,
+    "change": 0.43,
+    "change_pct": 0.0348,
+    "volume": 26881778,
+    "market_cap": 57310000000.0,
+    "high_52w": 13.96,
+    "low_52w": 10.41,
+    "spark": [
+      11.998,
+      11.97,
+      11.832,
+      12.081,
+      12.165,
+      12.197,
+      12.436,
+      12.364,
+      12.192,
+      12.4,
+      12.185,
+      12.13,
+      12.105,
+      11.963,
+      11.86,
+      12.092,
+      12.04,
+      11.958,
+      11.915,
+      11.822,
+      11.876,
+      11.854,
+      11.643,
+      11.769,
+      11.568,
+      11.759,
+      11.939,
+      12.137,
+      12.246,
+      12.93
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 57,
+      "grade": "C+",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.138,
+          "points": 62.66666666666667,
+          "weight": 0.26,
+          "note": "13.8% top-line growth",
+          "contribution": 16.3
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.1478,
+          "points": 61.949999999999996,
+          "weight": 0.24,
+          "note": "14.8% earnings growth",
+          "contribution": 14.9
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.1601,
+          "points": 80.04999999999998,
+          "weight": 0.16,
+          "note": "16.0% 3-year CAGR",
+          "contribution": 12.8
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": -0.0039,
+          "points": 37.28571428571428,
+          "weight": 0.14,
+          "note": "compressing margins",
+          "contribution": 5.2
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.57,
+          "points": 52.85714285714285,
+          "weight": 0.1,
+          "note": "capital being put to work",
+          "contribution": 5.3
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 1,
+          "points": 25.0,
+          "weight": 0.1,
+          "note": "1 identified growth catalyst(s)",
+          "contribution": 2.5
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 54,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 3.45,
+          "points": 34.44444444444444,
+          "weight": 0.22,
+          "note": "leveraged",
+          "contribution": 7.6
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.64,
+          "points": 59.999999999999986,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 8.4
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.91,
+          "points": 87.14285714285717,
+          "weight": 0.18,
+          "note": "steady cash generation",
+          "contribution": 15.7
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.433,
+          "points": 27.209302325581405,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 3.8
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.58,
+          "points": 40.0,
+          "weight": 0.12,
+          "note": "irregular cadence",
+          "contribution": 4.8
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.85,
+          "points": 78.57142857142858,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 7.9
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.42,
+          "points": 60.00000000000001,
+          "weight": 0.1,
+          "note": "macro-exposed",
+          "contribution": 6.0
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 45,
+      "grade": "D+",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0,
+          "points": 0.0,
+          "weight": 0.18,
+          "note": "0.00% yield",
+          "contribution": 0.0
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.75,
+          "points": 60.900000000000006,
+          "weight": 0.2,
+          "note": "75% of earnings paid out",
+          "contribution": 12.2
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 0.99,
+          "points": 27.857142857142858,
+          "weight": 0.22,
+          "note": "thin / uncovered coverage",
+          "contribution": 6.1
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.58,
+          "points": 40.0,
+          "weight": 0.14,
+          "note": "debt may pressure payout",
+          "contribution": 5.6
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "annual",
+          "points": 55.0,
+          "weight": 0.1,
+          "note": "annual distribution, 0y streak",
+          "contribution": 5.5
+        }
+      ]
+    },
+    "headline": 53,
+    "headline_grade": "C",
+    "archetype": "holding",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.138,
+    "profit_growth": 0.1478,
+    "revenue_cagr_3y": 0.1601,
+    "margin_trend": -0.0039,
+    "reinvestment": 0.57,
+    "catalysts": 1,
+    "net_debt_to_ebitda": 3.45,
+    "current_ratio": 1.64,
+    "ocf_consistency": 0.91,
+    "price_volatility": 0.433,
+    "governance_cadence": 0.58,
+    "disclosure_quality": 0.85,
+    "macro_sensitivity": 0.42,
+    "dividend_yield": 0.0,
+    "payout_ratio": 0.75,
+    "fcf_coverage": 0.99,
+    "net_debt_pressure": 0.58,
+    "cut_history": 0,
+    "frequency": "annual",
+    "years_paid": 0
+  },
+  "overview": {
+    "business_summary_en": "Alpha Dhabi Holding is a UAE diversified holding company with interests across multiple sectors, listed on ADX in the Holding / Diversified sector.",
+    "business_summary_ar": "ألفا ظبي القابضة شركة مدرجة في سوق أبوظبي ضمن قطاع Holding / Diversified.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 57310000000.0,
+      "volume": 26881778,
+      "high_52w": 13.96,
+      "low_52w": 10.41,
+      "dividend_yield": 0.0
+    },
+    "top_catalysts": [
+      "Mixed fundamentals; no single pillar stands out"
+    ],
+    "top_risks": [
+      "Execution and macro conditions remain the key swing factors"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "ALPHADHABI-4-1781686316",
+      "symbol": "ALPHADHABI",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-06-17T08:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 59,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ALPHADHABI-3-1779670316",
+      "symbol": "ALPHADHABI",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-05-25T00:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 86,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ALPHADHABI-6-1779234716",
+      "symbol": "ALPHADHABI",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-05-19T23:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 61,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ALPHADHABI-8-1778921516",
+      "symbol": "ALPHADHABI",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-05-16T08:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 43,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ALPHADHABI-7-1777762316",
+      "symbol": "ALPHADHABI",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-05-02T22:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 49,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ALPHADHABI-1-1776894716",
+      "symbol": "ALPHADHABI",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-04-22T21:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 85,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ALPHADHABI-5-1776574316",
+      "symbol": "ALPHADHABI",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-04-19T04:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 44,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ALPHADHABI-2-1774230716",
+      "symbol": "ALPHADHABI",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-03-23T01:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 42,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ALPHADHABI-0-1774155116",
+      "symbol": "ALPHADHABI",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-03-22T04:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 21,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "ALPHADHABI",
+      "kind": "board",
+      "date": "2026-07-15",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ALPHADHABI",
+      "kind": "agm",
+      "date": "2026-07-21",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ALPHADHABI",
+      "kind": "board",
+      "date": "2025-12-08",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [],
+  "ownership": {
+    "symbol": "ALPHADHABI",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 39.8
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 12.0
+      },
+      {
+        "name": "Free float",
+        "pct": 48.2
+      }
+    ],
+    "foreign_permitted": 40,
+    "foreign_actual": 19.7,
+    "foreign_available": 20.3,
+    "free_float": 48.2,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      11960000000.0,
+      13610400000.0,
+      15488700000.0,
+      17626100000.0,
+      20058500000.0
+    ],
+    "net_income": [
+      1866900000.0,
+      2098000000.0,
+      2357400000.0,
+      2648300000.0,
+      2974700000.0
+    ],
+    "operating_cash_flow": [
+      2189900000.0,
+      2461000000.0,
+      2765200000.0,
+      3106500000.0,
+      3489300000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1483,
+      "net_debt_to_ebitda": 3.45,
+      "current_ratio": 1.64,
+      "payout_ratio": 0.75
+    },
+    "revenue_cagr_3y": 0.1601,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "uae_equity",
+        "label_en": "UAE equity market",
+        "label_ar": "سوق الأسهم الإماراتي",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "construction",
+        "label_en": "Construction activity",
+        "label_ar": "نشاط البناء",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "rates",
+        "label_en": "US / UAE interest rates",
+        "label_ar": "أسعار الفائدة",
+        "unit": "%",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Uae headline — global macro update 1",
+        "theme": "MARITIME",
+        "published_at": "2026-06-18T07:51:56+00:00",
+        "domain": "reuters.com",
+        "url": null,
+        "tone": -3.59,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 2",
+        "theme": "TOURISM",
+        "published_at": "2026-06-15T20:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -2.92,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 3",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T08:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 1.7,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 4",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T12:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -0.29,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 5",
+        "theme": "TOURISM",
+        "published_at": "2026-06-17T16:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 0.65,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "high",
+      "reasons": [
+        "Positive price momentum (+3.5% on the session in demo data)",
+        "A high-materiality disclosure (86/100) is in the recent flow"
+      ],
+      "risks": [
+        "A surprise filing or a sector-wide move could shift the picture quickly"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Mixed fundamentals; no single pillar stands out"
+      ],
+      "risks": [
+        "Execution and macro conditions remain the key swing factors"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "high",
+        "score": 64.8,
+        "reasons": [
+          "Positive price momentum (+3.5% on the session in demo data)",
+          "A high-materiality disclosure (86/100) is in the recent flow"
+        ],
+        "risks": [
+          "A surprise filing or a sector-wide move could shift the picture quickly"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 53.3,
+        "reasons": [
+          "Mixed fundamentals; no single pillar stands out"
+        ],
+        "risks": [
+          "Execution and macro conditions remain the key swing factors"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

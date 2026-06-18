@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-06-18T08:51:56+00:00",
+  "data_version": 1,
+  "provider": "mock",
+  "ai_provider": "stub",
+  "counts": {
+    "securities": 54,
+    "events": 148
+  },
+  "market_status": {
+    "state": "open",
+    "label_en": "Markets open",
+    "label_ar": "السوق مفتوح",
+    "note_en": "Showing latest available data.",
+    "circulars": [],
+    "as_of": "2026-06-18T08:51:56+00:00"
+  },
+  "disclaimers": {
+    "general": "UAE Stocks Intelligence is an information and research-support tool. It is NOT investment advice, a recommendation, or a solicitation. Data may be delayed and is shown for demonstration unless a licensed feed is connected.",
+    "ai": "AI Analysis is app-generated research support produced by an explainable model. House scores are computed by a deterministic engine, not by the AI. This is not personalised financial advice. Under the UAE SCA framework, only registered parties may give financial recommendations.",
+    "arabic": "Where a document's source language is Arabic, the Arabic text is the official version; English is an app-generated translation provided for convenience.",
+    "data": "Official exchange and issuer sources rank first; media second; opinion last. Every item carries its source and timestamp. Real-time/redistributed market data requires a licensed agreement with the exchange or an authorised vendor."
+  },
+  "sources": [
+    {
+      "name": "ADX",
+      "type": "official",
+      "url": "https://www.adx.ae"
+    },
+    {
+      "name": "DFM",
+      "type": "official",
+      "url": "https://www.dfm.ae"
+    },
+    {
+      "name": "Nasdaq Dubai",
+      "type": "official",
+      "url": "https://www.nasdaqdubai.com"
+    },
+    {
+      "name": "WAM",
+      "type": "media",
+      "url": "https://www.wam.ae"
+    },
+    {
+      "name": "World Bank Commodities",
+      "type": "official",
+      "url": "https://www.worldbank.org/en/research/commodity-markets"
+    },
+    {
+      "name": "GDELT",
+      "type": "media",
+      "url": "https://www.gdeltproject.org"
+    }
+  ]
+}

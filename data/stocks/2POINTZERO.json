@@ -1,0 +1,1007 @@
+{
+  "symbol": "2POINTZERO",
+  "name_en": "Two Point Zero Group",
+  "name_ar": "مجموعة تو بوينت زيرو",
+  "exchange": "ADX",
+  "sector": "Holding / Diversified",
+  "archetype": "holding",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "2POINTZERO",
+    "price": 10.49,
+    "change": 0.29,
+    "change_pct": 0.0287,
+    "volume": 27590109,
+    "market_cap": 94153000000.0,
+    "high_52w": 11.33,
+    "low_52w": 8.25,
+    "spark": [
+      10.26,
+      10.335,
+      10.187,
+      10.345,
+      10.146,
+      9.946,
+      9.992,
+      9.847,
+      9.889,
+      9.733,
+      9.867,
+      9.684,
+      9.806,
+      9.976,
+      9.994,
+      9.957,
+      10.141,
+      10.002,
+      9.92,
+      9.766,
+      9.611,
+      9.45,
+      9.288,
+      9.242,
+      9.214,
+      9.386,
+      9.317,
+      9.25,
+      9.171,
+      10.49
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 9,
+      "grade": "D",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": -0.0385,
+          "points": 3.8333333333333344,
+          "weight": 0.26,
+          "note": "-3.9% top-line growth",
+          "contribution": 1.0
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": -0.0398,
+          "points": 15.049999999999999,
+          "weight": 0.24,
+          "note": "-4.0% earnings growth",
+          "contribution": 3.6
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0,
+          "points": 0.0,
+          "weight": 0.16,
+          "note": "0.0% 3-year CAGR",
+          "contribution": 0.0
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": -0.0192,
+          "points": 15.428571428571427,
+          "weight": 0.14,
+          "note": "compressing margins",
+          "contribution": 2.2
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.35,
+          "points": 21.428571428571423,
+          "weight": 0.1,
+          "note": "light reinvestment",
+          "contribution": 2.1
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 0,
+          "points": 0.0,
+          "weight": 0.1,
+          "note": "0 identified growth catalyst(s)",
+          "contribution": 0.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 54,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 0.65,
+          "points": 96.66666666666667,
+          "weight": 0.22,
+          "note": "conservative balance sheet",
+          "contribution": 21.3
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.69,
+          "points": 63.571428571428555,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 8.9
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.53,
+          "points": 32.85714285714286,
+          "weight": 0.18,
+          "note": "lumpy cash flow",
+          "contribution": 5.9
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.486,
+          "points": 14.88372093023257,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 2.1
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.51,
+          "points": 30.000000000000004,
+          "weight": 0.12,
+          "note": "irregular cadence",
+          "contribution": 3.6
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.59,
+          "points": 41.42857142857142,
+          "weight": 0.1,
+          "note": "patchy disclosure",
+          "contribution": 4.1
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.22,
+          "points": 85.0,
+          "weight": 0.1,
+          "note": "macro-insulated",
+          "contribution": 8.5
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 66,
+      "grade": "B",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0215,
+          "points": 35.833333333333336,
+          "weight": 0.18,
+          "note": "2.15% yield",
+          "contribution": 6.5
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.25,
+          "points": 54.099999999999994,
+          "weight": 0.2,
+          "note": "25% of earnings paid out",
+          "contribution": 10.8
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 2.18,
+          "points": 100.0,
+          "weight": 0.22,
+          "note": "comfortably covered",
+          "contribution": 22.0
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.71,
+          "points": 23.75,
+          "weight": 0.14,
+          "note": "debt may pressure payout",
+          "contribution": 3.3
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "semi",
+          "points": 75.0,
+          "weight": 0.1,
+          "note": "semi distribution, 0y streak",
+          "contribution": 7.5
+        }
+      ]
+    },
+    "headline": 39,
+    "headline_grade": "D",
+    "archetype": "holding",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": -0.0385,
+    "profit_growth": -0.0398,
+    "revenue_cagr_3y": 0.0,
+    "margin_trend": -0.0192,
+    "reinvestment": 0.35,
+    "catalysts": 0,
+    "net_debt_to_ebitda": 0.65,
+    "current_ratio": 1.69,
+    "ocf_consistency": 0.53,
+    "price_volatility": 0.486,
+    "governance_cadence": 0.51,
+    "disclosure_quality": 0.59,
+    "macro_sensitivity": 0.22,
+    "dividend_yield": 0.0215,
+    "payout_ratio": 0.25,
+    "fcf_coverage": 2.18,
+    "net_debt_pressure": 0.71,
+    "cut_history": 0,
+    "frequency": "semi",
+    "years_paid": 0
+  },
+  "overview": {
+    "business_summary_en": "Two Point Zero Group is a UAE diversified holding company with interests across multiple sectors, listed on ADX in the Holding / Diversified sector.",
+    "business_summary_ar": "مجموعة تو بوينت زيرو شركة مدرجة في سوق أبوظبي ضمن قطاع Holding / Diversified.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 94153000000.0,
+      "volume": 27590109,
+      "high_52w": 11.33,
+      "low_52w": 8.25,
+      "dividend_yield": 0.0215
+    },
+    "top_catalysts": [
+      "Dependable dividend characteristics (Dividend 66/100)"
+    ],
+    "top_risks": [
+      "Weak growth signal (Growth 9/100)"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "2POINTZERO-1-1781311916",
+      "symbol": "2POINTZERO",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-06-13T00:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 67,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "2POINTZERO-5-1781218316",
+      "symbol": "2POINTZERO",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-06-11T22:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 50,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "2POINTZERO-6-1780105916",
+      "symbol": "2POINTZERO",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-05-30T01:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 38,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "2POINTZERO-3-1779418316",
+      "symbol": "2POINTZERO",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-05-22T02:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 31,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "2POINTZERO-7-1779087116",
+      "symbol": "2POINTZERO",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-05-18T06:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 37,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "2POINTZERO-4-1778989916",
+      "symbol": "2POINTZERO",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-05-17T03:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 65,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "2POINTZERO-0-1778565116",
+      "symbol": "2POINTZERO",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-05-12T05:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 35,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "2POINTZERO-2-1776131516",
+      "symbol": "2POINTZERO",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-04-14T01:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 57,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "2POINTZERO",
+      "kind": "board",
+      "date": "2026-07-14",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "2POINTZERO",
+      "kind": "agm",
+      "date": "2026-07-14",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "2POINTZERO",
+      "kind": "board",
+      "date": "2025-12-20",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "2POINTZERO",
+      "amount": 0.1128,
+      "currency": "AED",
+      "agm_date": "2026-06-24",
+      "entitlement_date": "2026-07-14",
+      "ex_date": "2026-07-13",
+      "payment_date": "2026-08-03",
+      "frequency": "semi",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "2POINTZERO",
+      "amount": 0.1128,
+      "currency": "AED",
+      "agm_date": "2026-05-18",
+      "entitlement_date": "2026-06-05",
+      "ex_date": "2026-06-04",
+      "payment_date": "2026-06-21",
+      "frequency": "semi",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "2POINTZERO",
+      "amount": 0.1128,
+      "currency": "AED",
+      "agm_date": "2025-11-10",
+      "entitlement_date": "2025-11-28",
+      "ex_date": "2025-11-27",
+      "payment_date": "2025-12-14",
+      "frequency": "semi",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "2POINTZERO",
+      "amount": 0.1128,
+      "currency": "AED",
+      "agm_date": "2025-05-13",
+      "entitlement_date": "2025-05-31",
+      "ex_date": "2025-05-30",
+      "payment_date": "2025-06-16",
+      "frequency": "semi",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "2POINTZERO",
+      "amount": 0.1128,
+      "currency": "AED",
+      "agm_date": "2024-11-13",
+      "entitlement_date": "2024-12-01",
+      "ex_date": "2024-11-30",
+      "payment_date": "2024-12-17",
+      "frequency": "semi",
+      "fiscal_year": "2024",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "2POINTZERO",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 29.8
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 5.2
+      },
+      {
+        "name": "Free float",
+        "pct": 65.0
+      }
+    ],
+    "foreign_permitted": 100,
+    "foreign_actual": 51.9,
+    "foreign_available": 48.1,
+    "free_float": 65.0,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      38557200000.0,
+      37072700000.0,
+      35645400000.0,
+      34273100000.0,
+      32953500000.0
+    ],
+    "net_income": [
+      5428800000.0,
+      4863900000.0,
+      4334500000.0,
+      3838600000.0,
+      3374400000.0
+    ],
+    "operating_cash_flow": [
+      5749200000.0,
+      5150900000.0,
+      4590200000.0,
+      4065100000.0,
+      3573500000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1024,
+      "net_debt_to_ebitda": 0.65,
+      "current_ratio": 1.69,
+      "payout_ratio": 0.25
+    },
+    "revenue_cagr_3y": 0.0,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "uae_equity",
+        "label_en": "UAE equity market",
+        "label_ar": "سوق الأسهم الإماراتي",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "consumer",
+        "label_en": "consumer",
+        "label_ar": "consumer",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Uae headline — global macro update 1",
+        "theme": "MARITIME",
+        "published_at": "2026-06-18T07:51:56+00:00",
+        "domain": "reuters.com",
+        "url": null,
+        "tone": -3.59,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 2",
+        "theme": "TOURISM",
+        "published_at": "2026-06-15T20:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -2.92,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 3",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T08:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 1.7,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 4",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T12:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -0.29,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 5",
+        "theme": "TOURISM",
+        "published_at": "2026-06-17T16:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 0.65,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "medium",
+      "reasons": [
+        "Positive price momentum (+2.9% on the session in demo data)",
+        "Recent disclosure tone skews positive"
+      ],
+      "risks": [
+        "A surprise filing or a sector-wide move could shift the picture quickly"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Cautious",
+      "confidence": "medium",
+      "reasons": [
+        "Dependable dividend characteristics (Dividend 66/100)"
+      ],
+      "risks": [
+        "Weak growth signal (Growth 9/100)"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 62.6,
+        "reasons": [
+          "Positive price momentum (+2.9% on the session in demo data)",
+          "Recent disclosure tone skews positive"
+        ],
+        "risks": [
+          "A surprise filing or a sector-wide move could shift the picture quickly"
+        ]
+      },
+      "long": {
+        "stance": "Cautious",
+        "confidence": "medium",
+        "score": 37.7,
+        "reasons": [
+          "Dependable dividend characteristics (Dividend 66/100)"
+        ],
+        "risks": [
+          "Weak growth signal (Growth 9/100)"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

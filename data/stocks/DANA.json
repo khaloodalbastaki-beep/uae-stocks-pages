@@ -1,0 +1,1021 @@
+{
+  "symbol": "DANA",
+  "name_en": "Dana Gas",
+  "name_ar": "دانة غاز",
+  "exchange": "ADX",
+  "sector": "Energy",
+  "archetype": "energy",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "DANA",
+    "price": 8.75,
+    "change": 0.01,
+    "change_pct": 0.001,
+    "volume": 35041577,
+    "market_cap": 32769000000.0,
+    "high_52w": 9.9,
+    "low_52w": 7.65,
+    "spark": [
+      8.505,
+      8.645,
+      8.787,
+      8.949,
+      9.08,
+      9.171,
+      9.001,
+      8.867,
+      8.838,
+      8.941,
+      9.06,
+      8.886,
+      8.978,
+      8.914,
+      8.781,
+      8.684,
+      8.693,
+      8.801,
+      8.87,
+      8.758,
+      8.709,
+      8.567,
+      8.557,
+      8.502,
+      8.649,
+      8.517,
+      8.67,
+      8.818,
+      8.805,
+      8.75
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 47,
+      "grade": "D+",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.0406,
+          "points": 30.2,
+          "weight": 0.26,
+          "note": "4.1% top-line growth",
+          "contribution": 7.9
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.0841,
+          "points": 46.02499999999999,
+          "weight": 0.24,
+          "note": "8.4% earnings growth",
+          "contribution": 11.0
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0452,
+          "points": 22.599999999999998,
+          "weight": 0.16,
+          "note": "4.5% 3-year CAGR",
+          "contribution": 3.6
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": 0.004,
+          "points": 48.57142857142857,
+          "weight": 0.14,
+          "note": "expanding margins",
+          "contribution": 6.8
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.77,
+          "points": 81.42857142857144,
+          "weight": 0.1,
+          "note": "capital being put to work",
+          "contribution": 8.1
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 4,
+          "points": 100.0,
+          "weight": 0.1,
+          "note": "4 identified growth catalyst(s)",
+          "contribution": 10.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 45,
+      "grade": "D+",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 3.33,
+          "points": 37.11111111111111,
+          "weight": 0.22,
+          "note": "leveraged",
+          "contribution": 8.2
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.53,
+          "points": 52.14285714285714,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 7.3
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.85,
+          "points": 78.57142857142858,
+          "weight": 0.18,
+          "note": "steady cash generation",
+          "contribution": 14.1
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.496,
+          "points": 12.558139534883722,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 1.8
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.52,
+          "points": 31.428571428571434,
+          "weight": 0.12,
+          "note": "irregular cadence",
+          "contribution": 3.8
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.55,
+          "points": 35.71428571428573,
+          "weight": 0.1,
+          "note": "patchy disclosure",
+          "contribution": 3.6
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.42,
+          "points": 60.00000000000001,
+          "weight": 0.1,
+          "note": "macro-exposed",
+          "contribution": 6.0
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 73,
+      "grade": "B+",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0817,
+          "points": 86.98,
+          "weight": 0.18,
+          "note": "8.17% yield — high, check sustainability",
+          "contribution": 15.7
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.71,
+          "points": 67.70000000000002,
+          "weight": 0.2,
+          "note": "71% of earnings paid out",
+          "contribution": 13.5
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.4,
+          "points": 57.14285714285714,
+          "weight": 0.22,
+          "note": "comfortably covered",
+          "contribution": 12.6
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.47,
+          "points": 53.75,
+          "weight": 0.14,
+          "note": "debt may pressure payout",
+          "contribution": 7.5
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "semi",
+          "points": 75.0,
+          "weight": 0.1,
+          "note": "semi distribution, 6y streak",
+          "contribution": 7.5
+        }
+      ]
+    },
+    "headline": 53,
+    "headline_grade": "C",
+    "archetype": "energy",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.0406,
+    "profit_growth": 0.0841,
+    "revenue_cagr_3y": 0.0452,
+    "margin_trend": 0.004,
+    "reinvestment": 0.77,
+    "catalysts": 4,
+    "net_debt_to_ebitda": 3.33,
+    "current_ratio": 1.53,
+    "ocf_consistency": 0.85,
+    "price_volatility": 0.496,
+    "governance_cadence": 0.52,
+    "disclosure_quality": 0.55,
+    "macro_sensitivity": 0.42,
+    "dividend_yield": 0.0817,
+    "payout_ratio": 0.71,
+    "fcf_coverage": 1.4,
+    "net_debt_pressure": 0.47,
+    "cut_history": 0,
+    "frequency": "semi",
+    "years_paid": 6
+  },
+  "overview": {
+    "business_summary_en": "Dana Gas is a UAE energy company across the oil, gas and downstream value chain, listed on ADX in the Energy sector.",
+    "business_summary_ar": "دانة غاز شركة مدرجة في سوق أبوظبي ضمن قطاع Energy.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 32769000000.0,
+      "volume": 35041577,
+      "high_52w": 9.9,
+      "low_52w": 7.65,
+      "dividend_yield": 0.0817
+    },
+    "top_catalysts": [
+      "Dependable dividend characteristics (Dividend 73/100)"
+    ],
+    "top_risks": [
+      "Execution and macro conditions remain the key swing factors"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "DANA-4-1780195916",
+      "symbol": "DANA",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-05-31T02:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 59,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "DANA-5-1779846716",
+      "symbol": "DANA",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-05-27T01:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 66,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "DANA-3-1779609116",
+      "symbol": "DANA",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-05-24T07:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 37,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "DANA-1-1779162716",
+      "symbol": "DANA",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-05-19T03:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 63,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "DANA-6-1777935116",
+      "symbol": "DANA",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-05-04T22:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 59,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "DANA-2-1775166716",
+      "symbol": "DANA",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-04-02T21:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 45,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "DANA-0-1774414316",
+      "symbol": "DANA",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-03-25T04:51:56+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 84,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "DANA-7-1774050716",
+      "symbol": "DANA",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-03-20T23:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 89,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "DANA",
+      "kind": "board",
+      "date": "2026-07-22",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "DANA",
+      "kind": "agm",
+      "date": "2026-08-07",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "DANA",
+      "kind": "board",
+      "date": "2026-05-09",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "DANA",
+      "amount": 0.3574,
+      "currency": "AED",
+      "agm_date": "2026-06-26",
+      "entitlement_date": "2026-07-16",
+      "ex_date": "2026-07-15",
+      "payment_date": "2026-08-05",
+      "frequency": "semi",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "DANA",
+      "amount": 0.3574,
+      "currency": "AED",
+      "agm_date": "2026-05-21",
+      "entitlement_date": "2026-06-08",
+      "ex_date": "2026-06-07",
+      "payment_date": "2026-06-24",
+      "frequency": "semi",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "DANA",
+      "amount": 0.3574,
+      "currency": "AED",
+      "agm_date": "2025-11-21",
+      "entitlement_date": "2025-12-09",
+      "ex_date": "2025-12-08",
+      "payment_date": "2025-12-25",
+      "frequency": "semi",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "DANA",
+      "amount": 0.3574,
+      "currency": "AED",
+      "agm_date": "2025-05-23",
+      "entitlement_date": "2025-06-10",
+      "ex_date": "2025-06-09",
+      "payment_date": "2025-06-26",
+      "frequency": "semi",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "DANA",
+      "amount": 0.3574,
+      "currency": "AED",
+      "agm_date": "2024-11-16",
+      "entitlement_date": "2024-12-04",
+      "ex_date": "2024-12-03",
+      "payment_date": "2024-12-20",
+      "frequency": "semi",
+      "fiscal_year": "2024",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "DANA",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 44.4
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 13.9
+      },
+      {
+        "name": "Free float",
+        "pct": 41.7
+      }
+    ],
+    "foreign_permitted": 100,
+    "foreign_actual": 95.9,
+    "foreign_available": 4.1,
+    "free_float": 41.7,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      9781300000.0,
+      10178400000.0,
+      10591600000.0,
+      11021700000.0,
+      11469100000.0
+    ],
+    "net_income": [
+      1604100000.0,
+      1689600000.0,
+      1779400000.0,
+      1873700000.0,
+      1972700000.0
+    ],
+    "operating_cash_flow": [
+      1852800000.0,
+      1951500000.0,
+      2055200000.0,
+      2164100000.0,
+      2278500000.0
+    ],
+    "ratios": {
+      "net_margin": 0.172,
+      "net_debt_to_ebitda": 3.33,
+      "current_ratio": 1.53,
+      "payout_ratio": 0.71
+    },
+    "revenue_cagr_3y": 0.0452,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "oil",
+        "label_en": "Crude oil (Brent)",
+        "label_ar": "النفط الخام",
+        "unit": "USD/bbl",
+        "wb_series": "CRUDE_BRENT",
+        "latest_value": 77.2,
+        "latest_change_pct": -0.0103
+      },
+      {
+        "key": "natural_gas",
+        "label_en": "Natural gas",
+        "label_ar": "الغاز الطبيعي",
+        "unit": "USD/mmbtu",
+        "wb_series": "NGAS_EUR",
+        "latest_value": 11.22,
+        "latest_change_pct": -0.024
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Energy headline — global macro update 1",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T03:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 0.37,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Energy headline — global macro update 2",
+        "theme": "TRADE",
+        "published_at": "2026-06-16T13:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 4.74,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Energy headline — global macro update 3",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-16T13:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 3.45,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Energy headline — global macro update 4",
+        "theme": "MARITIME",
+        "published_at": "2026-06-17T23:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 2.16,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Energy headline — global macro update 5",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T10:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 0.91,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Energy headline — global macro update 6",
+        "theme": "ECON_INTEREST_RATE",
+        "published_at": "2026-06-16T12:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -3.68,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "medium",
+      "reasons": [
+        "Recent disclosure tone skews positive"
+      ],
+      "risks": [
+        "A surprise filing or a sector-wide move could shift the picture quickly"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Dependable dividend characteristics (Dividend 73/100)"
+      ],
+      "risks": [
+        "Execution and macro conditions remain the key swing factors"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 56.2,
+        "reasons": [
+          "Recent disclosure tone skews positive"
+        ],
+        "risks": [
+          "A surprise filing or a sector-wide move could shift the picture quickly"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 52.0,
+        "reasons": [
+          "Dependable dividend characteristics (Dividend 73/100)"
+        ],
+        "risks": [
+          "Execution and macro conditions remain the key swing factors"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

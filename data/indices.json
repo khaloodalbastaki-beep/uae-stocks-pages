@@ -1,0 +1,94 @@
+{
+  "adx": {
+    "name": "ADX General Index (proxy)",
+    "avg_change_pct": 0.0015,
+    "advancers": 18,
+    "decliners": 16,
+    "count": 34
+  },
+  "dfm": {
+    "name": "DFM General Index (proxy)",
+    "avg_change_pct": -0.0031,
+    "advancers": 8,
+    "decliners": 12,
+    "count": 20
+  },
+  "sectors": [
+    {
+      "sector": "Banks",
+      "avg_score": 58,
+      "count": 9
+    },
+    {
+      "sector": "Consumer",
+      "avg_score": 47,
+      "count": 3
+    },
+    {
+      "sector": "Energy",
+      "avg_score": 56,
+      "count": 5
+    },
+    {
+      "sector": "Food & Agri",
+      "avg_score": 52,
+      "count": 2
+    },
+    {
+      "sector": "Healthcare",
+      "avg_score": 64,
+      "count": 3
+    },
+    {
+      "sector": "Holding / Diversified",
+      "avg_score": 53,
+      "count": 5
+    },
+    {
+      "sector": "Industrials",
+      "avg_score": 50,
+      "count": 2
+    },
+    {
+      "sector": "Insurance",
+      "avg_score": 65,
+      "count": 1
+    },
+    {
+      "sector": "Investment & Finance",
+      "avg_score": 46,
+      "count": 2
+    },
+    {
+      "sector": "Logistics & Transport",
+      "avg_score": 55,
+      "count": 5
+    },
+    {
+      "sector": "Petrochemicals",
+      "avg_score": 60,
+      "count": 2
+    },
+    {
+      "sector": "Real Estate",
+      "avg_score": 50,
+      "count": 7
+    },
+    {
+      "sector": "Telecom",
+      "avg_score": 58,
+      "count": 3
+    },
+    {
+      "sector": "Toll Roads & Parking",
+      "avg_score": 50,
+      "count": 2
+    },
+    {
+      "sector": "Utilities",
+      "avg_score": 57,
+      "count": 3
+    }
+  ],
+  "data_quality": "demo"
+}

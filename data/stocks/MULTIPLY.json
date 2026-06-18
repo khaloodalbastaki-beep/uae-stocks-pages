@@ -1,0 +1,892 @@
+{
+  "symbol": "MULTIPLY",
+  "name_en": "Multiply Group",
+  "name_ar": "مالتيبلاي",
+  "exchange": "ADX",
+  "sector": "Holding / Diversified",
+  "archetype": "holding",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "MULTIPLY",
+    "price": 2.41,
+    "change": 0.01,
+    "change_pct": 0.0048,
+    "volume": 4941206,
+    "market_cap": 9459000000.0,
+    "high_52w": 2.63,
+    "low_52w": 2.08,
+    "spark": [
+      2.345,
+      2.307,
+      2.348,
+      2.395,
+      2.403,
+      2.426,
+      2.408,
+      2.377,
+      2.33,
+      2.328,
+      2.324,
+      2.37,
+      2.347,
+      2.398,
+      2.379,
+      2.407,
+      2.437,
+      2.398,
+      2.378,
+      2.415,
+      2.373,
+      2.366,
+      2.39,
+      2.378,
+      2.379,
+      2.407,
+      2.378,
+      2.377,
+      2.335,
+      2.41
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:24:09+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 52,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.1157,
+          "points": 55.23333333333335,
+          "weight": 0.26,
+          "note": "11.6% top-line growth",
+          "contribution": 14.4
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.1859,
+          "points": 71.47500000000001,
+          "weight": 0.24,
+          "note": "18.6% earnings growth",
+          "contribution": 17.2
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0747,
+          "points": 37.35,
+          "weight": 0.16,
+          "note": "7.5% 3-year CAGR",
+          "contribution": 6.0
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": -0.0035,
+          "points": 37.85714285714285,
+          "weight": 0.14,
+          "note": "compressing margins",
+          "contribution": 5.3
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.32,
+          "points": 17.142857142857142,
+          "weight": 0.1,
+          "note": "light reinvestment",
+          "contribution": 1.7
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 3,
+          "points": 75.0,
+          "weight": 0.1,
+          "note": "3 identified growth catalyst(s)",
+          "contribution": 7.5
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 35,
+      "grade": "D",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 3.67,
+          "points": 29.555555555555557,
+          "weight": 0.22,
+          "note": "leveraged",
+          "contribution": 6.5
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 0.97,
+          "points": 12.142857142857137,
+          "weight": 0.14,
+          "note": "tight liquidity",
+          "contribution": 1.7
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.79,
+          "points": 70.0,
+          "weight": 0.18,
+          "note": "steady cash generation",
+          "contribution": 12.6
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.556,
+          "points": 0.0,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 0.0
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.73,
+          "points": 61.42857142857143,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 7.4
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.67,
+          "points": 52.85714285714287,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 5.3
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.81,
+          "points": 11.25,
+          "weight": 0.1,
+          "note": "macro-exposed",
+          "contribution": 1.1
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 51,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.012,
+          "points": 20.0,
+          "weight": 0.18,
+          "note": "1.20% yield",
+          "contribution": 3.6
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.82,
+          "points": 49.000000000000014,
+          "weight": 0.2,
+          "note": "82% of earnings paid out",
+          "contribution": 9.8
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.39,
+          "points": 56.42857142857143,
+          "weight": 0.22,
+          "note": "comfortably covered",
+          "contribution": 12.4
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.67,
+          "points": 28.75,
+          "weight": 0.14,
+          "note": "debt may pressure payout",
+          "contribution": 4.0
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "annual",
+          "points": 55.0,
+          "weight": 0.1,
+          "note": "annual distribution, 5y streak",
+          "contribution": 5.5
+        }
+      ]
+    },
+    "headline": 46,
+    "headline_grade": "D+",
+    "archetype": "holding",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.1157,
+    "profit_growth": 0.1859,
+    "revenue_cagr_3y": 0.0747,
+    "margin_trend": -0.0035,
+    "reinvestment": 0.32,
+    "catalysts": 3,
+    "net_debt_to_ebitda": 3.67,
+    "current_ratio": 0.97,
+    "ocf_consistency": 0.79,
+    "price_volatility": 0.556,
+    "governance_cadence": 0.73,
+    "disclosure_quality": 0.67,
+    "macro_sensitivity": 0.81,
+    "dividend_yield": 0.012,
+    "payout_ratio": 0.82,
+    "fcf_coverage": 1.39,
+    "net_debt_pressure": 0.67,
+    "cut_history": 0,
+    "frequency": "annual",
+    "years_paid": 5
+  },
+  "overview": {
+    "business_summary_en": "Multiply Group is a UAE diversified holding company with interests across multiple sectors, listed on ADX in the Holding / Diversified sector.",
+    "business_summary_ar": "مالتيبلاي شركة مدرجة في سوق أبوظبي ضمن قطاع Holding / Diversified.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 9459000000.0,
+      "volume": 4941206,
+      "high_52w": 2.63,
+      "low_52w": 2.08,
+      "dividend_yield": 0.012
+    },
+    "top_catalysts": [
+      "Mixed fundamentals; no single pillar stands out"
+    ],
+    "top_risks": [
+      "Balance-sheet / stability concerns (Stability 35/100)",
+      "High sensitivity to commodity / macro swings"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "MULTIPLY-0-1781061849",
+      "symbol": "MULTIPLY",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-06-10T03:24:09+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 71,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "MULTIPLY-3-1779751449",
+      "symbol": "MULTIPLY",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-05-25T23:24:09+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 76,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "MULTIPLY-2-1779499449",
+      "symbol": "MULTIPLY",
+      "event_type": "acquisition",
+      "title_src": "Acquisition / strategic transaction",
+      "title_en": "Acquisition / strategic transaction",
+      "title_lang": "en",
+      "published_at": "2026-05-23T01:24:09+00:00",
+      "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "url": null,
+      "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
+      "summary_ar": "",
+      "why_it_matters": "M&A can re-rate the growth and risk profile materially.",
+      "materiality": 61,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "MULTIPLY-4-1779319449",
+      "symbol": "MULTIPLY",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-05-20T23:24:09+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 55,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "MULTIPLY-1-1774754649",
+      "symbol": "MULTIPLY",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-03-29T03:24:09+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 59,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "MULTIPLY",
+      "kind": "board",
+      "date": "2026-06-30",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "MULTIPLY",
+      "kind": "agm",
+      "date": "2026-08-03",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "MULTIPLY",
+      "kind": "board",
+      "date": "2026-03-07",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "MULTIPLY",
+      "amount": 0.0289,
+      "currency": "AED",
+      "agm_date": "2026-07-11",
+      "entitlement_date": "2026-07-31",
+      "ex_date": "2026-07-30",
+      "payment_date": "2026-08-20",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "MULTIPLY",
+      "amount": 0.0289,
+      "currency": "AED",
+      "agm_date": "2026-05-11",
+      "entitlement_date": "2026-05-29",
+      "ex_date": "2026-05-28",
+      "payment_date": "2026-06-14",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "MULTIPLY",
+      "amount": 0.0289,
+      "currency": "AED",
+      "agm_date": "2025-05-28",
+      "entitlement_date": "2025-06-15",
+      "ex_date": "2025-06-14",
+      "payment_date": "2025-07-01",
+      "frequency": "annual",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:24:09+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "MULTIPLY",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 28.7
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 8.1
+      },
+      {
+        "name": "Free float",
+        "pct": 63.2
+      }
+    ],
+    "foreign_permitted": 100,
+    "foreign_actual": 48.8,
+    "foreign_available": 51.2,
+    "free_float": 63.2,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:24:09+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      2136600000.0,
+      2383800000.0,
+      2659600000.0,
+      2967300000.0,
+      3310600000.0
+    ],
+    "net_income": [
+      334400000.0,
+      368900000.0,
+      406900000.0,
+      448800000.0,
+      494900000.0
+    ],
+    "operating_cash_flow": [
+      380200000.0,
+      419400000.0,
+      462700000.0,
+      510300000.0,
+      562700000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1495,
+      "net_debt_to_ebitda": 3.67,
+      "current_ratio": 0.97,
+      "payout_ratio": 0.82
+    },
+    "revenue_cagr_3y": 0.0747,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "uae_equity",
+        "label_en": "UAE equity market",
+        "label_ar": "سوق الأسهم الإماراتي",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "consumer",
+        "label_en": "consumer",
+        "label_ar": "consumer",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:24:09+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:24:09+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:24:09+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:24:09+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:24:09+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:24:09+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Uae headline — global macro update 1",
+        "theme": "MARITIME",
+        "published_at": "2026-06-18T07:24:09+00:00",
+        "domain": "reuters.com",
+        "url": null,
+        "tone": -3.59,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 2",
+        "theme": "TOURISM",
+        "published_at": "2026-06-15T20:24:09+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -2.92,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 3",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T08:24:09+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 1.7,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 4",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T12:24:09+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -0.29,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 5",
+        "theme": "TOURISM",
+        "published_at": "2026-06-17T16:24:09+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 0.65,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:24:09+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "medium",
+      "reasons": [
+        "A high-materiality disclosure (76/100) is in the recent flow"
+      ],
+      "risks": [
+        "A surprise filing or a sector-wide move could shift the picture quickly"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Mixed fundamentals; no single pillar stands out"
+      ],
+      "risks": [
+        "Balance-sheet / stability concerns (Stability 35/100)",
+        "High sensitivity to commodity / macro swings"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 54.6,
+        "reasons": [
+          "A high-materiality disclosure (76/100) is in the recent flow"
+        ],
+        "risks": [
+          "A surprise filing or a sector-wide move could shift the picture quickly"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 45.7,
+        "reasons": [
+          "Mixed fundamentals; no single pillar stands out"
+        ],
+        "risks": [
+          "Balance-sheet / stability concerns (Stability 35/100)",
+          "High sensitivity to commodity / macro swings"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:24:09+00:00"
+  },
+  "generated_at": "2026-06-18T08:24:09+00:00"
+}

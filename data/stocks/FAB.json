@@ -1,0 +1,878 @@
+{
+  "symbol": "FAB",
+  "name_en": "First Abu Dhabi Bank",
+  "name_ar": "بنك أبوظبي الأول",
+  "exchange": "ADX",
+  "sector": "Banks",
+  "archetype": "bank",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "FAB",
+    "price": 14.46,
+    "change": 0.26,
+    "change_pct": 0.0184,
+    "volume": 17979482,
+    "market_cap": 98297000000.0,
+    "high_52w": 15.62,
+    "low_52w": 12.06,
+    "spark": [
+      13.756,
+      13.713,
+      13.904,
+      13.711,
+      13.698,
+      13.727,
+      13.715,
+      13.715,
+      13.809,
+      13.592,
+      13.728,
+      13.575,
+      13.776,
+      13.806,
+      13.801,
+      13.948,
+      13.953,
+      14.001,
+      13.864,
+      13.602,
+      13.69,
+      13.547,
+      13.439,
+      13.631,
+      13.547,
+      13.4,
+      13.533,
+      13.611,
+      13.767,
+      14.46
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 18,
+      "grade": "D",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": -0.0275,
+          "points": 7.500000000000001,
+          "weight": 0.26,
+          "note": "-2.8% top-line growth",
+          "contribution": 2.0
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": -0.0786,
+          "points": 5.3500000000000005,
+          "weight": 0.24,
+          "note": "-7.9% earnings growth",
+          "contribution": 1.3
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0,
+          "points": 0.0,
+          "weight": 0.16,
+          "note": "0.0% 3-year CAGR",
+          "contribution": 0.0
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": 0.028,
+          "points": 82.85714285714285,
+          "weight": 0.14,
+          "note": "expanding margins",
+          "contribution": 11.6
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.45,
+          "points": 35.714285714285715,
+          "weight": 0.1,
+          "note": "light reinvestment",
+          "contribution": 3.6
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 0,
+          "points": 0.0,
+          "weight": 0.1,
+          "note": "0 identified growth catalyst(s)",
+          "contribution": 0.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 66,
+      "grade": "B",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 1.07,
+          "points": 87.33333333333333,
+          "weight": 0.08,
+          "note": "conservative balance sheet",
+          "contribution": 7.0
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.36,
+          "points": 40.0,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 5.6
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.94,
+          "points": 91.42857142857143,
+          "weight": 0.24,
+          "note": "steady cash generation",
+          "contribution": 21.9
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.289,
+          "points": 60.697674418604656,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 8.5
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.78,
+          "points": 68.57142857142858,
+          "weight": 0.18,
+          "note": "regular board/AGM rhythm",
+          "contribution": 12.3
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.64,
+          "points": 48.57142857142858,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 4.9
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.49,
+          "points": 51.25,
+          "weight": 0.16,
+          "note": "macro-exposed",
+          "contribution": 8.2
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 75,
+      "grade": "B+",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0623,
+          "points": 98.62,
+          "weight": 0.18,
+          "note": "6.23% yield",
+          "contribution": 17.8
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.3,
+          "points": 62.599999999999994,
+          "weight": 0.2,
+          "note": "30% of earnings paid out",
+          "contribution": 12.5
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.72,
+          "points": 80.00000000000001,
+          "weight": 0.22,
+          "note": "comfortably covered",
+          "contribution": 17.6
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.57,
+          "points": 41.25000000000001,
+          "weight": 0.14,
+          "note": "debt may pressure payout",
+          "contribution": 5.8
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "annual",
+          "points": 55.0,
+          "weight": 0.1,
+          "note": "annual distribution, 7y streak",
+          "contribution": 5.5
+        }
+      ]
+    },
+    "headline": 49,
+    "headline_grade": "C",
+    "archetype": "bank",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": -0.0275,
+    "profit_growth": -0.0786,
+    "revenue_cagr_3y": 0.0,
+    "margin_trend": 0.028,
+    "reinvestment": 0.45,
+    "catalysts": 0,
+    "net_debt_to_ebitda": 1.07,
+    "current_ratio": 1.36,
+    "ocf_consistency": 0.94,
+    "price_volatility": 0.289,
+    "governance_cadence": 0.78,
+    "disclosure_quality": 0.64,
+    "macro_sensitivity": 0.49,
+    "dividend_yield": 0.0623,
+    "payout_ratio": 0.3,
+    "fcf_coverage": 1.72,
+    "net_debt_pressure": 0.57,
+    "cut_history": 0,
+    "frequency": "annual",
+    "years_paid": 7
+  },
+  "overview": {
+    "business_summary_en": "First Abu Dhabi Bank is a UAE bank offering corporate, retail and Islamic financial services, listed on ADX in the Banks sector.",
+    "business_summary_ar": "بنك أبوظبي الأول شركة مدرجة في سوق أبوظبي ضمن قطاع Banks.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 98297000000.0,
+      "volume": 17979482,
+      "high_52w": 15.62,
+      "low_52w": 12.06,
+      "dividend_yield": 0.0623
+    },
+    "top_catalysts": [
+      "Resilient balance sheet / stability (Stability 66/100)",
+      "Dependable dividend characteristics (Dividend 75/100)"
+    ],
+    "top_risks": [
+      "Weak growth signal (Growth 18/100)"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "FAB-3-1780105916",
+      "symbol": "FAB",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-05-30T01:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 44,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "FAB-4-1778118716",
+      "symbol": "FAB",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-05-07T01:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 50,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "FAB-1-1777686716",
+      "symbol": "FAB",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-05-02T01:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 61,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "FAB-0-1774569116",
+      "symbol": "FAB",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-03-26T23:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 34,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "FAB-2-1774061516",
+      "symbol": "FAB",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-03-21T02:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 36,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "FAB",
+      "kind": "board",
+      "date": "2026-06-29",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "FAB",
+      "kind": "agm",
+      "date": "2026-08-16",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "FAB",
+      "kind": "board",
+      "date": "2026-01-24",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "FAB",
+      "amount": 0.9009,
+      "currency": "AED",
+      "agm_date": "2026-07-20",
+      "entitlement_date": "2026-08-09",
+      "ex_date": "2026-08-08",
+      "payment_date": "2026-08-29",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "FAB",
+      "amount": 0.9009,
+      "currency": "AED",
+      "agm_date": "2026-05-14",
+      "entitlement_date": "2026-06-01",
+      "ex_date": "2026-05-31",
+      "payment_date": "2026-06-17",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "FAB",
+      "amount": 0.9009,
+      "currency": "AED",
+      "agm_date": "2025-05-21",
+      "entitlement_date": "2025-06-08",
+      "ex_date": "2025-06-07",
+      "payment_date": "2025-06-24",
+      "frequency": "annual",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "FAB",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 48.9
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 12.9
+      },
+      {
+        "name": "Free float",
+        "pct": 38.2
+      }
+    ],
+    "foreign_permitted": 49,
+    "foreign_actual": 8.0,
+    "foreign_available": 41.0,
+    "free_float": 38.2,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      38463600000.0,
+      37405800000.0,
+      36377200000.0,
+      35376800000.0,
+      34404000000.0
+    ],
+    "net_income": [
+      7231200000.0,
+      7556000000.0,
+      7857500000.0,
+      8136700000.0,
+      8394600000.0
+    ],
+    "operating_cash_flow": [
+      8547200000.0,
+      8931200000.0,
+      9287500000.0,
+      9617500000.0,
+      9922400000.0
+    ],
+    "ratios": {
+      "net_margin": 0.244,
+      "net_debt_to_ebitda": 1.07,
+      "current_ratio": 1.36,
+      "payout_ratio": 0.3
+    },
+    "revenue_cagr_3y": 0.0,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "rates",
+        "label_en": "US / UAE interest rates",
+        "label_ar": "أسعار الفائدة",
+        "unit": "%",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "usd",
+        "label_en": "US dollar (AED peg)",
+        "label_ar": "الدولار الأمريكي",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "uae_credit",
+        "label_en": "UAE credit demand",
+        "label_ar": "الطلب على الائتمان",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "oil",
+        "label_en": "Crude oil (Brent)",
+        "label_ar": "النفط الخام",
+        "unit": "USD/bbl",
+        "wb_series": "CRUDE_BRENT",
+        "latest_value": 77.2,
+        "latest_change_pct": -0.0103
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Federal headline — global macro update 1",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -3.75,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 2",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-17T06:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": -4.32,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Federal headline — global macro update 3",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T14:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": 1.18,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Positive price momentum (+1.8% on the session in demo data)"
+      ],
+      "risks": [
+        "Recent disclosure tone skews cautious/negative"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Resilient balance sheet / stability (Stability 66/100)",
+        "Dependable dividend characteristics (Dividend 75/100)"
+      ],
+      "risks": [
+        "Weak growth signal (Growth 18/100)"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 52.8,
+        "reasons": [
+          "Positive price momentum (+1.8% on the session in demo data)"
+        ],
+        "risks": [
+          "Recent disclosure tone skews cautious/negative"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 47.8,
+        "reasons": [
+          "Resilient balance sheet / stability (Stability 66/100)",
+          "Dependable dividend characteristics (Dividend 75/100)"
+        ],
+        "risks": [
+          "Weak growth signal (Growth 18/100)"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

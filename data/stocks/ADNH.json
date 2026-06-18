@@ -1,0 +1,891 @@
+{
+  "symbol": "ADNH",
+  "name_en": "Abu Dhabi National Hotels",
+  "name_ar": "الوطنية للفنادق",
+  "exchange": "ADX",
+  "sector": "Consumer",
+  "archetype": "consumer",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "ADNH",
+    "price": 6.71,
+    "change": -0.16,
+    "change_pct": -0.0226,
+    "volume": 15665873,
+    "market_cap": 44616000000.0,
+    "high_52w": 7.62,
+    "low_52w": 5.91,
+    "spark": [
+      6.713,
+      6.704,
+      6.814,
+      6.782,
+      6.766,
+      6.703,
+      6.652,
+      6.784,
+      6.837,
+      6.957,
+      7.059,
+      7.04,
+      6.939,
+      6.982,
+      6.999,
+      6.922,
+      6.824,
+      6.742,
+      6.708,
+      6.673,
+      6.695,
+      6.68,
+      6.663,
+      6.786,
+      6.675,
+      6.769,
+      6.667,
+      6.667,
+      6.568,
+      6.71
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 45,
+      "grade": "D+",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.1142,
+          "points": 54.73333333333335,
+          "weight": 0.26,
+          "note": "11.4% top-line growth",
+          "contribution": 14.2
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.1955,
+          "points": 73.87499999999999,
+          "weight": 0.24,
+          "note": "19.6% earnings growth",
+          "contribution": 17.7
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0592,
+          "points": 29.599999999999998,
+          "weight": 0.16,
+          "note": "5.9% 3-year CAGR",
+          "contribution": 4.7
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": -0.0172,
+          "points": 18.285714285714285,
+          "weight": 0.14,
+          "note": "compressing margins",
+          "contribution": 2.6
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.63,
+          "points": 61.42857142857143,
+          "weight": 0.1,
+          "note": "capital being put to work",
+          "contribution": 6.1
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 0,
+          "points": 0.0,
+          "weight": 0.1,
+          "note": "0 identified growth catalyst(s)",
+          "contribution": 0.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 49,
+      "grade": "C",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 2.71,
+          "points": 50.888888888888886,
+          "weight": 0.22,
+          "note": "leveraged",
+          "contribution": 11.2
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.1,
+          "points": 21.42857142857143,
+          "weight": 0.14,
+          "note": "tight liquidity",
+          "contribution": 3.0
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.69,
+          "points": 55.714285714285715,
+          "weight": 0.18,
+          "note": "lumpy cash flow",
+          "contribution": 10.0
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.357,
+          "points": 44.88372093023256,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 6.3
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.61,
+          "points": 44.28571428571429,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 5.3
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.9,
+          "points": 85.71428571428574,
+          "weight": 0.1,
+          "note": "timely + complete",
+          "contribution": 8.6
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.56,
+          "points": 42.49999999999999,
+          "weight": 0.1,
+          "note": "macro-exposed",
+          "contribution": 4.2
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 59,
+      "grade": "C+",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0229,
+          "points": 38.16666666666667,
+          "weight": 0.18,
+          "note": "2.29% yield",
+          "contribution": 6.9
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.35,
+          "points": 71.1,
+          "weight": 0.2,
+          "note": "35% of earnings paid out",
+          "contribution": 14.2
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.29,
+          "points": 49.28571428571429,
+          "weight": 0.22,
+          "note": "comfortably covered",
+          "contribution": 10.8
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.56,
+          "points": 42.49999999999999,
+          "weight": 0.14,
+          "note": "debt may pressure payout",
+          "contribution": 5.9
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "annual",
+          "points": 55.0,
+          "weight": 0.1,
+          "note": "annual distribution, 1y streak",
+          "contribution": 5.5
+        }
+      ]
+    },
+    "headline": 50,
+    "headline_grade": "C",
+    "archetype": "consumer",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.1142,
+    "profit_growth": 0.1955,
+    "revenue_cagr_3y": 0.0592,
+    "margin_trend": -0.0172,
+    "reinvestment": 0.63,
+    "catalysts": 0,
+    "net_debt_to_ebitda": 2.71,
+    "current_ratio": 1.1,
+    "ocf_consistency": 0.69,
+    "price_volatility": 0.357,
+    "governance_cadence": 0.61,
+    "disclosure_quality": 0.9,
+    "macro_sensitivity": 0.56,
+    "dividend_yield": 0.0229,
+    "payout_ratio": 0.35,
+    "fcf_coverage": 1.29,
+    "net_debt_pressure": 0.56,
+    "cut_history": 0,
+    "frequency": "annual",
+    "years_paid": 1
+  },
+  "overview": {
+    "business_summary_en": "Abu Dhabi National Hotels is a UAE consumer / food-services business, listed on ADX in the Consumer sector.",
+    "business_summary_ar": "الوطنية للفنادق شركة مدرجة في سوق أبوظبي ضمن قطاع Consumer.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 44616000000.0,
+      "volume": 15665873,
+      "high_52w": 7.62,
+      "low_52w": 5.91,
+      "dividend_yield": 0.0229
+    },
+    "top_catalysts": [
+      "Mixed fundamentals; no single pillar stands out"
+    ],
+    "top_risks": [
+      "Execution and macro conditions remain the key swing factors"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "ADNH-4-1779508316",
+      "symbol": "ADNH",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-05-23T03:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 32,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ADNH-0-1779339116",
+      "symbol": "ADNH",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-05-21T04:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 26,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ADNH-2-1776055916",
+      "symbol": "ADNH",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-04-13T04:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 90,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "ADNH-1-1774849916",
+      "symbol": "ADNH",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-03-30T05:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 58,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "ADNH-3-1774151516",
+      "symbol": "ADNH",
+      "event_type": "results",
+      "title_src": "نتائج مالية للفترة",
+      "title_en": "Financial results for the period",
+      "title_lang": "ar",
+      "published_at": "2026-03-22T03:51:56+00:00",
+      "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
+      "url": null,
+      "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
+      "summary_ar": "نتائج مالية للفترة",
+      "why_it_matters": "Earnings set the near-term tone and feed directly into the dividend and growth picture.",
+      "materiality": 91,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "ADNH",
+      "kind": "board",
+      "date": "2026-06-29",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ADNH",
+      "kind": "agm",
+      "date": "2026-08-11",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ADNH",
+      "kind": "board",
+      "date": "2026-01-28",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "ADNH",
+      "amount": 0.1537,
+      "currency": "AED",
+      "agm_date": "2026-07-18",
+      "entitlement_date": "2026-08-07",
+      "ex_date": "2026-08-06",
+      "payment_date": "2026-08-27",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ADNH",
+      "amount": 0.1537,
+      "currency": "AED",
+      "agm_date": "2026-05-16",
+      "entitlement_date": "2026-06-03",
+      "ex_date": "2026-06-02",
+      "payment_date": "2026-06-19",
+      "frequency": "annual",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "ADNH",
+      "amount": 0.1537,
+      "currency": "AED",
+      "agm_date": "2025-05-21",
+      "entitlement_date": "2025-06-08",
+      "ex_date": "2025-06-07",
+      "payment_date": "2025-06-24",
+      "frequency": "annual",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "ADNH",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 50.2
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 7.6
+      },
+      {
+        "name": "Free float",
+        "pct": 42.2
+      }
+    ],
+    "foreign_permitted": 40,
+    "foreign_actual": 26.0,
+    "foreign_available": 14.0,
+    "free_float": 42.2,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      10132300000.0,
+      11289400000.0,
+      12578600000.0,
+      14015100000.0,
+      15615600000.0
+    ],
+    "net_income": [
+      1446900000.0,
+      1515000000.0,
+      1579900000.0,
+      1639800000.0,
+      1692700000.0
+    ],
+    "operating_cash_flow": [
+      1601700000.0,
+      1677100000.0,
+      1748900000.0,
+      1815200000.0,
+      1873900000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1084,
+      "net_debt_to_ebitda": 2.71,
+      "current_ratio": 1.1,
+      "payout_ratio": 0.35
+    },
+    "revenue_cagr_3y": 0.0592,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "tourism",
+        "label_en": "Tourism & visitors",
+        "label_ar": "السياحة",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "consumer_demand",
+        "label_en": "Consumer spending",
+        "label_ar": "الإنفاق الاستهلاكي",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Dubai headline — global macro update 1",
+        "theme": "TRADE",
+        "published_at": "2026-06-15T17:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": -2.02,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Dubai headline — global macro update 2",
+        "theme": "MARITIME",
+        "published_at": "2026-06-16T07:51:56+00:00",
+        "domain": "gulfnews.com",
+        "url": null,
+        "tone": 0.21,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Dubai headline — global macro update 3",
+        "theme": "ECON_INTEREST_RATE",
+        "published_at": "2026-06-16T16:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": 1.53,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Dubai headline — global macro update 4",
+        "theme": "TOURISM",
+        "published_at": "2026-06-15T12:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -5.07,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Dubai headline — global macro update 5",
+        "theme": "ECON_INTEREST_RATE",
+        "published_at": "2026-06-16T05:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": -4.35,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Neutral",
+      "confidence": "medium",
+      "reasons": [
+        "A high-materiality disclosure (91/100) is in the recent flow"
+      ],
+      "risks": [
+        "Negative price momentum (-2.3% on the session in demo data)",
+        "Recent disclosure tone skews cautious/negative"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Neutral",
+      "confidence": "low",
+      "reasons": [
+        "Mixed fundamentals; no single pillar stands out"
+      ],
+      "risks": [
+        "Execution and macro conditions remain the key swing factors"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 44.1,
+        "reasons": [
+          "A high-materiality disclosure (91/100) is in the recent flow"
+        ],
+        "risks": [
+          "Negative price momentum (-2.3% on the session in demo data)",
+          "Recent disclosure tone skews cautious/negative"
+        ]
+      },
+      "long": {
+        "stance": "Neutral",
+        "confidence": "low",
+        "score": 49.5,
+        "reasons": [
+          "Mixed fundamentals; no single pillar stands out"
+        ],
+        "risks": [
+          "Execution and macro conditions remain the key swing factors"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

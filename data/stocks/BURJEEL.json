@@ -1,0 +1,1061 @@
+{
+  "symbol": "BURJEEL",
+  "name_en": "Burjeel Holdings",
+  "name_ar": "برجيل القابضة",
+  "exchange": "ADX",
+  "sector": "Healthcare",
+  "archetype": "healthcare",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "BURJEEL",
+    "price": 8.42,
+    "change": 0.25,
+    "change_pct": 0.031,
+    "volume": 19032504,
+    "market_cap": 34840000000.0,
+    "high_52w": 9.09,
+    "low_52w": 6.58,
+    "spark": [
+      7.893,
+      7.89,
+      7.804,
+      7.837,
+      7.824,
+      7.907,
+      7.922,
+      7.813,
+      7.694,
+      7.551,
+      7.489,
+      7.54,
+      7.494,
+      7.405,
+      7.398,
+      7.436,
+      7.396,
+      7.314,
+      7.352,
+      7.352,
+      7.468,
+      7.408,
+      7.361,
+      7.485,
+      7.465,
+      7.332,
+      7.396,
+      7.42,
+      7.482,
+      8.42
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 74,
+      "grade": "B+",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": 0.2068,
+          "points": 85.60000000000001,
+          "weight": 0.26,
+          "note": "20.7% top-line growth",
+          "contribution": 22.3
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.2098,
+          "points": 77.44999999999999,
+          "weight": 0.24,
+          "note": "21.0% earnings growth",
+          "contribution": 18.6
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.1863,
+          "points": 93.14999999999999,
+          "weight": 0.16,
+          "note": "18.6% 3-year CAGR",
+          "contribution": 14.9
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": -0.0019,
+          "points": 40.14285714285714,
+          "weight": 0.14,
+          "note": "compressing margins",
+          "contribution": 5.6
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.36,
+          "points": 22.857142857142858,
+          "weight": 0.1,
+          "note": "light reinvestment",
+          "contribution": 2.3
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 4,
+          "points": 100.0,
+          "weight": 0.1,
+          "note": "4 identified growth catalyst(s)",
+          "contribution": 10.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 56,
+      "grade": "C+",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 3.23,
+          "points": 39.33333333333333,
+          "weight": 0.22,
+          "note": "leveraged",
+          "contribution": 8.7
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.6,
+          "points": 57.14285714285714,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 8.0
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.92,
+          "points": 88.57142857142858,
+          "weight": 0.18,
+          "note": "steady cash generation",
+          "contribution": 15.9
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.338,
+          "points": 49.302325581395344,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 6.9
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.89,
+          "points": 84.28571428571429,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 10.1
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.51,
+          "points": 30.000000000000004,
+          "weight": 0.1,
+          "note": "patchy disclosure",
+          "contribution": 3.0
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.6,
+          "points": 37.5,
+          "weight": 0.1,
+          "note": "macro-exposed",
+          "contribution": 3.8
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 79,
+      "grade": "B+",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0322,
+          "points": 53.666666666666664,
+          "weight": 0.18,
+          "note": "3.22% yield",
+          "contribution": 9.7
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.47,
+          "points": 91.5,
+          "weight": 0.2,
+          "note": "47% of earnings paid out",
+          "contribution": 18.3
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 1.5,
+          "points": 64.28571428571429,
+          "weight": 0.22,
+          "note": "comfortably covered",
+          "contribution": 14.1
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.23,
+          "points": 83.75,
+          "weight": 0.14,
+          "note": "low debt strain",
+          "contribution": 11.7
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "quarterly",
+          "points": 92.0,
+          "weight": 0.1,
+          "note": "quarterly distribution, 2y streak",
+          "contribution": 9.2
+        }
+      ]
+    },
+    "headline": 69,
+    "headline_grade": "B",
+    "archetype": "healthcare",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": 0.2068,
+    "profit_growth": 0.2098,
+    "revenue_cagr_3y": 0.1863,
+    "margin_trend": -0.0019,
+    "reinvestment": 0.36,
+    "catalysts": 4,
+    "net_debt_to_ebitda": 3.23,
+    "current_ratio": 1.6,
+    "ocf_consistency": 0.92,
+    "price_volatility": 0.338,
+    "governance_cadence": 0.89,
+    "disclosure_quality": 0.51,
+    "macro_sensitivity": 0.6,
+    "dividend_yield": 0.0322,
+    "payout_ratio": 0.47,
+    "fcf_coverage": 1.5,
+    "net_debt_pressure": 0.23,
+    "cut_history": 0,
+    "frequency": "quarterly",
+    "years_paid": 2
+  },
+  "overview": {
+    "business_summary_en": "Burjeel Holdings is a UAE healthcare provider, listed on ADX in the Healthcare sector.",
+    "business_summary_ar": "برجيل القابضة شركة مدرجة في سوق أبوظبي ضمن قطاع Healthcare.",
+    "index_membership": [
+      "ADX"
+    ],
+    "quick_stats": {
+      "market_cap": 34840000000.0,
+      "volume": 19032504,
+      "high_52w": 9.09,
+      "low_52w": 6.58,
+      "dividend_yield": 0.0322
+    },
+    "top_catalysts": [
+      "Solid growth profile (Growth 74/100)",
+      "Dependable dividend characteristics (Dividend 79/100)"
+    ],
+    "top_risks": [
+      "Execution and macro conditions remain the key swing factors"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "BURJEEL-3-1780278716",
+      "symbol": "BURJEEL",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-06-01T01:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 68,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "BURJEEL-5-1778482316",
+      "symbol": "BURJEEL",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-05-11T06:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 19,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "BURJEEL-2-1778219516",
+      "symbol": "BURJEEL",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-05-08T05:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 69,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "BURJEEL-1-1775875916",
+      "symbol": "BURJEEL",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-04-11T02:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 64,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "BURJEEL-4-1775598716",
+      "symbol": "BURJEEL",
+      "event_type": "capital_raise",
+      "title_src": "Capital increase / sukuk issuance",
+      "title_en": "Capital increase / sukuk issuance",
+      "title_lang": "en",
+      "published_at": "2026-04-07T21:51:56+00:00",
+      "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
+      "url": null,
+      "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
+      "summary_ar": "",
+      "why_it_matters": "New capital changes the balance sheet, dilution and funding outlook.",
+      "materiality": 78,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "BURJEEL-0-1774662716",
+      "symbol": "BURJEEL",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-03-28T01:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 40,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "BURJEEL",
+      "kind": "board",
+      "date": "2026-07-08",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "BURJEEL",
+      "kind": "agm",
+      "date": "2026-07-26",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "BURJEEL",
+      "kind": "board",
+      "date": "2026-03-11",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [
+    {
+      "symbol": "BURJEEL",
+      "amount": 0.0678,
+      "currency": "AED",
+      "agm_date": "2026-06-20",
+      "entitlement_date": "2026-07-10",
+      "ex_date": "2026-07-09",
+      "payment_date": "2026-07-30",
+      "frequency": "quarterly",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "BURJEEL",
+      "amount": 0.0678,
+      "currency": "AED",
+      "agm_date": "2026-05-25",
+      "entitlement_date": "2026-06-12",
+      "ex_date": "2026-06-11",
+      "payment_date": "2026-06-28",
+      "frequency": "quarterly",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "BURJEEL",
+      "amount": 0.0678,
+      "currency": "AED",
+      "agm_date": "2026-02-17",
+      "entitlement_date": "2026-03-07",
+      "ex_date": "2026-03-06",
+      "payment_date": "2026-03-23",
+      "frequency": "quarterly",
+      "fiscal_year": "2026",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "BURJEEL",
+      "amount": 0.0678,
+      "currency": "AED",
+      "agm_date": "2025-11-23",
+      "entitlement_date": "2025-12-11",
+      "ex_date": "2025-12-10",
+      "payment_date": "2025-12-27",
+      "frequency": "quarterly",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "BURJEEL",
+      "amount": 0.0678,
+      "currency": "AED",
+      "agm_date": "2025-08-12",
+      "entitlement_date": "2025-08-30",
+      "ex_date": "2025-08-29",
+      "payment_date": "2025-09-15",
+      "frequency": "quarterly",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "BURJEEL",
+      "amount": 0.0678,
+      "currency": "AED",
+      "agm_date": "2025-05-29",
+      "entitlement_date": "2025-06-16",
+      "ex_date": "2025-06-15",
+      "payment_date": "2025-07-02",
+      "frequency": "quarterly",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "BURJEEL",
+      "amount": 0.0678,
+      "currency": "AED",
+      "agm_date": "2025-02-26",
+      "entitlement_date": "2025-03-16",
+      "ex_date": "2025-03-15",
+      "payment_date": "2025-04-01",
+      "frequency": "quarterly",
+      "fiscal_year": "2025",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "BURJEEL",
+      "amount": 0.0678,
+      "currency": "AED",
+      "agm_date": "2024-11-11",
+      "entitlement_date": "2024-11-29",
+      "ex_date": "2024-11-28",
+      "payment_date": "2024-12-15",
+      "frequency": "quarterly",
+      "fiscal_year": "2024",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "BURJEEL",
+      "amount": 0.0678,
+      "currency": "AED",
+      "agm_date": "2024-08-30",
+      "entitlement_date": "2024-09-17",
+      "ex_date": "2024-09-16",
+      "payment_date": "2024-10-03",
+      "frequency": "quarterly",
+      "fiscal_year": "2024",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "ownership": {
+    "symbol": "BURJEEL",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 28.4
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 7.8
+      },
+      {
+        "name": "Free float",
+        "pct": 63.8
+      }
+    ],
+    "foreign_permitted": 100,
+    "foreign_actual": 49.2,
+    "foreign_available": 50.8,
+    "free_float": 63.8,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      5749200000.0,
+      6938100000.0,
+      8372900000.0,
+      10104400000.0,
+      12194000000.0
+    ],
+    "net_income": [
+      908900000.0,
+      1090300000.0,
+      1307800000.0,
+      1568700000.0,
+      1881500000.0
+    ],
+    "operating_cash_flow": [
+      1068900000.0,
+      1282200000.0,
+      1538000000.0,
+      1844800000.0,
+      2212700000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1543,
+      "net_debt_to_ebitda": 3.23,
+      "current_ratio": 1.6,
+      "payout_ratio": 0.47
+    },
+    "revenue_cagr_3y": 0.1863,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "population",
+        "label_en": "Population growth",
+        "label_ar": "النمو السكاني",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "health_spend",
+        "label_en": "Healthcare spend",
+        "label_ar": "الإنفاق الصحي",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "tourism",
+        "label_en": "Tourism & visitors",
+        "label_ar": "السياحة",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Uae headline — global macro update 1",
+        "theme": "MARITIME",
+        "published_at": "2026-06-17T11:51:56+00:00",
+        "domain": "bloomberg.com",
+        "url": null,
+        "tone": 0.9,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 2",
+        "theme": "ECON_INTEREST_RATE",
+        "published_at": "2026-06-16T05:51:56+00:00",
+        "domain": "reuters.com",
+        "url": null,
+        "tone": 5.21,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 3",
+        "theme": "AGRICULTURE",
+        "published_at": "2026-06-16T06:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": 0.11,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 4",
+        "theme": "TRADE",
+        "published_at": "2026-06-16T10:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -4.2,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 5",
+        "theme": "TRADE",
+        "published_at": "2026-06-17T02:51:56+00:00",
+        "domain": "wam.ae",
+        "url": null,
+        "tone": -5.62,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 6",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T15:51:56+00:00",
+        "domain": "gulfnews.com",
+        "url": null,
+        "tone": 2.46,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Bullish",
+      "confidence": "high",
+      "reasons": [
+        "Positive price momentum (+3.1% on the session in demo data)",
+        "A high-materiality disclosure (78/100) is in the recent flow",
+        "Recent disclosure tone skews positive"
+      ],
+      "risks": [
+        "A surprise filing or a sector-wide move could shift the picture quickly"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Bullish",
+      "confidence": "medium",
+      "reasons": [
+        "Solid growth profile (Growth 74/100)",
+        "Dependable dividend characteristics (Dividend 79/100)"
+      ],
+      "risks": [
+        "Execution and macro conditions remain the key swing factors"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Bullish",
+        "confidence": "high",
+        "score": 66.7,
+        "reasons": [
+          "Positive price momentum (+3.1% on the session in demo data)",
+          "A high-materiality disclosure (78/100) is in the recent flow",
+          "Recent disclosure tone skews positive"
+        ],
+        "risks": [
+          "A surprise filing or a sector-wide move could shift the picture quickly"
+        ]
+      },
+      "long": {
+        "stance": "Bullish",
+        "confidence": "medium",
+        "score": 68.6,
+        "reasons": [
+          "Solid growth profile (Growth 74/100)",
+          "Dependable dividend characteristics (Dividend 79/100)"
+        ],
+        "risks": [
+          "Execution and macro conditions remain the key swing factors"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}

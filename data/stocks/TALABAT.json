@@ -1,0 +1,894 @@
+{
+  "symbol": "TALABAT",
+  "name_en": "Talabat Holding",
+  "name_ar": "طلبات",
+  "exchange": "DFM",
+  "sector": "Consumer",
+  "archetype": "consumer",
+  "currency": "AED",
+  "isin": null,
+  "quote": {
+    "symbol": "TALABAT",
+    "price": 1.52,
+    "change": -0.03,
+    "change_pct": -0.0188,
+    "volume": 21019942,
+    "market_cap": 9822000000.0,
+    "high_52w": 1.77,
+    "low_52w": 1.37,
+    "spark": [
+      1.531,
+      1.561,
+      1.569,
+      1.57,
+      1.578,
+      1.583,
+      1.607,
+      1.593,
+      1.61,
+      1.627,
+      1.635,
+      1.61,
+      1.587,
+      1.589,
+      1.602,
+      1.589,
+      1.619,
+      1.594,
+      1.601,
+      1.59,
+      1.589,
+      1.571,
+      1.576,
+      1.606,
+      1.606,
+      1.599,
+      1.607,
+      1.616,
+      1.634,
+      1.52
+    ],
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "scores": {
+    "growth": {
+      "pillar": "growth",
+      "score": 25,
+      "grade": "D",
+      "subfactors": [
+        {
+          "key": "rev",
+          "label": "Revenue growth (YoY)",
+          "raw": -0.0031,
+          "points": 15.633333333333335,
+          "weight": 0.26,
+          "note": "-0.3% top-line growth",
+          "contribution": 4.1
+        },
+        {
+          "key": "profit",
+          "label": "Earnings growth (YoY)",
+          "raw": 0.0693,
+          "points": 42.325,
+          "weight": 0.24,
+          "note": "6.9% earnings growth",
+          "contribution": 10.2
+        },
+        {
+          "key": "cagr",
+          "label": "Revenue CAGR (3y)",
+          "raw": 0.0,
+          "points": 0.0,
+          "weight": 0.16,
+          "note": "0.0% 3-year CAGR",
+          "contribution": 0.0
+        },
+        {
+          "key": "margin",
+          "label": "Margin direction",
+          "raw": -0.0081,
+          "points": 31.285714285714285,
+          "weight": 0.14,
+          "note": "compressing margins",
+          "contribution": 4.4
+        },
+        {
+          "key": "reinvest",
+          "label": "Reinvestment / capex productivity",
+          "raw": 0.62,
+          "points": 60.0,
+          "weight": 0.1,
+          "note": "capital being put to work",
+          "contribution": 6.0
+        },
+        {
+          "key": "catalysts",
+          "label": "Forward catalysts",
+          "raw": 0,
+          "points": 0.0,
+          "weight": 0.1,
+          "note": "0 identified growth catalyst(s)",
+          "contribution": 0.0
+        }
+      ]
+    },
+    "stability": {
+      "pillar": "stability",
+      "score": 43,
+      "grade": "D+",
+      "subfactors": [
+        {
+          "key": "lev",
+          "label": "Leverage (net debt / EBITDA)",
+          "raw": 2.56,
+          "points": 54.22222222222222,
+          "weight": 0.22,
+          "note": "leveraged",
+          "contribution": 11.9
+        },
+        {
+          "key": "liq",
+          "label": "Liquidity (current ratio)",
+          "raw": 1.51,
+          "points": 50.71428571428571,
+          "weight": 0.14,
+          "note": "comfortable liquidity",
+          "contribution": 7.1
+        },
+        {
+          "key": "ocf",
+          "label": "Operating cash-flow consistency",
+          "raw": 0.49,
+          "points": 27.142857142857146,
+          "weight": 0.18,
+          "note": "lumpy cash flow",
+          "contribution": 4.9
+        },
+        {
+          "key": "vol",
+          "label": "Price volatility (annualised)",
+          "raw": 0.272,
+          "points": 64.65116279069767,
+          "weight": 0.14,
+          "note": "volatile",
+          "contribution": 9.1
+        },
+        {
+          "key": "gov",
+          "label": "Governance cadence",
+          "raw": 0.61,
+          "points": 44.28571428571429,
+          "weight": 0.12,
+          "note": "regular board/AGM rhythm",
+          "contribution": 5.3
+        },
+        {
+          "key": "disc",
+          "label": "Disclosure quality",
+          "raw": 0.56,
+          "points": 37.14285714285715,
+          "weight": 0.1,
+          "note": "patchy disclosure",
+          "contribution": 3.7
+        },
+        {
+          "key": "macro",
+          "label": "Macro / commodity sensitivity",
+          "raw": 0.78,
+          "points": 15.0,
+          "weight": 0.1,
+          "note": "macro-exposed",
+          "contribution": 1.5
+        }
+      ]
+    },
+    "dividend": {
+      "pillar": "dividend",
+      "score": 62,
+      "grade": "C+",
+      "subfactors": [
+        {
+          "key": "yield",
+          "label": "Yield (quality-adjusted)",
+          "raw": 0.0745,
+          "points": 91.3,
+          "weight": 0.18,
+          "note": "7.45% yield",
+          "contribution": 16.4
+        },
+        {
+          "key": "payout",
+          "label": "Payout ratio",
+          "raw": 0.36,
+          "points": 72.8,
+          "weight": 0.2,
+          "note": "36% of earnings paid out",
+          "contribution": 14.6
+        },
+        {
+          "key": "fcf",
+          "label": "Free-cash-flow coverage",
+          "raw": 0.91,
+          "points": 22.142857142857146,
+          "weight": 0.22,
+          "note": "thin / uncovered coverage",
+          "contribution": 4.9
+        },
+        {
+          "key": "debt",
+          "label": "Debt pressure on payout",
+          "raw": 0.3,
+          "points": 75.0,
+          "weight": 0.14,
+          "note": "low debt strain",
+          "contribution": 10.5
+        },
+        {
+          "key": "cuts",
+          "label": "Cut / miss history",
+          "raw": 0,
+          "points": 100.0,
+          "weight": 0.16,
+          "note": "clean payment record",
+          "contribution": 16.0
+        },
+        {
+          "key": "freq",
+          "label": "Frequency & regularity",
+          "raw": "none",
+          "points": 0.0,
+          "weight": 0.1,
+          "note": "none distribution, 8y streak",
+          "contribution": 0.0
+        }
+      ]
+    },
+    "headline": 41,
+    "headline_grade": "D+",
+    "archetype": "consumer",
+    "engine": "deterministic-v1"
+  },
+  "fundamentals": {
+    "revenue_growth": -0.0031,
+    "profit_growth": 0.0693,
+    "revenue_cagr_3y": 0.0,
+    "margin_trend": -0.0081,
+    "reinvestment": 0.62,
+    "catalysts": 0,
+    "net_debt_to_ebitda": 2.56,
+    "current_ratio": 1.51,
+    "ocf_consistency": 0.49,
+    "price_volatility": 0.272,
+    "governance_cadence": 0.61,
+    "disclosure_quality": 0.56,
+    "macro_sensitivity": 0.78,
+    "dividend_yield": 0.0745,
+    "payout_ratio": 0.36,
+    "fcf_coverage": 0.91,
+    "net_debt_pressure": 0.3,
+    "cut_history": 0,
+    "frequency": "none",
+    "years_paid": 8
+  },
+  "overview": {
+    "business_summary_en": "Talabat Holding is a UAE consumer / food-services business, listed on DFM in the Consumer sector.",
+    "business_summary_ar": "طلبات شركة مدرجة في سوق دبي المالي ضمن قطاع Consumer.",
+    "index_membership": [
+      "DFM"
+    ],
+    "quick_stats": {
+      "market_cap": 9822000000.0,
+      "volume": 21019942,
+      "high_52w": 1.77,
+      "low_52w": 1.37,
+      "dividend_yield": 0.0745
+    },
+    "top_catalysts": [
+      "Dependable dividend characteristics (Dividend 62/100)"
+    ],
+    "top_risks": [
+      "Weak growth signal (Growth 25/100)",
+      "Balance-sheet / stability concerns (Stability 43/100)",
+      "High sensitivity to commodity / macro swings"
+    ]
+  },
+  "disclosures": [
+    {
+      "id": "TALABAT-3-1780815116",
+      "symbol": "TALABAT",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-06-07T06:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 46,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "TALABAT-5-1780797116",
+      "symbol": "TALABAT",
+      "event_type": "governance",
+      "title_src": "Governance / board change",
+      "title_en": "Governance / board change",
+      "title_lang": "en",
+      "published_at": "2026-06-07T01:51:56+00:00",
+      "body_excerpt": "Change in senior leadership / board composition disclosed.",
+      "url": null,
+      "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
+      "summary_ar": "",
+      "why_it_matters": "Leadership/board changes affect strategy continuity and disclosure quality.",
+      "materiality": 41,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "TALABAT-7-1780447916",
+      "symbol": "TALABAT",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-06-03T00:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 38,
+      "sentiment": "negative",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "TALABAT-6-1779058316",
+      "symbol": "TALABAT",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-05-17T22:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 69,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "TALABAT-2-1778997116",
+      "symbol": "TALABAT",
+      "event_type": "board_meeting",
+      "title_src": "دعوة لاجتماع مجلس الإدارة",
+      "title_en": "Board of Directors meeting invitation",
+      "title_lang": "ar",
+      "published_at": "2026-05-17T05:51:56+00:00",
+      "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
+      "url": null,
+      "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
+      "summary_ar": "دعوة لاجتماع مجلس الإدارة",
+      "why_it_matters": "Board meetings in the UAE often precede price-sensitive decisions (dividends, capital, buybacks).",
+      "materiality": 37,
+      "sentiment": "neutral",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "TALABAT-1-1776214316",
+      "symbol": "TALABAT",
+      "event_type": "subsidiary",
+      "title_src": "Subsidiary event",
+      "title_en": "Subsidiary event",
+      "title_lang": "en",
+      "published_at": "2026-04-15T00:51:56+00:00",
+      "body_excerpt": "Material development at a subsidiary disclosed to the market.",
+      "url": null,
+      "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
+      "summary_ar": "",
+      "why_it_matters": "Subsidiary developments can be material to the consolidated group.",
+      "materiality": 20,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": false
+    },
+    {
+      "id": "TALABAT-4-1774500716",
+      "symbol": "TALABAT",
+      "event_type": "agm_invitation",
+      "title_src": "دعوة للجمعية العمومية",
+      "title_en": "Invitation to the General Assembly Meeting",
+      "title_lang": "ar",
+      "published_at": "2026-03-26T04:51:56+00:00",
+      "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
+      "url": null,
+      "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
+      "summary_ar": "دعوة للجمعية العمومية",
+      "why_it_matters": "The AGM is where dividends and board changes are formally approved.",
+      "materiality": 67,
+      "sentiment": "positive",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    },
+    {
+      "id": "TALABAT-0-1774054316",
+      "symbol": "TALABAT",
+      "event_type": "dividend",
+      "title_src": "الإعلان عن توزيع أرباح نقدية",
+      "title_en": "Cash dividend distribution announcement",
+      "title_lang": "ar",
+      "published_at": "2026-03-21T00:51:56+00:00",
+      "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
+      "url": null,
+      "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
+      "summary_ar": "الإعلان عن توزيع أرباح نقدية",
+      "why_it_matters": "Dividend actions are a primary driver of total return for UAE income investors.",
+      "materiality": 36,
+      "sentiment": "cautious",
+      "linked_entities": [],
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      },
+      "translation_app_generated": true
+    }
+  ],
+  "meetings": [
+    {
+      "symbol": "TALABAT",
+      "kind": "board",
+      "date": "2026-07-01",
+      "status": "upcoming",
+      "agenda": [
+        "Review interim results",
+        "Consider cash dividend"
+      ],
+      "topics": [
+        "dividend"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "TALABAT",
+      "kind": "agm",
+      "date": "2026-08-09",
+      "status": "upcoming",
+      "agenda": [
+        "Approve dividend",
+        "Elect board",
+        "Appoint auditor"
+      ],
+      "topics": [
+        "dividend",
+        "board_election"
+      ],
+      "resolutions": [],
+      "outcome_summary": "",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    },
+    {
+      "symbol": "TALABAT",
+      "kind": "board",
+      "date": "2025-12-17",
+      "status": "held",
+      "agenda": [
+        "Approve annual results"
+      ],
+      "topics": [
+        "dividend",
+        "buyback"
+      ],
+      "resolutions": [
+        "Approved annual results",
+        "Recommended cash dividend"
+      ],
+      "outcome_summary": "Annual results approved; dividend recommended to AGM.",
+      "prov": {
+        "source_type": "mock",
+        "source_name": "Demo seed",
+        "data_quality": "demo",
+        "retrieved_at": "2026-06-18T08:51:56+00:00",
+        "url": null,
+        "lang": null
+      }
+    }
+  ],
+  "dividends": [],
+  "ownership": {
+    "symbol": "TALABAT",
+    "top_holders": [
+      {
+        "name": "Government / sovereign entity",
+        "pct": 54.3
+      },
+      {
+        "name": "Strategic shareholder",
+        "pct": 14.7
+      },
+      {
+        "name": "Free float",
+        "pct": 31.0
+      }
+    ],
+    "foreign_permitted": 49,
+    "foreign_actual": 10.5,
+    "foreign_available": 38.5,
+    "free_float": 31.0,
+    "prov": {
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-18T08:51:56+00:00",
+      "url": null,
+      "lang": null
+    }
+  },
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      3480700000.0,
+      3469900000.0,
+      3459100000.0,
+      3448400000.0,
+      3437700000.0
+    ],
+    "net_income": [
+      528700000.0,
+      513000000.0,
+      497400000.0,
+      481900000.0,
+      466500000.0
+    ],
+    "operating_cash_flow": [
+      553600000.0,
+      537100000.0,
+      520800000.0,
+      504600000.0,
+      488400000.0
+    ],
+    "ratios": {
+      "net_margin": 0.1357,
+      "net_debt_to_ebitda": 2.56,
+      "current_ratio": 1.51,
+      "payout_ratio": 0.36
+    },
+    "revenue_cagr_3y": 0.0,
+    "data_quality": "demo"
+  },
+  "global_factors": {
+    "exposures": [
+      {
+        "key": "consumer_demand",
+        "label_en": "Consumer spending",
+        "label_ar": "الإنفاق الاستهلاكي",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "tourism",
+        "label_en": "Tourism & visitors",
+        "label_ar": "السياحة",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      },
+      {
+        "key": "fuel_demand",
+        "label_en": "Fuel demand",
+        "label_ar": "الطلب على الوقود",
+        "unit": "idx",
+        "wb_series": null,
+        "latest_value": null,
+        "latest_change_pct": null
+      }
+    ],
+    "commodities": [
+      {
+        "series": "CRUDE_BRENT",
+        "label": "Brent crude",
+        "value": 77.2,
+        "change_pct": -0.0103,
+        "unit": "USD/bbl",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "NGAS_EUR",
+        "label": "Natural gas (EU)",
+        "value": 11.22,
+        "change_pct": -0.024,
+        "unit": "USD/mmbtu",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "ALUMINUM",
+        "label": "Aluminium",
+        "value": 2396.1,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "UREA_EE_BULK",
+        "label": "Urea",
+        "value": 352.08,
+        "change_pct": -0.022,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "WHEAT_US_HRW",
+        "label": "Wheat",
+        "value": 242.82,
+        "change_pct": -0.0089,
+        "unit": "USD/mt",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "series": "GOLD",
+        "label": "Gold",
+        "value": 2470.68,
+        "change_pct": 0.0381,
+        "unit": "USD/oz",
+        "as_of": "2026-06-18T08:51:56+00:00",
+        "prov": {
+          "source_type": "mock",
+          "source_name": "Demo seed",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "events": [
+      {
+        "title": "Uae headline — global macro update 1",
+        "theme": "ENERGY",
+        "published_at": "2026-06-17T07:51:56+00:00",
+        "domain": "gulfnews.com",
+        "url": null,
+        "tone": 0.1,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 2",
+        "theme": "ECON_INTEREST_RATE",
+        "published_at": "2026-06-17T23:51:56+00:00",
+        "domain": "thenationalnews.com",
+        "url": null,
+        "tone": -2.07,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      },
+      {
+        "title": "Uae headline — global macro update 3",
+        "theme": "TOURISM",
+        "published_at": "2026-06-16T02:51:56+00:00",
+        "domain": "reuters.com",
+        "url": null,
+        "tone": -5.59,
+        "prov": {
+          "source_type": "mock",
+          "source_name": "GDELT (demo)",
+          "data_quality": "demo",
+          "retrieved_at": "2026-06-18T08:51:56+00:00",
+          "url": null,
+          "lang": null
+        }
+      }
+    ],
+    "note": "Exposure map links this name to global drivers; commodity values from World Bank, events from GDELT (or demo)."
+  },
+  "ai_analysis": {
+    "short_term": {
+      "stance": "Cautious",
+      "confidence": "high",
+      "reasons": [
+        "No strong short-term catalysts; trading on broad market drift"
+      ],
+      "risks": [
+        "Negative price momentum (-1.9% on the session in demo data)",
+        "Recent disclosure tone skews cautious/negative"
+      ],
+      "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
+    },
+    "long_term": {
+      "stance": "Cautious",
+      "confidence": "low",
+      "reasons": [
+        "Dependable dividend characteristics (Dividend 62/100)"
+      ],
+      "risks": [
+        "Weak growth signal (Growth 25/100)",
+        "Balance-sheet / stability concerns (Stability 43/100)",
+        "High sensitivity to commodity / macro swings"
+      ],
+      "what_would_change_view": "A durable change in the growth, stability or dividend pillars — e.g. a re-rating in earnings, a leverage spike, or a dividend cut."
+    },
+    "_signal": {
+      "short": {
+        "stance": "Cautious",
+        "confidence": "high",
+        "score": 34.6,
+        "reasons": [
+          "No strong short-term catalysts; trading on broad market drift"
+        ],
+        "risks": [
+          "Negative price momentum (-1.9% on the session in demo data)",
+          "Recent disclosure tone skews cautious/negative"
+        ]
+      },
+      "long": {
+        "stance": "Cautious",
+        "confidence": "low",
+        "score": 39.6,
+        "reasons": [
+          "Dependable dividend characteristics (Dividend 62/100)"
+        ],
+        "risks": [
+          "Weak growth signal (Growth 25/100)",
+          "Balance-sheet / stability concerns (Stability 43/100)",
+          "High sensitivity to commodity / macro swings"
+        ]
+      }
+    },
+    "_engine": "deterministic-signal+narration",
+    "provider": "stub",
+    "generated_at": "2026-06-18T08:51:56+00:00"
+  },
+  "generated_at": "2026-06-18T08:51:56+00:00"
+}
