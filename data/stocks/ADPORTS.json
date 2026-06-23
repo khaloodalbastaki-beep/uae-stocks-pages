@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "ADPORTS",
-    "price": 4.74,
-    "change": 0.1,
-    "change_pct": 0.0216,
-    "volume": 5259779,
+    "price": 4.86,
+    "change": 0.0,
+    "change_pct": 0.0,
+    "volume": 2883259,
     "market_cap": null,
-    "high_52w": 4.988,
-    "low_52w": 4.62,
+    "high_52w": 5.053,
+    "low_52w": 4.69,
     "spark": [
-      4.62,
-      4.67,
-      4.648,
-      4.679,
-      4.657,
-      4.703,
-      4.744,
-      4.725,
+      4.728,
+      4.742,
+      4.754,
+      4.781,
       4.757,
-      4.735,
-      4.752,
-      4.696,
-      4.738,
       4.705,
+      4.69,
       4.731,
-      4.717,
-      4.745,
-      4.793,
-      4.844,
-      4.86,
-      4.818,
-      4.885,
-      4.938,
-      4.93,
-      4.93,
-      4.976,
-      4.979,
-      4.988,
-      4.969,
-      4.74
+      4.723,
+      4.788,
+      4.822,
+      4.788,
+      4.762,
+      4.795,
+      4.834,
+      4.832,
+      4.899,
+      4.904,
+      4.96,
+      4.947,
+      4.952,
+      5.003,
+      5.01,
+      5.053,
+      5.009,
+      4.951,
+      4.9,
+      4.944,
+      5.0,
+      4.86
     ],
     "prov": {
       "source_type": "official",
       "source_name": "ADX (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-18T10:34:02.795Z",
+      "retrieved_at": "2026-06-23T11:08:01.480Z",
       "url": null,
       "lang": null
     }
@@ -285,9 +285,9 @@
     ],
     "quick_stats": {
       "market_cap": null,
-      "volume": 5259779,
-      "high_52w": 4.988,
-      "low_52w": 4.62,
+      "volume": 2883259,
+      "high_52w": 5.053,
+      "low_52w": 4.69,
       "dividend_yield": 0.0119
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "ADPORTS-2-1778232842",
+      "id": "ADPORTS-2-1778666881",
       "symbol": "ADPORTS",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-05-08T09:34:02+00:00",
+      "published_at": "2026-05-13T10:08:01+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "ADPORTS-3-1778034842",
+      "id": "ADPORTS-3-1778468881",
       "symbol": "ADPORTS",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-05-06T02:34:02+00:00",
+      "published_at": "2026-05-11T03:08:01+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "ADPORTS-1-1775360042",
+      "id": "ADPORTS-1-1775794081",
       "symbol": "ADPORTS",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-04-05T03:34:02+00:00",
+      "published_at": "2026-04-10T04:08:01+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "ADPORTS-0-1775295242",
+      "id": "ADPORTS-0-1775729281",
       "symbol": "ADPORTS",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-04-04T09:34:02+00:00",
+      "published_at": "2026-04-09T10:08:01+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -396,7 +396,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
@@ -407,7 +407,7 @@
     {
       "symbol": "ADPORTS",
       "kind": "board",
-      "date": "2026-06-27",
+      "date": "2026-07-02",
       "status": "upcoming",
       "agenda": [
         "Review interim results",
@@ -422,7 +422,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -430,7 +430,7 @@
     {
       "symbol": "ADPORTS",
       "kind": "agm",
-      "date": "2026-07-28",
+      "date": "2026-08-02",
       "status": "upcoming",
       "agenda": [
         "Approve dividend",
@@ -447,7 +447,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -455,7 +455,7 @@
     {
       "symbol": "ADPORTS",
       "kind": "board",
-      "date": "2026-02-07",
+      "date": "2026-02-12",
       "status": "held",
       "agenda": [
         "Approve annual results"
@@ -473,7 +473,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -484,17 +484,17 @@
       "symbol": "ADPORTS",
       "amount": 0.0163,
       "currency": "AED",
-      "agm_date": "2026-07-02",
-      "entitlement_date": "2026-07-22",
-      "ex_date": "2026-07-21",
-      "payment_date": "2026-08-11",
+      "agm_date": "2026-07-07",
+      "entitlement_date": "2026-07-27",
+      "ex_date": "2026-07-26",
+      "payment_date": "2026-08-16",
       "frequency": "quarterly",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -503,17 +503,17 @@
       "symbol": "ADPORTS",
       "amount": 0.0163,
       "currency": "AED",
-      "agm_date": "2026-05-15",
-      "entitlement_date": "2026-06-02",
-      "ex_date": "2026-06-01",
-      "payment_date": "2026-06-18",
+      "agm_date": "2026-05-20",
+      "entitlement_date": "2026-06-07",
+      "ex_date": "2026-06-06",
+      "payment_date": "2026-06-23",
       "frequency": "quarterly",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -522,17 +522,17 @@
       "symbol": "ADPORTS",
       "amount": 0.0163,
       "currency": "AED",
-      "agm_date": "2026-02-13",
-      "entitlement_date": "2026-03-03",
-      "ex_date": "2026-03-02",
-      "payment_date": "2026-03-19",
+      "agm_date": "2026-02-18",
+      "entitlement_date": "2026-03-08",
+      "ex_date": "2026-03-07",
+      "payment_date": "2026-03-24",
       "frequency": "quarterly",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -541,17 +541,17 @@
       "symbol": "ADPORTS",
       "amount": 0.0163,
       "currency": "AED",
-      "agm_date": "2025-11-13",
-      "entitlement_date": "2025-12-01",
-      "ex_date": "2025-11-30",
-      "payment_date": "2025-12-17",
+      "agm_date": "2025-11-18",
+      "entitlement_date": "2025-12-06",
+      "ex_date": "2025-12-05",
+      "payment_date": "2025-12-22",
       "frequency": "quarterly",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -560,17 +560,17 @@
       "symbol": "ADPORTS",
       "amount": 0.0163,
       "currency": "AED",
-      "agm_date": "2025-08-16",
-      "entitlement_date": "2025-09-03",
-      "ex_date": "2025-09-02",
-      "payment_date": "2025-09-19",
+      "agm_date": "2025-08-21",
+      "entitlement_date": "2025-09-08",
+      "ex_date": "2025-09-07",
+      "payment_date": "2025-09-24",
       "frequency": "quarterly",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -579,17 +579,17 @@
       "symbol": "ADPORTS",
       "amount": 0.0163,
       "currency": "AED",
-      "agm_date": "2025-05-22",
-      "entitlement_date": "2025-06-09",
-      "ex_date": "2025-06-08",
-      "payment_date": "2025-06-25",
+      "agm_date": "2025-05-27",
+      "entitlement_date": "2025-06-14",
+      "ex_date": "2025-06-13",
+      "payment_date": "2025-06-30",
       "frequency": "quarterly",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -598,17 +598,17 @@
       "symbol": "ADPORTS",
       "amount": 0.0163,
       "currency": "AED",
-      "agm_date": "2025-02-11",
-      "entitlement_date": "2025-03-01",
-      "ex_date": "2025-02-28",
-      "payment_date": "2025-03-17",
+      "agm_date": "2025-02-16",
+      "entitlement_date": "2025-03-06",
+      "ex_date": "2025-03-05",
+      "payment_date": "2025-03-22",
       "frequency": "quarterly",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -617,17 +617,17 @@
       "symbol": "ADPORTS",
       "amount": 0.0163,
       "currency": "AED",
-      "agm_date": "2024-11-15",
-      "entitlement_date": "2024-12-03",
-      "ex_date": "2024-12-02",
-      "payment_date": "2024-12-19",
+      "agm_date": "2024-11-20",
+      "entitlement_date": "2024-12-08",
+      "ex_date": "2024-12-07",
+      "payment_date": "2024-12-24",
       "frequency": "quarterly",
       "fiscal_year": "2024",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -636,17 +636,17 @@
       "symbol": "ADPORTS",
       "amount": 0.0163,
       "currency": "AED",
-      "agm_date": "2024-08-29",
-      "entitlement_date": "2024-09-16",
-      "ex_date": "2024-09-15",
-      "payment_date": "2024-10-02",
+      "agm_date": "2024-09-03",
+      "entitlement_date": "2024-09-21",
+      "ex_date": "2024-09-20",
+      "payment_date": "2024-10-07",
       "frequency": "quarterly",
       "fiscal_year": "2024",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -676,7 +676,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-18T10:34:02+00:00",
+      "retrieved_at": "2026-06-23T11:08:01+00:00",
       "url": null,
       "lang": null
     }
@@ -756,12 +756,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -772,12 +772,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -788,12 +788,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -804,12 +804,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -820,12 +820,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -836,12 +836,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -851,7 +851,7 @@
       {
         "title": "Shipping headline — global macro update 1",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-16T22:34:02+00:00",
+        "published_at": "2026-06-21T23:08:01+00:00",
         "domain": "gulfnews.com",
         "url": null,
         "tone": 3.19,
@@ -859,7 +859,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -867,7 +867,7 @@
       {
         "title": "Shipping headline — global macro update 2",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-17T13:34:02+00:00",
+        "published_at": "2026-06-22T14:08:01+00:00",
         "domain": "gulfnews.com",
         "url": null,
         "tone": 0.38,
@@ -875,7 +875,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -883,7 +883,7 @@
       {
         "title": "Shipping headline — global macro update 3",
         "theme": "ENERGY",
-        "published_at": "2026-06-17T18:34:02+00:00",
+        "published_at": "2026-06-22T19:08:01+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": -3.36,
@@ -891,7 +891,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -899,7 +899,7 @@
       {
         "title": "Shipping headline — global macro update 4",
         "theme": "TRADE",
-        "published_at": "2026-06-15T22:34:02+00:00",
+        "published_at": "2026-06-20T23:08:01+00:00",
         "domain": "gulfnews.com",
         "url": null,
         "tone": 1.65,
@@ -907,7 +907,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -915,7 +915,7 @@
       {
         "title": "Shipping headline — global macro update 5",
         "theme": "MARITIME",
-        "published_at": "2026-06-17T03:34:02+00:00",
+        "published_at": "2026-06-22T04:08:01+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 1.15,
@@ -923,7 +923,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -931,7 +931,7 @@
       {
         "title": "Shipping headline — global macro update 6",
         "theme": "ENERGY",
-        "published_at": "2026-06-16T18:34:02+00:00",
+        "published_at": "2026-06-21T19:08:01+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": 2.1,
@@ -939,7 +939,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -950,9 +950,8 @@
   "ai_analysis": {
     "short_term": {
       "stance": "Neutral",
-      "confidence": "high",
+      "confidence": "medium",
       "reasons": [
-        "Positive price momentum (+2.2% on the session in demo data)",
         "A high-materiality disclosure (80/100) is in the recent flow",
         "Recent disclosure tone skews positive"
       ],
@@ -975,10 +974,9 @@
     "_signal": {
       "short": {
         "stance": "Neutral",
-        "confidence": "high",
-        "score": 64.1,
+        "confidence": "medium",
+        "score": 57.6,
         "reasons": [
-          "Positive price momentum (+2.2% on the session in demo data)",
           "A high-materiality disclosure (80/100) is in the recent flow",
           "Recent disclosure tone skews positive"
         ],
@@ -1000,7 +998,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-18T10:34:02+00:00"
+    "generated_at": "2026-06-23T11:08:01+00:00"
   },
-  "generated_at": "2026-06-18T10:34:02+00:00"
+  "generated_at": "2026-06-23T11:08:01+00:00"
 }

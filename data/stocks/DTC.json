@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "DTC",
-    "price": 2.44,
-    "change": 0.1,
-    "change_pct": 0.0427,
+    "price": 2.38,
+    "change": -0.04,
+    "change_pct": -0.0165,
     "volume": 0,
     "market_cap": null,
-    "high_52w": 2.467,
-    "low_52w": 2.286,
+    "high_52w": 2.428,
+    "low_52w": 2.28,
     "spark": [
-      2.289,
-      2.289,
-      2.294,
-      2.317,
-      2.299,
-      2.289,
-      2.288,
-      2.295,
-      2.32,
-      2.308,
-      2.286,
-      2.314,
-      2.321,
-      2.315,
-      2.33,
-      2.359,
-      2.389,
-      2.37,
-      2.403,
-      2.428,
-      2.452,
-      2.467,
-      2.45,
-      2.43,
-      2.444,
+      2.388,
+      2.39,
+      2.408,
+      2.42,
       2.425,
-      2.439,
-      2.446,
-      2.457,
-      2.44
+      2.408,
+      2.4,
+      2.395,
+      2.428,
+      2.4,
+      2.417,
+      2.4,
+      2.4,
+      2.389,
+      2.364,
+      2.377,
+      2.394,
+      2.366,
+      2.354,
+      2.337,
+      2.313,
+      2.295,
+      2.326,
+      2.306,
+      2.295,
+      2.305,
+      2.28,
+      2.301,
+      2.3,
+      2.38
     ],
     "prov": {
       "source_type": "official",
       "source_name": "DFM (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-18T10:34:02.795Z",
+      "retrieved_at": "2026-06-23T11:08:01.480Z",
       "url": null,
       "lang": null
     }
@@ -286,8 +286,8 @@
     "quick_stats": {
       "market_cap": null,
       "volume": 0,
-      "high_52w": 2.467,
-      "low_52w": 2.286,
+      "high_52w": 2.428,
+      "low_52w": 2.28,
       "dividend_yield": 0.0011
     },
     "top_catalysts": [
@@ -300,13 +300,13 @@
   },
   "disclosures": [
     {
-      "id": "DTC-5-1781246042",
+      "id": "DTC-5-1781680081",
       "symbol": "DTC",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-06-12T06:34:02+00:00",
+      "published_at": "2026-06-17T07:08:01+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -319,20 +319,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "DTC-6-1780392842",
+      "id": "DTC-6-1780826881",
       "symbol": "DTC",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-06-02T09:34:02+00:00",
+      "published_at": "2026-06-07T10:08:01+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -345,20 +345,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "DTC-2-1780191242",
+      "id": "DTC-2-1780625281",
       "symbol": "DTC",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-05-31T01:34:02+00:00",
+      "published_at": "2026-06-05T02:08:01+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -371,20 +371,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "DTC-1-1776335642",
+      "id": "DTC-1-1776769681",
       "symbol": "DTC",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-04-16T10:34:02+00:00",
+      "published_at": "2026-04-21T11:08:01+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -397,20 +397,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "DTC-4-1774859642",
+      "id": "DTC-4-1775293681",
       "symbol": "DTC",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-03-30T08:34:02+00:00",
+      "published_at": "2026-04-04T09:08:01+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -423,20 +423,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "DTC-3-1774776842",
+      "id": "DTC-3-1775210881",
       "symbol": "DTC",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-03-29T09:34:02+00:00",
+      "published_at": "2026-04-03T10:08:01+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -449,20 +449,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "DTC-0-1774510442",
+      "id": "DTC-0-1774944481",
       "symbol": "DTC",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-03-26T07:34:02+00:00",
+      "published_at": "2026-03-31T08:08:01+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -475,7 +475,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
@@ -486,7 +486,7 @@
     {
       "symbol": "DTC",
       "kind": "board",
-      "date": "2026-07-07",
+      "date": "2026-07-12",
       "status": "upcoming",
       "agenda": [
         "Review interim results",
@@ -501,7 +501,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -509,7 +509,7 @@
     {
       "symbol": "DTC",
       "kind": "agm",
-      "date": "2026-08-13",
+      "date": "2026-08-18",
       "status": "upcoming",
       "agenda": [
         "Approve dividend",
@@ -526,7 +526,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -534,7 +534,7 @@
     {
       "symbol": "DTC",
       "kind": "board",
-      "date": "2026-01-18",
+      "date": "2026-01-23",
       "status": "held",
       "agenda": [
         "Approve annual results"
@@ -552,7 +552,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -563,17 +563,17 @@
       "symbol": "DTC",
       "amount": 0.0032,
       "currency": "AED",
-      "agm_date": "2026-07-13",
-      "entitlement_date": "2026-08-02",
-      "ex_date": "2026-08-01",
-      "payment_date": "2026-08-22",
+      "agm_date": "2026-07-18",
+      "entitlement_date": "2026-08-07",
+      "ex_date": "2026-08-06",
+      "payment_date": "2026-08-27",
       "frequency": "annual",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -582,17 +582,17 @@
       "symbol": "DTC",
       "amount": 0.0032,
       "currency": "AED",
-      "agm_date": "2026-05-28",
-      "entitlement_date": "2026-06-15",
-      "ex_date": "2026-06-14",
-      "payment_date": "2026-07-01",
+      "agm_date": "2026-06-02",
+      "entitlement_date": "2026-06-20",
+      "ex_date": "2026-06-19",
+      "payment_date": "2026-07-06",
       "frequency": "annual",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -601,17 +601,17 @@
       "symbol": "DTC",
       "amount": 0.0032,
       "currency": "AED",
-      "agm_date": "2025-05-22",
-      "entitlement_date": "2025-06-09",
-      "ex_date": "2025-06-08",
-      "payment_date": "2025-06-25",
+      "agm_date": "2025-05-27",
+      "entitlement_date": "2025-06-14",
+      "ex_date": "2025-06-13",
+      "payment_date": "2025-06-30",
       "frequency": "annual",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -641,7 +641,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-18T10:34:02+00:00",
+      "retrieved_at": "2026-06-23T11:08:01+00:00",
       "url": null,
       "lang": null
     }
@@ -721,12 +721,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -737,12 +737,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -753,12 +753,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -769,12 +769,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -785,12 +785,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -801,12 +801,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -816,7 +816,7 @@
       {
         "title": "Fuel headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-16T00:34:02+00:00",
+        "published_at": "2026-06-21T01:08:01+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": -5.04,
@@ -824,7 +824,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -832,7 +832,7 @@
       {
         "title": "Fuel headline — global macro update 2",
         "theme": "TRADE",
-        "published_at": "2026-06-16T19:34:02+00:00",
+        "published_at": "2026-06-21T20:08:01+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": -1.46,
@@ -840,7 +840,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -848,7 +848,7 @@
       {
         "title": "Fuel headline — global macro update 3",
         "theme": "TOURISM",
-        "published_at": "2026-06-16T13:34:02+00:00",
+        "published_at": "2026-06-21T14:08:01+00:00",
         "domain": "gulfnews.com",
         "url": null,
         "tone": 5.3,
@@ -856,7 +856,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -864,7 +864,7 @@
       {
         "title": "Fuel headline — global macro update 4",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-16T07:34:02+00:00",
+        "published_at": "2026-06-21T08:08:01+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": -3.96,
@@ -872,7 +872,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -882,15 +882,14 @@
   },
   "ai_analysis": {
     "short_term": {
-      "stance": "Bullish",
-      "confidence": "high",
+      "stance": "Neutral",
+      "confidence": "medium",
       "reasons": [
-        "Positive price momentum (+4.3% on the session in demo data)",
         "A high-materiality disclosure (90/100) is in the recent flow",
         "Recent disclosure tone skews positive"
       ],
       "risks": [
-        "A surprise filing or a sector-wide move could shift the picture quickly"
+        "Negative price momentum (-1.7% on the session in demo data)"
       ],
       "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
     },
@@ -908,16 +907,15 @@
     },
     "_signal": {
       "short": {
-        "stance": "Bullish",
-        "confidence": "high",
-        "score": 69.6,
+        "stance": "Neutral",
+        "confidence": "medium",
+        "score": 51.8,
         "reasons": [
-          "Positive price momentum (+4.3% on the session in demo data)",
           "A high-materiality disclosure (90/100) is in the recent flow",
           "Recent disclosure tone skews positive"
         ],
         "risks": [
-          "A surprise filing or a sector-wide move could shift the picture quickly"
+          "Negative price momentum (-1.7% on the session in demo data)"
         ]
       },
       "long": {
@@ -935,7 +933,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-18T10:34:02+00:00"
+    "generated_at": "2026-06-23T11:08:01+00:00"
   },
-  "generated_at": "2026-06-18T10:34:02+00:00"
+  "generated_at": "2026-06-23T11:08:01+00:00"
 }

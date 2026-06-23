@@ -28,6 +28,8 @@
       no_data: "No data available.", view_stock: "Open stock",
       exposure_map: "Exposure map", est_impact: "Estimated impact", upcoming: "Upcoming", held: "Held",
       search_ph: "Search symbol or company…",
+      alert_queue: "Alert Queue", delivery_disabled: "Delivery disabled", preview_only: "Preview only",
+      high: "High", medium: "Medium", low: "Low", total: "Total",
     },
     ar: {
       tagline: "أبوظبي · دبي · شفّاف ومن المصدر",
@@ -54,6 +56,8 @@
       no_data: "لا تتوفر بيانات.", view_stock: "فتح السهم",
       exposure_map: "خريطة التعرّض", est_impact: "التأثير المقدّر", upcoming: "قادم", held: "منعقد",
       search_ph: "ابحث عن رمز أو شركة…",
+      alert_queue: "قائمة التنبيهات", delivery_disabled: "الإرسال غير مفعّل", preview_only: "معاينة فقط",
+      high: "عالي", medium: "متوسط", low: "منخفض", total: "الإجمالي",
     },
   };
 

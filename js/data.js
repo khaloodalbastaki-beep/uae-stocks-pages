@@ -35,6 +35,8 @@
     events: () => load("events.json", { cacheKey: "events" }),
     commodities: () => load("commodities.json", { cacheKey: "commodities" }),
     globalEvents: () => load("global_events.json", { cacheKey: "gevents" }),
+    alerts: () => load("alerts.json", { cacheKey: "alerts" }),
+    readiness: () => load("launch_readiness.json", { cacheKey: "readiness" }),
     stock: (sym) => load(`stocks/${sym}.json`, { cacheKey: "stock_" + sym }),
   };
   window.DATA = DATA;

@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "FERTIGLB",
-    "price": 2.82,
-    "change": 0.11,
-    "change_pct": 0.0406,
-    "volume": 21212587,
+    "price": 2.79,
+    "change": -0.09,
+    "change_pct": -0.0312,
+    "volume": 5066405,
     "market_cap": null,
-    "high_52w": 2.82,
-    "low_52w": 2.552,
+    "high_52w": 3.002,
+    "low_52w": 2.79,
     "spark": [
-      2.643,
-      2.623,
-      2.643,
-      2.623,
-      2.604,
-      2.592,
-      2.567,
-      2.552,
-      2.556,
-      2.581,
-      2.591,
-      2.577,
-      2.595,
-      2.615,
-      2.613,
-      2.639,
-      2.615,
-      2.596,
-      2.627,
-      2.65,
-      2.65,
-      2.639,
-      2.653,
-      2.627,
-      2.65,
-      2.633,
-      2.667,
-      2.657,
-      2.65,
-      2.82
+      2.868,
+      2.865,
+      2.849,
+      2.837,
+      2.865,
+      2.874,
+      2.854,
+      2.872,
+      2.893,
+      2.895,
+      2.892,
+      2.919,
+      2.951,
+      2.939,
+      2.956,
+      2.939,
+      2.965,
+      2.966,
+      2.945,
+      2.977,
+      3.0,
+      2.972,
+      3.002,
+      2.971,
+      2.939,
+      2.93,
+      2.913,
+      2.899,
+      2.929,
+      2.79
     ],
     "prov": {
       "source_type": "official",
       "source_name": "ADX (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-18T10:34:02.795Z",
+      "retrieved_at": "2026-06-23T11:08:01.480Z",
       "url": null,
       "lang": null
     }
@@ -285,9 +285,9 @@
     ],
     "quick_stats": {
       "market_cap": null,
-      "volume": 21212587,
-      "high_52w": 2.82,
-      "low_52w": 2.552,
+      "volume": 5066405,
+      "high_52w": 3.002,
+      "low_52w": 2.79,
       "dividend_yield": 0.0426
     },
     "top_catalysts": [
@@ -300,13 +300,13 @@
   },
   "disclosures": [
     {
-      "id": "FERTIGLB-0-1781516042",
+      "id": "FERTIGLB-0-1781950081",
       "symbol": "FERTIGLB",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-06-15T09:34:02+00:00",
+      "published_at": "2026-06-20T10:08:01+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -319,20 +319,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "FERTIGLB-5-1780310042",
+      "id": "FERTIGLB-5-1780744081",
       "symbol": "FERTIGLB",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-06-01T10:34:02+00:00",
+      "published_at": "2026-06-06T11:08:01+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -345,20 +345,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "FERTIGLB-4-1778135642",
+      "id": "FERTIGLB-4-1778569681",
       "symbol": "FERTIGLB",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-05-07T06:34:02+00:00",
+      "published_at": "2026-05-12T07:08:01+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -371,20 +371,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "FERTIGLB-2-1776591242",
+      "id": "FERTIGLB-2-1777025281",
       "symbol": "FERTIGLB",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-04-19T09:34:02+00:00",
+      "published_at": "2026-04-24T10:08:01+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -397,20 +397,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "FERTIGLB-1-1775540042",
+      "id": "FERTIGLB-1-1775974081",
       "symbol": "FERTIGLB",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-04-07T05:34:02+00:00",
+      "published_at": "2026-04-12T06:08:01+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -423,20 +423,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "FERTIGLB-3-1775450042",
+      "id": "FERTIGLB-3-1775884081",
       "symbol": "FERTIGLB",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-04-06T04:34:02+00:00",
+      "published_at": "2026-04-11T05:08:01+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -449,7 +449,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
@@ -460,7 +460,7 @@
     {
       "symbol": "FERTIGLB",
       "kind": "board",
-      "date": "2026-07-15",
+      "date": "2026-07-20",
       "status": "upcoming",
       "agenda": [
         "Review interim results",
@@ -475,7 +475,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -483,7 +483,7 @@
     {
       "symbol": "FERTIGLB",
       "kind": "agm",
-      "date": "2026-08-12",
+      "date": "2026-08-17",
       "status": "upcoming",
       "agenda": [
         "Approve dividend",
@@ -500,7 +500,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -508,7 +508,7 @@
     {
       "symbol": "FERTIGLB",
       "kind": "board",
-      "date": "2026-05-09",
+      "date": "2026-05-14",
       "status": "held",
       "agenda": [
         "Approve annual results"
@@ -526,7 +526,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -537,17 +537,17 @@
       "symbol": "FERTIGLB",
       "amount": 0.0324,
       "currency": "AED",
-      "agm_date": "2026-07-06",
-      "entitlement_date": "2026-07-26",
-      "ex_date": "2026-07-25",
-      "payment_date": "2026-08-15",
+      "agm_date": "2026-07-11",
+      "entitlement_date": "2026-07-31",
+      "ex_date": "2026-07-30",
+      "payment_date": "2026-08-20",
       "frequency": "quarterly",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -556,17 +556,17 @@
       "symbol": "FERTIGLB",
       "amount": 0.0324,
       "currency": "AED",
-      "agm_date": "2026-05-28",
-      "entitlement_date": "2026-06-15",
-      "ex_date": "2026-06-14",
-      "payment_date": "2026-07-01",
+      "agm_date": "2026-06-02",
+      "entitlement_date": "2026-06-20",
+      "ex_date": "2026-06-19",
+      "payment_date": "2026-07-06",
       "frequency": "quarterly",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -575,17 +575,17 @@
       "symbol": "FERTIGLB",
       "amount": 0.0324,
       "currency": "AED",
-      "agm_date": "2026-02-26",
-      "entitlement_date": "2026-03-16",
-      "ex_date": "2026-03-15",
-      "payment_date": "2026-04-01",
+      "agm_date": "2026-03-03",
+      "entitlement_date": "2026-03-21",
+      "ex_date": "2026-03-20",
+      "payment_date": "2026-04-06",
       "frequency": "quarterly",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -594,17 +594,17 @@
       "symbol": "FERTIGLB",
       "amount": 0.0324,
       "currency": "AED",
-      "agm_date": "2025-11-20",
-      "entitlement_date": "2025-12-08",
-      "ex_date": "2025-12-07",
-      "payment_date": "2025-12-24",
+      "agm_date": "2025-11-25",
+      "entitlement_date": "2025-12-13",
+      "ex_date": "2025-12-12",
+      "payment_date": "2025-12-29",
       "frequency": "quarterly",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -613,17 +613,17 @@
       "symbol": "FERTIGLB",
       "amount": 0.0324,
       "currency": "AED",
-      "agm_date": "2025-08-12",
-      "entitlement_date": "2025-08-30",
-      "ex_date": "2025-08-29",
-      "payment_date": "2025-09-15",
+      "agm_date": "2025-08-17",
+      "entitlement_date": "2025-09-04",
+      "ex_date": "2025-09-03",
+      "payment_date": "2025-09-20",
       "frequency": "quarterly",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -632,17 +632,17 @@
       "symbol": "FERTIGLB",
       "amount": 0.0324,
       "currency": "AED",
-      "agm_date": "2025-05-16",
-      "entitlement_date": "2025-06-03",
-      "ex_date": "2025-06-02",
-      "payment_date": "2025-06-19",
+      "agm_date": "2025-05-21",
+      "entitlement_date": "2025-06-08",
+      "ex_date": "2025-06-07",
+      "payment_date": "2025-06-24",
       "frequency": "quarterly",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -651,17 +651,17 @@
       "symbol": "FERTIGLB",
       "amount": 0.0324,
       "currency": "AED",
-      "agm_date": "2025-02-28",
-      "entitlement_date": "2025-03-18",
-      "ex_date": "2025-03-17",
-      "payment_date": "2025-04-03",
+      "agm_date": "2025-03-05",
+      "entitlement_date": "2025-03-23",
+      "ex_date": "2025-03-22",
+      "payment_date": "2025-04-08",
       "frequency": "quarterly",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -670,17 +670,17 @@
       "symbol": "FERTIGLB",
       "amount": 0.0324,
       "currency": "AED",
-      "agm_date": "2024-11-28",
-      "entitlement_date": "2024-12-16",
-      "ex_date": "2024-12-15",
-      "payment_date": "2025-01-01",
+      "agm_date": "2024-12-03",
+      "entitlement_date": "2024-12-21",
+      "ex_date": "2024-12-20",
+      "payment_date": "2025-01-06",
       "frequency": "quarterly",
       "fiscal_year": "2024",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -689,17 +689,17 @@
       "symbol": "FERTIGLB",
       "amount": 0.0324,
       "currency": "AED",
-      "agm_date": "2024-08-20",
-      "entitlement_date": "2024-09-07",
-      "ex_date": "2024-09-06",
-      "payment_date": "2024-09-23",
+      "agm_date": "2024-08-25",
+      "entitlement_date": "2024-09-12",
+      "ex_date": "2024-09-11",
+      "payment_date": "2024-09-28",
       "frequency": "quarterly",
       "fiscal_year": "2024",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -729,7 +729,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-18T10:34:02+00:00",
+      "retrieved_at": "2026-06-23T11:08:01+00:00",
       "url": null,
       "lang": null
     }
@@ -818,12 +818,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -834,12 +834,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -850,12 +850,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -866,12 +866,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -882,12 +882,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -898,12 +898,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -913,7 +913,7 @@
       {
         "title": "Fertilizer headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-17T01:34:02+00:00",
+        "published_at": "2026-06-22T02:08:01+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -1.18,
@@ -921,7 +921,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -929,7 +929,7 @@
       {
         "title": "Fertilizer headline — global macro update 2",
         "theme": "MARITIME",
-        "published_at": "2026-06-17T13:34:02+00:00",
+        "published_at": "2026-06-22T14:08:01+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": 3.12,
@@ -937,7 +937,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -945,7 +945,7 @@
       {
         "title": "Fertilizer headline — global macro update 3",
         "theme": "ENERGY",
-        "published_at": "2026-06-15T19:34:02+00:00",
+        "published_at": "2026-06-20T20:08:01+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": -2.45,
@@ -953,7 +953,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -961,7 +961,7 @@
       {
         "title": "Fertilizer headline — global macro update 4",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-16T01:34:02+00:00",
+        "published_at": "2026-06-21T02:08:01+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": -4.23,
@@ -969,7 +969,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -977,7 +977,7 @@
       {
         "title": "Fertilizer headline — global macro update 5",
         "theme": "TOURISM",
-        "published_at": "2026-06-18T05:34:02+00:00",
+        "published_at": "2026-06-23T06:08:01+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 1.77,
@@ -985,7 +985,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -993,7 +993,7 @@
       {
         "title": "Fertilizer headline — global macro update 6",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-18T02:34:02+00:00",
+        "published_at": "2026-06-23T03:08:01+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": -0.9,
@@ -1001,7 +1001,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -1011,12 +1011,13 @@
   },
   "ai_analysis": {
     "short_term": {
-      "stance": "Neutral",
+      "stance": "Cautious",
       "confidence": "medium",
       "reasons": [
-        "Positive price momentum (+4.1% on the session in demo data)"
+        "No strong short-term catalysts; trading on broad market drift"
       ],
       "risks": [
+        "Negative price momentum (-3.1% on the session in demo data)",
         "Recent disclosure tone skews cautious/negative"
       ],
       "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
@@ -1035,13 +1036,14 @@
     },
     "_signal": {
       "short": {
-        "stance": "Neutral",
+        "stance": "Cautious",
         "confidence": "medium",
-        "score": 61.6,
+        "score": 40.1,
         "reasons": [
-          "Positive price momentum (+4.1% on the session in demo data)"
+          "No strong short-term catalysts; trading on broad market drift"
         ],
         "risks": [
+          "Negative price momentum (-3.1% on the session in demo data)",
           "Recent disclosure tone skews cautious/negative"
         ]
       },
@@ -1060,7 +1062,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-18T10:34:02+00:00"
+    "generated_at": "2026-06-23T11:08:01+00:00"
   },
-  "generated_at": "2026-06-18T10:34:02+00:00"
+  "generated_at": "2026-06-23T11:08:01+00:00"
 }

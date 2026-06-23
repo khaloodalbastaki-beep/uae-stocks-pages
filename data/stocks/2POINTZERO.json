@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "2POINTZERO",
-    "price": 2.26,
-    "change": 0.05,
-    "change_pct": 0.0226,
-    "volume": 30609575,
+    "price": 2.25,
+    "change": -0.01,
+    "change_pct": -0.0044,
+    "volume": 6907563,
     "market_cap": null,
-    "high_52w": 2.26,
-    "low_52w": 2.104,
+    "high_52w": 2.397,
+    "low_52w": 2.199,
     "spark": [
-      2.181,
-      2.156,
-      2.182,
-      2.163,
-      2.178,
-      2.173,
-      2.202,
-      2.202,
-      2.189,
-      2.178,
-      2.181,
-      2.184,
-      2.201,
-      2.194,
-      2.209,
+      2.222,
+      2.208,
+      2.199,
+      2.203,
       2.233,
-      2.227,
-      2.21,
-      2.191,
-      2.197,
-      2.176,
-      2.162,
-      2.156,
-      2.133,
-      2.127,
-      2.106,
-      2.106,
-      2.104,
-      2.125,
-      2.26
+      2.248,
+      2.235,
+      2.226,
+      2.238,
+      2.245,
+      2.24,
+      2.24,
+      2.26,
+      2.263,
+      2.272,
+      2.284,
+      2.277,
+      2.256,
+      2.26,
+      2.286,
+      2.31,
+      2.314,
+      2.325,
+      2.354,
+      2.366,
+      2.346,
+      2.366,
+      2.378,
+      2.397,
+      2.25
     ],
     "prov": {
       "source_type": "official",
       "source_name": "ADX (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-18T10:34:02.795Z",
+      "retrieved_at": "2026-06-23T11:08:01.480Z",
       "url": null,
       "lang": null
     }
@@ -285,9 +285,9 @@
     ],
     "quick_stats": {
       "market_cap": null,
-      "volume": 30609575,
-      "high_52w": 2.26,
-      "low_52w": 2.104,
+      "volume": 6907563,
+      "high_52w": 2.397,
+      "low_52w": 2.199,
       "dividend_yield": 0.0215
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "2POINTZERO-1-1781318042",
+      "id": "2POINTZERO-1-1781752081",
       "symbol": "2POINTZERO",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-06-13T02:34:02+00:00",
+      "published_at": "2026-06-18T03:08:01+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "2POINTZERO-5-1781224442",
+      "id": "2POINTZERO-5-1781658481",
       "symbol": "2POINTZERO",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-06-12T00:34:02+00:00",
+      "published_at": "2026-06-17T01:08:01+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "2POINTZERO-6-1780112042",
+      "id": "2POINTZERO-6-1780546081",
       "symbol": "2POINTZERO",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-05-30T03:34:02+00:00",
+      "published_at": "2026-06-04T04:08:01+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "2POINTZERO-3-1779424442",
+      "id": "2POINTZERO-3-1779858481",
       "symbol": "2POINTZERO",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-05-22T04:34:02+00:00",
+      "published_at": "2026-05-27T05:08:01+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -396,20 +396,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "2POINTZERO-7-1779093242",
+      "id": "2POINTZERO-7-1779527281",
       "symbol": "2POINTZERO",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-05-18T08:34:02+00:00",
+      "published_at": "2026-05-23T09:08:01+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -422,20 +422,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "2POINTZERO-4-1778996042",
+      "id": "2POINTZERO-4-1779430081",
       "symbol": "2POINTZERO",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-05-17T05:34:02+00:00",
+      "published_at": "2026-05-22T06:08:01+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -448,20 +448,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "2POINTZERO-0-1778571242",
+      "id": "2POINTZERO-0-1779005281",
       "symbol": "2POINTZERO",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-05-12T07:34:02+00:00",
+      "published_at": "2026-05-17T08:08:01+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -474,20 +474,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "2POINTZERO-2-1776137642",
+      "id": "2POINTZERO-2-1776571681",
       "symbol": "2POINTZERO",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-04-14T03:34:02+00:00",
+      "published_at": "2026-04-19T04:08:01+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -500,7 +500,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
@@ -511,7 +511,7 @@
     {
       "symbol": "2POINTZERO",
       "kind": "board",
-      "date": "2026-07-14",
+      "date": "2026-07-19",
       "status": "upcoming",
       "agenda": [
         "Review interim results",
@@ -526,7 +526,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -534,7 +534,7 @@
     {
       "symbol": "2POINTZERO",
       "kind": "agm",
-      "date": "2026-07-14",
+      "date": "2026-07-19",
       "status": "upcoming",
       "agenda": [
         "Approve dividend",
@@ -551,7 +551,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -559,7 +559,7 @@
     {
       "symbol": "2POINTZERO",
       "kind": "board",
-      "date": "2025-12-20",
+      "date": "2025-12-25",
       "status": "held",
       "agenda": [
         "Approve annual results"
@@ -577,7 +577,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -588,17 +588,17 @@
       "symbol": "2POINTZERO",
       "amount": 0.1128,
       "currency": "AED",
-      "agm_date": "2026-06-24",
-      "entitlement_date": "2026-07-14",
-      "ex_date": "2026-07-13",
-      "payment_date": "2026-08-03",
+      "agm_date": "2026-06-29",
+      "entitlement_date": "2026-07-19",
+      "ex_date": "2026-07-18",
+      "payment_date": "2026-08-08",
       "frequency": "semi",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -607,17 +607,17 @@
       "symbol": "2POINTZERO",
       "amount": 0.1128,
       "currency": "AED",
-      "agm_date": "2026-05-18",
-      "entitlement_date": "2026-06-05",
-      "ex_date": "2026-06-04",
-      "payment_date": "2026-06-21",
+      "agm_date": "2026-05-23",
+      "entitlement_date": "2026-06-10",
+      "ex_date": "2026-06-09",
+      "payment_date": "2026-06-26",
       "frequency": "semi",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -626,17 +626,17 @@
       "symbol": "2POINTZERO",
       "amount": 0.1128,
       "currency": "AED",
-      "agm_date": "2025-11-10",
-      "entitlement_date": "2025-11-28",
-      "ex_date": "2025-11-27",
-      "payment_date": "2025-12-14",
+      "agm_date": "2025-11-15",
+      "entitlement_date": "2025-12-03",
+      "ex_date": "2025-12-02",
+      "payment_date": "2025-12-19",
       "frequency": "semi",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -645,17 +645,17 @@
       "symbol": "2POINTZERO",
       "amount": 0.1128,
       "currency": "AED",
-      "agm_date": "2025-05-13",
-      "entitlement_date": "2025-05-31",
-      "ex_date": "2025-05-30",
-      "payment_date": "2025-06-16",
+      "agm_date": "2025-05-18",
+      "entitlement_date": "2025-06-05",
+      "ex_date": "2025-06-04",
+      "payment_date": "2025-06-21",
       "frequency": "semi",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -664,17 +664,17 @@
       "symbol": "2POINTZERO",
       "amount": 0.1128,
       "currency": "AED",
-      "agm_date": "2024-11-13",
-      "entitlement_date": "2024-12-01",
-      "ex_date": "2024-11-30",
-      "payment_date": "2024-12-17",
+      "agm_date": "2024-11-18",
+      "entitlement_date": "2024-12-06",
+      "ex_date": "2024-12-05",
+      "payment_date": "2024-12-22",
       "frequency": "semi",
       "fiscal_year": "2024",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -704,7 +704,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-18T10:34:02+00:00",
+      "retrieved_at": "2026-06-23T11:08:01+00:00",
       "url": null,
       "lang": null
     }
@@ -775,12 +775,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -791,12 +791,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -807,12 +807,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -823,12 +823,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -839,12 +839,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -855,12 +855,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -870,7 +870,7 @@
       {
         "title": "Uae headline — global macro update 1",
         "theme": "MARITIME",
-        "published_at": "2026-06-18T09:34:02+00:00",
+        "published_at": "2026-06-23T10:08:01+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": -3.59,
@@ -878,7 +878,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -886,7 +886,7 @@
       {
         "title": "Uae headline — global macro update 2",
         "theme": "TOURISM",
-        "published_at": "2026-06-15T22:34:02+00:00",
+        "published_at": "2026-06-20T23:08:01+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -2.92,
@@ -894,7 +894,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -902,7 +902,7 @@
       {
         "title": "Uae headline — global macro update 3",
         "theme": "ENERGY",
-        "published_at": "2026-06-17T10:34:02+00:00",
+        "published_at": "2026-06-22T11:08:01+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 1.7,
@@ -910,7 +910,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -918,7 +918,7 @@
       {
         "title": "Uae headline — global macro update 4",
         "theme": "TRADE",
-        "published_at": "2026-06-15T14:34:02+00:00",
+        "published_at": "2026-06-20T15:08:01+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -0.29,
@@ -926,7 +926,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -934,7 +934,7 @@
       {
         "title": "Uae headline — global macro update 5",
         "theme": "TOURISM",
-        "published_at": "2026-06-17T18:34:02+00:00",
+        "published_at": "2026-06-22T19:08:01+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 0.65,
@@ -942,7 +942,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -955,7 +955,6 @@
       "stance": "Neutral",
       "confidence": "medium",
       "reasons": [
-        "Positive price momentum (+2.3% on the session in demo data)",
         "Recent disclosure tone skews positive"
       ],
       "risks": [
@@ -978,9 +977,8 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 60.8,
+        "score": 52.7,
         "reasons": [
-          "Positive price momentum (+2.3% on the session in demo data)",
           "Recent disclosure tone skews positive"
         ],
         "risks": [
@@ -1001,7 +999,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-18T10:34:02+00:00"
+    "generated_at": "2026-06-23T11:08:01+00:00"
   },
-  "generated_at": "2026-06-18T10:34:02+00:00"
+  "generated_at": "2026-06-23T11:08:01+00:00"
 }

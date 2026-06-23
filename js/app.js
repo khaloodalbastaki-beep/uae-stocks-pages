@@ -415,12 +415,40 @@
   // ---------- ALERTS (derived from events + watchlist) ----------
   async function viewAlerts() {
     app.innerHTML = skel();
-    const [meta, uni, events] = await Promise.all([DATA.meta(), DATA.universe(), DATA.events()]);
+    const [meta, uni, events, queue] = await Promise.all([DATA.meta(), DATA.universe(), DATA.events(), DATA.alerts()]);
     const watch = Watch.list();
     const moved = uni.filter((c) => Math.abs(c.change_pct || 0) >= 0.02)
       .sort((a, b) => Math.abs(b.change_pct) - Math.abs(a.change_pct)).slice(0, 8);
     const myEvents = events.filter((e) => watch.includes(e.symbol)).slice(0, 12);
+    const qItems = queue.items || [];
+    const watchAlerts = watch.length ? qItems.filter((a) => watch.includes(a.symbol)).slice(0, 12) : [];
+    const queueRows = (items) => items.length ? items.map((a) => `<a class="alert-row ${esc(a.severity)}" href="#/stock/${a.symbol}">
+        <span class="severity-dot"></span>
+        <span class="alert-main">
+          <strong>${esc(a.symbol)}</strong> — ${esc(a.title)}
+          <small>${esc(a.summary || "")}</small>
+        </span>
+        <span class="tag">${esc(a.type.replace(/_/g, " "))}</span>
+        <span class="muted mono">${fmtDate(a.occurred_at)}</span>
+        ${dqBadge(a.data_quality)}
+      </a>`).join("") : `<div class="empty">${t("no_data")}</div>`;
+
     app.innerHTML = `${demoNotice(meta)}
+      <section class="section"><h2>${t("alert_queue")} — ${t("preview_only")}</h2>
+        <div class="panel">
+          <div class="alert-summary">
+            <div><div class="k">${t("total")}</div><div class="v mono">${queue.summary.total}</div></div>
+            <div><div class="k">${t("high")}</div><div class="v mono high">${queue.summary.high}</div></div>
+            <div><div class="k">${t("medium")}</div><div class="v mono medium">${queue.summary.medium}</div></div>
+            <div><div class="k">${t("low")}</div><div class="v mono low">${queue.summary.low}</div></div>
+            <div><div class="k">${t("delivery_disabled")}</div><div class="v">${queue.summary.push_delivery_enabled ? "enabled" : "off"}</div></div>
+          </div>
+          <div class="disclaimer">${esc(queue.summary.delivery_note)}</div>
+          <div class="alert-list">${queueRows(qItems.slice(0, 14))}</div>
+        </div>
+      </section>
+      <section class="section"><h2>Your watchlist alert queue</h2>
+        <div class="panel">${watch.length ? queueRows(watchAlerts) : `<div class="empty">${t("no_watch")}</div>`}</div></section>
       <section class="section"><h2>${t("alerts")} — price moves</h2>
         <div class="panel">${moved.map((c) => `<a class="row-item" href="#/stock/${c.symbol}">
           <strong style="min-width:90px">${esc(c.symbol)}</strong>
@@ -428,7 +456,10 @@
           <span class="muted pull-end">${esc(c.catalyst)}</span></a>`).join("")}</div></section>
       <section class="section"><h2>Your watchlist events</h2>
         <div class="panel">${myEvents.length ? eventsStrip(myEvents) : `<div class="empty">${t("no_watch")}</div>`}</div></section>
-      <div class="disclaimer">Alert rules run client-side over the brain's emitted data. Push delivery to Telegram/Hermes is the phase-2 hook (same pattern as the finance app).</div>`;
+      <div class="panel"><h3>Preview rules</h3>
+        ${queue.rules.map((r) => `<div class="row-item"><span style="flex:1"><strong>${esc(r.label)}</strong><br><span class="muted">${esc(r.description)}</span></span><span class="tag">${esc(r.status)}</span></div>`).join("")}
+      </div>
+      <div class="disclaimer">Alert rules now run in the Python brain and emit <strong>alerts.json</strong>. Push delivery to Telegram/Hermes remains parked until explicit approval.</div>`;
   }
 
   // ---------- SCREENERS ----------
@@ -473,8 +504,23 @@
   // ---------- ADMIN (ingestion diagnostics) ----------
   async function viewAdmin() {
     app.innerHTML = skel();
-    const [meta, uni] = await Promise.all([DATA.meta(), DATA.universe()]);
+    const [meta, uni, readiness] = await Promise.all([DATA.meta(), DATA.universe(), DATA.readiness()]);
     const demoCount = uni.filter((c) => c.data_quality === "demo").length;
+    const checkStatus = (s) => ({ pass: "Pass", blocked: "Blocked", review: "Review" }[s] || s);
+    const stages = [
+      ["ingest quotes", meta.counts.securities],
+      ["ingest disclosures", meta.counts.securities],
+      ["deterministic scoring", meta.counts.securities],
+      ["AI narration", meta.counts.securities],
+      ["alert queue preview", meta.counts.alerts || 0],
+      ["emit JSON", meta.counts.securities],
+    ];
+    const readinessCard = (c) => `<div class="readiness-card ${esc(c.status)}">
+      <div class="readiness-head"><span class="status-dot"></span><strong>${esc(c.label)}</strong><span class="tag">${checkStatus(c.status)}</span></div>
+      <div class="muted">${esc(c.evidence)}</div>
+      <div class="next"><strong>Next:</strong> ${esc(c.next)}</div>
+      <div class="owner">Owner: ${esc(c.owner)}</div>
+    </div>`;
     app.innerHTML = `<section class="section"><h2>${t("admin")} — ingestion health</h2>
       <div class="panel"><div class="kv">
         <div><div class="k">Last build</div><div class="v mono">${fmtDate(meta.generated_at)} ${new Date(meta.generated_at).toLocaleTimeString("en-GB")}</div></div>
@@ -482,14 +528,25 @@
         <div><div class="k">AI provider</div><div class="v">${meta.ai_provider}</div></div>
         <div><div class="k">Securities</div><div class="v mono">${meta.counts.securities}</div></div>
         <div><div class="k">Events</div><div class="v mono">${meta.counts.events}</div></div>
+        <div><div class="k">Alert candidates</div><div class="v mono">${meta.counts.alerts || 0}</div></div>
         <div><div class="k">Demo-tagged quotes</div><div class="v mono">${demoCount}/${uni.length}</div></div>
       </div></div>
+      <div class="panel readiness-panel">
+        <h3>Launch readiness</h3>
+        <div class="readiness-summary">
+          <div><div class="k">Demo status</div><div class="v">${esc(readiness.summary.demo_status)}</div></div>
+          <div><div class="k">Real launch</div><div class="v blocked">${esc(readiness.summary.real_launch_status)}</div></div>
+          <div><div class="k">Live refresh</div><div class="v">${readiness.summary.live_exchange_refresh_enabled ? "enabled" : "disabled"}</div></div>
+          <div><div class="k">Next decision</div><div class="v">${esc(readiness.summary.next_decision)}</div></div>
+        </div>
+        <div class="disclaimer">${esc(readiness.summary.blocking_reason)}</div>
+        <div class="readiness-grid">${readiness.checks.map(readinessCard).join("")}</div>
+      </div>
       <div class="panel"><h3>Sources</h3>${meta.sources.map((s) => `<div class="row-item">
         ${srcBadge(s.type)} <a href="${esc(s.url)}" target="_blank" rel="noopener" style="flex:1">${esc(s.name)}</a>
         <span class="tag">ok</span></div>`).join("")}</div>
       <div class="panel"><h3>Pipeline stages</h3>
-        ${["ingest quotes", "ingest disclosures", "deterministic scoring", "AI narration", "emit JSON"].map((x) =>
-          `<div class="row-item"><span style="flex:1">${x}</span><span class="tag">✓ ${meta.counts.securities}</span></div>`).join("")}</div>`;
+        ${stages.map(([x, n]) => `<div class="row-item"><span style="flex:1">${x}</span><span class="tag">✓ ${n}</span></div>`).join("")}</div>`;
   }
 
   // ---------- search ----------

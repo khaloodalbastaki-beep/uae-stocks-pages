@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "PUREHEALTH",
-    "price": 2.34,
-    "change": 0.1,
-    "change_pct": 0.0446,
-    "volume": 4218195,
+    "price": 2.29,
+    "change": 0.01,
+    "change_pct": 0.0044,
+    "volume": 1889803,
     "market_cap": null,
-    "high_52w": 2.38,
-    "low_52w": 2.211,
+    "high_52w": 2.317,
+    "low_52w": 2.204,
     "spark": [
-      2.211,
-      2.231,
-      2.248,
-      2.254,
+      2.25,
+      2.237,
+      2.259,
+      2.234,
+      2.241,
+      2.246,
+      2.262,
+      2.256,
+      2.261,
+      2.235,
+      2.243,
+      2.267,
+      2.255,
       2.238,
-      2.269,
-      2.285,
-      2.294,
-      2.301,
-      2.321,
-      2.328,
-      2.313,
-      2.291,
-      2.29,
+      2.227,
+      2.229,
+      2.234,
+      2.224,
+      2.204,
+      2.232,
+      2.229,
+      2.252,
+      2.258,
+      2.271,
+      2.299,
+      2.317,
       2.314,
-      2.34,
-      2.36,
-      2.37,
-      2.345,
-      2.342,
-      2.349,
-      2.356,
-      2.366,
-      2.353,
-      2.336,
-      2.316,
-      2.33,
-      2.361,
-      2.38,
-      2.34
+      2.302,
+      2.285,
+      2.29
     ],
     "prov": {
       "source_type": "official",
       "source_name": "ADX (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-18T10:34:02.795Z",
+      "retrieved_at": "2026-06-23T11:08:01.480Z",
       "url": null,
       "lang": null
     }
@@ -285,9 +285,9 @@
     ],
     "quick_stats": {
       "market_cap": null,
-      "volume": 4218195,
-      "high_52w": 2.38,
-      "low_52w": 2.211,
+      "volume": 1889803,
+      "high_52w": 2.317,
+      "low_52w": 2.204,
       "dividend_yield": 0.0532
     },
     "top_catalysts": [
@@ -301,13 +301,13 @@
   },
   "disclosures": [
     {
-      "id": "PUREHEALTH-3-1778736842",
+      "id": "PUREHEALTH-3-1779170881",
       "symbol": "PUREHEALTH",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-05-14T05:34:02+00:00",
+      "published_at": "2026-05-19T06:08:01+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -320,20 +320,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "PUREHEALTH-4-1778373242",
+      "id": "PUREHEALTH-4-1778807281",
       "symbol": "PUREHEALTH",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-05-10T00:34:02+00:00",
+      "published_at": "2026-05-15T01:08:01+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -346,20 +346,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "PUREHEALTH-2-1776126842",
+      "id": "PUREHEALTH-2-1776560881",
       "symbol": "PUREHEALTH",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-04-14T00:34:02+00:00",
+      "published_at": "2026-04-19T01:08:01+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -372,20 +372,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "PUREHEALTH-5-1775626442",
+      "id": "PUREHEALTH-5-1776060481",
       "symbol": "PUREHEALTH",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-04-08T05:34:02+00:00",
+      "published_at": "2026-04-13T06:08:01+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -398,20 +398,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "PUREHEALTH-1-1774744442",
+      "id": "PUREHEALTH-1-1775178481",
       "symbol": "PUREHEALTH",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-03-29T00:34:02+00:00",
+      "published_at": "2026-04-03T01:08:01+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -424,20 +424,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "PUREHEALTH-0-1774053242",
+      "id": "PUREHEALTH-0-1774487281",
       "symbol": "PUREHEALTH",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-03-21T00:34:02+00:00",
+      "published_at": "2026-03-26T01:08:01+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -450,7 +450,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       },
@@ -461,7 +461,7 @@
     {
       "symbol": "PUREHEALTH",
       "kind": "board",
-      "date": "2026-06-27",
+      "date": "2026-07-02",
       "status": "upcoming",
       "agenda": [
         "Review interim results",
@@ -476,7 +476,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -484,7 +484,7 @@
     {
       "symbol": "PUREHEALTH",
       "kind": "agm",
-      "date": "2026-08-27",
+      "date": "2026-09-01",
       "status": "upcoming",
       "agenda": [
         "Approve dividend",
@@ -501,7 +501,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -509,7 +509,7 @@
     {
       "symbol": "PUREHEALTH",
       "kind": "board",
-      "date": "2026-02-10",
+      "date": "2026-02-15",
       "status": "held",
       "agenda": [
         "Approve annual results"
@@ -527,7 +527,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -538,17 +538,17 @@
       "symbol": "PUREHEALTH",
       "amount": 0.2155,
       "currency": "AED",
-      "agm_date": "2026-07-05",
-      "entitlement_date": "2026-07-25",
-      "ex_date": "2026-07-24",
-      "payment_date": "2026-08-14",
+      "agm_date": "2026-07-10",
+      "entitlement_date": "2026-07-30",
+      "ex_date": "2026-07-29",
+      "payment_date": "2026-08-19",
       "frequency": "annual",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -557,17 +557,17 @@
       "symbol": "PUREHEALTH",
       "amount": 0.2155,
       "currency": "AED",
-      "agm_date": "2026-05-18",
-      "entitlement_date": "2026-06-05",
-      "ex_date": "2026-06-04",
-      "payment_date": "2026-06-21",
+      "agm_date": "2026-05-23",
+      "entitlement_date": "2026-06-10",
+      "ex_date": "2026-06-09",
+      "payment_date": "2026-06-26",
       "frequency": "annual",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -576,17 +576,17 @@
       "symbol": "PUREHEALTH",
       "amount": 0.2155,
       "currency": "AED",
-      "agm_date": "2025-05-15",
-      "entitlement_date": "2025-06-02",
-      "ex_date": "2025-06-01",
-      "payment_date": "2025-06-18",
+      "agm_date": "2025-05-20",
+      "entitlement_date": "2025-06-07",
+      "ex_date": "2025-06-06",
+      "payment_date": "2025-06-23",
       "frequency": "annual",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-18T10:34:02+00:00",
+        "retrieved_at": "2026-06-23T11:08:01+00:00",
         "url": null,
         "lang": null
       }
@@ -616,7 +616,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-18T10:34:02+00:00",
+      "retrieved_at": "2026-06-23T11:08:01+00:00",
       "url": null,
       "lang": null
     }
@@ -696,12 +696,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -712,12 +712,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -728,12 +728,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -744,12 +744,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -760,12 +760,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -776,12 +776,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-18T10:34:02+00:00",
+        "as_of": "2026-06-23T11:08:01+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -791,7 +791,7 @@
       {
         "title": "Uae headline — global macro update 1",
         "theme": "MARITIME",
-        "published_at": "2026-06-17T13:34:02+00:00",
+        "published_at": "2026-06-22T14:08:01+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": 0.9,
@@ -799,7 +799,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -807,7 +807,7 @@
       {
         "title": "Uae headline — global macro update 2",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-16T07:34:02+00:00",
+        "published_at": "2026-06-21T08:08:01+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": 5.21,
@@ -815,7 +815,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -823,7 +823,7 @@
       {
         "title": "Uae headline — global macro update 3",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-16T08:34:02+00:00",
+        "published_at": "2026-06-21T09:08:01+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 0.11,
@@ -831,7 +831,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -839,7 +839,7 @@
       {
         "title": "Uae headline — global macro update 4",
         "theme": "TRADE",
-        "published_at": "2026-06-16T12:34:02+00:00",
+        "published_at": "2026-06-21T13:08:01+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -4.2,
@@ -847,7 +847,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -855,7 +855,7 @@
       {
         "title": "Uae headline — global macro update 5",
         "theme": "TRADE",
-        "published_at": "2026-06-17T04:34:02+00:00",
+        "published_at": "2026-06-22T05:08:01+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": -5.62,
@@ -863,7 +863,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -871,7 +871,7 @@
       {
         "title": "Uae headline — global macro update 6",
         "theme": "ENERGY",
-        "published_at": "2026-06-17T17:34:02+00:00",
+        "published_at": "2026-06-22T18:08:01+00:00",
         "domain": "gulfnews.com",
         "url": null,
         "tone": 2.46,
@@ -879,7 +879,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-18T10:34:02+00:00",
+          "retrieved_at": "2026-06-23T11:08:01+00:00",
           "url": null,
           "lang": null
         }
@@ -892,7 +892,6 @@
       "stance": "Bullish",
       "confidence": "high",
       "reasons": [
-        "Positive price momentum (+4.5% on the session in demo data)",
         "A high-materiality disclosure (73/100) is in the recent flow",
         "Recent disclosure tone skews positive"
       ],
@@ -918,9 +917,8 @@
       "short": {
         "stance": "Bullish",
         "confidence": "high",
-        "score": 82.1,
+        "score": 70.1,
         "reasons": [
-          "Positive price momentum (+4.5% on the session in demo data)",
           "A high-materiality disclosure (73/100) is in the recent flow",
           "Recent disclosure tone skews positive"
         ],
@@ -944,7 +942,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-18T10:34:02+00:00"
+    "generated_at": "2026-06-23T11:08:01+00:00"
   },
-  "generated_at": "2026-06-18T10:34:02+00:00"
+  "generated_at": "2026-06-23T11:08:01+00:00"
 }
