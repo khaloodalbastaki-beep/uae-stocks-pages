@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "BOROUGE",
-    "price": 2.57,
-    "change": 0.02,
-    "change_pct": 0.0078,
-    "volume": 16659202,
+    "price": 2.56,
+    "change": 0.01,
+    "change_pct": 0.0039,
+    "volume": 17156072,
     "market_cap": null,
-    "high_52w": 2.667,
-    "low_52w": 2.465,
+    "high_52w": 2.56,
+    "low_52w": 2.36,
     "spark": [
-      2.519,
-      2.55,
-      2.54,
-      2.519,
-      2.529,
+      2.473,
+      2.458,
+      2.433,
+      2.419,
+      2.419,
+      2.407,
+      2.394,
+      2.37,
+      2.374,
+      2.36,
+      2.362,
+      2.386,
+      2.404,
+      2.402,
+      2.43,
+      2.438,
+      2.452,
+      2.481,
+      2.498,
+      2.473,
+      2.504,
+      2.518,
+      2.513,
+      2.523,
+      2.541,
       2.535,
-      2.509,
-      2.487,
-      2.487,
-      2.465,
-      2.475,
-      2.477,
-      2.502,
-      2.533,
-      2.547,
-      2.578,
-      2.575,
-      2.604,
-      2.595,
-      2.615,
-      2.631,
-      2.667,
-      2.657,
-      2.636,
-      2.619,
-      2.635,
-      2.619,
-      2.63,
-      2.635,
-      2.57
+      2.52,
+      2.511,
+      2.484,
+      2.56
     ],
     "prov": {
       "source_type": "official",
       "source_name": "ADX (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-24T10:03:36.750Z",
+      "retrieved_at": "2026-06-24T10:20:57.731Z",
       "url": null,
       "lang": null
     }
@@ -285,9 +285,9 @@
     ],
     "quick_stats": {
       "market_cap": null,
-      "volume": 16659202,
-      "high_52w": 2.667,
-      "low_52w": 2.465,
+      "volume": 17156072,
+      "high_52w": 2.56,
+      "low_52w": 2.36,
       "dividend_yield": 0.0642
     },
     "top_catalysts": [
@@ -300,13 +300,13 @@
   },
   "disclosures": [
     {
-      "id": "BOROUGE-2-1781935416",
+      "id": "BOROUGE-2-1781936459",
       "symbol": "BOROUGE",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-06-20T06:03:36+00:00",
+      "published_at": "2026-06-20T06:20:59+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -319,20 +319,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "BOROUGE-3-1781741016",
+      "id": "BOROUGE-3-1781742059",
       "symbol": "BOROUGE",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-06-18T00:03:36+00:00",
+      "published_at": "2026-06-18T00:20:59+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -345,20 +345,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "BOROUGE-1-1780992216",
+      "id": "BOROUGE-1-1780993259",
       "symbol": "BOROUGE",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-06-09T08:03:36+00:00",
+      "published_at": "2026-06-09T08:20:59+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -371,20 +371,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "BOROUGE-4-1779167016",
+      "id": "BOROUGE-4-1779168059",
       "symbol": "BOROUGE",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-05-19T05:03:36+00:00",
+      "published_at": "2026-05-19T05:20:59+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -397,20 +397,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "BOROUGE-0-1778036616",
+      "id": "BOROUGE-0-1778037659",
       "symbol": "BOROUGE",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-05-06T03:03:36+00:00",
+      "published_at": "2026-05-06T03:20:59+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -423,20 +423,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "BOROUGE-5-1777953816",
+      "id": "BOROUGE-5-1777954859",
       "symbol": "BOROUGE",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-05-05T04:03:36+00:00",
+      "published_at": "2026-05-05T04:20:59+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -449,20 +449,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "BOROUGE-6-1777439016",
+      "id": "BOROUGE-6-1777440059",
       "symbol": "BOROUGE",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-04-29T05:03:36+00:00",
+      "published_at": "2026-04-29T05:20:59+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -475,7 +475,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       },
@@ -501,7 +501,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -526,7 +526,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -552,7 +552,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -573,7 +573,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -592,7 +592,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -611,7 +611,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -641,7 +641,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-24T10:03:36+00:00",
+      "retrieved_at": "2026-06-24T10:20:59+00:00",
       "url": null,
       "lang": null
     }
@@ -721,12 +721,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-24T10:03:36+00:00",
+        "as_of": "2026-06-24T10:20:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -737,12 +737,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-24T10:03:36+00:00",
+        "as_of": "2026-06-24T10:20:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -753,12 +753,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T10:03:36+00:00",
+        "as_of": "2026-06-24T10:20:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -769,12 +769,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T10:03:36+00:00",
+        "as_of": "2026-06-24T10:20:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -785,12 +785,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T10:03:36+00:00",
+        "as_of": "2026-06-24T10:20:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -801,12 +801,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-24T10:03:36+00:00",
+        "as_of": "2026-06-24T10:20:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -816,7 +816,7 @@
       {
         "title": "Natural headline — global macro update 1",
         "theme": "TRADE",
-        "published_at": "2026-06-21T18:03:36+00:00",
+        "published_at": "2026-06-21T18:20:59+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": -3.52,
@@ -824,7 +824,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -832,7 +832,7 @@
       {
         "title": "Natural headline — global macro update 2",
         "theme": "MARITIME",
-        "published_at": "2026-06-23T06:03:36+00:00",
+        "published_at": "2026-06-23T06:20:59+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -1.66,
@@ -840,7 +840,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -848,7 +848,7 @@
       {
         "title": "Natural headline — global macro update 3",
         "theme": "TRADE",
-        "published_at": "2026-06-22T23:03:36+00:00",
+        "published_at": "2026-06-22T23:20:59+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -0.42,
@@ -856,7 +856,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -864,7 +864,7 @@
       {
         "title": "Natural headline — global macro update 4",
         "theme": "ENERGY",
-        "published_at": "2026-06-23T22:03:36+00:00",
+        "published_at": "2026-06-23T22:20:59+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 0.05,
@@ -872,7 +872,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -908,7 +908,7 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 57.5,
+        "score": 56.3,
         "reasons": [
           "A high-materiality disclosure (93/100) is in the recent flow"
         ],
@@ -931,7 +931,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-24T10:03:36+00:00"
+    "generated_at": "2026-06-24T10:20:59+00:00"
   },
-  "generated_at": "2026-06-24T10:03:36+00:00"
+  "generated_at": "2026-06-24T10:20:59+00:00"
 }

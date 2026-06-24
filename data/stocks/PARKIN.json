@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "PARKIN",
-    "price": 6.0,
-    "change": 0.03,
-    "change_pct": 0.005,
+    "price": 5.99,
+    "change": 0.02,
+    "change_pct": 0.0033,
     "volume": 0,
     "market_cap": null,
-    "high_52w": 6.0,
-    "low_52w": 5.761,
+    "high_52w": 5.99,
+    "low_52w": 5.76,
     "spark": [
-      5.97,
-      5.963,
-      5.897,
-      5.849,
-      5.884,
-      5.892,
-      5.869,
-      5.819,
-      5.813,
-      5.805,
-      5.847,
-      5.814,
-      5.878,
-      5.812,
-      5.768,
-      5.777,
-      5.761,
-      5.781,
-      5.857,
-      5.914,
-      5.867,
-      5.822,
+      5.851,
+      5.81,
+      5.775,
+      5.789,
+      5.81,
       5.875,
-      5.825,
-      5.901,
-      5.87,
-      5.93,
-      5.994,
-      5.968,
-      6.0
+      5.851,
+      5.833,
+      5.836,
+      5.871,
+      5.849,
+      5.81,
+      5.855,
+      5.859,
+      5.896,
+      5.848,
+      5.787,
+      5.827,
+      5.829,
+      5.874,
+      5.859,
+      5.813,
+      5.76,
+      5.775,
+      5.791,
+      5.848,
+      5.883,
+      5.878,
+      5.882,
+      5.99
     ],
     "prov": {
       "source_type": "official",
       "source_name": "DFM (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-24T10:03:36.750Z",
+      "retrieved_at": "2026-06-24T10:20:57.731Z",
       "url": null,
       "lang": null
     }
@@ -286,8 +286,8 @@
     "quick_stats": {
       "market_cap": null,
       "volume": 0,
-      "high_52w": 6.0,
-      "low_52w": 5.761,
+      "high_52w": 5.99,
+      "low_52w": 5.76,
       "dividend_yield": 0.0659
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "PARKIN-1-1782291816",
+      "id": "PARKIN-1-1782292859",
       "symbol": "PARKIN",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-06-24T09:03:36+00:00",
+      "published_at": "2026-06-24T09:20:59+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "PARKIN-2-1782263016",
+      "id": "PARKIN-2-1782264059",
       "symbol": "PARKIN",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-06-24T01:03:36+00:00",
+      "published_at": "2026-06-24T01:20:59+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "PARKIN-3-1782122616",
+      "id": "PARKIN-3-1782123659",
       "symbol": "PARKIN",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-06-22T10:03:36+00:00",
+      "published_at": "2026-06-22T10:20:59+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "PARKIN-4-1779926616",
+      "id": "PARKIN-4-1779927659",
       "symbol": "PARKIN",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-05-28T00:03:36+00:00",
+      "published_at": "2026-05-28T00:20:59+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -396,20 +396,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "PARKIN-5-1776305016",
+      "id": "PARKIN-5-1776306059",
       "symbol": "PARKIN",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-04-16T02:03:36+00:00",
+      "published_at": "2026-04-16T02:20:59+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -422,20 +422,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "PARKIN-0-1775297016",
+      "id": "PARKIN-0-1775298059",
       "symbol": "PARKIN",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-04-04T10:03:36+00:00",
+      "published_at": "2026-04-04T10:20:59+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -448,7 +448,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       },
@@ -474,7 +474,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -499,7 +499,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -525,7 +525,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -546,7 +546,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -565,7 +565,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -584,7 +584,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -603,7 +603,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -622,7 +622,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T10:03:36+00:00",
+        "retrieved_at": "2026-06-24T10:20:59+00:00",
         "url": null,
         "lang": null
       }
@@ -652,7 +652,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-24T10:03:36+00:00",
+      "retrieved_at": "2026-06-24T10:20:59+00:00",
       "url": null,
       "lang": null
     }
@@ -732,12 +732,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-24T10:03:36+00:00",
+        "as_of": "2026-06-24T10:20:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -748,12 +748,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-24T10:03:36+00:00",
+        "as_of": "2026-06-24T10:20:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -764,12 +764,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T10:03:36+00:00",
+        "as_of": "2026-06-24T10:20:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -780,12 +780,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T10:03:36+00:00",
+        "as_of": "2026-06-24T10:20:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -796,12 +796,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T10:03:36+00:00",
+        "as_of": "2026-06-24T10:20:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -812,12 +812,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-24T10:03:36+00:00",
+        "as_of": "2026-06-24T10:20:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -827,7 +827,7 @@
       {
         "title": "Dubai headline — global macro update 1",
         "theme": "TOURISM",
-        "published_at": "2026-06-22T21:03:36+00:00",
+        "published_at": "2026-06-22T21:20:59+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 5.05,
@@ -835,7 +835,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -843,7 +843,7 @@
       {
         "title": "Dubai headline — global macro update 2",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-24T05:03:36+00:00",
+        "published_at": "2026-06-24T05:20:59+00:00",
         "domain": "gulfnews.com",
         "url": null,
         "tone": 1.36,
@@ -851,7 +851,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -859,7 +859,7 @@
       {
         "title": "Dubai headline — global macro update 3",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-24T02:03:36+00:00",
+        "published_at": "2026-06-24T02:20:59+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -2.56,
@@ -867,7 +867,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -875,7 +875,7 @@
       {
         "title": "Dubai headline — global macro update 4",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-23T22:03:36+00:00",
+        "published_at": "2026-06-23T22:20:59+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 4.15,
@@ -883,7 +883,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -891,7 +891,7 @@
       {
         "title": "Dubai headline — global macro update 5",
         "theme": "MARITIME",
-        "published_at": "2026-06-24T07:03:36+00:00",
+        "published_at": "2026-06-24T07:20:59+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 1.35,
@@ -899,7 +899,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T10:03:36+00:00",
+          "retrieved_at": "2026-06-24T10:20:59+00:00",
           "url": null,
           "lang": null
         }
@@ -935,7 +935,7 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 59.7,
+        "score": 59.2,
         "reasons": [
           "A high-materiality disclosure (85/100) is in the recent flow",
           "Recent disclosure tone skews positive"
@@ -958,7 +958,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-24T10:03:36+00:00"
+    "generated_at": "2026-06-24T10:20:59+00:00"
   },
-  "generated_at": "2026-06-24T10:03:36+00:00"
+  "generated_at": "2026-06-24T10:20:59+00:00"
 }
