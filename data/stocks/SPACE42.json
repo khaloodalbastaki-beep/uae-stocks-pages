@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "SPACE42",
-    "price": 1.76,
+    "price": 2.6,
     "change": 0.0,
-    "change_pct": 0.0,
-    "volume": 353497,
-    "market_cap": null,
-    "high_52w": 1.838,
-    "low_52w": 1.673,
+    "change_pct": 0.0013,
+    "volume": 11042894,
+    "market_cap": 19873000000.0,
+    "high_52w": 3.09,
+    "low_52w": 2.29,
     "spark": [
-      1.714,
-      1.73,
-      1.712,
-      1.714,
-      1.694,
-      1.683,
-      1.673,
-      1.682,
-      1.678,
-      1.696,
-      1.712,
-      1.719,
-      1.708,
-      1.721,
-      1.74,
-      1.752,
-      1.774,
-      1.798,
-      1.786,
-      1.783,
-      1.794,
-      1.807,
-      1.8,
-      1.782,
-      1.802,
-      1.797,
-      1.809,
-      1.823,
-      1.838,
-      1.76
+      2.545,
+      2.601,
+      2.611,
+      2.589,
+      2.642,
+      2.665,
+      2.675,
+      2.716,
+      2.673,
+      2.629,
+      2.644,
+      2.672,
+      2.686,
+      2.726,
+      2.724,
+      2.773,
+      2.756,
+      2.725,
+      2.677,
+      2.698,
+      2.68,
+      2.711,
+      2.755,
+      2.78,
+      2.811,
+      2.812,
+      2.799,
+      2.846,
+      2.864,
+      2.6
     ],
     "prov": {
-      "source_type": "official",
-      "source_name": "ADX (delayed)",
-      "data_quality": "delayed",
-      "retrieved_at": "2026-06-24T07:43:57.272Z",
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-24T08:05:04+00:00",
       "url": null,
       "lang": null
     }
@@ -284,10 +284,10 @@
       "ADX"
     ],
     "quick_stats": {
-      "market_cap": null,
-      "volume": 353497,
-      "high_52w": 1.838,
-      "low_52w": 1.673,
+      "market_cap": 19873000000.0,
+      "volume": 11042894,
+      "high_52w": 3.09,
+      "low_52w": 2.29,
       "dividend_yield": 0.0
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "SPACE42-2-1782092640",
+      "id": "SPACE42-2-1782093904",
       "symbol": "SPACE42",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-06-22T01:44:00+00:00",
+      "published_at": "2026-06-22T02:05:04+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "SPACE42-0-1781066640",
+      "id": "SPACE42-0-1781067904",
       "symbol": "SPACE42",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-06-10T04:44:00+00:00",
+      "published_at": "2026-06-10T05:05:04+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "SPACE42-1-1778993040",
+      "id": "SPACE42-1-1778994304",
       "symbol": "SPACE42",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-05-17T04:44:00+00:00",
+      "published_at": "2026-05-17T05:05:04+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "SPACE42-3-1777149840",
+      "id": "SPACE42-3-1777151104",
       "symbol": "SPACE42",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-04-25T20:44:00+00:00",
+      "published_at": "2026-04-25T21:05:04+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -396,7 +396,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       },
@@ -422,7 +422,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       }
@@ -447,7 +447,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       }
@@ -473,7 +473,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       }
@@ -504,7 +504,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-24T07:44:00+00:00",
+      "retrieved_at": "2026-06-24T08:05:04+00:00",
       "url": null,
       "lang": null
     }
@@ -518,25 +518,25 @@
       2026
     ],
     "revenue": [
-      2547000000.0,
-      2757700000.0,
-      2985700000.0,
-      3232700000.0,
-      3500000000.0
+      5061700000.0,
+      5480300000.0,
+      5933600000.0,
+      6424300000.0,
+      6955500000.0
     ],
     "net_income": [
-      424300000.0,
-      468500000.0,
-      517100000.0,
-      570600000.0,
-      629300000.0
+      843300000.0,
+      931100000.0,
+      1027700000.0,
+      1133900000.0,
+      1250600000.0
     ],
     "operating_cash_flow": [
-      488800000.0,
-      539700000.0,
-      595700000.0,
-      657300000.0,
-      725000000.0
+      971500000.0,
+      1072600000.0,
+      1183900000.0,
+      1306200000.0,
+      1440700000.0
     ],
     "ratios": {
       "net_margin": 0.1798,
@@ -575,12 +575,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-24T07:44:00+00:00",
+        "as_of": "2026-06-24T08:05:04+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -591,12 +591,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-24T07:44:00+00:00",
+        "as_of": "2026-06-24T08:05:04+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -607,12 +607,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T07:44:00+00:00",
+        "as_of": "2026-06-24T08:05:04+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -623,12 +623,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T07:44:00+00:00",
+        "as_of": "2026-06-24T08:05:04+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -639,12 +639,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T07:44:00+00:00",
+        "as_of": "2026-06-24T08:05:04+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -655,12 +655,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-24T07:44:00+00:00",
+        "as_of": "2026-06-24T08:05:04+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -670,7 +670,7 @@
       {
         "title": "Satellite headline — global macro update 1",
         "theme": "MARITIME",
-        "published_at": "2026-06-21T20:44:00+00:00",
+        "published_at": "2026-06-21T21:05:04+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": 0.59,
@@ -678,7 +678,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -686,7 +686,7 @@
       {
         "title": "Satellite headline — global macro update 2",
         "theme": "TOURISM",
-        "published_at": "2026-06-24T05:44:00+00:00",
+        "published_at": "2026-06-24T06:05:04+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": 1.53,
@@ -694,7 +694,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -702,7 +702,7 @@
       {
         "title": "Satellite headline — global macro update 3",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-21T19:44:00+00:00",
+        "published_at": "2026-06-21T20:05:04+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 0.27,
@@ -710,7 +710,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -718,7 +718,7 @@
       {
         "title": "Satellite headline — global macro update 4",
         "theme": "MARITIME",
-        "published_at": "2026-06-24T01:44:00+00:00",
+        "published_at": "2026-06-24T02:05:04+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": 2.37,
@@ -726,7 +726,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -734,7 +734,7 @@
       {
         "title": "Satellite headline — global macro update 5",
         "theme": "ENERGY",
-        "published_at": "2026-06-21T21:44:00+00:00",
+        "published_at": "2026-06-21T22:05:04+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 4.01,
@@ -742,7 +742,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -778,7 +778,7 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 58.1,
+        "score": 58.5,
         "reasons": [
           "A high-materiality disclosure (84/100) is in the recent flow",
           "Recent disclosure tone skews positive"
@@ -801,7 +801,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-24T07:44:00+00:00"
+    "generated_at": "2026-06-24T08:05:04+00:00"
   },
-  "generated_at": "2026-06-24T07:44:00+00:00"
+  "generated_at": "2026-06-24T08:05:04+00:00"
 }

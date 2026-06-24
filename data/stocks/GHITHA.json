@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "GHITHA",
-    "price": 12.0,
+    "price": 1.96,
     "change": -0.02,
-    "change_pct": -0.0017,
-    "volume": 26489,
-    "market_cap": null,
-    "high_52w": 12.397,
-    "low_52w": 11.555,
+    "change_pct": -0.0115,
+    "volume": 33411554,
+    "market_cap": 17537000000.0,
+    "high_52w": 2.12,
+    "low_52w": 1.65,
     "spark": [
-      11.692,
-      11.555,
-      11.562,
-      11.672,
-      11.788,
-      11.808,
-      11.776,
-      11.866,
-      11.988,
-      11.914,
-      12.016,
-      12.178,
-      12.098,
-      12.228,
-      12.31,
-      12.397,
-      12.312,
-      12.183,
-      12.297,
-      12.238,
-      12.118,
-      12.029,
-      12.089,
-      12.228,
-      12.378,
-      12.391,
-      12.368,
-      12.362,
-      12.278,
-      12.0
+      1.902,
+      1.91,
+      1.899,
+      1.9,
+      1.906,
+      1.888,
+      1.863,
+      1.9,
+      1.888,
+      1.868,
+      1.864,
+      1.864,
+      1.878,
+      1.869,
+      1.846,
+      1.859,
+      1.868,
+      1.862,
+      1.853,
+      1.831,
+      1.846,
+      1.864,
+      1.868,
+      1.893,
+      1.877,
+      1.855,
+      1.852,
+      1.89,
+      1.884,
+      1.96
     ],
     "prov": {
-      "source_type": "official",
-      "source_name": "ADX (delayed)",
-      "data_quality": "delayed",
-      "retrieved_at": "2026-06-24T07:43:57.272Z",
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-24T08:05:04+00:00",
       "url": null,
       "lang": null
     }
@@ -284,10 +284,10 @@
       "ADX"
     ],
     "quick_stats": {
-      "market_cap": null,
-      "volume": 26489,
-      "high_52w": 12.397,
-      "low_52w": 11.555,
+      "market_cap": 17537000000.0,
+      "volume": 33411554,
+      "high_52w": 2.12,
+      "low_52w": 1.65,
       "dividend_yield": 0.0614
     },
     "top_catalysts": [
@@ -300,13 +300,13 @@
   },
   "disclosures": [
     {
-      "id": "GHITHA-2-1782200640",
+      "id": "GHITHA-2-1782201904",
       "symbol": "GHITHA",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-06-23T07:44:00+00:00",
+      "published_at": "2026-06-23T08:05:04+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -319,20 +319,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "GHITHA-6-1781999040",
+      "id": "GHITHA-6-1782000304",
       "symbol": "GHITHA",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-06-20T23:44:00+00:00",
+      "published_at": "2026-06-21T00:05:04+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -345,20 +345,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "GHITHA-4-1781423040",
+      "id": "GHITHA-4-1781424304",
       "symbol": "GHITHA",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-06-14T07:44:00+00:00",
+      "published_at": "2026-06-14T08:05:04+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -371,20 +371,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "GHITHA-1-1780469040",
+      "id": "GHITHA-1-1780470304",
       "symbol": "GHITHA",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-06-03T06:44:00+00:00",
+      "published_at": "2026-06-03T07:05:04+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -397,20 +397,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "GHITHA-3-1778363040",
+      "id": "GHITHA-3-1778364304",
       "symbol": "GHITHA",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-05-09T21:44:00+00:00",
+      "published_at": "2026-05-09T22:05:04+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -423,20 +423,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "GHITHA-7-1778208240",
+      "id": "GHITHA-7-1778209504",
       "symbol": "GHITHA",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-05-08T02:44:00+00:00",
+      "published_at": "2026-05-08T03:05:04+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -449,20 +449,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "GHITHA-5-1776393840",
+      "id": "GHITHA-5-1776395104",
       "symbol": "GHITHA",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-04-17T02:44:00+00:00",
+      "published_at": "2026-04-17T03:05:04+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -475,20 +475,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "GHITHA-0-1774763040",
+      "id": "GHITHA-0-1774764304",
       "symbol": "GHITHA",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-03-29T05:44:00+00:00",
+      "published_at": "2026-03-29T06:05:04+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -501,7 +501,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       },
@@ -527,7 +527,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       }
@@ -552,7 +552,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       }
@@ -578,7 +578,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       }
@@ -599,7 +599,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       }
@@ -618,7 +618,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       }
@@ -637,7 +637,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       }
@@ -656,7 +656,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       }
@@ -675,7 +675,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T07:44:00+00:00",
+        "retrieved_at": "2026-06-24T08:05:04+00:00",
         "url": null,
         "lang": null
       }
@@ -705,7 +705,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-24T07:44:00+00:00",
+      "retrieved_at": "2026-06-24T08:05:04+00:00",
       "url": null,
       "lang": null
     }
@@ -719,25 +719,25 @@
       2026
     ],
     "revenue": [
-      3256400000.0,
-      3315700000.0,
-      3376000000.0,
-      3437400000.0,
-      3500000000.0
+      5710700000.0,
+      5814700000.0,
+      5920500000.0,
+      6028200000.0,
+      6137900000.0
     ],
     "net_income": [
-      487800000.0,
-      479800000.0,
-      471300000.0,
-      462300000.0,
-      452900000.0
+      855500000.0,
+      841400000.0,
+      826500000.0,
+      810800000.0,
+      794300000.0
     ],
     "operating_cash_flow": [
-      529800000.0,
-      521000000.0,
-      511800000.0,
-      502100000.0,
-      491800000.0
+      929000000.0,
+      913700000.0,
+      897600000.0,
+      880500000.0,
+      862600000.0
     ],
     "ratios": {
       "net_margin": 0.1294,
@@ -785,12 +785,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-24T07:44:00+00:00",
+        "as_of": "2026-06-24T08:05:04+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -801,12 +801,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-24T07:44:00+00:00",
+        "as_of": "2026-06-24T08:05:04+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -817,12 +817,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T07:44:00+00:00",
+        "as_of": "2026-06-24T08:05:04+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -833,12 +833,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T07:44:00+00:00",
+        "as_of": "2026-06-24T08:05:04+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -849,12 +849,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T07:44:00+00:00",
+        "as_of": "2026-06-24T08:05:04+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -865,12 +865,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-24T07:44:00+00:00",
+        "as_of": "2026-06-24T08:05:04+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -880,7 +880,7 @@
       {
         "title": "Wheat headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-23T09:44:00+00:00",
+        "published_at": "2026-06-23T10:05:04+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 0.79,
@@ -888,7 +888,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -896,7 +896,7 @@
       {
         "title": "Wheat headline — global macro update 2",
         "theme": "TOURISM",
-        "published_at": "2026-06-24T05:44:00+00:00",
+        "published_at": "2026-06-24T06:05:04+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -0.42,
@@ -904,7 +904,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -912,7 +912,7 @@
       {
         "title": "Wheat headline — global macro update 3",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-21T15:44:00+00:00",
+        "published_at": "2026-06-21T16:05:04+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -5.45,
@@ -920,7 +920,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -928,7 +928,7 @@
       {
         "title": "Wheat headline — global macro update 4",
         "theme": "TRADE",
-        "published_at": "2026-06-23T12:44:00+00:00",
+        "published_at": "2026-06-23T13:05:04+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": 0.02,
@@ -936,7 +936,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -944,7 +944,7 @@
       {
         "title": "Wheat headline — global macro update 5",
         "theme": "TRADE",
-        "published_at": "2026-06-21T09:44:00+00:00",
+        "published_at": "2026-06-21T10:05:04+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": -3.44,
@@ -952,7 +952,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T07:44:00+00:00",
+          "retrieved_at": "2026-06-24T08:05:04+00:00",
           "url": null,
           "lang": null
         }
@@ -963,12 +963,12 @@
   "ai_analysis": {
     "short_term": {
       "stance": "Neutral",
-      "confidence": "medium",
+      "confidence": "low",
       "reasons": [
         "Recent disclosure tone skews positive"
       ],
       "risks": [
-        "A surprise filing or a sector-wide move could shift the picture quickly"
+        "Negative price momentum (-1.1% on the session in demo data)"
       ],
       "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
     },
@@ -987,13 +987,13 @@
     "_signal": {
       "short": {
         "stance": "Neutral",
-        "confidence": "medium",
-        "score": 54.9,
+        "confidence": "low",
+        "score": 52.0,
         "reasons": [
           "Recent disclosure tone skews positive"
         ],
         "risks": [
-          "A surprise filing or a sector-wide move could shift the picture quickly"
+          "Negative price momentum (-1.1% on the session in demo data)"
         ]
       },
       "long": {
@@ -1011,7 +1011,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-24T07:44:00+00:00"
+    "generated_at": "2026-06-24T08:05:04+00:00"
   },
-  "generated_at": "2026-06-24T07:44:00+00:00"
+  "generated_at": "2026-06-24T08:05:04+00:00"
 }
