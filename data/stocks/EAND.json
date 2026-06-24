@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "EAND",
-    "price": 19.58,
-    "change": 0.039,
-    "change_pct": 0.002,
-    "volume": 1256538,
+    "price": 19.6,
+    "change": 0.061,
+    "change_pct": 0.0031,
+    "volume": 1400228,
     "market_cap": null,
-    "high_52w": 22.211,
-    "low_52w": 19.555,
+    "high_52w": 19.637,
+    "low_52w": 18.843,
     "spark": [
-      19.555,
-      19.604,
-      19.818,
-      19.731,
-      19.993,
-      19.811,
-      19.777,
-      19.656,
-      19.803,
-      20.01,
-      20.063,
-      20.282,
-      20.08,
-      20.026,
-      20.04,
-      20.299,
-      20.302,
-      20.383,
-      20.502,
-      20.74,
-      21.014,
-      20.928,
-      21.063,
-      21.294,
-      21.562,
-      21.757,
-      22.031,
-      22.024,
-      22.211,
-      19.58
+      19.074,
+      19.32,
+      19.57,
+      19.397,
+      19.399,
+      19.189,
+      19.016,
+      18.952,
+      18.872,
+      18.843,
+      19.028,
+      19.253,
+      19.376,
+      19.303,
+      19.226,
+      19.405,
+      19.469,
+      19.337,
+      19.118,
+      18.992,
+      18.981,
+      19.19,
+      19.15,
+      19.09,
+      19.24,
+      19.459,
+      19.298,
+      19.518,
+      19.637,
+      19.6
     ],
     "prov": {
       "source_type": "official",
       "source_name": "ADX (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-24T09:02:37.214Z",
+      "retrieved_at": "2026-06-24T09:21:15.357Z",
       "url": null,
       "lang": null
     }
@@ -285,9 +285,9 @@
     ],
     "quick_stats": {
       "market_cap": null,
-      "volume": 1256538,
-      "high_52w": 22.211,
-      "low_52w": 19.555,
+      "volume": 1400228,
+      "high_52w": 19.637,
+      "low_52w": 18.843,
       "dividend_yield": 0.0326
     },
     "top_catalysts": [
@@ -300,13 +300,13 @@
   },
   "disclosures": [
     {
-      "id": "EAND-5-1781766169",
+      "id": "EAND-5-1781767276",
       "symbol": "EAND",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-06-18T07:02:49+00:00",
+      "published_at": "2026-06-18T07:21:16+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -319,20 +319,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T09:02:49+00:00",
+        "retrieved_at": "2026-06-24T09:21:16+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "EAND-4-1781301769",
+      "id": "EAND-4-1781302876",
       "symbol": "EAND",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-06-12T22:02:49+00:00",
+      "published_at": "2026-06-12T22:21:16+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -345,20 +345,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T09:02:49+00:00",
+        "retrieved_at": "2026-06-24T09:21:16+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "EAND-3-1780560169",
+      "id": "EAND-3-1780561276",
       "symbol": "EAND",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-06-04T08:02:49+00:00",
+      "published_at": "2026-06-04T08:21:16+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -371,20 +371,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T09:02:49+00:00",
+        "retrieved_at": "2026-06-24T09:21:16+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "EAND-2-1776837769",
+      "id": "EAND-2-1776838876",
       "symbol": "EAND",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-04-22T06:02:49+00:00",
+      "published_at": "2026-04-22T06:21:16+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -397,20 +397,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T09:02:49+00:00",
+        "retrieved_at": "2026-06-24T09:21:16+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "EAND-0-1776142969",
+      "id": "EAND-0-1776144076",
       "symbol": "EAND",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-04-14T05:02:49+00:00",
+      "published_at": "2026-04-14T05:21:16+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -423,20 +423,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T09:02:49+00:00",
+        "retrieved_at": "2026-06-24T09:21:16+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "EAND-1-1775206969",
+      "id": "EAND-1-1775208076",
       "symbol": "EAND",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-04-03T09:02:49+00:00",
+      "published_at": "2026-04-03T09:21:16+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -449,7 +449,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T09:02:49+00:00",
+        "retrieved_at": "2026-06-24T09:21:16+00:00",
         "url": null,
         "lang": null
       },
@@ -475,7 +475,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T09:02:49+00:00",
+        "retrieved_at": "2026-06-24T09:21:16+00:00",
         "url": null,
         "lang": null
       }
@@ -500,7 +500,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T09:02:49+00:00",
+        "retrieved_at": "2026-06-24T09:21:16+00:00",
         "url": null,
         "lang": null
       }
@@ -526,7 +526,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T09:02:49+00:00",
+        "retrieved_at": "2026-06-24T09:21:16+00:00",
         "url": null,
         "lang": null
       }
@@ -557,7 +557,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-24T09:02:49+00:00",
+      "retrieved_at": "2026-06-24T09:21:16+00:00",
       "url": null,
       "lang": null
     }
@@ -637,12 +637,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-24T09:02:49+00:00",
+        "as_of": "2026-06-24T09:21:16+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T09:02:49+00:00",
+          "retrieved_at": "2026-06-24T09:21:16+00:00",
           "url": null,
           "lang": null
         }
@@ -653,12 +653,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-24T09:02:49+00:00",
+        "as_of": "2026-06-24T09:21:16+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T09:02:49+00:00",
+          "retrieved_at": "2026-06-24T09:21:16+00:00",
           "url": null,
           "lang": null
         }
@@ -669,12 +669,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T09:02:49+00:00",
+        "as_of": "2026-06-24T09:21:16+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T09:02:49+00:00",
+          "retrieved_at": "2026-06-24T09:21:16+00:00",
           "url": null,
           "lang": null
         }
@@ -685,12 +685,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T09:02:49+00:00",
+        "as_of": "2026-06-24T09:21:16+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T09:02:49+00:00",
+          "retrieved_at": "2026-06-24T09:21:16+00:00",
           "url": null,
           "lang": null
         }
@@ -701,12 +701,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T09:02:49+00:00",
+        "as_of": "2026-06-24T09:21:16+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T09:02:49+00:00",
+          "retrieved_at": "2026-06-24T09:21:16+00:00",
           "url": null,
           "lang": null
         }
@@ -717,12 +717,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-24T09:02:49+00:00",
+        "as_of": "2026-06-24T09:21:16+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T09:02:49+00:00",
+          "retrieved_at": "2026-06-24T09:21:16+00:00",
           "url": null,
           "lang": null
         }
@@ -732,7 +732,7 @@
       {
         "title": "Us headline — global macro update 1",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-23T23:02:49+00:00",
+        "published_at": "2026-06-23T23:21:16+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -1.29,
@@ -740,7 +740,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T09:02:49+00:00",
+          "retrieved_at": "2026-06-24T09:21:16+00:00",
           "url": null,
           "lang": null
         }
@@ -748,7 +748,7 @@
       {
         "title": "Us headline — global macro update 2",
         "theme": "ENERGY",
-        "published_at": "2026-06-24T00:02:49+00:00",
+        "published_at": "2026-06-24T00:21:16+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 2.88,
@@ -756,7 +756,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T09:02:49+00:00",
+          "retrieved_at": "2026-06-24T09:21:16+00:00",
           "url": null,
           "lang": null
         }
@@ -764,7 +764,7 @@
       {
         "title": "Us headline — global macro update 3",
         "theme": "TOURISM",
-        "published_at": "2026-06-23T02:02:49+00:00",
+        "published_at": "2026-06-23T02:21:16+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -5.76,
@@ -772,7 +772,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T09:02:49+00:00",
+          "retrieved_at": "2026-06-24T09:21:16+00:00",
           "url": null,
           "lang": null
         }
@@ -808,7 +808,7 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 56.3,
+        "score": 56.6,
         "reasons": [
           "Recent disclosure tone skews positive"
         ],
@@ -831,7 +831,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-24T09:02:49+00:00"
+    "generated_at": "2026-06-24T09:21:16+00:00"
   },
-  "generated_at": "2026-06-24T09:02:49+00:00"
+  "generated_at": "2026-06-24T09:21:16+00:00"
 }
