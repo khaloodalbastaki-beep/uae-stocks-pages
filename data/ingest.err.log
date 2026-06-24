@@ -79,3 +79,9 @@ Call log:
 [scrape] ADX board: 128 symbols, matched 33/34 registry, FADGI=10050.44
 [scrape] DFM search: matched 18/20 registry, DFMGI=6129.08
 [scrape] wrote 51 live quotes -> /Users/khalidalbastaki/Projects/uae-stocks/data/live_quotes.json
+[scrape] ADX FAILED: page.waitForSelector: Timeout 25000ms exceeded.
+Call log:
+  - waiting for locator('.rdt_TableRow') to be visible
+
+[scrape] DFM search: matched 20/20 registry, DFMGI=6121.07
+[scrape] wrote 20 live quotes -> /Users/khalidalbastaki/Projects/uae-stocks/data/live_quotes.json
