@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "EMAARDEV",
-    "price": 14.48,
-    "change": -0.58,
-    "change_pct": -0.0385,
-    "volume": 0,
-    "market_cap": null,
-    "high_52w": 15.151,
-    "low_52w": 14.48,
+    "price": 12.5,
+    "change": -0.1,
+    "change_pct": -0.0079,
+    "volume": 14799305,
+    "market_cap": 36886000000.0,
+    "high_52w": 13.5,
+    "low_52w": 9.86,
     "spark": [
-      14.786,
-      14.824,
-      14.932,
-      14.757,
-      14.584,
-      14.754,
-      14.799,
-      14.997,
-      15.139,
-      14.983,
-      15.151,
-      15.035,
-      15.097,
-      15.013,
-      14.889,
-      15.051,
-      14.931,
-      14.864,
-      14.719,
-      14.717,
-      14.747,
-      14.687,
-      14.532,
-      14.709,
-      14.688,
-      14.582,
-      14.753,
-      14.679,
-      14.787,
-      14.48
+      12.041,
+      12.131,
+      12.151,
+      11.982,
+      11.905,
+      11.785,
+      11.935,
+      11.754,
+      11.71,
+      11.77,
+      11.807,
+      11.598,
+      11.439,
+      11.291,
+      11.312,
+      11.133,
+      11.147,
+      10.96,
+      11.195,
+      11.379,
+      11.547,
+      11.492,
+      11.285,
+      11.454,
+      11.338,
+      11.349,
+      11.582,
+      11.407,
+      11.335,
+      12.5
     ],
     "prov": {
-      "source_type": "official",
-      "source_name": "DFM (delayed)",
-      "data_quality": "delayed",
-      "retrieved_at": "2026-06-24T05:04:21.504Z",
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-24T05:22:31+00:00",
       "url": null,
       "lang": null
     }
@@ -284,10 +284,10 @@
       "DFM"
     ],
     "quick_stats": {
-      "market_cap": null,
-      "volume": 0,
-      "high_52w": 15.151,
-      "low_52w": 14.48,
+      "market_cap": 36886000000.0,
+      "volume": 14799305,
+      "high_52w": 13.5,
+      "low_52w": 9.86,
       "dividend_yield": 0.0153
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "EMAARDEV-0-1780693466",
+      "id": "EMAARDEV-0-1780694551",
       "symbol": "EMAARDEV",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-06-05T21:04:26+00:00",
+      "published_at": "2026-06-05T21:22:31+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T05:04:26+00:00",
+        "retrieved_at": "2026-06-24T05:22:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "EMAARDEV-3-1778303066",
+      "id": "EMAARDEV-3-1778304151",
       "symbol": "EMAARDEV",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-05-09T05:04:26+00:00",
+      "published_at": "2026-05-09T05:22:31+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T05:04:26+00:00",
+        "retrieved_at": "2026-06-24T05:22:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "EMAARDEV-4-1775693066",
+      "id": "EMAARDEV-4-1775694151",
       "symbol": "EMAARDEV",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-04-09T00:04:26+00:00",
+      "published_at": "2026-04-09T00:22:31+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T05:04:26+00:00",
+        "retrieved_at": "2026-06-24T05:22:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "EMAARDEV-2-1774919066",
+      "id": "EMAARDEV-2-1774920151",
       "symbol": "EMAARDEV",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-03-31T01:04:26+00:00",
+      "published_at": "2026-03-31T01:22:31+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -396,20 +396,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T05:04:26+00:00",
+        "retrieved_at": "2026-06-24T05:22:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "EMAARDEV-1-1774548266",
+      "id": "EMAARDEV-1-1774549351",
       "symbol": "EMAARDEV",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-03-26T18:04:26+00:00",
+      "published_at": "2026-03-26T18:22:31+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -422,7 +422,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T05:04:26+00:00",
+        "retrieved_at": "2026-06-24T05:22:31+00:00",
         "url": null,
         "lang": null
       },
@@ -448,7 +448,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T05:04:26+00:00",
+        "retrieved_at": "2026-06-24T05:22:31+00:00",
         "url": null,
         "lang": null
       }
@@ -473,7 +473,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T05:04:26+00:00",
+        "retrieved_at": "2026-06-24T05:22:31+00:00",
         "url": null,
         "lang": null
       }
@@ -499,7 +499,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-24T05:04:26+00:00",
+        "retrieved_at": "2026-06-24T05:22:31+00:00",
         "url": null,
         "lang": null
       }
@@ -530,7 +530,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-24T05:04:26+00:00",
+      "retrieved_at": "2026-06-24T05:22:31+00:00",
       "url": null,
       "lang": null
     }
@@ -544,25 +544,25 @@
       2026
     ],
     "revenue": [
-      2032800000.0,
-      2328500000.0,
-      2667300000.0,
-      3055400000.0,
-      3500000000.0
+      7498100000.0,
+      8589000000.0,
+      9838700000.0,
+      11270300000.0,
+      12910100000.0
     ],
     "net_income": [
-      330100000.0,
-      380900000.0,
-      439600000.0,
-      507200000.0,
-      585200000.0
+      1217700000.0,
+      1405200000.0,
+      1621400000.0,
+      1870900000.0,
+      2158600000.0
     ],
     "operating_cash_flow": [
-      354600000.0,
-      409100000.0,
-      472100000.0,
-      544700000.0,
-      628500000.0
+      1307800000.0,
+      1509100000.0,
+      1741400000.0,
+      2009300000.0,
+      2318300000.0
     ],
     "ratios": {
       "net_margin": 0.1672,
@@ -610,12 +610,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-24T05:04:25+00:00",
+        "as_of": "2026-06-24T05:22:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T05:04:25+00:00",
+          "retrieved_at": "2026-06-24T05:22:31+00:00",
           "url": null,
           "lang": null
         }
@@ -626,12 +626,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-24T05:04:25+00:00",
+        "as_of": "2026-06-24T05:22:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T05:04:25+00:00",
+          "retrieved_at": "2026-06-24T05:22:31+00:00",
           "url": null,
           "lang": null
         }
@@ -642,12 +642,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T05:04:25+00:00",
+        "as_of": "2026-06-24T05:22:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T05:04:25+00:00",
+          "retrieved_at": "2026-06-24T05:22:31+00:00",
           "url": null,
           "lang": null
         }
@@ -658,12 +658,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T05:04:25+00:00",
+        "as_of": "2026-06-24T05:22:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T05:04:25+00:00",
+          "retrieved_at": "2026-06-24T05:22:31+00:00",
           "url": null,
           "lang": null
         }
@@ -674,12 +674,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-24T05:04:25+00:00",
+        "as_of": "2026-06-24T05:22:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T05:04:25+00:00",
+          "retrieved_at": "2026-06-24T05:22:31+00:00",
           "url": null,
           "lang": null
         }
@@ -690,12 +690,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-24T05:04:25+00:00",
+        "as_of": "2026-06-24T05:22:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T05:04:25+00:00",
+          "retrieved_at": "2026-06-24T05:22:31+00:00",
           "url": null,
           "lang": null
         }
@@ -705,7 +705,7 @@
       {
         "title": "Federal headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-23T03:04:26+00:00",
+        "published_at": "2026-06-23T03:22:31+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -3.75,
@@ -713,7 +713,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T05:04:26+00:00",
+          "retrieved_at": "2026-06-24T05:22:31+00:00",
           "url": null,
           "lang": null
         }
@@ -721,7 +721,7 @@
       {
         "title": "Federal headline — global macro update 2",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-23T03:04:26+00:00",
+        "published_at": "2026-06-23T03:22:31+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -4.32,
@@ -729,7 +729,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T05:04:26+00:00",
+          "retrieved_at": "2026-06-24T05:22:31+00:00",
           "url": null,
           "lang": null
         }
@@ -737,7 +737,7 @@
       {
         "title": "Federal headline — global macro update 3",
         "theme": "TRADE",
-        "published_at": "2026-06-21T11:04:26+00:00",
+        "published_at": "2026-06-21T11:22:31+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 1.18,
@@ -745,7 +745,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-24T05:04:26+00:00",
+          "retrieved_at": "2026-06-24T05:22:31+00:00",
           "url": null,
           "lang": null
         }
@@ -756,12 +756,12 @@
   "ai_analysis": {
     "short_term": {
       "stance": "Neutral",
-      "confidence": "low",
+      "confidence": "medium",
       "reasons": [
         "Recent disclosure tone skews positive"
       ],
       "risks": [
-        "Negative price momentum (-3.9% on the session in demo data)"
+        "A surprise filing or a sector-wide move could shift the picture quickly"
       ],
       "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
     },
@@ -779,13 +779,13 @@
     "_signal": {
       "short": {
         "stance": "Neutral",
-        "confidence": "low",
-        "score": 47.7,
+        "confidence": "medium",
+        "score": 56.8,
         "reasons": [
           "Recent disclosure tone skews positive"
         ],
         "risks": [
-          "Negative price momentum (-3.9% on the session in demo data)"
+          "A surprise filing or a sector-wide move could shift the picture quickly"
         ]
       },
       "long": {
@@ -802,7 +802,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-24T05:04:26+00:00"
+    "generated_at": "2026-06-24T05:22:31+00:00"
   },
-  "generated_at": "2026-06-24T05:04:26+00:00"
+  "generated_at": "2026-06-24T05:22:31+00:00"
 }

@@ -31,3 +31,9 @@
 [scrape] ADX board: 128 symbols, matched 33/34 registry, FADGI=10024.7
 [scrape] DFM search: matched 20/20 registry, DFMGI=6104.98
 [scrape] wrote 53 live quotes -> /Users/khalidalbastaki/Projects/uae-stocks/data/live_quotes.json
+[scrape] ADX FAILED: page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://www.adx.ae/all-equities", waiting until "domcontentloaded"
+
+[scrape] DFM search: matched 20/20 registry, DFMGI=6104.98
+[scrape] wrote 20 live quotes -> /Users/khalidalbastaki/Projects/uae-stocks/data/live_quotes.json
