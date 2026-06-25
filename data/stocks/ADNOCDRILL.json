@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "ADNOCDRILL",
-    "price": 5.85,
-    "change": -0.05,
-    "change_pct": -0.0085,
-    "volume": 1861504,
+    "price": 5.86,
+    "change": -0.04,
+    "change_pct": -0.0068,
+    "volume": 2579656,
     "market_cap": null,
-    "high_52w": 6.273,
-    "low_52w": 5.85,
+    "high_52w": 6.257,
+    "low_52w": 5.681,
     "spark": [
-      5.898,
-      5.934,
-      5.899,
+      5.714,
+      5.681,
+      5.714,
+      5.777,
+      5.756,
+      5.771,
+      5.78,
+      5.813,
+      5.805,
+      5.843,
+      5.836,
       5.91,
-      5.979,
-      6.019,
-      6.099,
-      6.067,
-      6.103,
-      6.095,
-      6.164,
-      6.132,
-      6.15,
-      6.227,
-      6.235,
-      6.221,
-      6.204,
-      6.191,
-      6.178,
-      6.128,
-      6.188,
-      6.273,
-      6.209,
-      6.224,
-      6.233,
-      6.173,
-      6.174,
-      6.219,
-      6.223,
-      5.85
+      5.974,
+      5.946,
+      5.913,
+      5.909,
+      5.91,
+      5.904,
+      5.982,
+      5.962,
+      5.952,
+      5.944,
+      6.015,
+      6.096,
+      6.181,
+      6.257,
+      6.234,
+      6.205,
+      6.157,
+      5.86
     ],
     "prov": {
       "source_type": "official",
       "source_name": "ADX (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-25T08:28:57.875Z",
+      "retrieved_at": "2026-06-25T08:48:02.046Z",
       "url": null,
       "lang": null
     }
@@ -285,9 +285,9 @@
     ],
     "quick_stats": {
       "market_cap": null,
-      "volume": 1861504,
-      "high_52w": 6.273,
-      "low_52w": 5.85,
+      "volume": 2579656,
+      "high_52w": 6.257,
+      "low_52w": 5.681,
       "dividend_yield": 0.0831
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "ADNOCDRILL-4-1781494138",
+      "id": "ADNOCDRILL-4-1781495282",
       "symbol": "ADNOCDRILL",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-06-15T03:28:58+00:00",
+      "published_at": "2026-06-15T03:48:02+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "ADNOCDRILL-7-1780018138",
+      "id": "ADNOCDRILL-7-1780019282",
       "symbol": "ADNOCDRILL",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-05-29T01:28:58+00:00",
+      "published_at": "2026-05-29T01:48:02+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "ADNOCDRILL-3-1779175738",
+      "id": "ADNOCDRILL-3-1779176882",
       "symbol": "ADNOCDRILL",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-05-19T07:28:58+00:00",
+      "published_at": "2026-05-19T07:48:02+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "ADNOCDRILL-6-1778887738",
+      "id": "ADNOCDRILL-6-1778888882",
       "symbol": "ADNOCDRILL",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-05-15T23:28:58+00:00",
+      "published_at": "2026-05-15T23:48:02+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -396,20 +396,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "ADNOCDRILL-1-1777933738",
+      "id": "ADNOCDRILL-1-1777934882",
       "symbol": "ADNOCDRILL",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-05-04T22:28:58+00:00",
+      "published_at": "2026-05-04T22:48:02+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -422,20 +422,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "ADNOCDRILL-0-1776230938",
+      "id": "ADNOCDRILL-0-1776232082",
       "symbol": "ADNOCDRILL",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-04-15T05:28:58+00:00",
+      "published_at": "2026-04-15T05:48:02+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -448,20 +448,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "ADNOCDRILL-2-1775946538",
+      "id": "ADNOCDRILL-2-1775947682",
       "symbol": "ADNOCDRILL",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-04-11T22:28:58+00:00",
+      "published_at": "2026-04-11T22:48:02+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -474,20 +474,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "ADNOCDRILL-5-1774844938",
+      "id": "ADNOCDRILL-5-1774846082",
       "symbol": "ADNOCDRILL",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-03-30T04:28:58+00:00",
+      "published_at": "2026-03-30T04:48:02+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -500,7 +500,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       },
@@ -526,7 +526,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       }
@@ -551,7 +551,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       }
@@ -577,7 +577,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       }
@@ -598,7 +598,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       }
@@ -617,7 +617,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       }
@@ -636,7 +636,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T08:28:58+00:00",
+        "retrieved_at": "2026-06-25T08:48:02+00:00",
         "url": null,
         "lang": null
       }
@@ -666,7 +666,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-25T08:28:58+00:00",
+      "retrieved_at": "2026-06-25T08:48:02+00:00",
       "url": null,
       "lang": null
     }
@@ -737,12 +737,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-25T08:28:58+00:00",
+        "as_of": "2026-06-25T08:48:02+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T08:28:58+00:00",
+          "retrieved_at": "2026-06-25T08:48:02+00:00",
           "url": null,
           "lang": null
         }
@@ -753,12 +753,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-25T08:28:58+00:00",
+        "as_of": "2026-06-25T08:48:02+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T08:28:58+00:00",
+          "retrieved_at": "2026-06-25T08:48:02+00:00",
           "url": null,
           "lang": null
         }
@@ -769,12 +769,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T08:28:58+00:00",
+        "as_of": "2026-06-25T08:48:02+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T08:28:58+00:00",
+          "retrieved_at": "2026-06-25T08:48:02+00:00",
           "url": null,
           "lang": null
         }
@@ -785,12 +785,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T08:28:58+00:00",
+        "as_of": "2026-06-25T08:48:02+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T08:28:58+00:00",
+          "retrieved_at": "2026-06-25T08:48:02+00:00",
           "url": null,
           "lang": null
         }
@@ -801,12 +801,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T08:28:58+00:00",
+        "as_of": "2026-06-25T08:48:02+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T08:28:58+00:00",
+          "retrieved_at": "2026-06-25T08:48:02+00:00",
           "url": null,
           "lang": null
         }
@@ -817,12 +817,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-25T08:28:58+00:00",
+        "as_of": "2026-06-25T08:48:02+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T08:28:58+00:00",
+          "retrieved_at": "2026-06-25T08:48:02+00:00",
           "url": null,
           "lang": null
         }
@@ -832,7 +832,7 @@
       {
         "title": "Energy headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-24T03:28:58+00:00",
+        "published_at": "2026-06-24T03:48:02+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 0.37,
@@ -840,7 +840,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T08:28:58+00:00",
+          "retrieved_at": "2026-06-25T08:48:02+00:00",
           "url": null,
           "lang": null
         }
@@ -848,7 +848,7 @@
       {
         "title": "Energy headline — global macro update 2",
         "theme": "TRADE",
-        "published_at": "2026-06-23T13:28:58+00:00",
+        "published_at": "2026-06-23T13:48:02+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 4.74,
@@ -856,7 +856,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T08:28:58+00:00",
+          "retrieved_at": "2026-06-25T08:48:02+00:00",
           "url": null,
           "lang": null
         }
@@ -864,7 +864,7 @@
       {
         "title": "Energy headline — global macro update 3",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-23T13:28:58+00:00",
+        "published_at": "2026-06-23T13:48:02+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 3.45,
@@ -872,7 +872,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T08:28:58+00:00",
+          "retrieved_at": "2026-06-25T08:48:02+00:00",
           "url": null,
           "lang": null
         }
@@ -880,7 +880,7 @@
       {
         "title": "Energy headline — global macro update 4",
         "theme": "MARITIME",
-        "published_at": "2026-06-24T23:28:58+00:00",
+        "published_at": "2026-06-24T23:48:02+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 2.16,
@@ -888,7 +888,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T08:28:58+00:00",
+          "retrieved_at": "2026-06-25T08:48:02+00:00",
           "url": null,
           "lang": null
         }
@@ -896,7 +896,7 @@
       {
         "title": "Energy headline — global macro update 5",
         "theme": "TRADE",
-        "published_at": "2026-06-22T10:28:58+00:00",
+        "published_at": "2026-06-22T10:48:02+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 0.91,
@@ -904,7 +904,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T08:28:58+00:00",
+          "retrieved_at": "2026-06-25T08:48:02+00:00",
           "url": null,
           "lang": null
         }
@@ -912,7 +912,7 @@
       {
         "title": "Energy headline — global macro update 6",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-23T12:28:58+00:00",
+        "published_at": "2026-06-23T12:48:02+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -3.68,
@@ -920,7 +920,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T08:28:58+00:00",
+          "retrieved_at": "2026-06-25T08:48:02+00:00",
           "url": null,
           "lang": null
         }
@@ -936,7 +936,6 @@
         "A high-materiality disclosure (85/100) is in the recent flow"
       ],
       "risks": [
-        "Negative price momentum (-0.9% on the session in demo data)",
         "Recent disclosure tone skews cautious/negative"
       ],
       "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
@@ -956,12 +955,11 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 47.7,
+        "score": 48.2,
         "reasons": [
           "A high-materiality disclosure (85/100) is in the recent flow"
         ],
         "risks": [
-          "Negative price momentum (-0.9% on the session in demo data)",
           "Recent disclosure tone skews cautious/negative"
         ]
       },
@@ -979,7 +977,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-25T08:28:58+00:00"
+    "generated_at": "2026-06-25T08:48:02+00:00"
   },
-  "generated_at": "2026-06-25T08:28:58+00:00"
+  "generated_at": "2026-06-25T08:48:02+00:00"
 }
