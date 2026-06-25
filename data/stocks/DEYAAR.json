@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "DEYAAR",
-    "price": 0.82,
-    "change": 0.001,
-    "change_pct": 0.0012,
+    "price": 0.821,
+    "change": 0.002,
+    "change_pct": 0.0024,
     "volume": 0,
     "market_cap": null,
-    "high_52w": 0.88,
-    "low_52w": 0.806,
+    "high_52w": 0.836,
+    "low_52w": 0.814,
     "spark": [
       0.814,
-      0.806,
-      0.811,
-      0.811,
+      0.815,
+      0.816,
+      0.825,
+      0.83,
       0.821,
+      0.828,
+      0.818,
+      0.822,
+      0.823,
+      0.828,
       0.832,
-      0.838,
+      0.827,
+      0.822,
+      0.833,
+      0.836,
+      0.828,
+      0.825,
+      0.829,
+      0.824,
+      0.827,
+      0.823,
       0.832,
-      0.837,
-      0.843,
-      0.842,
-      0.849,
-      0.859,
-      0.849,
-      0.856,
-      0.861,
-      0.857,
-      0.867,
-      0.869,
-      0.874,
-      0.874,
-      0.88,
-      0.872,
-      0.878,
-      0.87,
-      0.869,
-      0.87,
-      0.88,
-      0.874,
-      0.82
+      0.832,
+      0.824,
+      0.835,
+      0.835,
+      0.828,
+      0.835,
+      0.821
     ],
     "prov": {
       "source_type": "official",
       "source_name": "DFM (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-25T06:28:56.346Z",
+      "retrieved_at": "2026-06-25T06:45:07.573Z",
       "url": null,
       "lang": null
     }
@@ -286,8 +286,8 @@
     "quick_stats": {
       "market_cap": null,
       "volume": 0,
-      "high_52w": 0.88,
-      "low_52w": 0.806,
+      "high_52w": 0.836,
+      "low_52w": 0.814,
       "dividend_yield": 0.0018
     },
     "top_catalysts": [
@@ -300,13 +300,13 @@
   },
   "disclosures": [
     {
-      "id": "DEYAAR-5-1782361736",
+      "id": "DEYAAR-5-1782362707",
       "symbol": "DEYAAR",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-06-25T04:28:56+00:00",
+      "published_at": "2026-06-25T04:45:07+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -319,20 +319,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "DEYAAR-4-1782253736",
+      "id": "DEYAAR-4-1782254707",
       "symbol": "DEYAAR",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-06-23T22:28:56+00:00",
+      "published_at": "2026-06-23T22:45:07+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -345,20 +345,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "DEYAAR-0-1781324936",
+      "id": "DEYAAR-0-1781325907",
       "symbol": "DEYAAR",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-06-13T04:28:56+00:00",
+      "published_at": "2026-06-13T04:45:07+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -371,20 +371,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "DEYAAR-1-1779254936",
+      "id": "DEYAAR-1-1779255907",
       "symbol": "DEYAAR",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-05-20T05:28:56+00:00",
+      "published_at": "2026-05-20T05:45:07+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -397,20 +397,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "DEYAAR-2-1777350536",
+      "id": "DEYAAR-2-1777351507",
       "symbol": "DEYAAR",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-04-28T04:28:56+00:00",
+      "published_at": "2026-04-28T04:45:07+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -423,20 +423,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "DEYAAR-6-1777246136",
+      "id": "DEYAAR-6-1777247107",
       "symbol": "DEYAAR",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-04-26T23:28:56+00:00",
+      "published_at": "2026-04-26T23:45:07+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -449,20 +449,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "DEYAAR-7-1776194936",
+      "id": "DEYAAR-7-1776195907",
       "symbol": "DEYAAR",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-04-14T19:28:56+00:00",
+      "published_at": "2026-04-14T19:45:07+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -475,20 +475,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "DEYAAR-3-1775341736",
+      "id": "DEYAAR-3-1775342707",
       "symbol": "DEYAAR",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-04-04T22:28:56+00:00",
+      "published_at": "2026-04-04T22:45:07+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -501,7 +501,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       },
@@ -527,7 +527,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       }
@@ -552,7 +552,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       }
@@ -578,7 +578,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       }
@@ -599,7 +599,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       }
@@ -618,7 +618,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       }
@@ -637,7 +637,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T06:28:56+00:00",
+        "retrieved_at": "2026-06-25T06:45:07+00:00",
         "url": null,
         "lang": null
       }
@@ -667,7 +667,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-25T06:28:56+00:00",
+      "retrieved_at": "2026-06-25T06:45:07+00:00",
       "url": null,
       "lang": null
     }
@@ -747,12 +747,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-25T06:28:56+00:00",
+        "as_of": "2026-06-25T06:45:07+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T06:28:56+00:00",
+          "retrieved_at": "2026-06-25T06:45:07+00:00",
           "url": null,
           "lang": null
         }
@@ -763,12 +763,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-25T06:28:56+00:00",
+        "as_of": "2026-06-25T06:45:07+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T06:28:56+00:00",
+          "retrieved_at": "2026-06-25T06:45:07+00:00",
           "url": null,
           "lang": null
         }
@@ -779,12 +779,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T06:28:56+00:00",
+        "as_of": "2026-06-25T06:45:07+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T06:28:56+00:00",
+          "retrieved_at": "2026-06-25T06:45:07+00:00",
           "url": null,
           "lang": null
         }
@@ -795,12 +795,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T06:28:56+00:00",
+        "as_of": "2026-06-25T06:45:07+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T06:28:56+00:00",
+          "retrieved_at": "2026-06-25T06:45:07+00:00",
           "url": null,
           "lang": null
         }
@@ -811,12 +811,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T06:28:56+00:00",
+        "as_of": "2026-06-25T06:45:07+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T06:28:56+00:00",
+          "retrieved_at": "2026-06-25T06:45:07+00:00",
           "url": null,
           "lang": null
         }
@@ -827,12 +827,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-25T06:28:56+00:00",
+        "as_of": "2026-06-25T06:45:07+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T06:28:56+00:00",
+          "retrieved_at": "2026-06-25T06:45:07+00:00",
           "url": null,
           "lang": null
         }
@@ -842,7 +842,7 @@
       {
         "title": "Federal headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-24T04:28:56+00:00",
+        "published_at": "2026-06-24T04:45:07+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -3.75,
@@ -850,7 +850,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T06:28:56+00:00",
+          "retrieved_at": "2026-06-25T06:45:07+00:00",
           "url": null,
           "lang": null
         }
@@ -858,7 +858,7 @@
       {
         "title": "Federal headline — global macro update 2",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-24T04:28:56+00:00",
+        "published_at": "2026-06-24T04:45:07+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -4.32,
@@ -866,7 +866,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T06:28:56+00:00",
+          "retrieved_at": "2026-06-25T06:45:07+00:00",
           "url": null,
           "lang": null
         }
@@ -874,7 +874,7 @@
       {
         "title": "Federal headline — global macro update 3",
         "theme": "TRADE",
-        "published_at": "2026-06-22T12:28:56+00:00",
+        "published_at": "2026-06-22T12:45:07+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 1.18,
@@ -882,7 +882,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T06:28:56+00:00",
+          "retrieved_at": "2026-06-25T06:45:07+00:00",
           "url": null,
           "lang": null
         }
@@ -918,7 +918,7 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 44.1,
+        "score": 44.4,
         "reasons": [
           "A high-materiality disclosure (81/100) is in the recent flow"
         ],
@@ -941,7 +941,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-25T06:28:56+00:00"
+    "generated_at": "2026-06-25T06:45:07+00:00"
   },
-  "generated_at": "2026-06-25T06:28:56+00:00"
+  "generated_at": "2026-06-25T06:45:07+00:00"
 }
