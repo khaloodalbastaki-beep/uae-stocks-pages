@@ -10,49 +10,49 @@
   "quote": {
     "symbol": "PRESIGHT",
     "price": 3.65,
-    "change": -0.03,
-    "change_pct": -0.0082,
-    "volume": 1935154,
+    "change": 0.0,
+    "change_pct": 0.0,
+    "volume": 0,
     "market_cap": null,
-    "high_52w": 3.75,
-    "low_52w": 3.546,
+    "high_52w": 3.719,
+    "low_52w": 3.517,
     "spark": [
-      3.686,
-      3.658,
-      3.62,
-      3.62,
-      3.615,
-      3.612,
+      3.655,
+      3.628,
+      3.59,
+      3.591,
+      3.585,
       3.582,
-      3.546,
-      3.588,
-      3.63,
-      3.624,
-      3.586,
-      3.623,
-      3.646,
-      3.653,
-      3.625,
-      3.599,
+      3.552,
+      3.517,
+      3.559,
+      3.601,
       3.595,
-      3.644,
-      3.613,
-      3.635,
-      3.66,
-      3.646,
-      3.695,
-      3.727,
-      3.688,
-      3.709,
-      3.75,
-      3.747,
+      3.557,
+      3.593,
+      3.616,
+      3.623,
+      3.595,
+      3.57,
+      3.566,
+      3.614,
+      3.583,
+      3.605,
+      3.63,
+      3.616,
+      3.664,
+      3.696,
+      3.658,
+      3.678,
+      3.719,
+      3.716,
       3.65
     ],
     "prov": {
       "source_type": "official",
       "source_name": "ADX (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-25T05:40:31.496Z",
+      "retrieved_at": "2026-06-25T05:56:30.959Z",
       "url": null,
       "lang": null
     }
@@ -285,9 +285,9 @@
     ],
     "quick_stats": {
       "market_cap": null,
-      "volume": 1935154,
-      "high_52w": 3.75,
-      "low_52w": 3.546,
+      "volume": 0,
+      "high_52w": 3.719,
+      "low_52w": 3.517,
       "dividend_yield": 0.0
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "PRESIGHT-2-1781725231",
+      "id": "PRESIGHT-2-1781726191",
       "symbol": "PRESIGHT",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-06-17T19:40:31+00:00",
+      "published_at": "2026-06-17T19:56:31+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T05:40:31+00:00",
+        "retrieved_at": "2026-06-25T05:56:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "PRESIGHT-0-1780270831",
+      "id": "PRESIGHT-0-1780271791",
       "symbol": "PRESIGHT",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-05-31T23:40:31+00:00",
+      "published_at": "2026-05-31T23:56:31+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T05:40:31+00:00",
+        "retrieved_at": "2026-06-25T05:56:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "PRESIGHT-4-1779846031",
+      "id": "PRESIGHT-4-1779846991",
       "symbol": "PRESIGHT",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-05-27T01:40:31+00:00",
+      "published_at": "2026-05-27T01:56:31+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T05:40:31+00:00",
+        "retrieved_at": "2026-06-25T05:56:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "PRESIGHT-3-1778888431",
+      "id": "PRESIGHT-3-1778889391",
       "symbol": "PRESIGHT",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-05-15T23:40:31+00:00",
+      "published_at": "2026-05-15T23:56:31+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -396,20 +396,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T05:40:31+00:00",
+        "retrieved_at": "2026-06-25T05:56:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "PRESIGHT-1-1776922831",
+      "id": "PRESIGHT-1-1776923791",
       "symbol": "PRESIGHT",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-04-23T05:40:31+00:00",
+      "published_at": "2026-04-23T05:56:31+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -422,7 +422,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T05:40:31+00:00",
+        "retrieved_at": "2026-06-25T05:56:31+00:00",
         "url": null,
         "lang": null
       },
@@ -448,7 +448,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T05:40:31+00:00",
+        "retrieved_at": "2026-06-25T05:56:31+00:00",
         "url": null,
         "lang": null
       }
@@ -473,7 +473,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T05:40:31+00:00",
+        "retrieved_at": "2026-06-25T05:56:31+00:00",
         "url": null,
         "lang": null
       }
@@ -499,7 +499,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T05:40:31+00:00",
+        "retrieved_at": "2026-06-25T05:56:31+00:00",
         "url": null,
         "lang": null
       }
@@ -530,7 +530,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-25T05:40:31+00:00",
+      "retrieved_at": "2026-06-25T05:56:31+00:00",
       "url": null,
       "lang": null
     }
@@ -601,12 +601,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-25T05:40:31+00:00",
+        "as_of": "2026-06-25T05:56:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T05:40:31+00:00",
+          "retrieved_at": "2026-06-25T05:56:31+00:00",
           "url": null,
           "lang": null
         }
@@ -617,12 +617,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-25T05:40:31+00:00",
+        "as_of": "2026-06-25T05:56:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T05:40:31+00:00",
+          "retrieved_at": "2026-06-25T05:56:31+00:00",
           "url": null,
           "lang": null
         }
@@ -633,12 +633,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T05:40:31+00:00",
+        "as_of": "2026-06-25T05:56:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T05:40:31+00:00",
+          "retrieved_at": "2026-06-25T05:56:31+00:00",
           "url": null,
           "lang": null
         }
@@ -649,12 +649,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T05:40:31+00:00",
+        "as_of": "2026-06-25T05:56:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T05:40:31+00:00",
+          "retrieved_at": "2026-06-25T05:56:31+00:00",
           "url": null,
           "lang": null
         }
@@ -665,12 +665,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T05:40:31+00:00",
+        "as_of": "2026-06-25T05:56:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T05:40:31+00:00",
+          "retrieved_at": "2026-06-25T05:56:31+00:00",
           "url": null,
           "lang": null
         }
@@ -681,12 +681,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-25T05:40:31+00:00",
+        "as_of": "2026-06-25T05:56:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T05:40:31+00:00",
+          "retrieved_at": "2026-06-25T05:56:31+00:00",
           "url": null,
           "lang": null
         }
@@ -696,7 +696,7 @@
       {
         "title": "Ai headline — global macro update 1",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-22T07:40:31+00:00",
+        "published_at": "2026-06-22T07:56:31+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 3.75,
@@ -704,7 +704,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T05:40:31+00:00",
+          "retrieved_at": "2026-06-25T05:56:31+00:00",
           "url": null,
           "lang": null
         }
@@ -712,7 +712,7 @@
       {
         "title": "Ai headline — global macro update 2",
         "theme": "MARITIME",
-        "published_at": "2026-06-24T12:40:31+00:00",
+        "published_at": "2026-06-24T12:56:31+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": -5.87,
@@ -720,7 +720,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T05:40:31+00:00",
+          "retrieved_at": "2026-06-25T05:56:31+00:00",
           "url": null,
           "lang": null
         }
@@ -728,7 +728,7 @@
       {
         "title": "Ai headline — global macro update 3",
         "theme": "MARITIME",
-        "published_at": "2026-06-24T20:40:31+00:00",
+        "published_at": "2026-06-24T20:56:31+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 1.68,
@@ -736,7 +736,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T05:40:31+00:00",
+          "retrieved_at": "2026-06-25T05:56:31+00:00",
           "url": null,
           "lang": null
         }
@@ -744,7 +744,7 @@
       {
         "title": "Ai headline — global macro update 4",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-22T15:40:31+00:00",
+        "published_at": "2026-06-22T15:56:31+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": 5.91,
@@ -752,7 +752,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T05:40:31+00:00",
+          "retrieved_at": "2026-06-25T05:56:31+00:00",
           "url": null,
           "lang": null
         }
@@ -763,12 +763,12 @@
   "ai_analysis": {
     "short_term": {
       "stance": "Neutral",
-      "confidence": "low",
+      "confidence": "medium",
       "reasons": [
         "Recent disclosure tone skews positive"
       ],
       "risks": [
-        "Negative price momentum (-0.8% on the session in demo data)"
+        "A surprise filing or a sector-wide move could shift the picture quickly"
       ],
       "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
     },
@@ -786,13 +786,13 @@
     "_signal": {
       "short": {
         "stance": "Neutral",
-        "confidence": "low",
-        "score": 52.6,
+        "confidence": "medium",
+        "score": 55.1,
         "reasons": [
           "Recent disclosure tone skews positive"
         ],
         "risks": [
-          "Negative price momentum (-0.8% on the session in demo data)"
+          "A surprise filing or a sector-wide move could shift the picture quickly"
         ]
       },
       "long": {
@@ -809,7 +809,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-25T05:40:31+00:00"
+    "generated_at": "2026-06-25T05:56:31+00:00"
   },
-  "generated_at": "2026-06-25T05:40:31+00:00"
+  "generated_at": "2026-06-25T05:56:31+00:00"
 }
