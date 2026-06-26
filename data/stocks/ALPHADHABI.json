@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "ALPHADHABI",
-    "price": 7.95,
-    "change": -0.11,
-    "change_pct": -0.0136,
-    "volume": 1506964,
+    "price": 8.06,
+    "change": 0.0,
+    "change_pct": 0.0,
+    "volume": 2586530,
     "market_cap": null,
-    "high_52w": 8.311,
-    "low_52w": 7.95,
+    "high_52w": 8.791,
+    "low_52w": 7.86,
     "spark": [
-      8.128,
-      8.118,
-      8.05,
-      8.027,
-      8.1,
-      8.043,
-      8.052,
-      8.119,
-      8.053,
-      8.069,
-      8.16,
+      7.892,
+      7.976,
+      7.925,
+      7.909,
+      7.86,
+      7.912,
+      7.99,
+      7.914,
+      7.997,
+      7.952,
+      7.986,
+      8.075,
+      8.123,
+      8.107,
+      8.221,
+      8.299,
+      8.203,
       8.179,
-      8.179,
-      8.169,
-      8.173,
-      8.184,
-      8.147,
-      8.15,
-      8.115,
-      8.06,
-      8.162,
-      8.106,
-      8.177,
-      8.222,
-      8.284,
-      8.311,
-      8.291,
-      8.195,
-      8.188,
-      7.95
+      8.293,
+      8.274,
+      8.263,
+      8.37,
+      8.419,
+      8.516,
+      8.541,
+      8.622,
+      8.739,
+      8.791,
+      8.703,
+      8.06
     ],
     "prov": {
       "source_type": "official",
       "source_name": "ADX (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-26T06:59:46.558Z",
+      "retrieved_at": "2026-06-26T07:15:48.787Z",
       "url": null,
       "lang": null
     }
@@ -285,9 +285,9 @@
     ],
     "quick_stats": {
       "market_cap": null,
-      "volume": 1506964,
-      "high_52w": 8.311,
-      "low_52w": 7.95,
+      "volume": 2586530,
+      "high_52w": 8.791,
+      "low_52w": 7.86,
       "dividend_yield": 0.0
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "ALPHADHABI-4-1782370786",
+      "id": "ALPHADHABI-4-1782371748",
       "symbol": "ALPHADHABI",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-06-25T06:59:46+00:00",
+      "published_at": "2026-06-25T07:15:48+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-26T06:59:46+00:00",
+        "retrieved_at": "2026-06-26T07:15:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "ALPHADHABI-3-1780354786",
+      "id": "ALPHADHABI-3-1780355748",
       "symbol": "ALPHADHABI",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-06-01T22:59:46+00:00",
+      "published_at": "2026-06-01T23:15:48+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-26T06:59:46+00:00",
+        "retrieved_at": "2026-06-26T07:15:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "ALPHADHABI-6-1779919186",
+      "id": "ALPHADHABI-6-1779920148",
       "symbol": "ALPHADHABI",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-05-27T21:59:46+00:00",
+      "published_at": "2026-05-27T22:15:48+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-26T06:59:46+00:00",
+        "retrieved_at": "2026-06-26T07:15:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "ALPHADHABI-8-1779605986",
+      "id": "ALPHADHABI-8-1779606948",
       "symbol": "ALPHADHABI",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-05-24T06:59:46+00:00",
+      "published_at": "2026-05-24T07:15:48+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -396,20 +396,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-26T06:59:46+00:00",
+        "retrieved_at": "2026-06-26T07:15:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "ALPHADHABI-7-1778446786",
+      "id": "ALPHADHABI-7-1778447748",
       "symbol": "ALPHADHABI",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-05-10T20:59:46+00:00",
+      "published_at": "2026-05-10T21:15:48+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -422,20 +422,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-26T06:59:46+00:00",
+        "retrieved_at": "2026-06-26T07:15:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "ALPHADHABI-1-1777579186",
+      "id": "ALPHADHABI-1-1777580148",
       "symbol": "ALPHADHABI",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-04-30T19:59:46+00:00",
+      "published_at": "2026-04-30T20:15:48+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -448,20 +448,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-26T06:59:46+00:00",
+        "retrieved_at": "2026-06-26T07:15:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "ALPHADHABI-5-1777258786",
+      "id": "ALPHADHABI-5-1777259748",
       "symbol": "ALPHADHABI",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-04-27T02:59:46+00:00",
+      "published_at": "2026-04-27T03:15:48+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -474,20 +474,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-26T06:59:46+00:00",
+        "retrieved_at": "2026-06-26T07:15:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "ALPHADHABI-2-1774915186",
+      "id": "ALPHADHABI-2-1774916148",
       "symbol": "ALPHADHABI",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-03-30T23:59:46+00:00",
+      "published_at": "2026-03-31T00:15:48+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -500,20 +500,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-26T06:59:46+00:00",
+        "retrieved_at": "2026-06-26T07:15:48+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "ALPHADHABI-0-1774839586",
+      "id": "ALPHADHABI-0-1774840548",
       "symbol": "ALPHADHABI",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-03-30T02:59:46+00:00",
+      "published_at": "2026-03-30T03:15:48+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -526,7 +526,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-26T06:59:46+00:00",
+        "retrieved_at": "2026-06-26T07:15:48+00:00",
         "url": null,
         "lang": null
       },
@@ -552,7 +552,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-26T06:59:46+00:00",
+        "retrieved_at": "2026-06-26T07:15:48+00:00",
         "url": null,
         "lang": null
       }
@@ -577,7 +577,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-26T06:59:46+00:00",
+        "retrieved_at": "2026-06-26T07:15:48+00:00",
         "url": null,
         "lang": null
       }
@@ -603,7 +603,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-26T06:59:46+00:00",
+        "retrieved_at": "2026-06-26T07:15:48+00:00",
         "url": null,
         "lang": null
       }
@@ -634,7 +634,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-26T06:59:46+00:00",
+      "retrieved_at": "2026-06-26T07:15:48+00:00",
       "url": null,
       "lang": null
     }
@@ -714,12 +714,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-26T06:59:46+00:00",
+        "as_of": "2026-06-26T07:15:48+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-26T06:59:46+00:00",
+          "retrieved_at": "2026-06-26T07:15:48+00:00",
           "url": null,
           "lang": null
         }
@@ -730,12 +730,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-26T06:59:46+00:00",
+        "as_of": "2026-06-26T07:15:48+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-26T06:59:46+00:00",
+          "retrieved_at": "2026-06-26T07:15:48+00:00",
           "url": null,
           "lang": null
         }
@@ -746,12 +746,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-26T06:59:46+00:00",
+        "as_of": "2026-06-26T07:15:48+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-26T06:59:46+00:00",
+          "retrieved_at": "2026-06-26T07:15:48+00:00",
           "url": null,
           "lang": null
         }
@@ -762,12 +762,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-26T06:59:46+00:00",
+        "as_of": "2026-06-26T07:15:48+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-26T06:59:46+00:00",
+          "retrieved_at": "2026-06-26T07:15:48+00:00",
           "url": null,
           "lang": null
         }
@@ -778,12 +778,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-26T06:59:46+00:00",
+        "as_of": "2026-06-26T07:15:48+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-26T06:59:46+00:00",
+          "retrieved_at": "2026-06-26T07:15:48+00:00",
           "url": null,
           "lang": null
         }
@@ -794,12 +794,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-26T06:59:46+00:00",
+        "as_of": "2026-06-26T07:15:48+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-26T06:59:46+00:00",
+          "retrieved_at": "2026-06-26T07:15:48+00:00",
           "url": null,
           "lang": null
         }
@@ -809,7 +809,7 @@
       {
         "title": "Uae headline — global macro update 1",
         "theme": "MARITIME",
-        "published_at": "2026-06-26T05:59:46+00:00",
+        "published_at": "2026-06-26T06:15:48+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": -3.59,
@@ -817,7 +817,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-26T06:59:46+00:00",
+          "retrieved_at": "2026-06-26T07:15:48+00:00",
           "url": null,
           "lang": null
         }
@@ -825,7 +825,7 @@
       {
         "title": "Uae headline — global macro update 2",
         "theme": "TOURISM",
-        "published_at": "2026-06-23T18:59:46+00:00",
+        "published_at": "2026-06-23T19:15:48+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -2.92,
@@ -833,7 +833,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-26T06:59:46+00:00",
+          "retrieved_at": "2026-06-26T07:15:48+00:00",
           "url": null,
           "lang": null
         }
@@ -841,7 +841,7 @@
       {
         "title": "Uae headline — global macro update 3",
         "theme": "ENERGY",
-        "published_at": "2026-06-25T06:59:46+00:00",
+        "published_at": "2026-06-25T07:15:48+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 1.7,
@@ -849,7 +849,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-26T06:59:46+00:00",
+          "retrieved_at": "2026-06-26T07:15:48+00:00",
           "url": null,
           "lang": null
         }
@@ -857,7 +857,7 @@
       {
         "title": "Uae headline — global macro update 4",
         "theme": "TRADE",
-        "published_at": "2026-06-23T10:59:46+00:00",
+        "published_at": "2026-06-23T11:15:48+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -0.29,
@@ -865,7 +865,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-26T06:59:46+00:00",
+          "retrieved_at": "2026-06-26T07:15:48+00:00",
           "url": null,
           "lang": null
         }
@@ -873,7 +873,7 @@
       {
         "title": "Uae headline — global macro update 5",
         "theme": "TOURISM",
-        "published_at": "2026-06-25T14:59:46+00:00",
+        "published_at": "2026-06-25T15:15:48+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 0.65,
@@ -881,7 +881,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-26T06:59:46+00:00",
+          "retrieved_at": "2026-06-26T07:15:48+00:00",
           "url": null,
           "lang": null
         }
@@ -897,7 +897,7 @@
         "A high-materiality disclosure (86/100) is in the recent flow"
       ],
       "risks": [
-        "Negative price momentum (-1.4% on the session in demo data)"
+        "A surprise filing or a sector-wide move could shift the picture quickly"
       ],
       "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
     },
@@ -916,12 +916,12 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 50.2,
+        "score": 54.3,
         "reasons": [
           "A high-materiality disclosure (86/100) is in the recent flow"
         ],
         "risks": [
-          "Negative price momentum (-1.4% on the session in demo data)"
+          "A surprise filing or a sector-wide move could shift the picture quickly"
         ]
       },
       "long": {
@@ -938,7 +938,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-26T06:59:46+00:00"
+    "generated_at": "2026-06-26T07:15:48+00:00"
   },
-  "generated_at": "2026-06-26T06:59:46+00:00"
+  "generated_at": "2026-06-26T07:15:48+00:00"
 }
