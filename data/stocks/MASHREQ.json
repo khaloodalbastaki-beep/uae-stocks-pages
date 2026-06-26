@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "MASHREQ",
-    "price": 258.9,
-    "change": 3.876,
-    "change_pct": 0.0152,
-    "volume": 0,
-    "market_cap": null,
-    "high_52w": 267.325,
-    "low_52w": 252.703,
+    "price": 205.9,
+    "change": -4.1,
+    "change_pct": -0.0197,
+    "volume": 3901579,
+    "market_cap": 250155000000.0,
+    "high_52w": 233.59,
+    "low_52w": 179.1,
     "spark": [
-      252.703,
-      253.064,
-      254.713,
-      255.472,
-      255.104,
-      258.615,
-      261.437,
-      259.432,
-      261.497,
-      263.989,
-      262.039,
-      260.082,
-      257.566,
-      256.048,
-      256.988,
-      255.344,
-      258.491,
-      261.062,
-      261.874,
-      264.081,
-      266.354,
-      265.36,
-      264.537,
-      265.875,
-      267.325,
-      265.823,
-      264.013,
-      262.506,
-      261.488,
-      258.9
+      206.748,
+      208.068,
+      206.767,
+      207.059,
+      203.734,
+      202.482,
+      204.151,
+      200.417,
+      203.765,
+      200.513,
+      199.52,
+      200.558,
+      199.002,
+      202.671,
+      201.015,
+      201.045,
+      201.262,
+      204.371,
+      200.627,
+      200.737,
+      203.043,
+      207.359,
+      211.717,
+      212.899,
+      211.027,
+      210.363,
+      212.864,
+      213.002,
+      216.29,
+      205.9
     ],
     "prov": {
-      "source_type": "official",
-      "source_name": "DFM (delayed)",
-      "data_quality": "delayed",
-      "retrieved_at": "2026-06-25T12:50:24.661Z",
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-26T05:06:31+00:00",
       "url": null,
       "lang": null
     }
@@ -284,10 +284,10 @@
       "DFM"
     ],
     "quick_stats": {
-      "market_cap": null,
-      "volume": 0,
-      "high_52w": 267.325,
-      "low_52w": 252.703,
+      "market_cap": 250155000000.0,
+      "volume": 3901579,
+      "high_52w": 233.59,
+      "low_52w": 179.1,
       "dividend_yield": 0.073
     },
     "top_catalysts": [
@@ -300,13 +300,13 @@
   },
   "disclosures": [
     {
-      "id": "MASHREQ-2-1782186624",
+      "id": "MASHREQ-2-1782245191",
       "symbol": "MASHREQ",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-06-23T03:50:24+00:00",
+      "published_at": "2026-06-23T20:06:31+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -319,20 +319,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "MASHREQ-0-1781326224",
+      "id": "MASHREQ-0-1781384791",
       "symbol": "MASHREQ",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-06-13T04:50:24+00:00",
+      "published_at": "2026-06-13T21:06:31+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -345,20 +345,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "MASHREQ-3-1779684624",
+      "id": "MASHREQ-3-1779743191",
       "symbol": "MASHREQ",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-05-25T04:50:24+00:00",
+      "published_at": "2026-05-25T21:06:31+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -371,20 +371,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "MASHREQ-1-1776048624",
+      "id": "MASHREQ-1-1776107191",
       "symbol": "MASHREQ",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-04-13T02:50:24+00:00",
+      "published_at": "2026-04-13T19:06:31+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -397,7 +397,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       },
@@ -408,7 +408,7 @@
     {
       "symbol": "MASHREQ",
       "kind": "board",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "status": "upcoming",
       "agenda": [
         "Review interim results",
@@ -423,7 +423,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -431,7 +431,7 @@
     {
       "symbol": "MASHREQ",
       "kind": "agm",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "status": "upcoming",
       "agenda": [
         "Approve dividend",
@@ -448,7 +448,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -456,7 +456,7 @@
     {
       "symbol": "MASHREQ",
       "kind": "board",
-      "date": "2025-12-27",
+      "date": "2025-12-28",
       "status": "held",
       "agenda": [
         "Approve annual results"
@@ -474,7 +474,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -485,17 +485,17 @@
       "symbol": "MASHREQ",
       "amount": 7.5153,
       "currency": "AED",
-      "agm_date": "2026-07-22",
-      "entitlement_date": "2026-08-11",
-      "ex_date": "2026-08-10",
-      "payment_date": "2026-08-31",
+      "agm_date": "2026-07-23",
+      "entitlement_date": "2026-08-12",
+      "ex_date": "2026-08-11",
+      "payment_date": "2026-09-01",
       "frequency": "semi",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -504,17 +504,17 @@
       "symbol": "MASHREQ",
       "amount": 7.5153,
       "currency": "AED",
-      "agm_date": "2026-05-17",
-      "entitlement_date": "2026-06-04",
-      "ex_date": "2026-06-03",
-      "payment_date": "2026-06-20",
+      "agm_date": "2026-05-18",
+      "entitlement_date": "2026-06-05",
+      "ex_date": "2026-06-04",
+      "payment_date": "2026-06-21",
       "frequency": "semi",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -523,17 +523,17 @@
       "symbol": "MASHREQ",
       "amount": 7.5153,
       "currency": "AED",
-      "agm_date": "2025-11-29",
-      "entitlement_date": "2025-12-17",
-      "ex_date": "2025-12-16",
-      "payment_date": "2026-01-02",
+      "agm_date": "2025-11-30",
+      "entitlement_date": "2025-12-18",
+      "ex_date": "2025-12-17",
+      "payment_date": "2026-01-03",
       "frequency": "semi",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -542,17 +542,17 @@
       "symbol": "MASHREQ",
       "amount": 7.5153,
       "currency": "AED",
-      "agm_date": "2025-05-23",
-      "entitlement_date": "2025-06-10",
-      "ex_date": "2025-06-09",
-      "payment_date": "2025-06-26",
+      "agm_date": "2025-05-24",
+      "entitlement_date": "2025-06-11",
+      "ex_date": "2025-06-10",
+      "payment_date": "2025-06-27",
       "frequency": "semi",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -561,17 +561,17 @@
       "symbol": "MASHREQ",
       "amount": 7.5153,
       "currency": "AED",
-      "agm_date": "2024-12-03",
-      "entitlement_date": "2024-12-21",
-      "ex_date": "2024-12-20",
-      "payment_date": "2025-01-06",
+      "agm_date": "2024-12-04",
+      "entitlement_date": "2024-12-22",
+      "ex_date": "2024-12-21",
+      "payment_date": "2025-01-07",
       "frequency": "semi",
       "fiscal_year": "2024",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -601,7 +601,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-25T12:50:24+00:00",
+      "retrieved_at": "2026-06-26T05:06:31+00:00",
       "url": null,
       "lang": null
     }
@@ -615,25 +615,25 @@
       2026
     ],
     "revenue": [
-      2646300000.0,
-      2837900000.0,
-      3043400000.0,
-      3263700000.0,
-      3500000000.0
+      66198800000.0,
+      70991600000.0,
+      76131400000.0,
+      81643300000.0,
+      87554200000.0
     ],
     "net_income": [
-      410200000.0,
-      432800000.0,
-      456500000.0,
-      481400000.0,
-      507500000.0
+      10260800000.0,
+      10826200000.0,
+      11419700000.0,
+      12042400000.0,
+      12695400000.0
     ],
     "operating_cash_flow": [
-      479900000.0,
-      506400000.0,
-      534100000.0,
-      563200000.0,
-      593800000.0
+      12005100000.0,
+      12666700000.0,
+      13361100000.0,
+      14089600000.0,
+      14853600000.0
     ],
     "ratios": {
       "net_margin": 0.145,
@@ -681,12 +681,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-25T12:50:24+00:00",
+        "as_of": "2026-06-26T05:06:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -697,12 +697,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-25T12:50:24+00:00",
+        "as_of": "2026-06-26T05:06:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -713,12 +713,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T12:50:24+00:00",
+        "as_of": "2026-06-26T05:06:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -729,12 +729,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T12:50:24+00:00",
+        "as_of": "2026-06-26T05:06:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -745,12 +745,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T12:50:24+00:00",
+        "as_of": "2026-06-26T05:06:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -761,12 +761,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-25T12:50:24+00:00",
+        "as_of": "2026-06-26T05:06:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -776,7 +776,7 @@
       {
         "title": "Federal headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-24T10:50:24+00:00",
+        "published_at": "2026-06-25T03:06:31+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -3.75,
@@ -784,7 +784,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -792,7 +792,7 @@
       {
         "title": "Federal headline — global macro update 2",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-24T10:50:24+00:00",
+        "published_at": "2026-06-25T03:06:31+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -4.32,
@@ -800,7 +800,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -808,7 +808,7 @@
       {
         "title": "Federal headline — global macro update 3",
         "theme": "TRADE",
-        "published_at": "2026-06-22T18:50:24+00:00",
+        "published_at": "2026-06-23T11:06:31+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 1.18,
@@ -816,7 +816,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -827,14 +827,13 @@
   "ai_analysis": {
     "short_term": {
       "stance": "Neutral",
-      "confidence": "high",
+      "confidence": "medium",
       "reasons": [
-        "Positive price momentum (+1.5% on the session in demo data)",
         "A high-materiality disclosure (79/100) is in the recent flow",
         "Recent disclosure tone skews positive"
       ],
       "risks": [
-        "A surprise filing or a sector-wide move could shift the picture quickly"
+        "Negative price momentum (-2.0% on the session in demo data)"
       ],
       "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
     },
@@ -853,15 +852,14 @@
     "_signal": {
       "short": {
         "stance": "Neutral",
-        "confidence": "high",
-        "score": 64.0,
+        "confidence": "medium",
+        "score": 53.6,
         "reasons": [
-          "Positive price momentum (+1.5% on the session in demo data)",
           "A high-materiality disclosure (79/100) is in the recent flow",
           "Recent disclosure tone skews positive"
         ],
         "risks": [
-          "A surprise filing or a sector-wide move could shift the picture quickly"
+          "Negative price momentum (-2.0% on the session in demo data)"
         ]
       },
       "long": {
@@ -879,7 +877,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-25T12:50:24+00:00"
+    "generated_at": "2026-06-26T05:06:31+00:00"
   },
-  "generated_at": "2026-06-25T12:50:24+00:00"
+  "generated_at": "2026-06-26T05:06:31+00:00"
 }

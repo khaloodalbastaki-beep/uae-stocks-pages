@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "SHUAA",
-    "price": 0.21,
-    "change": -0.001,
-    "change_pct": -0.0047,
-    "volume": 0,
-    "market_cap": null,
-    "high_52w": 0.211,
-    "low_52w": 0.193,
+    "price": 0.35,
+    "change": -0.01,
+    "change_pct": -0.0289,
+    "volume": 17064644,
+    "market_cap": 3060000000.0,
+    "high_52w": 0.41,
+    "low_52w": 0.32,
     "spark": [
-      0.208,
-      0.208,
-      0.206,
-      0.207,
-      0.209,
-      0.208,
-      0.209,
-      0.211,
-      0.208,
-      0.209,
-      0.207,
-      0.205,
-      0.204,
-      0.205,
-      0.207,
-      0.206,
-      0.204,
-      0.204,
-      0.202,
-      0.2,
-      0.203,
-      0.202,
-      0.201,
-      0.198,
-      0.199,
-      0.197,
-      0.195,
-      0.193,
-      0.195,
-      0.21
+      0.36,
+      0.367,
+      0.375,
+      0.368,
+      0.365,
+      0.362,
+      0.367,
+      0.365,
+      0.371,
+      0.369,
+      0.374,
+      0.369,
+      0.362,
+      0.356,
+      0.352,
+      0.357,
+      0.363,
+      0.359,
+      0.356,
+      0.363,
+      0.356,
+      0.35,
+      0.357,
+      0.364,
+      0.36,
+      0.367,
+      0.363,
+      0.359,
+      0.361,
+      0.35
     ],
     "prov": {
-      "source_type": "official",
-      "source_name": "DFM (delayed)",
-      "data_quality": "delayed",
-      "retrieved_at": "2026-06-25T12:50:24.661Z",
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-26T05:06:31+00:00",
       "url": null,
       "lang": null
     }
@@ -284,10 +284,10 @@
       "DFM"
     ],
     "quick_stats": {
-      "market_cap": null,
-      "volume": 0,
-      "high_52w": 0.211,
-      "low_52w": 0.193,
+      "market_cap": 3060000000.0,
+      "volume": 17064644,
+      "high_52w": 0.41,
+      "low_52w": 0.32,
       "dividend_yield": 0.0197
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "SHUAA-2-1780570224",
+      "id": "SHUAA-2-1780628791",
       "symbol": "SHUAA",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-06-04T10:50:24+00:00",
+      "published_at": "2026-06-05T03:06:31+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "SHUAA-3-1780044624",
+      "id": "SHUAA-3-1780103191",
       "symbol": "SHUAA",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-05-29T08:50:24+00:00",
+      "published_at": "2026-05-30T01:06:31+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "SHUAA-5-1777279824",
+      "id": "SHUAA-5-1777338391",
       "symbol": "SHUAA",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-04-27T08:50:24+00:00",
+      "published_at": "2026-04-28T01:06:31+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "SHUAA-0-1777024224",
+      "id": "SHUAA-0-1777082791",
       "symbol": "SHUAA",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-04-24T09:50:24+00:00",
+      "published_at": "2026-04-25T02:06:31+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -396,20 +396,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "SHUAA-4-1776736224",
+      "id": "SHUAA-4-1776794791",
       "symbol": "SHUAA",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-04-21T01:50:24+00:00",
+      "published_at": "2026-04-21T18:06:31+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -422,20 +422,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "SHUAA-1-1775094624",
+      "id": "SHUAA-1-1775153191",
       "symbol": "SHUAA",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-04-02T01:50:24+00:00",
+      "published_at": "2026-04-02T18:06:31+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -448,7 +448,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       },
@@ -459,7 +459,7 @@
     {
       "symbol": "SHUAA",
       "kind": "board",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "status": "upcoming",
       "agenda": [
         "Review interim results",
@@ -474,7 +474,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -482,7 +482,7 @@
     {
       "symbol": "SHUAA",
       "kind": "agm",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "status": "upcoming",
       "agenda": [
         "Approve dividend",
@@ -499,7 +499,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -507,7 +507,7 @@
     {
       "symbol": "SHUAA",
       "kind": "board",
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "status": "held",
       "agenda": [
         "Approve annual results"
@@ -525,7 +525,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -536,17 +536,17 @@
       "symbol": "SHUAA",
       "amount": 0.0069,
       "currency": "AED",
-      "agm_date": "2026-07-28",
-      "entitlement_date": "2026-08-17",
-      "ex_date": "2026-08-16",
-      "payment_date": "2026-09-06",
+      "agm_date": "2026-07-29",
+      "entitlement_date": "2026-08-18",
+      "ex_date": "2026-08-17",
+      "payment_date": "2026-09-07",
       "frequency": "annual",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -555,17 +555,17 @@
       "symbol": "SHUAA",
       "amount": 0.0069,
       "currency": "AED",
-      "agm_date": "2026-06-01",
-      "entitlement_date": "2026-06-19",
-      "ex_date": "2026-06-18",
-      "payment_date": "2026-07-05",
+      "agm_date": "2026-06-02",
+      "entitlement_date": "2026-06-20",
+      "ex_date": "2026-06-19",
+      "payment_date": "2026-07-06",
       "frequency": "annual",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -574,17 +574,17 @@
       "symbol": "SHUAA",
       "amount": 0.0069,
       "currency": "AED",
-      "agm_date": "2025-05-24",
-      "entitlement_date": "2025-06-11",
-      "ex_date": "2025-06-10",
-      "payment_date": "2025-06-27",
+      "agm_date": "2025-05-25",
+      "entitlement_date": "2025-06-12",
+      "ex_date": "2025-06-11",
+      "payment_date": "2025-06-28",
       "frequency": "annual",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-25T12:50:24+00:00",
+        "retrieved_at": "2026-06-26T05:06:31+00:00",
         "url": null,
         "lang": null
       }
@@ -614,7 +614,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-25T12:50:24+00:00",
+      "retrieved_at": "2026-06-26T05:06:31+00:00",
       "url": null,
       "lang": null
     }
@@ -628,25 +628,25 @@
       2026
     ],
     "revenue": [
-      3487400000.0,
-      3490600000.0,
-      3493700000.0,
-      3496900000.0,
-      3500000000.0
+      1067200000.0,
+      1068100000.0,
+      1069100000.0,
+      1070000000.0,
+      1071000000.0
     ],
     "net_income": [
-      648000000.0,
-      693600000.0,
-      739300000.0,
-      785000000.0,
-      830900000.0
+      198300000.0,
+      212200000.0,
+      226200000.0,
+      240200000.0,
+      254300000.0
     ],
     "operating_cash_flow": [
-      729000000.0,
-      780300000.0,
-      831700000.0,
-      883200000.0,
-      934800000.0
+      223100000.0,
+      238800000.0,
+      254500000.0,
+      270300000.0,
+      286000000.0
     ],
     "ratios": {
       "net_margin": 0.2374,
@@ -685,12 +685,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-25T12:50:24+00:00",
+        "as_of": "2026-06-26T05:06:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -701,12 +701,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-25T12:50:24+00:00",
+        "as_of": "2026-06-26T05:06:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -717,12 +717,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T12:50:24+00:00",
+        "as_of": "2026-06-26T05:06:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -733,12 +733,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T12:50:24+00:00",
+        "as_of": "2026-06-26T05:06:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -749,12 +749,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-25T12:50:24+00:00",
+        "as_of": "2026-06-26T05:06:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -765,12 +765,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-25T12:50:24+00:00",
+        "as_of": "2026-06-26T05:06:31+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -780,7 +780,7 @@
       {
         "title": "Uae headline — global macro update 1",
         "theme": "MARITIME",
-        "published_at": "2026-06-25T11:50:24+00:00",
+        "published_at": "2026-06-26T04:06:31+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": -3.59,
@@ -788,7 +788,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -796,7 +796,7 @@
       {
         "title": "Uae headline — global macro update 2",
         "theme": "TOURISM",
-        "published_at": "2026-06-23T00:50:24+00:00",
+        "published_at": "2026-06-23T17:06:31+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -2.92,
@@ -804,7 +804,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -812,7 +812,7 @@
       {
         "title": "Uae headline — global macro update 3",
         "theme": "ENERGY",
-        "published_at": "2026-06-24T12:50:24+00:00",
+        "published_at": "2026-06-25T05:06:31+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 1.7,
@@ -820,7 +820,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -828,7 +828,7 @@
       {
         "title": "Uae headline — global macro update 4",
         "theme": "TRADE",
-        "published_at": "2026-06-22T16:50:24+00:00",
+        "published_at": "2026-06-23T09:06:31+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -0.29,
@@ -836,7 +836,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -844,7 +844,7 @@
       {
         "title": "Uae headline — global macro update 5",
         "theme": "TOURISM",
-        "published_at": "2026-06-24T20:50:24+00:00",
+        "published_at": "2026-06-25T13:06:31+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 0.65,
@@ -852,7 +852,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-25T12:50:24+00:00",
+          "retrieved_at": "2026-06-26T05:06:31+00:00",
           "url": null,
           "lang": null
         }
@@ -869,7 +869,7 @@
         "Recent disclosure tone skews positive"
       ],
       "risks": [
-        "A surprise filing or a sector-wide move could shift the picture quickly"
+        "Negative price momentum (-2.9% on the session in demo data)"
       ],
       "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
     },
@@ -888,13 +888,13 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 56.0,
+        "score": 48.7,
         "reasons": [
           "A high-materiality disclosure (78/100) is in the recent flow",
           "Recent disclosure tone skews positive"
         ],
         "risks": [
-          "A surprise filing or a sector-wide move could shift the picture quickly"
+          "Negative price momentum (-2.9% on the session in demo data)"
         ]
       },
       "long": {
@@ -911,7 +911,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-25T12:50:24+00:00"
+    "generated_at": "2026-06-26T05:06:31+00:00"
   },
-  "generated_at": "2026-06-25T12:50:24+00:00"
+  "generated_at": "2026-06-26T05:06:31+00:00"
 }

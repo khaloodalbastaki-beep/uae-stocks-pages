@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-25T12:50:35+00:00",
+  "generated_at": "2026-06-26T05:07:01+00:00",
   "rule_version": 1,
   "mode": "live",
   "summary": {
     "status": "preview_only",
-    "total": 108,
-    "high": 21,
-    "medium": 68,
+    "total": 114,
+    "high": 20,
+    "medium": 75,
     "low": 19,
     "push_delivery_enabled": false,
     "delivery_note": "Telegram/Hermes delivery is not connected. This queue is app-only until Khalid explicitly approves the routing.",
@@ -25,15 +25,15 @@
     }
   },
   "type_counts": {
-    "price_move": 11,
     "disclosure": 20,
     "dividend": 30,
     "meeting": 35,
+    "price_move": 17,
     "cautious_disclosure": 12
   },
   "severity_counts": {
-    "high": 21,
-    "medium": 68,
+    "high": 20,
+    "medium": 75,
     "low": 19
   },
   "rules": [
@@ -70,26 +70,7 @@
   ],
   "items": [
     {
-      "id": "price-move-dewa-2026-06-25t12-50-24-00-00",
-      "symbol": "DEWA",
-      "name": "Dubai Electricity & Water Authority",
-      "exchange": "DFM",
-      "type": "price_move",
-      "severity": "high",
-      "title": "DEWA moved -4.1%",
-      "summary": "Daily move crossed the preview alert threshold.",
-      "trigger": {
-        "change_pct": -0.0413,
-        "threshold_pct": 0.02
-      },
-      "occurred_at": "2026-06-25T12:50:24+00:00",
-      "source_type": "official",
-      "data_quality": "delayed",
-      "status": "preview",
-      "route": "app_only"
-    },
-    {
-      "id": "disclosure-cbd-2026-06-24t12-50-24-00-00-cbd-1-1782305424",
+      "id": "disclosure-cbd-2026-06-25t05-06-31-00-00-cbd-1-1782363991",
       "symbol": "CBD",
       "name": "Commercial Bank of Dubai",
       "exchange": "DFM",
@@ -102,14 +83,14 @@
         "threshold": 85,
         "sentiment": "positive"
       },
-      "occurred_at": "2026-06-24T12:50:24+00:00",
+      "occurred_at": "2026-06-25T05:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-nmdcenr-2026-06-23t02-50-24-00-00-nmdcenr-6-1782183024",
+      "id": "disclosure-nmdcenr-2026-06-23t19-06-31-00-00-nmdcenr-6-1782241591",
       "symbol": "NMDCENR",
       "name": "NMDC Energy",
       "exchange": "ADX",
@@ -122,14 +103,14 @@
         "threshold": 85,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-06-23T02:50:24+00:00",
+      "occurred_at": "2026-06-23T19:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-borouge-2026-06-21t08-50-24-00-00-borouge-2-1782031824",
+      "id": "disclosure-borouge-2026-06-22t01-06-31-00-00-borouge-2-1782090391",
       "symbol": "BOROUGE",
       "name": "Borouge",
       "exchange": "ADX",
@@ -142,14 +123,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-06-21T08:50:24+00:00",
+      "occurred_at": "2026-06-22T01:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-emiratesnbd-2026-06-21t08-50-24-00-00-emiratesnbd-2-1782031824",
+      "id": "disclosure-emiratesnbd-2026-06-22t01-06-31-00-00-emiratesnbd-2-1782090391",
       "symbol": "EMIRATESNBD",
       "name": "Emirates NBD",
       "exchange": "DFM",
@@ -162,14 +143,14 @@
         "threshold": 85,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-06-21T08:50:24+00:00",
+      "occurred_at": "2026-06-22T01:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-rakbank-2026-06-16t04-50-24-00-00-rakbank-3-1781585424",
+      "id": "disclosure-rakbank-2026-06-16t21-06-31-00-00-rakbank-3-1781643991",
       "symbol": "RAKBANK",
       "name": "National Bank of Ras Al Khaimah",
       "exchange": "ADX",
@@ -182,14 +163,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-06-16T04:50:24+00:00",
+      "occurred_at": "2026-06-16T21:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-cbd-2026-06-12t09-50-24-00-00-cbd-4-1781257824",
+      "id": "disclosure-cbd-2026-06-13t02-06-31-00-00-cbd-4-1781316391",
       "symbol": "CBD",
       "name": "Commercial Bank of Dubai",
       "exchange": "DFM",
@@ -202,14 +183,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-06-12T09:50:24+00:00",
+      "occurred_at": "2026-06-13T02:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-cbd-2026-06-07t01-50-24-00-00-cbd-5-1780797024",
+      "id": "disclosure-cbd-2026-06-07t18-06-31-00-00-cbd-5-1780855591",
       "symbol": "CBD",
       "name": "Commercial Bank of Dubai",
       "exchange": "DFM",
@@ -222,14 +203,14 @@
         "threshold": 85,
         "sentiment": "positive"
       },
-      "occurred_at": "2026-06-07T01:50:24+00:00",
+      "occurred_at": "2026-06-07T18:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-sib-2026-06-05t07-50-24-00-00-sib-1-1780645824",
+      "id": "disclosure-sib-2026-06-06t00-06-31-00-00-sib-1-1780704391",
       "symbol": "SIB",
       "name": "Sharjah Islamic Bank",
       "exchange": "ADX",
@@ -242,14 +223,14 @@
         "threshold": 85,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-06-05T07:50:24+00:00",
+      "occurred_at": "2026-06-06T00:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-armx-2026-06-02t04-50-24-00-00-armx-6-1780375824",
+      "id": "disclosure-armx-2026-06-02t21-06-31-00-00-armx-6-1780434391",
       "symbol": "ARMX",
       "name": "Aramex",
       "exchange": "DFM",
@@ -262,14 +243,14 @@
         "threshold": 85,
         "sentiment": "positive"
       },
-      "occurred_at": "2026-06-02T04:50:24+00:00",
+      "occurred_at": "2026-06-02T21:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-alphadhabi-2026-06-01t04-50-24-00-00-alphadhabi-3-1780289424",
+      "id": "disclosure-alphadhabi-2026-06-01t21-06-31-00-00-alphadhabi-3-1780347991",
       "symbol": "ALPHADHABI",
       "name": "Alpha Dhabi Holding",
       "exchange": "ADX",
@@ -282,14 +263,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-06-01T04:50:24+00:00",
+      "occurred_at": "2026-06-01T21:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-airarabia-2026-05-28t06-50-24-00-00-airarabia-2-1779951024",
+      "id": "disclosure-airarabia-2026-05-28t23-06-31-00-00-airarabia-2-1780009591",
       "symbol": "AIRARABIA",
       "name": "Air Arabia",
       "exchange": "DFM",
@@ -302,14 +283,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-05-28T06:50:24+00:00",
+      "occurred_at": "2026-05-28T23:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-adnocdrill-2026-05-19t11-50-24-00-00-adnocdrill-3-1779191424",
+      "id": "disclosure-adnocdrill-2026-05-20t04-06-31-00-00-adnocdrill-3-1779249991",
       "symbol": "ADNOCDRILL",
       "name": "ADNOC Drilling",
       "exchange": "ADX",
@@ -322,14 +303,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-05-19T11:50:24+00:00",
+      "occurred_at": "2026-05-20T04:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-emaar-2026-05-15t03-50-24-00-00-emaar-5-1778817024",
+      "id": "disclosure-emaar-2026-05-15t20-06-31-00-00-emaar-5-1778875591",
       "symbol": "EMAAR",
       "name": "Emaar Properties",
       "exchange": "DFM",
@@ -342,14 +323,14 @@
         "threshold": 85,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-05-15T03:50:24+00:00",
+      "occurred_at": "2026-05-15T20:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-emaar-2026-05-13t02-50-24-00-00-emaar-4-1778640624",
+      "id": "disclosure-emaar-2026-05-13t19-06-31-00-00-emaar-4-1778699191",
       "symbol": "EMAAR",
       "name": "Emaar Properties",
       "exchange": "DFM",
@@ -362,14 +343,14 @@
         "threshold": 85,
         "sentiment": "positive"
       },
-      "occurred_at": "2026-05-13T02:50:24+00:00",
+      "occurred_at": "2026-05-13T19:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-adnocdist-2026-05-06t11-50-24-00-00-adnocdist-4-1778068224",
+      "id": "disclosure-adnocdist-2026-05-07t04-06-31-00-00-adnocdist-4-1778126791",
       "symbol": "ADNOCDIST",
       "name": "ADNOC Distribution",
       "exchange": "ADX",
@@ -382,14 +363,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-05-06T11:50:24+00:00",
+      "occurred_at": "2026-05-07T04:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-empower-2026-04-29t09-50-24-00-00-empower-2-1777456224",
+      "id": "disclosure-empower-2026-04-30t02-06-31-00-00-empower-2-1777514791",
       "symbol": "EMPOWER",
       "name": "Emirates Central Cooling Systems (Empower)",
       "exchange": "DFM",
@@ -402,14 +383,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-04-29T09:50:24+00:00",
+      "occurred_at": "2026-04-30T02:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-adnh-2026-04-20t08-50-24-00-00-adnh-2-1776675024",
+      "id": "disclosure-adnh-2026-04-21t01-06-31-00-00-adnh-2-1776733591",
       "symbol": "ADNH",
       "name": "Abu Dhabi National Hotels",
       "exchange": "ADX",
@@ -422,14 +403,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-04-20T08:50:24+00:00",
+      "occurred_at": "2026-04-21T01:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-parkin-2026-04-17t04-50-24-00-00-parkin-5-1776401424",
+      "id": "disclosure-parkin-2026-04-17t21-06-31-00-00-parkin-5-1776459991",
       "symbol": "PARKIN",
       "name": "Parkin Company",
       "exchange": "DFM",
@@ -442,14 +423,14 @@
         "threshold": 85,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-04-17T04:50:24+00:00",
+      "occurred_at": "2026-04-17T21:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-dtc-2026-04-06t10-50-24-00-00-dtc-4-1775472624",
+      "id": "disclosure-dtc-2026-04-07t03-06-31-00-00-dtc-4-1775531191",
       "symbol": "DTC",
       "name": "Dubai Taxi Company",
       "exchange": "DFM",
@@ -462,14 +443,14 @@
         "threshold": 85,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-04-06T10:50:24+00:00",
+      "occurred_at": "2026-04-07T03:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-adnh-2026-03-29t07-50-24-00-00-adnh-3-1774770624",
+      "id": "disclosure-adnh-2026-03-30t00-06-31-00-00-adnh-3-1774829191",
       "symbol": "ADNH",
       "name": "Abu Dhabi National Hotels",
       "exchange": "ADX",
@@ -482,14 +463,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-03-29T07:50:24+00:00",
+      "occurred_at": "2026-03-30T00:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-adnocgas-2026-08-01",
+      "id": "dividend-window-adnocgas-2026-08-02",
       "symbol": "ADNOCGAS",
       "name": "ADNOC Gas",
       "exchange": "ADX",
@@ -502,14 +483,14 @@
         "amount_aed": 0.2836,
         "dividend_score": 82
       },
-      "occurred_at": "2026-08-01",
+      "occurred_at": "2026-08-02",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-fertiglb-2026-08-01",
+      "id": "dividend-window-fertiglb-2026-08-02",
       "symbol": "FERTIGLB",
       "name": "Fertiglobe",
       "exchange": "ADX",
@@ -522,14 +503,14 @@
         "amount_aed": 0.0324,
         "dividend_score": 79
       },
-      "occurred_at": "2026-08-01",
+      "occurred_at": "2026-08-02",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-purehealth-2026-07-31",
+      "id": "dividend-window-purehealth-2026-08-01",
       "symbol": "PUREHEALTH",
       "name": "Pure Health Holding",
       "exchange": "ADX",
@@ -542,14 +523,14 @@
         "amount_aed": 0.2155,
         "dividend_score": 73
       },
-      "occurred_at": "2026-07-31",
+      "occurred_at": "2026-08-01",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-din-2026-07-27",
+      "id": "dividend-window-din-2026-07-28",
       "symbol": "DIN",
       "name": "Dubai Insurance",
       "exchange": "DFM",
@@ -562,14 +543,14 @@
         "amount_aed": 0.4037,
         "dividend_score": 80
       },
-      "occurred_at": "2026-07-27",
+      "occurred_at": "2026-07-28",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-taqa-2026-07-23",
+      "id": "dividend-window-taqa-2026-07-24",
       "symbol": "TAQA",
       "name": "Abu Dhabi National Energy (TAQA)",
       "exchange": "ADX",
@@ -582,14 +563,14 @@
         "amount_aed": 0.0907,
         "dividend_score": 81
       },
-      "occurred_at": "2026-07-23",
+      "occurred_at": "2026-07-24",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-adib-2026-07-22",
+      "id": "dividend-window-adib-2026-07-23",
       "symbol": "ADIB",
       "name": "Abu Dhabi Islamic Bank",
       "exchange": "ADX",
@@ -602,14 +583,14 @@
         "amount_aed": 0.9684,
         "dividend_score": 70
       },
-      "occurred_at": "2026-07-22",
+      "occurred_at": "2026-07-23",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-dana-2026-07-22",
+      "id": "dividend-window-dana-2026-07-23",
       "symbol": "DANA",
       "name": "Dana Gas",
       "exchange": "ADX",
@@ -622,14 +603,14 @@
         "amount_aed": 0.3574,
         "dividend_score": 73
       },
-      "occurred_at": "2026-07-22",
+      "occurred_at": "2026-07-23",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-sib-2026-07-22",
+      "id": "dividend-window-sib-2026-07-23",
       "symbol": "SIB",
       "name": "Sharjah Islamic Bank",
       "exchange": "ADX",
@@ -642,14 +623,14 @@
         "amount_aed": 0.1275,
         "dividend_score": 75
       },
-      "occurred_at": "2026-07-22",
+      "occurred_at": "2026-07-23",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-adnocls-2026-07-16-board",
+      "id": "meeting-window-adnocls-2026-07-17-board",
       "symbol": "ADNOCLS",
       "name": "ADNOC Logistics & Services",
       "exchange": "ADX",
@@ -666,14 +647,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-16",
+      "occurred_at": "2026-07-17",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-armx-2026-07-16-board",
+      "id": "meeting-window-armx-2026-07-17-board",
       "symbol": "ARMX",
       "name": "Aramex",
       "exchange": "DFM",
@@ -690,14 +671,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-16",
+      "occurred_at": "2026-07-17",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-burjeel-2026-07-16",
+      "id": "dividend-window-burjeel-2026-07-17",
       "symbol": "BURJEEL",
       "name": "Burjeel Holdings",
       "exchange": "ADX",
@@ -710,14 +691,14 @@
         "amount_aed": 0.0678,
         "dividend_score": 79
       },
-      "occurred_at": "2026-07-16",
+      "occurred_at": "2026-07-17",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-emaardev-2026-07-16-board",
+      "id": "meeting-window-emaardev-2026-07-17-board",
       "symbol": "EMAARDEV",
       "name": "Emaar Development",
       "exchange": "DFM",
@@ -734,14 +715,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-16",
+      "occurred_at": "2026-07-17",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-parkin-2026-07-16-board",
+      "id": "meeting-window-parkin-2026-07-17-board",
       "symbol": "PARKIN",
       "name": "Parkin Company",
       "exchange": "DFM",
@@ -758,14 +739,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-16",
+      "occurred_at": "2026-07-17",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-adnocdrill-2026-07-15-board",
+      "id": "meeting-window-adnocdrill-2026-07-16-board",
       "symbol": "ADNOCDRILL",
       "name": "ADNOC Drilling",
       "exchange": "ADX",
@@ -782,14 +763,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-15",
+      "occurred_at": "2026-07-16",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-americana-2026-07-15-board",
+      "id": "meeting-window-americana-2026-07-16-board",
       "symbol": "AMERICANA",
       "name": "Americana Restaurants",
       "exchange": "ADX",
@@ -806,14 +787,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-15",
+      "occurred_at": "2026-07-16",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-burjeel-2026-07-15-board",
+      "id": "meeting-window-burjeel-2026-07-16-board",
       "symbol": "BURJEEL",
       "name": "Burjeel Holdings",
       "exchange": "ADX",
@@ -830,14 +811,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-15",
+      "occurred_at": "2026-07-16",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-nmdc-2026-07-15-board",
+      "id": "meeting-window-nmdc-2026-07-16-board",
       "symbol": "NMDC",
       "name": "NMDC Group",
       "exchange": "ADX",
@@ -854,14 +835,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-15",
+      "occurred_at": "2026-07-16",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-dtc-2026-07-14-board",
+      "id": "meeting-window-dtc-2026-07-15-board",
       "symbol": "DTC",
       "name": "Dubai Taxi Company",
       "exchange": "DFM",
@@ -878,14 +859,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-14",
+      "occurred_at": "2026-07-15",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-deyaar-2026-07-13-board",
+      "id": "meeting-window-deyaar-2026-07-14-board",
       "symbol": "DEYAAR",
       "name": "Deyaar Development",
       "exchange": "DFM",
@@ -902,14 +883,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-13",
+      "occurred_at": "2026-07-14",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-du-2026-07-13-board",
+      "id": "meeting-window-du-2026-07-14-board",
       "symbol": "DU",
       "name": "Emirates Integrated Telecommunications (du)",
       "exchange": "DFM",
@@ -926,14 +907,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-13",
+      "occurred_at": "2026-07-14",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-presight-2026-07-13-board",
+      "id": "meeting-window-presight-2026-07-14-board",
       "symbol": "PRESIGHT",
       "name": "Presight AI Holding",
       "exchange": "ADX",
@@ -950,14 +931,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-13",
+      "occurred_at": "2026-07-14",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-adnocls-2026-07-12",
+      "id": "dividend-window-adnocls-2026-07-13",
       "symbol": "ADNOCLS",
       "name": "ADNOC Logistics & Services",
       "exchange": "ADX",
@@ -970,14 +951,14 @@
         "amount_aed": 0.1152,
         "dividend_score": 71
       },
-      "occurred_at": "2026-07-12",
+      "occurred_at": "2026-07-13",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-adib-2026-07-11-board",
+      "id": "meeting-window-adib-2026-07-12-board",
       "symbol": "ADIB",
       "name": "Abu Dhabi Islamic Bank",
       "exchange": "ADX",
@@ -994,14 +975,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-11",
+      "occurred_at": "2026-07-12",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-borouge-2026-07-10",
+      "id": "dividend-window-borouge-2026-07-11",
       "symbol": "BOROUGE",
       "name": "Borouge",
       "exchange": "ADX",
@@ -1014,14 +995,14 @@
         "amount_aed": 0.1644,
         "dividend_score": 74
       },
-      "occurred_at": "2026-07-10",
+      "occurred_at": "2026-07-11",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-dewa-2026-07-10-board",
+      "id": "meeting-window-dewa-2026-07-11-board",
       "symbol": "DEWA",
       "name": "Dubai Electricity & Water Authority",
       "exchange": "DFM",
@@ -1038,14 +1019,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-10",
+      "occurred_at": "2026-07-11",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-modon-2026-07-10-board",
+      "id": "meeting-window-modon-2026-07-11-board",
       "symbol": "MODON",
       "name": "Modon Holding",
       "exchange": "ADX",
@@ -1062,14 +1043,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-10",
+      "occurred_at": "2026-07-11",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-tecom-2026-07-10-board",
+      "id": "meeting-window-tecom-2026-07-11-board",
       "symbol": "TECOM",
       "name": "TECOM Group",
       "exchange": "DFM",
@@ -1086,14 +1067,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-10",
+      "occurred_at": "2026-07-11",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-sib-2026-07-09-board",
+      "id": "meeting-window-sib-2026-07-10-board",
       "symbol": "SIB",
       "name": "Sharjah Islamic Bank",
       "exchange": "ADX",
@@ -1110,14 +1091,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-09",
+      "occurred_at": "2026-07-10",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-adcb-2026-07-08-board",
+      "id": "meeting-window-adcb-2026-07-09-board",
       "symbol": "ADCB",
       "name": "Abu Dhabi Commercial Bank",
       "exchange": "ADX",
@@ -1134,14 +1115,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-08",
+      "occurred_at": "2026-07-09",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-talabat-2026-07-08-board",
+      "id": "meeting-window-talabat-2026-07-09-board",
       "symbol": "TALABAT",
       "name": "Talabat Holding",
       "exchange": "DFM",
@@ -1158,14 +1139,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-08",
+      "occurred_at": "2026-07-09",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-rakprop-2026-07-07-board",
+      "id": "meeting-window-rakprop-2026-07-08-board",
       "symbol": "RAKPROP",
       "name": "RAK Properties",
       "exchange": "ADX",
@@ -1182,14 +1163,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-07",
+      "occurred_at": "2026-07-08",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-adnh-2026-07-06-board",
+      "id": "meeting-window-adnh-2026-07-07-board",
       "symbol": "ADNH",
       "name": "Abu Dhabi National Hotels",
       "exchange": "ADX",
@@ -1206,14 +1187,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-06",
+      "occurred_at": "2026-07-07",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-emiratesnbd-2026-07-06-board",
+      "id": "meeting-window-emiratesnbd-2026-07-07-board",
       "symbol": "EMIRATESNBD",
       "name": "Emirates NBD",
       "exchange": "DFM",
@@ -1230,14 +1211,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-06",
+      "occurred_at": "2026-07-07",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-fab-2026-07-06-board",
+      "id": "meeting-window-fab-2026-07-07-board",
       "symbol": "FAB",
       "name": "First Abu Dhabi Bank",
       "exchange": "ADX",
@@ -1254,14 +1235,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-06",
+      "occurred_at": "2026-07-07",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-space42-2026-07-06-board",
+      "id": "meeting-window-space42-2026-07-07-board",
       "symbol": "SPACE42",
       "name": "Space42",
       "exchange": "ADX",
@@ -1278,14 +1259,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-06",
+      "occurred_at": "2026-07-07",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-adports-2026-07-04-board",
+      "id": "meeting-window-adports-2026-07-05-board",
       "symbol": "ADPORTS",
       "name": "AD Ports Group",
       "exchange": "ADX",
@@ -1302,14 +1283,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-04",
+      "occurred_at": "2026-07-05",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-purehealth-2026-07-04-board",
+      "id": "meeting-window-purehealth-2026-07-05-board",
       "symbol": "PUREHEALTH",
       "name": "Pure Health Holding",
       "exchange": "ADX",
@@ -1326,14 +1307,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-04",
+      "occurred_at": "2026-07-05",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-salik-2026-07-03-board",
+      "id": "meeting-window-salik-2026-07-04-board",
       "symbol": "SALIK",
       "name": "Salik Company",
       "exchange": "DFM",
@@ -1350,14 +1331,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-03",
+      "occurred_at": "2026-07-04",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-eand-2026-07-02-board",
+      "id": "meeting-window-eand-2026-07-03-board",
       "symbol": "EAND",
       "name": "e& (Emirates Telecom Group)",
       "exchange": "ADX",
@@ -1374,14 +1355,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-02",
+      "occurred_at": "2026-07-03",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-empower-2026-07-02-board",
+      "id": "meeting-window-empower-2026-07-03-board",
       "symbol": "EMPOWER",
       "name": "Emirates Central Cooling Systems (Empower)",
       "exchange": "DFM",
@@ -1398,14 +1379,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-02",
+      "occurred_at": "2026-07-03",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-shuaa-2026-07-01-board",
+      "id": "meeting-window-shuaa-2026-07-02-board",
       "symbol": "SHUAA",
       "name": "SHUAA Capital",
       "exchange": "DFM",
@@ -1422,14 +1403,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-07-01",
+      "occurred_at": "2026-07-02",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-adnocgas-2026-06-29-board",
+      "id": "meeting-window-adnocgas-2026-06-30-board",
       "symbol": "ADNOCGAS",
       "name": "ADNOC Gas",
       "exchange": "ADX",
@@ -1446,14 +1427,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-06-29",
+      "occurred_at": "2026-06-30",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-agthia-2026-06-28-board",
+      "id": "meeting-window-agthia-2026-06-29-board",
       "symbol": "AGTHIA",
       "name": "Agthia Group",
       "exchange": "ADX",
@@ -1470,14 +1451,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-06-28",
+      "occurred_at": "2026-06-29",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-emaar-2026-06-28-board",
+      "id": "meeting-window-emaar-2026-06-29-board",
       "symbol": "EMAAR",
       "name": "Emaar Properties",
       "exchange": "DFM",
@@ -1494,14 +1475,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-06-28",
+      "occurred_at": "2026-06-29",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-gfh-2026-06-28-board",
+      "id": "meeting-window-gfh-2026-06-29-board",
       "symbol": "GFH",
       "name": "GFH Financial Group",
       "exchange": "DFM",
@@ -1518,14 +1499,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-06-28",
+      "occurred_at": "2026-06-29",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "meeting-window-q-2026-06-28-board",
+      "id": "meeting-window-q-2026-06-29-board",
       "symbol": "Q",
       "name": "Q Holding",
       "exchange": "ADX",
@@ -1542,14 +1523,14 @@
           "dividend"
         ]
       },
-      "occurred_at": "2026-06-28",
+      "occurred_at": "2026-06-29",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-2pointzero-2026-06-25t12-50-24-00-00",
+      "id": "price-move-2pointzero-2026-06-26t05-06-31-00-00",
       "symbol": "2POINTZERO",
       "name": "Two Point Zero Group",
       "exchange": "ADX",
@@ -1561,14 +1542,14 @@
         "change_pct": -0.022,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-25T12:50:24+00:00",
+      "occurred_at": "2026-06-26T05:06:31+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-adcb-2026-06-25t12-50-24-00-00",
+      "id": "price-move-adcb-2026-06-26t05-06-31-00-00",
       "symbol": "ADCB",
       "name": "Abu Dhabi Commercial Bank",
       "exchange": "ADX",
@@ -1580,14 +1561,14 @@
         "change_pct": -0.0239,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-25T12:50:24+00:00",
+      "occurred_at": "2026-06-26T05:06:31+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-adib-2026-06-25t12-50-24-00-00",
+      "id": "price-move-adib-2026-06-26t05-06-31-00-00",
       "symbol": "ADIB",
       "name": "Abu Dhabi Islamic Bank",
       "exchange": "ADX",
@@ -1599,14 +1580,33 @@
         "change_pct": -0.0383,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-25T12:50:24+00:00",
+      "occurred_at": "2026-06-26T05:06:31+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-aldar-2026-06-25t12-50-24-00-00",
+      "id": "price-move-airarabia-2026-06-26t05-06-31-00-00",
+      "symbol": "AIRARABIA",
+      "name": "Air Arabia",
+      "exchange": "DFM",
+      "type": "price_move",
+      "severity": "medium",
+      "title": "AIRARABIA moved +2.1%",
+      "summary": "Daily move crossed the preview alert threshold.",
+      "trigger": {
+        "change_pct": 0.0214,
+        "threshold_pct": 0.02
+      },
+      "occurred_at": "2026-06-26T05:06:31+00:00",
+      "source_type": "mock",
+      "data_quality": "demo",
+      "status": "preview",
+      "route": "app_only"
+    },
+    {
+      "id": "price-move-aldar-2026-06-26t05-06-31-00-00",
       "symbol": "ALDAR",
       "name": "Aldar Properties",
       "exchange": "ADX",
@@ -1618,14 +1618,14 @@
         "change_pct": -0.0393,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-25T12:50:24+00:00",
+      "occurred_at": "2026-06-26T05:06:31+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-americana-2026-06-25t12-50-24-00-00",
+      "id": "price-move-americana-2026-06-26t05-06-31-00-00",
       "symbol": "AMERICANA",
       "name": "Americana Restaurants",
       "exchange": "ADX",
@@ -1637,33 +1637,33 @@
         "change_pct": -0.0243,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-25T12:50:24+00:00",
+      "occurred_at": "2026-06-26T05:06:31+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-cbd-2026-06-25t12-50-24-00-00",
-      "symbol": "CBD",
-      "name": "Commercial Bank of Dubai",
+      "id": "price-move-armx-2026-06-26t05-06-31-00-00",
+      "symbol": "ARMX",
+      "name": "Aramex",
       "exchange": "DFM",
       "type": "price_move",
       "severity": "medium",
-      "title": "CBD moved -2.1%",
+      "title": "ARMX moved -2.9%",
       "summary": "Daily move crossed the preview alert threshold.",
       "trigger": {
-        "change_pct": -0.0205,
+        "change_pct": -0.0286,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-25T12:50:24+00:00",
-      "source_type": "official",
-      "data_quality": "delayed",
+      "occurred_at": "2026-06-26T05:06:31+00:00",
+      "source_type": "mock",
+      "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-dana-2026-06-25t12-50-24-00-00",
+      "id": "price-move-dana-2026-06-26t05-06-31-00-00",
       "symbol": "DANA",
       "name": "Dana Gas",
       "exchange": "ADX",
@@ -1675,33 +1675,52 @@
         "change_pct": -0.0201,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-25T12:50:24+00:00",
+      "occurred_at": "2026-06-26T05:06:31+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-emaar-2026-06-25t12-50-24-00-00",
+      "id": "price-move-dtc-2026-06-26t05-06-31-00-00",
+      "symbol": "DTC",
+      "name": "Dubai Taxi Company",
+      "exchange": "DFM",
+      "type": "price_move",
+      "severity": "medium",
+      "title": "DTC moved -3.4%",
+      "summary": "Daily move crossed the preview alert threshold.",
+      "trigger": {
+        "change_pct": -0.0341,
+        "threshold_pct": 0.02
+      },
+      "occurred_at": "2026-06-26T05:06:31+00:00",
+      "source_type": "mock",
+      "data_quality": "demo",
+      "status": "preview",
+      "route": "app_only"
+    },
+    {
+      "id": "price-move-emaar-2026-06-26t05-06-31-00-00",
       "symbol": "EMAAR",
       "name": "Emaar Properties",
       "exchange": "DFM",
       "type": "price_move",
       "severity": "medium",
-      "title": "EMAAR moved -2.9%",
+      "title": "EMAAR moved +2.7%",
       "summary": "Daily move crossed the preview alert threshold.",
       "trigger": {
-        "change_pct": -0.0286,
+        "change_pct": 0.0274,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-25T12:50:24+00:00",
-      "source_type": "official",
-      "data_quality": "delayed",
+      "occurred_at": "2026-06-26T05:06:31+00:00",
+      "source_type": "mock",
+      "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-emsteel-2026-06-25t12-50-24-00-00",
+      "id": "price-move-emsteel-2026-06-26t05-06-31-00-00",
       "symbol": "EMSTEEL",
       "name": "Emirates Steel Arkan",
       "exchange": "ADX",
@@ -1713,14 +1732,14 @@
         "change_pct": -0.0261,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-25T12:50:24+00:00",
+      "occurred_at": "2026-06-26T05:06:31+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-fab-2026-06-25t12-50-24-00-00",
+      "id": "price-move-fab-2026-06-26t05-06-31-00-00",
       "symbol": "FAB",
       "name": "First Abu Dhabi Bank",
       "exchange": "ADX",
@@ -1732,14 +1751,109 @@
         "change_pct": -0.0315,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-25T12:50:24+00:00",
+      "occurred_at": "2026-06-26T05:06:31+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-mashreq-2026-06-23t03-50-24-00-00-mashreq-2-1782186624",
+      "id": "price-move-gfh-2026-06-26t05-06-31-00-00",
+      "symbol": "GFH",
+      "name": "GFH Financial Group",
+      "exchange": "DFM",
+      "type": "price_move",
+      "severity": "medium",
+      "title": "GFH moved -2.3%",
+      "summary": "Daily move crossed the preview alert threshold.",
+      "trigger": {
+        "change_pct": -0.0227,
+        "threshold_pct": 0.02
+      },
+      "occurred_at": "2026-06-26T05:06:31+00:00",
+      "source_type": "mock",
+      "data_quality": "demo",
+      "status": "preview",
+      "route": "app_only"
+    },
+    {
+      "id": "price-move-parkin-2026-06-26t05-06-31-00-00",
+      "symbol": "PARKIN",
+      "name": "Parkin Company",
+      "exchange": "DFM",
+      "type": "price_move",
+      "severity": "medium",
+      "title": "PARKIN moved -2.1%",
+      "summary": "Daily move crossed the preview alert threshold.",
+      "trigger": {
+        "change_pct": -0.0211,
+        "threshold_pct": 0.02
+      },
+      "occurred_at": "2026-06-26T05:06:31+00:00",
+      "source_type": "mock",
+      "data_quality": "demo",
+      "status": "preview",
+      "route": "app_only"
+    },
+    {
+      "id": "price-move-salik-2026-06-26t05-06-31-00-00",
+      "symbol": "SALIK",
+      "name": "Salik Company",
+      "exchange": "DFM",
+      "type": "price_move",
+      "severity": "medium",
+      "title": "SALIK moved +3.0%",
+      "summary": "Daily move crossed the preview alert threshold.",
+      "trigger": {
+        "change_pct": 0.0301,
+        "threshold_pct": 0.02
+      },
+      "occurred_at": "2026-06-26T05:06:31+00:00",
+      "source_type": "mock",
+      "data_quality": "demo",
+      "status": "preview",
+      "route": "app_only"
+    },
+    {
+      "id": "price-move-shuaa-2026-06-26t05-06-31-00-00",
+      "symbol": "SHUAA",
+      "name": "SHUAA Capital",
+      "exchange": "DFM",
+      "type": "price_move",
+      "severity": "medium",
+      "title": "SHUAA moved -2.9%",
+      "summary": "Daily move crossed the preview alert threshold.",
+      "trigger": {
+        "change_pct": -0.0289,
+        "threshold_pct": 0.02
+      },
+      "occurred_at": "2026-06-26T05:06:31+00:00",
+      "source_type": "mock",
+      "data_quality": "demo",
+      "status": "preview",
+      "route": "app_only"
+    },
+    {
+      "id": "price-move-tecom-2026-06-26t05-06-31-00-00",
+      "symbol": "TECOM",
+      "name": "TECOM Group",
+      "exchange": "DFM",
+      "type": "price_move",
+      "severity": "medium",
+      "title": "TECOM moved +2.2%",
+      "summary": "Daily move crossed the preview alert threshold.",
+      "trigger": {
+        "change_pct": 0.0219,
+        "threshold_pct": 0.02
+      },
+      "occurred_at": "2026-06-26T05:06:31+00:00",
+      "source_type": "mock",
+      "data_quality": "demo",
+      "status": "preview",
+      "route": "app_only"
+    },
+    {
+      "id": "cautious-disclosure-mashreq-2026-06-23t20-06-31-00-00-mashreq-2-1782245191",
       "symbol": "MASHREQ",
       "name": "Mashreqbank",
       "exchange": "DFM",
@@ -1752,14 +1866,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-06-23T03:50:24+00:00",
+      "occurred_at": "2026-06-23T20:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-agthia-2026-06-20t09-50-24-00-00-agthia-2-1781949024",
+      "id": "cautious-disclosure-agthia-2026-06-21t02-06-31-00-00-agthia-2-1782007591",
       "symbol": "AGTHIA",
       "name": "Agthia Group",
       "exchange": "ADX",
@@ -1772,14 +1886,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-06-20T09:50:24+00:00",
+      "occurred_at": "2026-06-21T02:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-nmdc-2026-06-15t07-50-24-00-00-nmdc-2-1781509824",
+      "id": "cautious-disclosure-nmdc-2026-06-16t00-06-31-00-00-nmdc-2-1781568391",
       "symbol": "NMDC",
       "name": "NMDC Group",
       "exchange": "ADX",
@@ -1792,14 +1906,14 @@
         "threshold": 70,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-06-15T07:50:24+00:00",
+      "occurred_at": "2026-06-16T00:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-rakprop-2026-06-12t09-50-24-00-00-rakprop-6-1781257824",
+      "id": "cautious-disclosure-rakprop-2026-06-13t02-06-31-00-00-rakprop-6-1781316391",
       "symbol": "RAKPROP",
       "name": "RAK Properties",
       "exchange": "ADX",
@@ -1812,14 +1926,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-06-12T09:50:24+00:00",
+      "occurred_at": "2026-06-13T02:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-dewa-2026-06-11t05-50-24-00-00-dewa-1-1781157024",
+      "id": "cautious-disclosure-dewa-2026-06-11t22-06-31-00-00-dewa-1-1781215591",
       "symbol": "DEWA",
       "name": "Dubai Electricity & Water Authority",
       "exchange": "DFM",
@@ -1832,14 +1946,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-06-11T05:50:24+00:00",
+      "occurred_at": "2026-06-11T22:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-shuaa-2026-05-29t08-50-24-00-00-shuaa-3-1780044624",
+      "id": "cautious-disclosure-shuaa-2026-05-30t01-06-31-00-00-shuaa-3-1780103191",
       "symbol": "SHUAA",
       "name": "SHUAA Capital",
       "exchange": "DFM",
@@ -1852,14 +1966,14 @@
         "threshold": 70,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-05-29T08:50:24+00:00",
+      "occurred_at": "2026-05-30T01:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-agthia-2026-05-27t07-50-24-00-00-agthia-4-1779868224",
+      "id": "cautious-disclosure-agthia-2026-05-28t00-06-31-00-00-agthia-4-1779926791",
       "symbol": "AGTHIA",
       "name": "Agthia Group",
       "exchange": "ADX",
@@ -1872,14 +1986,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-05-27T07:50:24+00:00",
+      "occurred_at": "2026-05-28T00:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-deyaar-2026-05-20t11-50-24-00-00-deyaar-1-1779277824",
+      "id": "cautious-disclosure-deyaar-2026-05-21t04-06-31-00-00-deyaar-1-1779336391",
       "symbol": "DEYAAR",
       "name": "Deyaar Development",
       "exchange": "DFM",
@@ -1892,14 +2006,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-05-20T11:50:24+00:00",
+      "occurred_at": "2026-05-21T04:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-airarabia-2026-05-20t04-50-24-00-00-airarabia-5-1779252624",
+      "id": "cautious-disclosure-airarabia-2026-05-20t21-06-31-00-00-airarabia-5-1779311191",
       "symbol": "AIRARABIA",
       "name": "Air Arabia",
       "exchange": "DFM",
@@ -1912,14 +2026,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-05-20T04:50:24+00:00",
+      "occurred_at": "2026-05-20T21:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-q-2026-05-19t11-50-24-00-00-q-0-1779191424",
+      "id": "cautious-disclosure-q-2026-05-20t04-06-31-00-00-q-0-1779249991",
       "symbol": "Q",
       "name": "Q Holding",
       "exchange": "ADX",
@@ -1932,14 +2046,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-05-19T11:50:24+00:00",
+      "occurred_at": "2026-05-20T04:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-ihc-2026-04-30t12-50-24-00-00-ihc-1-1777553424",
+      "id": "cautious-disclosure-ihc-2026-05-01t05-06-31-00-00-ihc-1-1777611991",
       "symbol": "IHC",
       "name": "International Holding Company",
       "exchange": "ADX",
@@ -1952,14 +2066,14 @@
         "threshold": 70,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-04-30T12:50:24+00:00",
+      "occurred_at": "2026-05-01T05:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-taqa-2026-04-24t10-50-24-00-00-taqa-4-1777027824",
+      "id": "cautious-disclosure-taqa-2026-04-25t03-06-31-00-00-taqa-4-1777086391",
       "symbol": "TAQA",
       "name": "Abu Dhabi National Energy (TAQA)",
       "exchange": "ADX",
@@ -1972,14 +2086,14 @@
         "threshold": 70,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-04-24T10:50:24+00:00",
+      "occurred_at": "2026-04-25T03:06:31+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-dtc-2026-08-08",
+      "id": "dividend-window-dtc-2026-08-09",
       "symbol": "DTC",
       "name": "Dubai Taxi Company",
       "exchange": "DFM",
@@ -1992,14 +2106,14 @@
         "amount_aed": 0.0032,
         "dividend_score": 47
       },
-      "occurred_at": "2026-08-08",
+      "occurred_at": "2026-08-09",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-empower-2026-08-08",
+      "id": "dividend-window-empower-2026-08-09",
       "symbol": "EMPOWER",
       "name": "Emirates Central Cooling Systems (Empower)",
       "exchange": "DFM",
@@ -2012,14 +2126,14 @@
         "amount_aed": 0.0581,
         "dividend_score": 63
       },
-      "occurred_at": "2026-08-08",
+      "occurred_at": "2026-08-09",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-dib-2026-07-30",
+      "id": "dividend-window-dib-2026-07-31",
       "symbol": "DIB",
       "name": "Dubai Islamic Bank",
       "exchange": "DFM",
@@ -2032,14 +2146,14 @@
         "amount_aed": 0.2066,
         "dividend_score": 59
       },
-      "occurred_at": "2026-07-30",
+      "occurred_at": "2026-07-31",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-adnocdrill-2026-07-29",
+      "id": "dividend-window-adnocdrill-2026-07-30",
       "symbol": "ADNOCDRILL",
       "name": "ADNOC Drilling",
       "exchange": "ADX",
@@ -2052,14 +2166,14 @@
         "amount_aed": 0.4978,
         "dividend_score": 65
       },
-      "occurred_at": "2026-07-29",
+      "occurred_at": "2026-07-30",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-ihc-2026-07-29",
+      "id": "dividend-window-ihc-2026-07-30",
       "symbol": "IHC",
       "name": "International Holding Company",
       "exchange": "ADX",
@@ -2072,14 +2186,14 @@
         "amount_aed": 2.3973,
         "dividend_score": 60
       },
-      "occurred_at": "2026-07-29",
+      "occurred_at": "2026-07-30",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-adports-2026-07-28",
+      "id": "dividend-window-adports-2026-07-29",
       "symbol": "ADPORTS",
       "name": "AD Ports Group",
       "exchange": "ADX",
@@ -2092,14 +2206,14 @@
         "amount_aed": 0.0163,
         "dividend_score": 58
       },
-      "occurred_at": "2026-07-28",
+      "occurred_at": "2026-07-29",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-julphar-2026-07-28",
+      "id": "dividend-window-julphar-2026-07-29",
       "symbol": "JULPHAR",
       "name": "Gulf Pharmaceutical Industries (Julphar)",
       "exchange": "ADX",
@@ -2112,14 +2226,14 @@
         "amount_aed": 0.1568,
         "dividend_score": 69
       },
-      "occurred_at": "2026-07-28",
+      "occurred_at": "2026-07-29",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-airarabia-2026-07-26",
+      "id": "dividend-window-airarabia-2026-07-27",
       "symbol": "AIRARABIA",
       "name": "Air Arabia",
       "exchange": "DFM",
@@ -2132,14 +2246,14 @@
         "amount_aed": 0.1169,
         "dividend_score": 64
       },
-      "occurred_at": "2026-07-26",
+      "occurred_at": "2026-07-27",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-rakbank-2026-07-26",
+      "id": "dividend-window-rakbank-2026-07-27",
       "symbol": "RAKBANK",
       "name": "National Bank of Ras Al Khaimah",
       "exchange": "ADX",
@@ -2152,14 +2266,14 @@
         "amount_aed": 0.5546,
         "dividend_score": 68
       },
-      "occurred_at": "2026-07-26",
+      "occurred_at": "2026-07-27",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-cbd-2026-07-25",
+      "id": "dividend-window-cbd-2026-07-26",
       "symbol": "CBD",
       "name": "Commercial Bank of Dubai",
       "exchange": "DFM",
@@ -2172,14 +2286,14 @@
         "amount_aed": 0.2714,
         "dividend_score": 69
       },
-      "occurred_at": "2026-07-25",
+      "occurred_at": "2026-07-26",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-du-2026-07-23",
+      "id": "dividend-window-du-2026-07-24",
       "symbol": "DU",
       "name": "Emirates Integrated Telecommunications (du)",
       "exchange": "DFM",
@@ -2192,14 +2306,14 @@
         "amount_aed": 0.1086,
         "dividend_score": 66
       },
-      "occurred_at": "2026-07-23",
+      "occurred_at": "2026-07-24",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-adcb-2026-07-22",
+      "id": "dividend-window-adcb-2026-07-23",
       "symbol": "ADCB",
       "name": "Abu Dhabi Commercial Bank",
       "exchange": "ADX",
@@ -2212,14 +2326,14 @@
         "amount_aed": 0.3246,
         "dividend_score": 65
       },
-      "occurred_at": "2026-07-22",
+      "occurred_at": "2026-07-23",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-2pointzero-2026-07-20",
+      "id": "dividend-window-2pointzero-2026-07-21",
       "symbol": "2POINTZERO",
       "name": "Two Point Zero Group",
       "exchange": "ADX",
@@ -2232,14 +2346,14 @@
         "amount_aed": 0.1128,
         "dividend_score": 66
       },
-      "occurred_at": "2026-07-20",
+      "occurred_at": "2026-07-21",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-emaar-2026-07-19",
+      "id": "dividend-window-emaar-2026-07-20",
       "symbol": "EMAAR",
       "name": "Emaar Properties",
       "exchange": "DFM",
@@ -2252,14 +2366,14 @@
         "amount_aed": 0.5369,
         "dividend_score": 62
       },
-      "occurred_at": "2026-07-19",
+      "occurred_at": "2026-07-20",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-ghitha-2026-07-17",
+      "id": "dividend-window-ghitha-2026-07-18",
       "symbol": "GHITHA",
       "name": "Ghitha Holding",
       "exchange": "ADX",
@@ -2272,14 +2386,14 @@
         "amount_aed": 0.0602,
         "dividend_score": 65
       },
-      "occurred_at": "2026-07-17",
+      "occurred_at": "2026-07-18",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-parkin-2026-07-15",
+      "id": "dividend-window-parkin-2026-07-16",
       "symbol": "PARKIN",
       "name": "Parkin Company",
       "exchange": "DFM",
@@ -2292,14 +2406,14 @@
         "amount_aed": 0.1967,
         "dividend_score": 66
       },
-      "occurred_at": "2026-07-15",
+      "occurred_at": "2026-07-16",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-salik-2026-07-15",
+      "id": "dividend-window-salik-2026-07-16",
       "symbol": "SALIK",
       "name": "Salik Company",
       "exchange": "DFM",
@@ -2312,14 +2426,14 @@
         "amount_aed": 0.0952,
         "dividend_score": 67
       },
-      "occurred_at": "2026-07-15",
+      "occurred_at": "2026-07-16",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-tecom-2026-07-11",
+      "id": "dividend-window-tecom-2026-07-12",
       "symbol": "TECOM",
       "name": "TECOM Group",
       "exchange": "DFM",
@@ -2332,14 +2446,14 @@
         "amount_aed": 0.0012,
         "dividend_score": 51
       },
-      "occurred_at": "2026-07-11",
+      "occurred_at": "2026-07-12",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "dividend-window-aldar-2026-07-09",
+      "id": "dividend-window-aldar-2026-07-10",
       "symbol": "ALDAR",
       "name": "Aldar Properties",
       "exchange": "ADX",
@@ -2352,7 +2466,7 @@
         "amount_aed": 0.2472,
         "dividend_score": 50
       },
-      "occurred_at": "2026-07-09",
+      "occurred_at": "2026-07-10",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
