@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "DANA",
-    "price": 0.926,
-    "change": -0.005,
-    "change_pct": -0.0054,
-    "volume": 4681389,
+    "price": 0.927,
+    "change": -0.004,
+    "change_pct": -0.0043,
+    "volume": 4846383,
     "market_cap": null,
-    "high_52w": 0.933,
-    "low_52w": 0.896,
+    "high_52w": 0.927,
+    "low_52w": 0.88,
     "spark": [
-      0.926,
-      0.928,
-      0.918,
-      0.926,
-      0.923,
-      0.929,
-      0.92,
-      0.91,
-      0.903,
-      0.912,
-      0.903,
-      0.896,
-      0.906,
-      0.918,
-      0.923,
-      0.921,
-      0.919,
-      0.924,
-      0.919,
       0.913,
-      0.919,
-      0.918,
-      0.917,
-      0.924,
-      0.933,
-      0.926,
-      0.92,
-      0.923,
-      0.924,
-      0.926
+      0.914,
+      0.91,
+      0.902,
+      0.901,
+      0.912,
+      0.907,
+      0.912,
+      0.904,
+      0.903,
+      0.9,
+      0.909,
+      0.898,
+      0.893,
+      0.894,
+      0.894,
+      0.888,
+      0.89,
+      0.886,
+      0.88,
+      0.883,
+      0.885,
+      0.895,
+      0.89,
+      0.892,
+      0.903,
+      0.911,
+      0.905,
+      0.913,
+      0.927
     ],
     "prov": {
       "source_type": "official",
       "source_name": "ADX (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-29T10:33:57.385Z",
+      "retrieved_at": "2026-06-29T10:49:59.769Z",
       "url": null,
       "lang": null
     }
@@ -285,9 +285,9 @@
     ],
     "quick_stats": {
       "market_cap": null,
-      "volume": 4681389,
-      "high_52w": 0.933,
-      "low_52w": 0.896,
+      "volume": 4846383,
+      "high_52w": 0.927,
+      "low_52w": 0.88,
       "dividend_yield": 0.0817
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "DANA-4-1781152437",
+      "id": "DANA-4-1781153399",
       "symbol": "DANA",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-06-11T04:33:57+00:00",
+      "published_at": "2026-06-11T04:49:59+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "DANA-5-1780803237",
+      "id": "DANA-5-1780804199",
       "symbol": "DANA",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-06-07T03:33:57+00:00",
+      "published_at": "2026-06-07T03:49:59+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "DANA-3-1780565637",
+      "id": "DANA-3-1780566599",
       "symbol": "DANA",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-06-04T09:33:57+00:00",
+      "published_at": "2026-06-04T09:49:59+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "DANA-1-1780119237",
+      "id": "DANA-1-1780120199",
       "symbol": "DANA",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-05-30T05:33:57+00:00",
+      "published_at": "2026-05-30T05:49:59+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -396,20 +396,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "DANA-6-1778891637",
+      "id": "DANA-6-1778892599",
       "symbol": "DANA",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-05-16T00:33:57+00:00",
+      "published_at": "2026-05-16T00:49:59+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -422,20 +422,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "DANA-2-1776123237",
+      "id": "DANA-2-1776124199",
       "symbol": "DANA",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-04-13T23:33:57+00:00",
+      "published_at": "2026-04-13T23:49:59+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -448,20 +448,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "DANA-0-1775370837",
+      "id": "DANA-0-1775371799",
       "symbol": "DANA",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-04-05T06:33:57+00:00",
+      "published_at": "2026-04-05T06:49:59+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -474,20 +474,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "DANA-7-1775007237",
+      "id": "DANA-7-1775008199",
       "symbol": "DANA",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-04-01T01:33:57+00:00",
+      "published_at": "2026-04-01T01:49:59+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -500,7 +500,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       },
@@ -526,7 +526,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       }
@@ -551,7 +551,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       }
@@ -577,7 +577,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       }
@@ -598,7 +598,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       }
@@ -617,7 +617,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       }
@@ -636,7 +636,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       }
@@ -655,7 +655,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       }
@@ -674,7 +674,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T10:33:57+00:00",
+        "retrieved_at": "2026-06-29T10:49:59+00:00",
         "url": null,
         "lang": null
       }
@@ -704,7 +704,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-29T10:33:57+00:00",
+      "retrieved_at": "2026-06-29T10:49:59+00:00",
       "url": null,
       "lang": null
     }
@@ -775,12 +775,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-29T10:33:57+00:00",
+        "as_of": "2026-06-29T10:49:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T10:33:57+00:00",
+          "retrieved_at": "2026-06-29T10:49:59+00:00",
           "url": null,
           "lang": null
         }
@@ -791,12 +791,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-29T10:33:57+00:00",
+        "as_of": "2026-06-29T10:49:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T10:33:57+00:00",
+          "retrieved_at": "2026-06-29T10:49:59+00:00",
           "url": null,
           "lang": null
         }
@@ -807,12 +807,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-29T10:33:57+00:00",
+        "as_of": "2026-06-29T10:49:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T10:33:57+00:00",
+          "retrieved_at": "2026-06-29T10:49:59+00:00",
           "url": null,
           "lang": null
         }
@@ -823,12 +823,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-29T10:33:57+00:00",
+        "as_of": "2026-06-29T10:49:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T10:33:57+00:00",
+          "retrieved_at": "2026-06-29T10:49:59+00:00",
           "url": null,
           "lang": null
         }
@@ -839,12 +839,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-29T10:33:57+00:00",
+        "as_of": "2026-06-29T10:49:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T10:33:57+00:00",
+          "retrieved_at": "2026-06-29T10:49:59+00:00",
           "url": null,
           "lang": null
         }
@@ -855,12 +855,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-29T10:33:57+00:00",
+        "as_of": "2026-06-29T10:49:59+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T10:33:57+00:00",
+          "retrieved_at": "2026-06-29T10:49:59+00:00",
           "url": null,
           "lang": null
         }
@@ -870,7 +870,7 @@
       {
         "title": "Energy headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-28T05:33:57+00:00",
+        "published_at": "2026-06-28T05:49:59+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 0.37,
@@ -878,7 +878,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T10:33:57+00:00",
+          "retrieved_at": "2026-06-29T10:49:59+00:00",
           "url": null,
           "lang": null
         }
@@ -886,7 +886,7 @@
       {
         "title": "Energy headline — global macro update 2",
         "theme": "TRADE",
-        "published_at": "2026-06-27T15:33:57+00:00",
+        "published_at": "2026-06-27T15:49:59+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 4.74,
@@ -894,7 +894,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T10:33:57+00:00",
+          "retrieved_at": "2026-06-29T10:49:59+00:00",
           "url": null,
           "lang": null
         }
@@ -902,7 +902,7 @@
       {
         "title": "Energy headline — global macro update 3",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-27T15:33:57+00:00",
+        "published_at": "2026-06-27T15:49:59+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 3.45,
@@ -910,7 +910,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T10:33:57+00:00",
+          "retrieved_at": "2026-06-29T10:49:59+00:00",
           "url": null,
           "lang": null
         }
@@ -918,7 +918,7 @@
       {
         "title": "Energy headline — global macro update 4",
         "theme": "MARITIME",
-        "published_at": "2026-06-29T01:33:57+00:00",
+        "published_at": "2026-06-29T01:49:59+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 2.16,
@@ -926,7 +926,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T10:33:57+00:00",
+          "retrieved_at": "2026-06-29T10:49:59+00:00",
           "url": null,
           "lang": null
         }
@@ -934,7 +934,7 @@
       {
         "title": "Energy headline — global macro update 5",
         "theme": "TRADE",
-        "published_at": "2026-06-26T12:33:57+00:00",
+        "published_at": "2026-06-26T12:49:59+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 0.91,
@@ -942,7 +942,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T10:33:57+00:00",
+          "retrieved_at": "2026-06-29T10:49:59+00:00",
           "url": null,
           "lang": null
         }
@@ -950,7 +950,7 @@
       {
         "title": "Energy headline — global macro update 6",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-27T14:33:57+00:00",
+        "published_at": "2026-06-27T14:49:59+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -3.68,
@@ -958,7 +958,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T10:33:57+00:00",
+          "retrieved_at": "2026-06-29T10:49:59+00:00",
           "url": null,
           "lang": null
         }
@@ -993,7 +993,7 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 54.3,
+        "score": 54.6,
         "reasons": [
           "Recent disclosure tone skews positive"
         ],
@@ -1015,7 +1015,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-29T10:33:57+00:00"
+    "generated_at": "2026-06-29T10:49:59+00:00"
   },
-  "generated_at": "2026-06-29T10:33:57+00:00"
+  "generated_at": "2026-06-29T10:49:59+00:00"
 }
