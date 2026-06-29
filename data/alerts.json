@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T11:54:38+00:00",
+  "generated_at": "2026-06-29T12:10:38+00:00",
   "rule_version": 1,
   "mode": "live",
   "summary": {
@@ -70,7 +70,7 @@
   ],
   "items": [
     {
-      "id": "price-move-cbd-2026-06-29t11-54-17-00-00",
+      "id": "price-move-cbd-2026-06-29t12-10-30-00-00",
       "symbol": "CBD",
       "name": "Commercial Bank of Dubai",
       "exchange": "DFM",
@@ -82,14 +82,14 @@
         "change_pct": 0.0442,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-29T11:54:17+00:00",
+      "occurred_at": "2026-06-29T12:10:30+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-ghitha-2026-06-29t11-54-17-00-00",
+      "id": "price-move-ghitha-2026-06-29t12-10-30-00-00",
       "symbol": "GHITHA",
       "name": "Ghitha Holding",
       "exchange": "ADX",
@@ -101,14 +101,14 @@
         "change_pct": -0.0412,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-29T11:54:17+00:00",
+      "occurred_at": "2026-06-29T12:10:30+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-cbd-2026-06-28t11-54-17-00-00-cbd-1-1782647657",
+      "id": "disclosure-cbd-2026-06-28t12-10-30-00-00-cbd-1-1782648630",
       "symbol": "CBD",
       "name": "Commercial Bank of Dubai",
       "exchange": "DFM",
@@ -121,14 +121,14 @@
         "threshold": 85,
         "sentiment": "positive"
       },
-      "occurred_at": "2026-06-28T11:54:17+00:00",
+      "occurred_at": "2026-06-28T12:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-nmdcenr-2026-06-27t01-54-17-00-00-nmdcenr-6-1782525257",
+      "id": "disclosure-nmdcenr-2026-06-27t02-10-30-00-00-nmdcenr-6-1782526230",
       "symbol": "NMDCENR",
       "name": "NMDC Energy",
       "exchange": "ADX",
@@ -141,14 +141,14 @@
         "threshold": 85,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-06-27T01:54:17+00:00",
+      "occurred_at": "2026-06-27T02:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-borouge-2026-06-25t07-54-17-00-00-borouge-2-1782374057",
+      "id": "disclosure-borouge-2026-06-25t08-10-30-00-00-borouge-2-1782375030",
       "symbol": "BOROUGE",
       "name": "Borouge",
       "exchange": "ADX",
@@ -161,14 +161,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-06-25T07:54:17+00:00",
+      "occurred_at": "2026-06-25T08:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-emiratesnbd-2026-06-25t07-54-17-00-00-emiratesnbd-2-1782374057",
+      "id": "disclosure-emiratesnbd-2026-06-25t08-10-30-00-00-emiratesnbd-2-1782375030",
       "symbol": "EMIRATESNBD",
       "name": "Emirates NBD",
       "exchange": "DFM",
@@ -181,14 +181,14 @@
         "threshold": 85,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-06-25T07:54:17+00:00",
+      "occurred_at": "2026-06-25T08:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-rakbank-2026-06-20t03-54-17-00-00-rakbank-3-1781927657",
+      "id": "disclosure-rakbank-2026-06-20t04-10-30-00-00-rakbank-3-1781928630",
       "symbol": "RAKBANK",
       "name": "National Bank of Ras Al Khaimah",
       "exchange": "ADX",
@@ -201,14 +201,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-06-20T03:54:17+00:00",
+      "occurred_at": "2026-06-20T04:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-cbd-2026-06-16t08-54-17-00-00-cbd-4-1781600057",
+      "id": "disclosure-cbd-2026-06-16t09-10-30-00-00-cbd-4-1781601030",
       "symbol": "CBD",
       "name": "Commercial Bank of Dubai",
       "exchange": "DFM",
@@ -221,14 +221,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-06-16T08:54:17+00:00",
+      "occurred_at": "2026-06-16T09:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-cbd-2026-06-11t00-54-17-00-00-cbd-5-1781139257",
+      "id": "disclosure-cbd-2026-06-11t01-10-30-00-00-cbd-5-1781140230",
       "symbol": "CBD",
       "name": "Commercial Bank of Dubai",
       "exchange": "DFM",
@@ -241,14 +241,14 @@
         "threshold": 85,
         "sentiment": "positive"
       },
-      "occurred_at": "2026-06-11T00:54:17+00:00",
+      "occurred_at": "2026-06-11T01:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-sib-2026-06-09t06-54-17-00-00-sib-1-1780988057",
+      "id": "disclosure-sib-2026-06-09t07-10-30-00-00-sib-1-1780989030",
       "symbol": "SIB",
       "name": "Sharjah Islamic Bank",
       "exchange": "ADX",
@@ -261,14 +261,14 @@
         "threshold": 85,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-06-09T06:54:17+00:00",
+      "occurred_at": "2026-06-09T07:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-armx-2026-06-06t03-54-17-00-00-armx-6-1780718057",
+      "id": "disclosure-armx-2026-06-06t04-10-30-00-00-armx-6-1780719030",
       "symbol": "ARMX",
       "name": "Aramex",
       "exchange": "DFM",
@@ -281,14 +281,14 @@
         "threshold": 85,
         "sentiment": "positive"
       },
-      "occurred_at": "2026-06-06T03:54:17+00:00",
+      "occurred_at": "2026-06-06T04:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-alphadhabi-2026-06-05t03-54-17-00-00-alphadhabi-3-1780631657",
+      "id": "disclosure-alphadhabi-2026-06-05t04-10-30-00-00-alphadhabi-3-1780632630",
       "symbol": "ALPHADHABI",
       "name": "Alpha Dhabi Holding",
       "exchange": "ADX",
@@ -301,14 +301,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-06-05T03:54:17+00:00",
+      "occurred_at": "2026-06-05T04:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-airarabia-2026-06-01t05-54-17-00-00-airarabia-2-1780293257",
+      "id": "disclosure-airarabia-2026-06-01t06-10-30-00-00-airarabia-2-1780294230",
       "symbol": "AIRARABIA",
       "name": "Air Arabia",
       "exchange": "DFM",
@@ -321,14 +321,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-06-01T05:54:17+00:00",
+      "occurred_at": "2026-06-01T06:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-adnocdrill-2026-05-23t10-54-17-00-00-adnocdrill-3-1779533657",
+      "id": "disclosure-adnocdrill-2026-05-23t11-10-30-00-00-adnocdrill-3-1779534630",
       "symbol": "ADNOCDRILL",
       "name": "ADNOC Drilling",
       "exchange": "ADX",
@@ -341,14 +341,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-05-23T10:54:17+00:00",
+      "occurred_at": "2026-05-23T11:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-emaar-2026-05-19t02-54-17-00-00-emaar-5-1779159257",
+      "id": "disclosure-emaar-2026-05-19t03-10-30-00-00-emaar-5-1779160230",
       "symbol": "EMAAR",
       "name": "Emaar Properties",
       "exchange": "DFM",
@@ -361,14 +361,14 @@
         "threshold": 85,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-05-19T02:54:17+00:00",
+      "occurred_at": "2026-05-19T03:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-emaar-2026-05-17t01-54-17-00-00-emaar-4-1778982857",
+      "id": "disclosure-emaar-2026-05-17t02-10-30-00-00-emaar-4-1778983830",
       "symbol": "EMAAR",
       "name": "Emaar Properties",
       "exchange": "DFM",
@@ -381,14 +381,14 @@
         "threshold": 85,
         "sentiment": "positive"
       },
-      "occurred_at": "2026-05-17T01:54:17+00:00",
+      "occurred_at": "2026-05-17T02:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-adnocdist-2026-05-10t10-54-17-00-00-adnocdist-4-1778410457",
+      "id": "disclosure-adnocdist-2026-05-10t11-10-30-00-00-adnocdist-4-1778411430",
       "symbol": "ADNOCDIST",
       "name": "ADNOC Distribution",
       "exchange": "ADX",
@@ -401,14 +401,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-05-10T10:54:17+00:00",
+      "occurred_at": "2026-05-10T11:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-empower-2026-05-03t08-54-17-00-00-empower-2-1777798457",
+      "id": "disclosure-empower-2026-05-03t09-10-30-00-00-empower-2-1777799430",
       "symbol": "EMPOWER",
       "name": "Emirates Central Cooling Systems (Empower)",
       "exchange": "DFM",
@@ -421,14 +421,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-05-03T08:54:17+00:00",
+      "occurred_at": "2026-05-03T09:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-adnh-2026-04-24t07-54-17-00-00-adnh-2-1777017257",
+      "id": "disclosure-adnh-2026-04-24t08-10-30-00-00-adnh-2-1777018230",
       "symbol": "ADNH",
       "name": "Abu Dhabi National Hotels",
       "exchange": "ADX",
@@ -441,14 +441,14 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-04-24T07:54:17+00:00",
+      "occurred_at": "2026-04-24T08:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-parkin-2026-04-21t03-54-17-00-00-parkin-5-1776743657",
+      "id": "disclosure-parkin-2026-04-21t04-10-30-00-00-parkin-5-1776744630",
       "symbol": "PARKIN",
       "name": "Parkin Company",
       "exchange": "DFM",
@@ -461,14 +461,14 @@
         "threshold": 85,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-04-21T03:54:17+00:00",
+      "occurred_at": "2026-04-21T04:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-dtc-2026-04-10t09-54-17-00-00-dtc-4-1775814857",
+      "id": "disclosure-dtc-2026-04-10t10-10-30-00-00-dtc-4-1775815830",
       "symbol": "DTC",
       "name": "Dubai Taxi Company",
       "exchange": "DFM",
@@ -481,14 +481,14 @@
         "threshold": 85,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-04-10T09:54:17+00:00",
+      "occurred_at": "2026-04-10T10:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "disclosure-adnh-2026-04-02t06-54-17-00-00-adnh-3-1775112857",
+      "id": "disclosure-adnh-2026-04-02t07-10-30-00-00-adnh-3-1775113830",
       "symbol": "ADNH",
       "name": "Abu Dhabi National Hotels",
       "exchange": "ADX",
@@ -501,7 +501,7 @@
         "threshold": 85,
         "sentiment": "neutral"
       },
-      "occurred_at": "2026-04-02T06:54:17+00:00",
+      "occurred_at": "2026-04-02T07:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
@@ -1568,7 +1568,7 @@
       "route": "app_only"
     },
     {
-      "id": "price-move-fertiglb-2026-06-29t11-54-17-00-00",
+      "id": "price-move-fertiglb-2026-06-29t12-10-30-00-00",
       "symbol": "FERTIGLB",
       "name": "Fertiglobe",
       "exchange": "ADX",
@@ -1580,14 +1580,14 @@
         "change_pct": -0.0249,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-29T11:54:17+00:00",
+      "occurred_at": "2026-06-29T12:10:30+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-parkin-2026-06-29t11-54-17-00-00",
+      "id": "price-move-parkin-2026-06-29t12-10-30-00-00",
       "symbol": "PARKIN",
       "name": "Parkin Company",
       "exchange": "DFM",
@@ -1599,14 +1599,14 @@
         "change_pct": -0.0233,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-29T11:54:17+00:00",
+      "occurred_at": "2026-06-29T12:10:30+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-purehealth-2026-06-29t11-54-17-00-00",
+      "id": "price-move-purehealth-2026-06-29t12-10-30-00-00",
       "symbol": "PUREHEALTH",
       "name": "Pure Health Holding",
       "exchange": "ADX",
@@ -1618,14 +1618,14 @@
         "change_pct": -0.0222,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-29T11:54:17+00:00",
+      "occurred_at": "2026-06-29T12:10:30+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-rakprop-2026-06-29t11-54-17-00-00",
+      "id": "price-move-rakprop-2026-06-29t12-10-30-00-00",
       "symbol": "RAKPROP",
       "name": "RAK Properties",
       "exchange": "ADX",
@@ -1637,14 +1637,14 @@
         "change_pct": -0.027,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-29T11:54:17+00:00",
+      "occurred_at": "2026-06-29T12:10:30+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "price-move-tecom-2026-06-29t11-54-17-00-00",
+      "id": "price-move-tecom-2026-06-29t12-10-30-00-00",
       "symbol": "TECOM",
       "name": "TECOM Group",
       "exchange": "DFM",
@@ -1656,14 +1656,14 @@
         "change_pct": -0.0226,
         "threshold_pct": 0.02
       },
-      "occurred_at": "2026-06-29T11:54:17+00:00",
+      "occurred_at": "2026-06-29T12:10:30+00:00",
       "source_type": "official",
       "data_quality": "delayed",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-mashreq-2026-06-27t02-54-17-00-00-mashreq-2-1782528857",
+      "id": "cautious-disclosure-mashreq-2026-06-27t03-10-30-00-00-mashreq-2-1782529830",
       "symbol": "MASHREQ",
       "name": "Mashreqbank",
       "exchange": "DFM",
@@ -1676,14 +1676,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-06-27T02:54:17+00:00",
+      "occurred_at": "2026-06-27T03:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-agthia-2026-06-24t08-54-17-00-00-agthia-2-1782291257",
+      "id": "cautious-disclosure-agthia-2026-06-24t09-10-30-00-00-agthia-2-1782292230",
       "symbol": "AGTHIA",
       "name": "Agthia Group",
       "exchange": "ADX",
@@ -1696,14 +1696,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-06-24T08:54:17+00:00",
+      "occurred_at": "2026-06-24T09:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-nmdc-2026-06-19t06-54-17-00-00-nmdc-2-1781852057",
+      "id": "cautious-disclosure-nmdc-2026-06-19t07-10-30-00-00-nmdc-2-1781853030",
       "symbol": "NMDC",
       "name": "NMDC Group",
       "exchange": "ADX",
@@ -1716,14 +1716,14 @@
         "threshold": 70,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-06-19T06:54:17+00:00",
+      "occurred_at": "2026-06-19T07:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-rakprop-2026-06-16t08-54-17-00-00-rakprop-6-1781600057",
+      "id": "cautious-disclosure-rakprop-2026-06-16t09-10-30-00-00-rakprop-6-1781601030",
       "symbol": "RAKPROP",
       "name": "RAK Properties",
       "exchange": "ADX",
@@ -1736,14 +1736,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-06-16T08:54:17+00:00",
+      "occurred_at": "2026-06-16T09:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-dewa-2026-06-15t04-54-17-00-00-dewa-1-1781499257",
+      "id": "cautious-disclosure-dewa-2026-06-15t05-10-30-00-00-dewa-1-1781500230",
       "symbol": "DEWA",
       "name": "Dubai Electricity & Water Authority",
       "exchange": "DFM",
@@ -1756,14 +1756,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-06-15T04:54:17+00:00",
+      "occurred_at": "2026-06-15T05:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-shuaa-2026-06-02t07-54-17-00-00-shuaa-3-1780386857",
+      "id": "cautious-disclosure-shuaa-2026-06-02t08-10-30-00-00-shuaa-3-1780387830",
       "symbol": "SHUAA",
       "name": "SHUAA Capital",
       "exchange": "DFM",
@@ -1776,14 +1776,14 @@
         "threshold": 70,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-06-02T07:54:17+00:00",
+      "occurred_at": "2026-06-02T08:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-agthia-2026-05-31t06-54-17-00-00-agthia-4-1780210457",
+      "id": "cautious-disclosure-agthia-2026-05-31t07-10-30-00-00-agthia-4-1780211430",
       "symbol": "AGTHIA",
       "name": "Agthia Group",
       "exchange": "ADX",
@@ -1796,14 +1796,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-05-31T06:54:17+00:00",
+      "occurred_at": "2026-05-31T07:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-deyaar-2026-05-24t10-54-17-00-00-deyaar-1-1779620057",
+      "id": "cautious-disclosure-deyaar-2026-05-24t11-10-30-00-00-deyaar-1-1779621030",
       "symbol": "DEYAAR",
       "name": "Deyaar Development",
       "exchange": "DFM",
@@ -1816,14 +1816,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-05-24T10:54:17+00:00",
+      "occurred_at": "2026-05-24T11:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-airarabia-2026-05-24t03-54-17-00-00-airarabia-5-1779594857",
+      "id": "cautious-disclosure-airarabia-2026-05-24t04-10-30-00-00-airarabia-5-1779595830",
       "symbol": "AIRARABIA",
       "name": "Air Arabia",
       "exchange": "DFM",
@@ -1836,14 +1836,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-05-24T03:54:17+00:00",
+      "occurred_at": "2026-05-24T04:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-q-2026-05-23t10-54-17-00-00-q-0-1779533657",
+      "id": "cautious-disclosure-q-2026-05-23t11-10-30-00-00-q-0-1779534630",
       "symbol": "Q",
       "name": "Q Holding",
       "exchange": "ADX",
@@ -1856,14 +1856,14 @@
         "threshold": 70,
         "sentiment": "cautious"
       },
-      "occurred_at": "2026-05-23T10:54:17+00:00",
+      "occurred_at": "2026-05-23T11:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-ihc-2026-05-04t11-54-17-00-00-ihc-1-1777895657",
+      "id": "cautious-disclosure-ihc-2026-05-04t12-10-30-00-00-ihc-1-1777896630",
       "symbol": "IHC",
       "name": "International Holding Company",
       "exchange": "ADX",
@@ -1876,14 +1876,14 @@
         "threshold": 70,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-05-04T11:54:17+00:00",
+      "occurred_at": "2026-05-04T12:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
       "route": "app_only"
     },
     {
-      "id": "cautious-disclosure-taqa-2026-04-28t09-54-17-00-00-taqa-4-1777370057",
+      "id": "cautious-disclosure-taqa-2026-04-28t10-10-30-00-00-taqa-4-1777371030",
       "symbol": "TAQA",
       "name": "Abu Dhabi National Energy (TAQA)",
       "exchange": "ADX",
@@ -1896,7 +1896,7 @@
         "threshold": 70,
         "sentiment": "negative"
       },
-      "occurred_at": "2026-04-28T09:54:17+00:00",
+      "occurred_at": "2026-04-28T10:10:30+00:00",
       "source_type": "mock",
       "data_quality": "demo",
       "status": "preview",
