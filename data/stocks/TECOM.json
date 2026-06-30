@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "TECOM",
-    "price": 3.45,
-    "change": -0.08,
-    "change_pct": -0.0226,
-    "volume": 0,
-    "market_cap": null,
-    "high_52w": 3.527,
-    "low_52w": 3.391,
+    "price": 4.19,
+    "change": 0.09,
+    "change_pct": 0.0219,
+    "volume": 6046202,
+    "market_cap": 22080000000.0,
+    "high_52w": 5.16,
+    "low_52w": 3.64,
     "spark": [
-      3.424,
-      3.455,
-      3.42,
-      3.398,
-      3.44,
-      3.471,
-      3.443,
-      3.443,
-      3.413,
-      3.449,
-      3.469,
-      3.496,
-      3.5,
-      3.479,
-      3.45,
-      3.44,
-      3.4,
-      3.396,
-      3.396,
-      3.405,
-      3.391,
-      3.403,
-      3.434,
-      3.462,
-      3.457,
-      3.449,
-      3.488,
-      3.518,
-      3.527,
-      3.45
+      4.039,
+      4.068,
+      4.12,
+      4.176,
+      4.266,
+      4.359,
+      4.349,
+      4.302,
+      4.331,
+      4.358,
+      4.376,
+      4.353,
+      4.312,
+      4.359,
+      4.39,
+      4.463,
+      4.51,
+      4.54,
+      4.468,
+      4.494,
+      4.579,
+      4.655,
+      4.721,
+      4.781,
+      4.746,
+      4.667,
+      4.591,
+      4.59,
+      4.667,
+      4.19
     ],
     "prov": {
-      "source_type": "official",
-      "source_name": "DFM (delayed)",
-      "data_quality": "delayed",
-      "retrieved_at": "2026-06-29T12:58:57.636Z",
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-30T05:15:15+00:00",
       "url": null,
       "lang": null
     }
@@ -284,10 +284,10 @@
       "DFM"
     ],
     "quick_stats": {
-      "market_cap": null,
-      "volume": 0,
-      "high_52w": 3.527,
-      "low_52w": 3.391,
+      "market_cap": 22080000000.0,
+      "volume": 6046202,
+      "high_52w": 5.16,
+      "low_52w": 3.64,
       "dividend_yield": 0.0011
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "TECOM-0-1782633537",
+      "id": "TECOM-0-1782692115",
       "symbol": "TECOM",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-06-28T07:58:57+00:00",
+      "published_at": "2026-06-29T00:15:15+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "TECOM-1-1780480737",
+      "id": "TECOM-1-1780539315",
       "symbol": "TECOM",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-06-03T09:58:57+00:00",
+      "published_at": "2026-06-04T02:15:15+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "TECOM-3-1779940737",
+      "id": "TECOM-3-1779999315",
       "symbol": "TECOM",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-05-28T03:58:57+00:00",
+      "published_at": "2026-05-28T20:15:15+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "TECOM-2-1777553937",
+      "id": "TECOM-2-1777612515",
       "symbol": "TECOM",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-04-30T12:58:57+00:00",
+      "published_at": "2026-05-01T05:15:15+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -396,7 +396,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       },
@@ -407,7 +407,7 @@
     {
       "symbol": "TECOM",
       "kind": "board",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "status": "upcoming",
       "agenda": [
         "Review interim results",
@@ -422,7 +422,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -430,7 +430,7 @@
     {
       "symbol": "TECOM",
       "kind": "agm",
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "status": "upcoming",
       "agenda": [
         "Approve dividend",
@@ -447,7 +447,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -455,7 +455,7 @@
     {
       "symbol": "TECOM",
       "kind": "board",
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "status": "held",
       "agenda": [
         "Approve annual results"
@@ -473,7 +473,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -484,17 +484,17 @@
       "symbol": "TECOM",
       "amount": 0.0012,
       "currency": "AED",
-      "agm_date": "2026-06-26",
-      "entitlement_date": "2026-07-16",
-      "ex_date": "2026-07-15",
-      "payment_date": "2026-08-05",
+      "agm_date": "2026-06-27",
+      "entitlement_date": "2026-07-17",
+      "ex_date": "2026-07-16",
+      "payment_date": "2026-08-06",
       "frequency": "quarterly",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -503,17 +503,17 @@
       "symbol": "TECOM",
       "amount": 0.0012,
       "currency": "AED",
-      "agm_date": "2026-05-30",
-      "entitlement_date": "2026-06-17",
-      "ex_date": "2026-06-16",
-      "payment_date": "2026-07-03",
+      "agm_date": "2026-05-31",
+      "entitlement_date": "2026-06-18",
+      "ex_date": "2026-06-17",
+      "payment_date": "2026-07-04",
       "frequency": "quarterly",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -522,17 +522,17 @@
       "symbol": "TECOM",
       "amount": 0.0012,
       "currency": "AED",
-      "agm_date": "2026-02-19",
-      "entitlement_date": "2026-03-09",
-      "ex_date": "2026-03-08",
-      "payment_date": "2026-03-25",
+      "agm_date": "2026-02-20",
+      "entitlement_date": "2026-03-10",
+      "ex_date": "2026-03-09",
+      "payment_date": "2026-03-26",
       "frequency": "quarterly",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -541,17 +541,17 @@
       "symbol": "TECOM",
       "amount": 0.0012,
       "currency": "AED",
-      "agm_date": "2025-12-01",
-      "entitlement_date": "2025-12-19",
-      "ex_date": "2025-12-18",
-      "payment_date": "2026-01-04",
+      "agm_date": "2025-12-02",
+      "entitlement_date": "2025-12-20",
+      "ex_date": "2025-12-19",
+      "payment_date": "2026-01-05",
       "frequency": "quarterly",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -560,17 +560,17 @@
       "symbol": "TECOM",
       "amount": 0.0012,
       "currency": "AED",
-      "agm_date": "2025-09-01",
-      "entitlement_date": "2025-09-19",
-      "ex_date": "2025-09-18",
-      "payment_date": "2025-10-05",
+      "agm_date": "2025-09-02",
+      "entitlement_date": "2025-09-20",
+      "ex_date": "2025-09-19",
+      "payment_date": "2025-10-06",
       "frequency": "quarterly",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -579,17 +579,17 @@
       "symbol": "TECOM",
       "amount": 0.0012,
       "currency": "AED",
-      "agm_date": "2025-05-26",
-      "entitlement_date": "2025-06-13",
-      "ex_date": "2025-06-12",
-      "payment_date": "2025-06-29",
+      "agm_date": "2025-05-27",
+      "entitlement_date": "2025-06-14",
+      "ex_date": "2025-06-13",
+      "payment_date": "2025-06-30",
       "frequency": "quarterly",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -598,17 +598,17 @@
       "symbol": "TECOM",
       "amount": 0.0012,
       "currency": "AED",
-      "agm_date": "2025-02-27",
-      "entitlement_date": "2025-03-17",
-      "ex_date": "2025-03-16",
-      "payment_date": "2025-04-02",
+      "agm_date": "2025-02-28",
+      "entitlement_date": "2025-03-18",
+      "ex_date": "2025-03-17",
+      "payment_date": "2025-04-03",
       "frequency": "quarterly",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -617,17 +617,17 @@
       "symbol": "TECOM",
       "amount": 0.0012,
       "currency": "AED",
-      "agm_date": "2024-11-26",
-      "entitlement_date": "2024-12-14",
-      "ex_date": "2024-12-13",
-      "payment_date": "2024-12-30",
+      "agm_date": "2024-11-27",
+      "entitlement_date": "2024-12-15",
+      "ex_date": "2024-12-14",
+      "payment_date": "2024-12-31",
       "frequency": "quarterly",
       "fiscal_year": "2024",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -636,17 +636,17 @@
       "symbol": "TECOM",
       "amount": 0.0012,
       "currency": "AED",
-      "agm_date": "2024-09-09",
-      "entitlement_date": "2024-09-27",
-      "ex_date": "2024-09-26",
-      "payment_date": "2024-10-13",
+      "agm_date": "2024-09-10",
+      "entitlement_date": "2024-09-28",
+      "ex_date": "2024-09-27",
+      "payment_date": "2024-10-14",
       "frequency": "quarterly",
       "fiscal_year": "2024",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -676,7 +676,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-29T12:58:57+00:00",
+      "retrieved_at": "2026-06-30T05:15:15+00:00",
       "url": null,
       "lang": null
     }
@@ -690,25 +690,25 @@
       2026
     ],
     "revenue": [
-      2531100000.0,
-      2744700000.0,
-      2976400000.0,
-      3227600000.0,
-      3500000000.0
+      5588700000.0,
+      6060400000.0,
+      6571900000.0,
+      7126500000.0,
+      7728000000.0
     ],
     "net_income": [
-      410800000.0,
-      448600000.0,
-      489900000.0,
-      535000000.0,
-      584200000.0
+      907000000.0,
+      990600000.0,
+      1081700000.0,
+      1181200000.0,
+      1289800000.0
     ],
     "operating_cash_flow": [
-      484300000.0,
-      528900000.0,
-      577600000.0,
-      630700000.0,
-      688700000.0
+      1069400000.0,
+      1167900000.0,
+      1275400000.0,
+      1392700000.0,
+      1520700000.0
     ],
     "ratios": {
       "net_margin": 0.1669,
@@ -756,12 +756,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-29T12:58:57+00:00",
+        "as_of": "2026-06-30T05:15:15+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -772,12 +772,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-29T12:58:57+00:00",
+        "as_of": "2026-06-30T05:15:15+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -788,12 +788,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-29T12:58:57+00:00",
+        "as_of": "2026-06-30T05:15:15+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -804,12 +804,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-29T12:58:57+00:00",
+        "as_of": "2026-06-30T05:15:15+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -820,12 +820,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-29T12:58:57+00:00",
+        "as_of": "2026-06-30T05:15:15+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -836,12 +836,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-29T12:58:57+00:00",
+        "as_of": "2026-06-30T05:15:15+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -851,7 +851,7 @@
       {
         "title": "Federal headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-28T10:58:57+00:00",
+        "published_at": "2026-06-29T03:15:15+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -3.75,
@@ -859,7 +859,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -867,7 +867,7 @@
       {
         "title": "Federal headline — global macro update 2",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-28T10:58:57+00:00",
+        "published_at": "2026-06-29T03:15:15+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -4.32,
@@ -875,7 +875,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -883,7 +883,7 @@
       {
         "title": "Federal headline — global macro update 3",
         "theme": "TRADE",
-        "published_at": "2026-06-26T18:58:57+00:00",
+        "published_at": "2026-06-27T11:15:15+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 1.18,
@@ -891,7 +891,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -904,10 +904,10 @@
       "stance": "Neutral",
       "confidence": "medium",
       "reasons": [
-        "No strong short-term catalysts; trading on broad market drift"
+        "Positive price momentum (+2.2% on the session in demo data)"
       ],
       "risks": [
-        "Negative price momentum (-2.3% on the session in demo data)"
+        "A surprise filing or a sector-wide move could shift the picture quickly"
       ],
       "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
     },
@@ -926,12 +926,12 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 45.0,
+        "score": 58.4,
         "reasons": [
-          "No strong short-term catalysts; trading on broad market drift"
+          "Positive price momentum (+2.2% on the session in demo data)"
         ],
         "risks": [
-          "Negative price momentum (-2.3% on the session in demo data)"
+          "A surprise filing or a sector-wide move could shift the picture quickly"
         ]
       },
       "long": {
@@ -948,7 +948,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-29T12:58:57+00:00"
+    "generated_at": "2026-06-30T05:15:15+00:00"
   },
-  "generated_at": "2026-06-29T12:58:57+00:00"
+  "generated_at": "2026-06-30T05:15:15+00:00"
 }

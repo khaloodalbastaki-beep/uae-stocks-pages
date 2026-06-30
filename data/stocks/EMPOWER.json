@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "EMPOWER",
-    "price": 1.64,
+    "price": 1.77,
     "change": -0.01,
-    "change_pct": -0.006,
-    "volume": 0,
-    "market_cap": null,
-    "high_52w": 1.64,
-    "low_52w": 1.579,
+    "change_pct": -0.0058,
+    "volume": 19753931,
+    "market_cap": 14084000000.0,
+    "high_52w": 1.91,
+    "low_52w": 1.49,
     "spark": [
-      1.601,
-      1.582,
-      1.595,
-      1.579,
-      1.59,
-      1.606,
-      1.597,
-      1.614,
-      1.62,
-      1.602,
-      1.597,
-      1.599,
-      1.587,
-      1.596,
-      1.583,
-      1.597,
-      1.589,
-      1.597,
-      1.62,
-      1.612,
-      1.601,
-      1.62,
-      1.601,
-      1.609,
-      1.612,
-      1.612,
-      1.596,
-      1.593,
-      1.579,
-      1.64
+      1.711,
+      1.706,
+      1.677,
+      1.672,
+      1.694,
+      1.704,
+      1.741,
+      1.72,
+      1.71,
+      1.688,
+      1.655,
+      1.658,
+      1.691,
+      1.682,
+      1.704,
+      1.672,
+      1.696,
+      1.672,
+      1.653,
+      1.673,
+      1.7,
+      1.721,
+      1.706,
+      1.715,
+      1.732,
+      1.711,
+      1.702,
+      1.679,
+      1.693,
+      1.77
     ],
     "prov": {
-      "source_type": "official",
-      "source_name": "DFM (delayed)",
-      "data_quality": "delayed",
-      "retrieved_at": "2026-06-29T12:58:57.636Z",
+      "source_type": "mock",
+      "source_name": "Demo seed",
+      "data_quality": "demo",
+      "retrieved_at": "2026-06-30T05:15:15+00:00",
       "url": null,
       "lang": null
     }
@@ -284,10 +284,10 @@
       "DFM"
     ],
     "quick_stats": {
-      "market_cap": null,
-      "volume": 0,
-      "high_52w": 1.64,
-      "low_52w": 1.579,
+      "market_cap": 14084000000.0,
+      "volume": 19753931,
+      "high_52w": 1.91,
+      "low_52w": 1.49,
       "dividend_yield": 0.0656
     },
     "top_catalysts": [
@@ -300,13 +300,13 @@
   },
   "disclosures": [
     {
-      "id": "EMPOWER-0-1781776737",
+      "id": "EMPOWER-0-1781835315",
       "symbol": "EMPOWER",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-06-18T09:58:57+00:00",
+      "published_at": "2026-06-19T02:15:15+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -319,20 +319,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "EMPOWER-4-1780541937",
+      "id": "EMPOWER-4-1780600515",
       "symbol": "EMPOWER",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-06-04T02:58:57+00:00",
+      "published_at": "2026-06-04T19:15:15+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -345,20 +345,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "EMPOWER-6-1778306337",
+      "id": "EMPOWER-6-1778364915",
       "symbol": "EMPOWER",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-05-09T05:58:57+00:00",
+      "published_at": "2026-05-09T22:15:15+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -371,20 +371,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "EMPOWER-7-1777874337",
+      "id": "EMPOWER-7-1777932915",
       "symbol": "EMPOWER",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-05-04T05:58:57+00:00",
+      "published_at": "2026-05-04T22:15:15+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -397,20 +397,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "EMPOWER-2-1777802337",
+      "id": "EMPOWER-2-1777860915",
       "symbol": "EMPOWER",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-05-03T09:58:57+00:00",
+      "published_at": "2026-05-04T02:15:15+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -423,20 +423,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "EMPOWER-5-1776142737",
+      "id": "EMPOWER-5-1776201315",
       "symbol": "EMPOWER",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-04-14T04:58:57+00:00",
+      "published_at": "2026-04-14T21:15:15+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -449,20 +449,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "EMPOWER-3-1775206737",
+      "id": "EMPOWER-3-1775265315",
       "symbol": "EMPOWER",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-04-03T08:58:57+00:00",
+      "published_at": "2026-04-04T01:15:15+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -475,20 +475,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "EMPOWER-1-1775026737",
+      "id": "EMPOWER-1-1775085315",
       "symbol": "EMPOWER",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-04-01T06:58:57+00:00",
+      "published_at": "2026-04-01T23:15:15+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -501,7 +501,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       },
@@ -512,7 +512,7 @@
     {
       "symbol": "EMPOWER",
       "kind": "board",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "status": "upcoming",
       "agenda": [
         "Review interim results",
@@ -527,7 +527,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -535,7 +535,7 @@
     {
       "symbol": "EMPOWER",
       "kind": "agm",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "status": "upcoming",
       "agenda": [
         "Approve dividend",
@@ -552,7 +552,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -560,7 +560,7 @@
     {
       "symbol": "EMPOWER",
       "kind": "board",
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "status": "held",
       "agenda": [
         "Approve annual results"
@@ -578,7 +578,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -589,17 +589,17 @@
       "symbol": "EMPOWER",
       "amount": 0.0581,
       "currency": "AED",
-      "agm_date": "2026-07-24",
-      "entitlement_date": "2026-08-13",
-      "ex_date": "2026-08-12",
-      "payment_date": "2026-09-02",
+      "agm_date": "2026-07-25",
+      "entitlement_date": "2026-08-14",
+      "ex_date": "2026-08-13",
+      "payment_date": "2026-09-03",
       "frequency": "semi",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -608,17 +608,17 @@
       "symbol": "EMPOWER",
       "amount": 0.0581,
       "currency": "AED",
-      "agm_date": "2026-06-01",
-      "entitlement_date": "2026-06-19",
-      "ex_date": "2026-06-18",
-      "payment_date": "2026-07-05",
+      "agm_date": "2026-06-02",
+      "entitlement_date": "2026-06-20",
+      "ex_date": "2026-06-19",
+      "payment_date": "2026-07-06",
       "frequency": "semi",
       "fiscal_year": "2026",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -627,17 +627,17 @@
       "symbol": "EMPOWER",
       "amount": 0.0581,
       "currency": "AED",
-      "agm_date": "2025-11-29",
-      "entitlement_date": "2025-12-17",
-      "ex_date": "2025-12-16",
-      "payment_date": "2026-01-02",
+      "agm_date": "2025-11-30",
+      "entitlement_date": "2025-12-18",
+      "ex_date": "2025-12-17",
+      "payment_date": "2026-01-03",
       "frequency": "semi",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -646,17 +646,17 @@
       "symbol": "EMPOWER",
       "amount": 0.0581,
       "currency": "AED",
-      "agm_date": "2025-05-31",
-      "entitlement_date": "2025-06-18",
-      "ex_date": "2025-06-17",
-      "payment_date": "2025-07-04",
+      "agm_date": "2025-06-01",
+      "entitlement_date": "2025-06-19",
+      "ex_date": "2025-06-18",
+      "payment_date": "2025-07-05",
       "frequency": "semi",
       "fiscal_year": "2025",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -665,17 +665,17 @@
       "symbol": "EMPOWER",
       "amount": 0.0581,
       "currency": "AED",
-      "agm_date": "2024-12-03",
-      "entitlement_date": "2024-12-21",
-      "ex_date": "2024-12-20",
-      "payment_date": "2025-01-06",
+      "agm_date": "2024-12-04",
+      "entitlement_date": "2024-12-22",
+      "ex_date": "2024-12-21",
+      "payment_date": "2025-01-07",
       "frequency": "semi",
       "fiscal_year": "2024",
       "prov": {
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-29T12:58:57+00:00",
+        "retrieved_at": "2026-06-30T05:15:15+00:00",
         "url": null,
         "lang": null
       }
@@ -705,7 +705,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-29T12:58:57+00:00",
+      "retrieved_at": "2026-06-30T05:15:15+00:00",
       "url": null,
       "lang": null
     }
@@ -719,25 +719,25 @@
       2026
     ],
     "revenue": [
-      2555500000.0,
-      2764600000.0,
-      2990700000.0,
-      3235300000.0,
-      3500000000.0
+      3599200000.0,
+      3893600000.0,
+      4212100000.0,
+      4556700000.0,
+      4929400000.0
     ],
     "net_income": [
-      419900000.0,
-      460200000.0,
-      504200000.0,
-      552400000.0,
-      605200000.0
+      591300000.0,
+      648100000.0,
+      710200000.0,
+      778100000.0,
+      852300000.0
     ],
     "operating_cash_flow": [
-      478700000.0,
-      524600000.0,
-      574800000.0,
-      629800000.0,
-      689900000.0
+      674100000.0,
+      738800000.0,
+      809600000.0,
+      887000000.0,
+      971600000.0
     ],
     "ratios": {
       "net_margin": 0.1729,
@@ -785,12 +785,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-29T12:58:57+00:00",
+        "as_of": "2026-06-30T05:15:15+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -801,12 +801,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-29T12:58:57+00:00",
+        "as_of": "2026-06-30T05:15:15+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -817,12 +817,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-29T12:58:57+00:00",
+        "as_of": "2026-06-30T05:15:15+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -833,12 +833,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-29T12:58:57+00:00",
+        "as_of": "2026-06-30T05:15:15+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -849,12 +849,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-29T12:58:57+00:00",
+        "as_of": "2026-06-30T05:15:15+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -865,12 +865,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-29T12:58:57+00:00",
+        "as_of": "2026-06-30T05:15:15+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -880,7 +880,7 @@
       {
         "title": "Federal headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-28T10:58:57+00:00",
+        "published_at": "2026-06-29T03:15:15+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -3.75,
@@ -888,7 +888,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -896,7 +896,7 @@
       {
         "title": "Federal headline — global macro update 2",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-28T10:58:57+00:00",
+        "published_at": "2026-06-29T03:15:15+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -4.32,
@@ -904,7 +904,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -912,7 +912,7 @@
       {
         "title": "Federal headline — global macro update 3",
         "theme": "TRADE",
-        "published_at": "2026-06-26T18:58:57+00:00",
+        "published_at": "2026-06-27T11:15:15+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 1.18,
@@ -920,7 +920,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-29T12:58:57+00:00",
+          "retrieved_at": "2026-06-30T05:15:15+00:00",
           "url": null,
           "lang": null
         }
@@ -981,7 +981,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-29T12:58:57+00:00"
+    "generated_at": "2026-06-30T05:15:15+00:00"
   },
-  "generated_at": "2026-06-29T12:58:57+00:00"
+  "generated_at": "2026-06-30T05:15:15+00:00"
 }
