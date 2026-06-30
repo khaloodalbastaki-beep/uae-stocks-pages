@@ -10,49 +10,49 @@
   "quote": {
     "symbol": "EMSTEEL",
     "price": 1.12,
-    "change": -0.02,
-    "change_pct": -0.0175,
-    "volume": 511690,
+    "change": 0.0,
+    "change_pct": 0.0,
+    "volume": 0,
     "market_cap": null,
-    "high_52w": 1.205,
-    "low_52w": 1.114,
+    "high_52w": 1.184,
+    "low_52w": 1.094,
     "spark": [
-      1.125,
-      1.122,
-      1.119,
-      1.131,
-      1.123,
-      1.126,
-      1.119,
-      1.117,
-      1.124,
-      1.127,
-      1.125,
+      1.106,
+      1.102,
+      1.099,
+      1.111,
+      1.104,
+      1.106,
+      1.1,
+      1.098,
+      1.104,
+      1.107,
+      1.105,
+      1.108,
+      1.111,
+      1.098,
+      1.094,
+      1.109,
+      1.118,
+      1.12,
       1.128,
-      1.131,
-      1.117,
-      1.114,
-      1.128,
-      1.138,
-      1.14,
-      1.148,
-      1.157,
-      1.167,
-      1.181,
-      1.191,
-      1.205,
-      1.197,
-      1.183,
-      1.177,
-      1.189,
-      1.187,
+      1.136,
+      1.147,
+      1.16,
+      1.17,
+      1.184,
+      1.176,
+      1.162,
+      1.156,
+      1.169,
+      1.166,
       1.12
     ],
     "prov": {
       "source_type": "official",
       "source_name": "ADX (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-06-30T05:31:16.851Z",
+      "retrieved_at": "2026-06-30T05:47:17.014Z",
       "url": null,
       "lang": null
     }
@@ -285,9 +285,9 @@
     ],
     "quick_stats": {
       "market_cap": null,
-      "volume": 511690,
-      "high_52w": 1.205,
-      "low_52w": 1.114,
+      "volume": 0,
+      "high_52w": 1.184,
+      "low_52w": 1.094,
       "dividend_yield": 0.005
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "EMSTEEL-2-1781908276",
+      "id": "EMSTEEL-2-1781909237",
       "symbol": "EMSTEEL",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-06-19T22:31:16+00:00",
+      "published_at": "2026-06-19T22:47:17+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-30T05:31:16+00:00",
+        "retrieved_at": "2026-06-30T05:47:17+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "EMSTEEL-4-1781753476",
+      "id": "EMSTEEL-4-1781754437",
       "symbol": "EMSTEEL",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-06-18T03:31:16+00:00",
+      "published_at": "2026-06-18T03:47:17+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-30T05:31:16+00:00",
+        "retrieved_at": "2026-06-30T05:47:17+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "EMSTEEL-3-1781137876",
+      "id": "EMSTEEL-3-1781138837",
       "symbol": "EMSTEEL",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-06-11T00:31:16+00:00",
+      "published_at": "2026-06-11T00:47:17+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-30T05:31:16+00:00",
+        "retrieved_at": "2026-06-30T05:47:17+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "EMSTEEL-0-1781134276",
+      "id": "EMSTEEL-0-1781135237",
       "symbol": "EMSTEEL",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-06-10T23:31:16+00:00",
+      "published_at": "2026-06-10T23:47:17+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -396,20 +396,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-30T05:31:16+00:00",
+        "retrieved_at": "2026-06-30T05:47:17+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "EMSTEEL-5-1777174276",
+      "id": "EMSTEEL-5-1777175237",
       "symbol": "EMSTEEL",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-04-26T03:31:16+00:00",
+      "published_at": "2026-04-26T03:47:17+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -422,20 +422,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-30T05:31:16+00:00",
+        "retrieved_at": "2026-06-30T05:47:17+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "EMSTEEL-1-1775453476",
+      "id": "EMSTEEL-1-1775454437",
       "symbol": "EMSTEEL",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-04-06T05:31:16+00:00",
+      "published_at": "2026-04-06T05:47:17+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -448,20 +448,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-30T05:31:16+00:00",
+        "retrieved_at": "2026-06-30T05:47:17+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "EMSTEEL-6-1775154676",
+      "id": "EMSTEEL-6-1775155637",
       "symbol": "EMSTEEL",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-04-02T18:31:16+00:00",
+      "published_at": "2026-04-02T18:47:17+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -474,7 +474,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-30T05:31:16+00:00",
+        "retrieved_at": "2026-06-30T05:47:17+00:00",
         "url": null,
         "lang": null
       },
@@ -500,7 +500,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-30T05:31:16+00:00",
+        "retrieved_at": "2026-06-30T05:47:17+00:00",
         "url": null,
         "lang": null
       }
@@ -525,7 +525,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-30T05:31:16+00:00",
+        "retrieved_at": "2026-06-30T05:47:17+00:00",
         "url": null,
         "lang": null
       }
@@ -551,7 +551,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-06-30T05:31:16+00:00",
+        "retrieved_at": "2026-06-30T05:47:17+00:00",
         "url": null,
         "lang": null
       }
@@ -582,7 +582,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-06-30T05:31:16+00:00",
+      "retrieved_at": "2026-06-30T05:47:17+00:00",
       "url": null,
       "lang": null
     }
@@ -662,12 +662,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-06-30T05:31:16+00:00",
+        "as_of": "2026-06-30T05:47:17+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-30T05:31:16+00:00",
+          "retrieved_at": "2026-06-30T05:47:17+00:00",
           "url": null,
           "lang": null
         }
@@ -678,12 +678,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-06-30T05:31:16+00:00",
+        "as_of": "2026-06-30T05:47:17+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-30T05:31:16+00:00",
+          "retrieved_at": "2026-06-30T05:47:17+00:00",
           "url": null,
           "lang": null
         }
@@ -694,12 +694,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-30T05:31:16+00:00",
+        "as_of": "2026-06-30T05:47:17+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-30T05:31:16+00:00",
+          "retrieved_at": "2026-06-30T05:47:17+00:00",
           "url": null,
           "lang": null
         }
@@ -710,12 +710,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-06-30T05:31:16+00:00",
+        "as_of": "2026-06-30T05:47:17+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-30T05:31:16+00:00",
+          "retrieved_at": "2026-06-30T05:47:17+00:00",
           "url": null,
           "lang": null
         }
@@ -726,12 +726,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-06-30T05:31:16+00:00",
+        "as_of": "2026-06-30T05:47:17+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-30T05:31:16+00:00",
+          "retrieved_at": "2026-06-30T05:47:17+00:00",
           "url": null,
           "lang": null
         }
@@ -742,12 +742,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-06-30T05:31:16+00:00",
+        "as_of": "2026-06-30T05:47:17+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-30T05:31:16+00:00",
+          "retrieved_at": "2026-06-30T05:47:17+00:00",
           "url": null,
           "lang": null
         }
@@ -757,7 +757,7 @@
       {
         "title": "Steel headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-30T03:31:16+00:00",
+        "published_at": "2026-06-30T03:47:17+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 5.88,
@@ -765,7 +765,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-30T05:31:16+00:00",
+          "retrieved_at": "2026-06-30T05:47:17+00:00",
           "url": null,
           "lang": null
         }
@@ -773,7 +773,7 @@
       {
         "title": "Steel headline — global macro update 2",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-28T10:31:16+00:00",
+        "published_at": "2026-06-28T10:47:17+00:00",
         "domain": "gulfnews.com",
         "url": null,
         "tone": 4.46,
@@ -781,7 +781,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-30T05:31:16+00:00",
+          "retrieved_at": "2026-06-30T05:47:17+00:00",
           "url": null,
           "lang": null
         }
@@ -789,7 +789,7 @@
       {
         "title": "Steel headline — global macro update 3",
         "theme": "MARITIME",
-        "published_at": "2026-06-29T17:31:16+00:00",
+        "published_at": "2026-06-29T17:47:17+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": 3.34,
@@ -797,7 +797,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-30T05:31:16+00:00",
+          "retrieved_at": "2026-06-30T05:47:17+00:00",
           "url": null,
           "lang": null
         }
@@ -805,7 +805,7 @@
       {
         "title": "Steel headline — global macro update 4",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-28T11:31:16+00:00",
+        "published_at": "2026-06-28T11:47:17+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 4.16,
@@ -813,7 +813,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-06-30T05:31:16+00:00",
+          "retrieved_at": "2026-06-30T05:47:17+00:00",
           "url": null,
           "lang": null
         }
@@ -824,12 +824,12 @@
   "ai_analysis": {
     "short_term": {
       "stance": "Neutral",
-      "confidence": "low",
+      "confidence": "medium",
       "reasons": [
         "Recent disclosure tone skews positive"
       ],
       "risks": [
-        "Negative price momentum (-1.8% on the session in demo data)"
+        "A surprise filing or a sector-wide move could shift the picture quickly"
       ],
       "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
     },
@@ -847,13 +847,13 @@
     "_signal": {
       "short": {
         "stance": "Neutral",
-        "confidence": "low",
-        "score": 49.4,
+        "confidence": "medium",
+        "score": 54.6,
         "reasons": [
           "Recent disclosure tone skews positive"
         ],
         "risks": [
-          "Negative price momentum (-1.8% on the session in demo data)"
+          "A surprise filing or a sector-wide move could shift the picture quickly"
         ]
       },
       "long": {
@@ -870,7 +870,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-06-30T05:31:16+00:00"
+    "generated_at": "2026-06-30T05:47:17+00:00"
   },
-  "generated_at": "2026-06-30T05:31:16+00:00"
+  "generated_at": "2026-06-30T05:47:17+00:00"
 }
