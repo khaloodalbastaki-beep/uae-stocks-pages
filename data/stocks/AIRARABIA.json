@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "AIRARABIA",
-    "price": 3.49,
-    "change": 0.07,
-    "change_pct": 0.0214,
-    "volume": 11266020,
-    "market_cap": 25264000000.0,
-    "high_52w": 3.77,
-    "low_52w": 2.82,
+    "price": 5.48,
+    "change": 0.03,
+    "change_pct": 0.0055,
+    "volume": 0,
+    "market_cap": null,
+    "high_52w": 5.48,
+    "low_52w": 5.204,
     "spark": [
-      3.307,
-      3.277,
-      3.282,
-      3.329,
-      3.348,
-      3.359,
-      3.36,
-      3.376,
-      3.365,
-      3.366,
-      3.403,
-      3.355,
-      3.312,
-      3.276,
-      3.277,
-      3.232,
-      3.239,
-      3.2,
-      3.188,
-      3.228,
-      3.176,
-      3.134,
-      3.196,
-      3.212,
-      3.168,
-      3.144,
-      3.206,
-      3.228,
-      3.191,
-      3.49
+      5.355,
+      5.322,
+      5.388,
+      5.361,
+      5.411,
+      5.365,
+      5.349,
+      5.287,
+      5.359,
+      5.355,
+      5.319,
+      5.256,
+      5.294,
+      5.325,
+      5.296,
+      5.365,
+      5.352,
+      5.36,
+      5.315,
+      5.261,
+      5.247,
+      5.286,
+      5.235,
+      5.221,
+      5.204,
+      5.236,
+      5.246,
+      5.319,
+      5.281,
+      5.48
     ],
     "prov": {
-      "source_type": "mock",
-      "source_name": "Demo seed",
-      "data_quality": "demo",
-      "retrieved_at": "2026-07-01T06:06:45+00:00",
+      "source_type": "official",
+      "source_name": "DFM (delayed)",
+      "data_quality": "delayed",
+      "retrieved_at": "2026-07-01T06:22:44.856Z",
       "url": null,
       "lang": null
     }
@@ -284,10 +284,10 @@
       "DFM"
     ],
     "quick_stats": {
-      "market_cap": 25264000000.0,
-      "volume": 11266020,
-      "high_52w": 3.77,
-      "low_52w": 2.82,
+      "market_cap": null,
+      "volume": 0,
+      "high_52w": 5.48,
+      "low_52w": 5.204,
       "dividend_yield": 0.0335
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "AIRARABIA-7-1781309205",
+      "id": "AIRARABIA-7-1781310164",
       "symbol": "AIRARABIA",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-06-13T00:06:45+00:00",
+      "published_at": "2026-06-13T00:22:44+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "AIRARABIA-0-1780960005",
+      "id": "AIRARABIA-0-1780960964",
       "symbol": "AIRARABIA",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-06-08T23:06:45+00:00",
+      "published_at": "2026-06-08T23:22:44+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "AIRARABIA-2-1780445205",
+      "id": "AIRARABIA-2-1780446164",
       "symbol": "AIRARABIA",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-06-03T00:06:45+00:00",
+      "published_at": "2026-06-03T00:22:44+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "AIRARABIA-5-1779746805",
+      "id": "AIRARABIA-5-1779747764",
       "symbol": "AIRARABIA",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-05-25T22:06:45+00:00",
+      "published_at": "2026-05-25T22:22:44+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -396,20 +396,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "AIRARABIA-4-1777842405",
+      "id": "AIRARABIA-4-1777843364",
       "symbol": "AIRARABIA",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-05-03T21:06:45+00:00",
+      "published_at": "2026-05-03T21:22:44+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -422,20 +422,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "AIRARABIA-6-1777691205",
+      "id": "AIRARABIA-6-1777692164",
       "symbol": "AIRARABIA",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-05-02T03:06:45+00:00",
+      "published_at": "2026-05-02T03:22:44+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -448,20 +448,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "AIRARABIA-1-1776488805",
+      "id": "AIRARABIA-1-1776489764",
       "symbol": "AIRARABIA",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-04-18T05:06:45+00:00",
+      "published_at": "2026-04-18T05:22:44+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -474,20 +474,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "AIRARABIA-3-1775347605",
+      "id": "AIRARABIA-3-1775348564",
       "symbol": "AIRARABIA",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-04-05T00:06:45+00:00",
+      "published_at": "2026-04-05T00:22:44+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -500,7 +500,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       },
@@ -526,7 +526,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       }
@@ -551,7 +551,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       }
@@ -577,7 +577,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       }
@@ -598,7 +598,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       }
@@ -617,7 +617,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       }
@@ -636,7 +636,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T06:06:45+00:00",
+        "retrieved_at": "2026-07-01T06:22:44+00:00",
         "url": null,
         "lang": null
       }
@@ -666,7 +666,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-07-01T06:06:45+00:00",
+      "retrieved_at": "2026-07-01T06:22:44+00:00",
       "url": null,
       "lang": null
     }
@@ -680,25 +680,25 @@
       2026
     ],
     "revenue": [
-      7330400000.0,
-      7682200000.0,
-      8051000000.0,
-      8437400000.0,
-      8842400000.0
+      2901500000.0,
+      3040800000.0,
+      3186700000.0,
+      3339700000.0,
+      3500000000.0
     ],
     "net_income": [
-      1187500000.0,
-      1252200000.0,
-      1320400000.0,
-      1392200000.0,
-      1467800000.0
+      470000000.0,
+      495600000.0,
+      522600000.0,
+      551000000.0,
+      581000000.0
     ],
     "operating_cash_flow": [
-      1321700000.0,
-      1393700000.0,
-      1469600000.0,
-      1549500000.0,
-      1633700000.0
+      523200000.0,
+      551700000.0,
+      581700000.0,
+      613300000.0,
+      646700000.0
     ],
     "ratios": {
       "net_margin": 0.166,
@@ -746,12 +746,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-07-01T06:06:45+00:00",
+        "as_of": "2026-07-01T06:22:44+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T06:06:45+00:00",
+          "retrieved_at": "2026-07-01T06:22:44+00:00",
           "url": null,
           "lang": null
         }
@@ -762,12 +762,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-07-01T06:06:45+00:00",
+        "as_of": "2026-07-01T06:22:44+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T06:06:45+00:00",
+          "retrieved_at": "2026-07-01T06:22:44+00:00",
           "url": null,
           "lang": null
         }
@@ -778,12 +778,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-07-01T06:06:45+00:00",
+        "as_of": "2026-07-01T06:22:44+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T06:06:45+00:00",
+          "retrieved_at": "2026-07-01T06:22:44+00:00",
           "url": null,
           "lang": null
         }
@@ -794,12 +794,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-07-01T06:06:45+00:00",
+        "as_of": "2026-07-01T06:22:44+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T06:06:45+00:00",
+          "retrieved_at": "2026-07-01T06:22:44+00:00",
           "url": null,
           "lang": null
         }
@@ -810,12 +810,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-07-01T06:06:45+00:00",
+        "as_of": "2026-07-01T06:22:44+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T06:06:45+00:00",
+          "retrieved_at": "2026-07-01T06:22:44+00:00",
           "url": null,
           "lang": null
         }
@@ -826,12 +826,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-07-01T06:06:45+00:00",
+        "as_of": "2026-07-01T06:22:44+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T06:06:45+00:00",
+          "retrieved_at": "2026-07-01T06:22:44+00:00",
           "url": null,
           "lang": null
         }
@@ -841,7 +841,7 @@
       {
         "title": "Jet headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-30T11:06:45+00:00",
+        "published_at": "2026-06-30T11:22:44+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 1.55,
@@ -849,7 +849,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T06:06:45+00:00",
+          "retrieved_at": "2026-07-01T06:22:44+00:00",
           "url": null,
           "lang": null
         }
@@ -857,7 +857,7 @@
       {
         "title": "Jet headline — global macro update 2",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-30T00:06:45+00:00",
+        "published_at": "2026-06-30T00:22:44+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": -1.47,
@@ -865,7 +865,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T06:06:45+00:00",
+          "retrieved_at": "2026-07-01T06:22:44+00:00",
           "url": null,
           "lang": null
         }
@@ -873,7 +873,7 @@
       {
         "title": "Jet headline — global macro update 3",
         "theme": "TOURISM",
-        "published_at": "2026-06-30T22:06:45+00:00",
+        "published_at": "2026-06-30T22:22:44+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 0.67,
@@ -881,7 +881,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T06:06:45+00:00",
+          "retrieved_at": "2026-07-01T06:22:44+00:00",
           "url": null,
           "lang": null
         }
@@ -889,7 +889,7 @@
       {
         "title": "Jet headline — global macro update 4",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-29T01:06:45+00:00",
+        "published_at": "2026-06-29T01:22:44+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": 4.82,
@@ -897,7 +897,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T06:06:45+00:00",
+          "retrieved_at": "2026-07-01T06:22:44+00:00",
           "url": null,
           "lang": null
         }
@@ -905,7 +905,7 @@
       {
         "title": "Jet headline — global macro update 5",
         "theme": "ECON_INTEREST_RATE",
-        "published_at": "2026-06-28T23:06:45+00:00",
+        "published_at": "2026-06-28T23:22:44+00:00",
         "domain": "gulfnews.com",
         "url": null,
         "tone": 4.65,
@@ -913,7 +913,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T06:06:45+00:00",
+          "retrieved_at": "2026-07-01T06:22:44+00:00",
           "url": null,
           "lang": null
         }
@@ -923,10 +923,9 @@
   },
   "ai_analysis": {
     "short_term": {
-      "stance": "Bullish",
+      "stance": "Neutral",
       "confidence": "high",
       "reasons": [
-        "Positive price momentum (+2.1% on the session in demo data)",
         "A high-materiality disclosure (87/100) is in the recent flow",
         "Recent disclosure tone skews positive"
       ],
@@ -948,11 +947,10 @@
     },
     "_signal": {
       "short": {
-        "stance": "Bullish",
+        "stance": "Neutral",
         "confidence": "high",
-        "score": 66.9,
+        "score": 62.1,
         "reasons": [
-          "Positive price momentum (+2.1% on the session in demo data)",
           "A high-materiality disclosure (87/100) is in the recent flow",
           "Recent disclosure tone skews positive"
         ],
@@ -974,7 +972,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-07-01T06:06:45+00:00"
+    "generated_at": "2026-07-01T06:22:44+00:00"
   },
-  "generated_at": "2026-07-01T06:06:45+00:00"
+  "generated_at": "2026-07-01T06:22:44+00:00"
 }
