@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "MODON",
-    "price": 3.01,
-    "change": 0.02,
-    "change_pct": 0.0067,
-    "volume": 692569,
+    "price": 3.0,
+    "change": 0.01,
+    "change_pct": 0.0033,
+    "volume": 712692,
     "market_cap": null,
-    "high_52w": 3.01,
-    "low_52w": 2.858,
+    "high_52w": 3.181,
+    "low_52w": 2.932,
     "spark": [
-      2.956,
-      2.955,
-      2.921,
-      2.919,
-      2.886,
-      2.858,
-      2.895,
-      2.905,
-      2.938,
-      2.96,
-      2.931,
-      2.92,
-      2.916,
-      2.928,
-      2.953,
-      2.931,
-      2.909,
-      2.893,
-      2.88,
-      2.892,
-      2.871,
-      2.898,
-      2.919,
-      2.905,
-      2.885,
-      2.883,
-      2.899,
+      2.958,
       2.932,
-      2.933,
-      3.01
+      2.967,
+      2.988,
+      3.006,
+      3.048,
+      3.04,
+      3.052,
+      3.089,
+      3.093,
+      3.068,
+      3.106,
+      3.126,
+      3.125,
+      3.13,
+      3.157,
+      3.122,
+      3.156,
+      3.134,
+      3.154,
+      3.175,
+      3.164,
+      3.142,
+      3.149,
+      3.119,
+      3.162,
+      3.181,
+      3.168,
+      3.138,
+      3.0
     ],
     "prov": {
       "source_type": "official",
       "source_name": "ADX (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-07-01T09:20:27.388Z",
+      "retrieved_at": "2026-07-01T09:36:27.922Z",
       "url": null,
       "lang": null
     }
@@ -285,9 +285,9 @@
     ],
     "quick_stats": {
       "market_cap": null,
-      "volume": 692569,
-      "high_52w": 3.01,
-      "low_52w": 2.858,
+      "volume": 712692,
+      "high_52w": 3.181,
+      "low_52w": 2.932,
       "dividend_yield": 0.0311
     },
     "top_catalysts": [
@@ -300,13 +300,13 @@
   },
   "disclosures": [
     {
-      "id": "MODON-1-1780899627",
+      "id": "MODON-1-1780900588",
       "symbol": "MODON",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-06-08T06:20:27+00:00",
+      "published_at": "2026-06-08T06:36:28+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -319,20 +319,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T09:20:27+00:00",
+        "retrieved_at": "2026-07-01T09:36:28+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "MODON-0-1779510027",
+      "id": "MODON-0-1779510988",
       "symbol": "MODON",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-05-23T04:20:27+00:00",
+      "published_at": "2026-05-23T04:36:28+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -345,20 +345,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T09:20:27+00:00",
+        "retrieved_at": "2026-07-01T09:36:28+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "MODON-4-1778984427",
+      "id": "MODON-4-1778985388",
       "symbol": "MODON",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-05-17T02:20:27+00:00",
+      "published_at": "2026-05-17T02:36:28+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -371,20 +371,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T09:20:27+00:00",
+        "retrieved_at": "2026-07-01T09:36:28+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "MODON-3-1776993627",
+      "id": "MODON-3-1776994588",
       "symbol": "MODON",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-04-24T01:20:27+00:00",
+      "published_at": "2026-04-24T01:36:28+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -397,20 +397,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T09:20:27+00:00",
+        "retrieved_at": "2026-07-01T09:36:28+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "MODON-2-1775618427",
+      "id": "MODON-2-1775619388",
       "symbol": "MODON",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-04-08T03:20:27+00:00",
+      "published_at": "2026-04-08T03:36:28+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -423,20 +423,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T09:20:27+00:00",
+        "retrieved_at": "2026-07-01T09:36:28+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "MODON-5-1775362827",
+      "id": "MODON-5-1775363788",
       "symbol": "MODON",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-04-05T04:20:27+00:00",
+      "published_at": "2026-04-05T04:36:28+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -449,7 +449,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T09:20:27+00:00",
+        "retrieved_at": "2026-07-01T09:36:28+00:00",
         "url": null,
         "lang": null
       },
@@ -475,7 +475,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T09:20:27+00:00",
+        "retrieved_at": "2026-07-01T09:36:28+00:00",
         "url": null,
         "lang": null
       }
@@ -500,7 +500,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T09:20:27+00:00",
+        "retrieved_at": "2026-07-01T09:36:28+00:00",
         "url": null,
         "lang": null
       }
@@ -526,7 +526,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-01T09:20:27+00:00",
+        "retrieved_at": "2026-07-01T09:36:28+00:00",
         "url": null,
         "lang": null
       }
@@ -557,7 +557,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-07-01T09:20:27+00:00",
+      "retrieved_at": "2026-07-01T09:36:28+00:00",
       "url": null,
       "lang": null
     }
@@ -646,12 +646,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-07-01T09:20:27+00:00",
+        "as_of": "2026-07-01T09:36:28+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T09:20:27+00:00",
+          "retrieved_at": "2026-07-01T09:36:28+00:00",
           "url": null,
           "lang": null
         }
@@ -662,12 +662,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-07-01T09:20:27+00:00",
+        "as_of": "2026-07-01T09:36:28+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T09:20:27+00:00",
+          "retrieved_at": "2026-07-01T09:36:28+00:00",
           "url": null,
           "lang": null
         }
@@ -678,12 +678,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-07-01T09:20:27+00:00",
+        "as_of": "2026-07-01T09:36:28+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T09:20:27+00:00",
+          "retrieved_at": "2026-07-01T09:36:28+00:00",
           "url": null,
           "lang": null
         }
@@ -694,12 +694,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-07-01T09:20:27+00:00",
+        "as_of": "2026-07-01T09:36:28+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T09:20:27+00:00",
+          "retrieved_at": "2026-07-01T09:36:28+00:00",
           "url": null,
           "lang": null
         }
@@ -710,12 +710,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-07-01T09:20:27+00:00",
+        "as_of": "2026-07-01T09:36:28+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T09:20:27+00:00",
+          "retrieved_at": "2026-07-01T09:36:28+00:00",
           "url": null,
           "lang": null
         }
@@ -726,12 +726,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-07-01T09:20:27+00:00",
+        "as_of": "2026-07-01T09:36:28+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T09:20:27+00:00",
+          "retrieved_at": "2026-07-01T09:36:28+00:00",
           "url": null,
           "lang": null
         }
@@ -741,7 +741,7 @@
       {
         "title": "Federal headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-06-30T07:20:27+00:00",
+        "published_at": "2026-06-30T07:36:28+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -3.75,
@@ -749,7 +749,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T09:20:27+00:00",
+          "retrieved_at": "2026-07-01T09:36:28+00:00",
           "url": null,
           "lang": null
         }
@@ -757,7 +757,7 @@
       {
         "title": "Federal headline — global macro update 2",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-30T07:20:27+00:00",
+        "published_at": "2026-06-30T07:36:28+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -4.32,
@@ -765,7 +765,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T09:20:27+00:00",
+          "retrieved_at": "2026-07-01T09:36:28+00:00",
           "url": null,
           "lang": null
         }
@@ -773,7 +773,7 @@
       {
         "title": "Federal headline — global macro update 3",
         "theme": "TRADE",
-        "published_at": "2026-06-28T15:20:27+00:00",
+        "published_at": "2026-06-28T15:36:28+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 1.18,
@@ -781,7 +781,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-01T09:20:27+00:00",
+          "retrieved_at": "2026-07-01T09:36:28+00:00",
           "url": null,
           "lang": null
         }
@@ -817,7 +817,7 @@
       "short": {
         "stance": "Bullish",
         "confidence": "high",
-        "score": 67.8,
+        "score": 66.8,
         "reasons": [
           "Recent disclosure tone skews positive"
         ],
@@ -840,7 +840,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-07-01T09:20:27+00:00"
+    "generated_at": "2026-07-01T09:36:28+00:00"
   },
-  "generated_at": "2026-07-01T09:20:27+00:00"
+  "generated_at": "2026-07-01T09:36:28+00:00"
 }
