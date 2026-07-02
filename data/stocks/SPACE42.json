@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "SPACE42",
-    "price": 1.73,
-    "change": 0.01,
-    "change_pct": 0.0058,
-    "volume": 1297798,
+    "price": 1.75,
+    "change": 0.03,
+    "change_pct": 0.0174,
+    "volume": 1887964,
     "market_cap": null,
-    "high_52w": 1.789,
-    "low_52w": 1.689,
+    "high_52w": 1.75,
+    "low_52w": 1.639,
     "spark": [
-      1.706,
-      1.704,
-      1.7,
-      1.689,
-      1.708,
-      1.726,
-      1.747,
-      1.76,
-      1.754,
-      1.778,
-      1.781,
-      1.789,
-      1.787,
-      1.775,
-      1.777,
-      1.763,
-      1.778,
-      1.771,
-      1.751,
-      1.756,
-      1.755,
-      1.77,
-      1.756,
-      1.752,
-      1.749,
-      1.771,
-      1.773,
-      1.773,
-      1.764,
-      1.73
+      1.656,
+      1.671,
+      1.658,
+      1.647,
+      1.648,
+      1.639,
+      1.649,
+      1.648,
+      1.657,
+      1.652,
+      1.642,
+      1.639,
+      1.64,
+      1.646,
+      1.664,
+      1.66,
+      1.659,
+      1.666,
+      1.663,
+      1.685,
+      1.667,
+      1.649,
+      1.662,
+      1.644,
+      1.659,
+      1.672,
+      1.654,
+      1.677,
+      1.675,
+      1.75
     ],
     "prov": {
       "source_type": "official",
       "source_name": "ADX (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-07-02T09:39:22.883Z",
+      "retrieved_at": "2026-07-02T09:55:23.048Z",
       "url": null,
       "lang": null
     }
@@ -285,9 +285,9 @@
     ],
     "quick_stats": {
       "market_cap": null,
-      "volume": 1297798,
-      "high_52w": 1.789,
-      "low_52w": 1.689,
+      "volume": 1887964,
+      "high_52w": 1.75,
+      "low_52w": 1.639,
       "dividend_yield": 0.0
     },
     "top_catalysts": [
@@ -299,13 +299,13 @@
   },
   "disclosures": [
     {
-      "id": "SPACE42-2-1782790763",
+      "id": "SPACE42-2-1782791723",
       "symbol": "SPACE42",
       "event_type": "agm_invitation",
       "title_src": "دعوة للجمعية العمومية",
       "title_en": "Invitation to the General Assembly Meeting",
       "title_lang": "ar",
-      "published_at": "2026-06-30T03:39:23+00:00",
+      "published_at": "2026-06-30T03:55:23+00:00",
       "body_excerpt": "AGM agenda includes dividend approval, board election and auditor appointment.",
       "url": null,
       "summary_en": "Invitation to the General Assembly Meeting. AGM agenda includes dividend approval, board election and auditor appointment.",
@@ -318,20 +318,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:39:23+00:00",
+        "retrieved_at": "2026-07-02T09:55:23+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "SPACE42-0-1781764763",
+      "id": "SPACE42-0-1781765723",
       "symbol": "SPACE42",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-06-18T06:39:23+00:00",
+      "published_at": "2026-06-18T06:55:23+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -344,20 +344,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:39:23+00:00",
+        "retrieved_at": "2026-07-02T09:55:23+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "SPACE42-1-1779691163",
+      "id": "SPACE42-1-1779692123",
       "symbol": "SPACE42",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-05-25T06:39:23+00:00",
+      "published_at": "2026-05-25T06:55:23+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -370,20 +370,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:39:23+00:00",
+        "retrieved_at": "2026-07-02T09:55:23+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "SPACE42-3-1777847963",
+      "id": "SPACE42-3-1777848923",
       "symbol": "SPACE42",
       "event_type": "capital_raise",
       "title_src": "Capital increase / sukuk issuance",
       "title_en": "Capital increase / sukuk issuance",
       "title_lang": "en",
-      "published_at": "2026-05-03T22:39:23+00:00",
+      "published_at": "2026-05-03T22:55:23+00:00",
       "body_excerpt": "Board approved a capital markets transaction to fund expansion.",
       "url": null,
       "summary_en": "Capital increase / sukuk issuance. Board approved a capital markets transaction to fund expansion.",
@@ -396,7 +396,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:39:23+00:00",
+        "retrieved_at": "2026-07-02T09:55:23+00:00",
         "url": null,
         "lang": null
       },
@@ -422,7 +422,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:39:23+00:00",
+        "retrieved_at": "2026-07-02T09:55:23+00:00",
         "url": null,
         "lang": null
       }
@@ -447,7 +447,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:39:23+00:00",
+        "retrieved_at": "2026-07-02T09:55:23+00:00",
         "url": null,
         "lang": null
       }
@@ -473,7 +473,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:39:23+00:00",
+        "retrieved_at": "2026-07-02T09:55:23+00:00",
         "url": null,
         "lang": null
       }
@@ -504,7 +504,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-07-02T09:39:23+00:00",
+      "retrieved_at": "2026-07-02T09:55:23+00:00",
       "url": null,
       "lang": null
     }
@@ -575,12 +575,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-07-02T09:39:22+00:00",
+        "as_of": "2026-07-02T09:55:23+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:39:22+00:00",
+          "retrieved_at": "2026-07-02T09:55:23+00:00",
           "url": null,
           "lang": null
         }
@@ -591,12 +591,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-07-02T09:39:22+00:00",
+        "as_of": "2026-07-02T09:55:23+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:39:22+00:00",
+          "retrieved_at": "2026-07-02T09:55:23+00:00",
           "url": null,
           "lang": null
         }
@@ -607,12 +607,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-07-02T09:39:22+00:00",
+        "as_of": "2026-07-02T09:55:23+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:39:22+00:00",
+          "retrieved_at": "2026-07-02T09:55:23+00:00",
           "url": null,
           "lang": null
         }
@@ -623,12 +623,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-07-02T09:39:22+00:00",
+        "as_of": "2026-07-02T09:55:23+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:39:22+00:00",
+          "retrieved_at": "2026-07-02T09:55:23+00:00",
           "url": null,
           "lang": null
         }
@@ -639,12 +639,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-07-02T09:39:22+00:00",
+        "as_of": "2026-07-02T09:55:23+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:39:22+00:00",
+          "retrieved_at": "2026-07-02T09:55:23+00:00",
           "url": null,
           "lang": null
         }
@@ -655,12 +655,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-07-02T09:39:22+00:00",
+        "as_of": "2026-07-02T09:55:23+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:39:22+00:00",
+          "retrieved_at": "2026-07-02T09:55:23+00:00",
           "url": null,
           "lang": null
         }
@@ -670,7 +670,7 @@
       {
         "title": "Satellite headline — global macro update 1",
         "theme": "MARITIME",
-        "published_at": "2026-06-29T22:39:23+00:00",
+        "published_at": "2026-06-29T22:55:23+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": 0.59,
@@ -678,7 +678,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:39:23+00:00",
+          "retrieved_at": "2026-07-02T09:55:23+00:00",
           "url": null,
           "lang": null
         }
@@ -686,7 +686,7 @@
       {
         "title": "Satellite headline — global macro update 2",
         "theme": "TOURISM",
-        "published_at": "2026-07-02T07:39:23+00:00",
+        "published_at": "2026-07-02T07:55:23+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": 1.53,
@@ -694,7 +694,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:39:23+00:00",
+          "retrieved_at": "2026-07-02T09:55:23+00:00",
           "url": null,
           "lang": null
         }
@@ -702,7 +702,7 @@
       {
         "title": "Satellite headline — global macro update 3",
         "theme": "AGRICULTURE",
-        "published_at": "2026-06-29T21:39:23+00:00",
+        "published_at": "2026-06-29T21:55:23+00:00",
         "domain": "wam.ae",
         "url": null,
         "tone": 0.27,
@@ -710,7 +710,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:39:23+00:00",
+          "retrieved_at": "2026-07-02T09:55:23+00:00",
           "url": null,
           "lang": null
         }
@@ -718,7 +718,7 @@
       {
         "title": "Satellite headline — global macro update 4",
         "theme": "MARITIME",
-        "published_at": "2026-07-02T03:39:23+00:00",
+        "published_at": "2026-07-02T03:55:23+00:00",
         "domain": "reuters.com",
         "url": null,
         "tone": 2.37,
@@ -726,7 +726,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:39:23+00:00",
+          "retrieved_at": "2026-07-02T09:55:23+00:00",
           "url": null,
           "lang": null
         }
@@ -734,7 +734,7 @@
       {
         "title": "Satellite headline — global macro update 5",
         "theme": "ENERGY",
-        "published_at": "2026-06-29T23:39:23+00:00",
+        "published_at": "2026-06-29T23:55:23+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 4.01,
@@ -742,7 +742,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:39:23+00:00",
+          "retrieved_at": "2026-07-02T09:55:23+00:00",
           "url": null,
           "lang": null
         }
@@ -753,8 +753,9 @@
   "ai_analysis": {
     "short_term": {
       "stance": "Neutral",
-      "confidence": "medium",
+      "confidence": "high",
       "reasons": [
+        "Positive price momentum (+1.7% on the session in demo data)",
         "A high-materiality disclosure (84/100) is in the recent flow",
         "Recent disclosure tone skews positive"
       ],
@@ -777,9 +778,10 @@
     "_signal": {
       "short": {
         "stance": "Neutral",
-        "confidence": "medium",
-        "score": 59.8,
+        "confidence": "high",
+        "score": 63.3,
         "reasons": [
+          "Positive price momentum (+1.7% on the session in demo data)",
           "A high-materiality disclosure (84/100) is in the recent flow",
           "Recent disclosure tone skews positive"
         ],
@@ -801,7 +803,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-07-02T09:39:23+00:00"
+    "generated_at": "2026-07-02T09:55:23+00:00"
   },
-  "generated_at": "2026-07-02T09:39:23+00:00"
+  "generated_at": "2026-07-02T09:55:23+00:00"
 }
