@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "MASHREQ",
-    "price": 205.9,
-    "change": -4.1,
-    "change_pct": -0.0197,
-    "volume": 3901579,
-    "market_cap": 250155000000.0,
-    "high_52w": 233.59,
-    "low_52w": 179.1,
+    "price": 256.0,
+    "change": 0.0,
+    "change_pct": 0.0,
+    "volume": 0,
+    "market_cap": null,
+    "high_52w": 262.09,
+    "low_52w": 252.895,
     "spark": [
-      206.748,
-      208.068,
-      206.767,
-      207.059,
-      203.734,
-      202.482,
-      204.151,
-      200.417,
-      203.765,
-      200.513,
-      199.52,
-      200.558,
-      199.002,
-      202.671,
-      201.015,
-      201.045,
-      201.262,
-      204.371,
-      200.627,
-      200.737,
-      203.043,
-      207.359,
-      211.717,
-      212.899,
-      211.027,
-      210.363,
-      212.864,
-      213.002,
-      216.29,
-      205.9
+      253.844,
+      256.477,
+      260.008,
+      257.645,
+      257.19,
+      255.233,
+      257.945,
+      259.493,
+      260.75,
+      257.679,
+      256.938,
+      257.274,
+      255.592,
+      254.515,
+      256.896,
+      258.476,
+      258.28,
+      261.007,
+      258.914,
+      262.09,
+      259.508,
+      256.672,
+      259.18,
+      257.295,
+      259.871,
+      257.134,
+      254.122,
+      252.895,
+      254.973,
+      256.0
     ],
     "prov": {
-      "source_type": "mock",
-      "source_name": "Demo seed",
-      "data_quality": "demo",
-      "retrieved_at": "2026-07-02T06:10:19+00:00",
+      "source_type": "official",
+      "source_name": "DFM (delayed)",
+      "data_quality": "delayed",
+      "retrieved_at": "2026-07-02T06:26:18.956Z",
       "url": null,
       "lang": null
     }
@@ -284,10 +284,10 @@
       "DFM"
     ],
     "quick_stats": {
-      "market_cap": 250155000000.0,
-      "volume": 3901579,
-      "high_52w": 233.59,
-      "low_52w": 179.1,
+      "market_cap": null,
+      "volume": 0,
+      "high_52w": 262.09,
+      "low_52w": 252.895,
       "dividend_yield": 0.073
     },
     "top_catalysts": [
@@ -300,13 +300,13 @@
   },
   "disclosures": [
     {
-      "id": "MASHREQ-2-1782767419",
+      "id": "MASHREQ-2-1782768379",
       "symbol": "MASHREQ",
       "event_type": "results",
       "title_src": "نتائج مالية للفترة",
       "title_en": "Financial results for the period",
       "title_lang": "ar",
-      "published_at": "2026-06-29T21:10:19+00:00",
+      "published_at": "2026-06-29T21:26:19+00:00",
       "body_excerpt": "Board approved the interim financial statements; revenue and net profit disclosed.",
       "url": null,
       "summary_en": "Financial results for the period. Board approved the interim financial statements; revenue and net profit disclosed.",
@@ -319,20 +319,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T06:10:19+00:00",
+        "retrieved_at": "2026-07-02T06:26:19+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "MASHREQ-0-1781907019",
+      "id": "MASHREQ-0-1781907979",
       "symbol": "MASHREQ",
       "event_type": "governance",
       "title_src": "Governance / board change",
       "title_en": "Governance / board change",
       "title_lang": "en",
-      "published_at": "2026-06-19T22:10:19+00:00",
+      "published_at": "2026-06-19T22:26:19+00:00",
       "body_excerpt": "Change in senior leadership / board composition disclosed.",
       "url": null,
       "summary_en": "Governance / board change. Change in senior leadership / board composition disclosed.",
@@ -345,20 +345,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T06:10:19+00:00",
+        "retrieved_at": "2026-07-02T06:26:19+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "MASHREQ-3-1780265419",
+      "id": "MASHREQ-3-1780266379",
       "symbol": "MASHREQ",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-05-31T22:10:19+00:00",
+      "published_at": "2026-05-31T22:26:19+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -371,20 +371,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T06:10:19+00:00",
+        "retrieved_at": "2026-07-02T06:26:19+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "MASHREQ-1-1776629419",
+      "id": "MASHREQ-1-1776630379",
       "symbol": "MASHREQ",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-04-19T20:10:19+00:00",
+      "published_at": "2026-04-19T20:26:19+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -397,7 +397,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T06:10:19+00:00",
+        "retrieved_at": "2026-07-02T06:26:19+00:00",
         "url": null,
         "lang": null
       },
@@ -423,7 +423,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T06:10:19+00:00",
+        "retrieved_at": "2026-07-02T06:26:19+00:00",
         "url": null,
         "lang": null
       }
@@ -448,7 +448,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T06:10:19+00:00",
+        "retrieved_at": "2026-07-02T06:26:19+00:00",
         "url": null,
         "lang": null
       }
@@ -474,7 +474,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T06:10:19+00:00",
+        "retrieved_at": "2026-07-02T06:26:19+00:00",
         "url": null,
         "lang": null
       }
@@ -495,7 +495,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T06:10:19+00:00",
+        "retrieved_at": "2026-07-02T06:26:19+00:00",
         "url": null,
         "lang": null
       }
@@ -514,7 +514,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T06:10:19+00:00",
+        "retrieved_at": "2026-07-02T06:26:19+00:00",
         "url": null,
         "lang": null
       }
@@ -533,7 +533,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T06:10:19+00:00",
+        "retrieved_at": "2026-07-02T06:26:19+00:00",
         "url": null,
         "lang": null
       }
@@ -552,7 +552,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T06:10:19+00:00",
+        "retrieved_at": "2026-07-02T06:26:19+00:00",
         "url": null,
         "lang": null
       }
@@ -571,7 +571,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T06:10:19+00:00",
+        "retrieved_at": "2026-07-02T06:26:19+00:00",
         "url": null,
         "lang": null
       }
@@ -601,7 +601,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-07-02T06:10:19+00:00",
+      "retrieved_at": "2026-07-02T06:26:19+00:00",
       "url": null,
       "lang": null
     }
@@ -615,25 +615,25 @@
       2026
     ],
     "revenue": [
-      66198800000.0,
-      70991600000.0,
-      76131400000.0,
-      81643300000.0,
-      87554200000.0
+      2646300000.0,
+      2837900000.0,
+      3043400000.0,
+      3263700000.0,
+      3500000000.0
     ],
     "net_income": [
-      10260800000.0,
-      10826200000.0,
-      11419700000.0,
-      12042400000.0,
-      12695400000.0
+      410200000.0,
+      432800000.0,
+      456500000.0,
+      481400000.0,
+      507500000.0
     ],
     "operating_cash_flow": [
-      12005100000.0,
-      12666700000.0,
-      13361100000.0,
-      14089600000.0,
-      14853600000.0
+      479900000.0,
+      506400000.0,
+      534100000.0,
+      563200000.0,
+      593800000.0
     ],
     "ratios": {
       "net_margin": 0.145,
@@ -681,12 +681,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-07-02T06:10:18+00:00",
+        "as_of": "2026-07-02T06:26:19+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T06:10:18+00:00",
+          "retrieved_at": "2026-07-02T06:26:19+00:00",
           "url": null,
           "lang": null
         }
@@ -697,12 +697,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-07-02T06:10:18+00:00",
+        "as_of": "2026-07-02T06:26:19+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T06:10:18+00:00",
+          "retrieved_at": "2026-07-02T06:26:19+00:00",
           "url": null,
           "lang": null
         }
@@ -713,12 +713,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-07-02T06:10:18+00:00",
+        "as_of": "2026-07-02T06:26:19+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T06:10:18+00:00",
+          "retrieved_at": "2026-07-02T06:26:19+00:00",
           "url": null,
           "lang": null
         }
@@ -729,12 +729,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-07-02T06:10:18+00:00",
+        "as_of": "2026-07-02T06:26:19+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T06:10:18+00:00",
+          "retrieved_at": "2026-07-02T06:26:19+00:00",
           "url": null,
           "lang": null
         }
@@ -745,12 +745,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-07-02T06:10:18+00:00",
+        "as_of": "2026-07-02T06:26:19+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T06:10:18+00:00",
+          "retrieved_at": "2026-07-02T06:26:19+00:00",
           "url": null,
           "lang": null
         }
@@ -761,12 +761,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-07-02T06:10:18+00:00",
+        "as_of": "2026-07-02T06:26:19+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T06:10:18+00:00",
+          "retrieved_at": "2026-07-02T06:26:19+00:00",
           "url": null,
           "lang": null
         }
@@ -776,7 +776,7 @@
       {
         "title": "Federal headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-07-01T04:10:19+00:00",
+        "published_at": "2026-07-01T04:26:19+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -3.75,
@@ -784,7 +784,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T06:10:19+00:00",
+          "retrieved_at": "2026-07-02T06:26:19+00:00",
           "url": null,
           "lang": null
         }
@@ -792,7 +792,7 @@
       {
         "title": "Federal headline — global macro update 2",
         "theme": "AGRICULTURE",
-        "published_at": "2026-07-01T04:10:19+00:00",
+        "published_at": "2026-07-01T04:26:19+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -4.32,
@@ -800,7 +800,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T06:10:19+00:00",
+          "retrieved_at": "2026-07-02T06:26:19+00:00",
           "url": null,
           "lang": null
         }
@@ -808,7 +808,7 @@
       {
         "title": "Federal headline — global macro update 3",
         "theme": "TRADE",
-        "published_at": "2026-06-29T12:10:19+00:00",
+        "published_at": "2026-06-29T12:26:19+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 1.18,
@@ -816,7 +816,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T06:10:19+00:00",
+          "retrieved_at": "2026-07-02T06:26:19+00:00",
           "url": null,
           "lang": null
         }
@@ -833,7 +833,7 @@
         "Recent disclosure tone skews positive"
       ],
       "risks": [
-        "Negative price momentum (-2.0% on the session in demo data)"
+        "A surprise filing or a sector-wide move could shift the picture quickly"
       ],
       "what_would_change_view": "A new high-materiality disclosure, an unexpected sector move, or a sharp commodity shock in this name's exposure map."
     },
@@ -853,13 +853,13 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 53.6,
+        "score": 59.5,
         "reasons": [
           "A high-materiality disclosure (79/100) is in the recent flow",
           "Recent disclosure tone skews positive"
         ],
         "risks": [
-          "Negative price momentum (-2.0% on the session in demo data)"
+          "A surprise filing or a sector-wide move could shift the picture quickly"
         ]
       },
       "long": {
@@ -877,7 +877,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-07-02T06:10:19+00:00"
+    "generated_at": "2026-07-02T06:26:19+00:00"
   },
-  "generated_at": "2026-07-02T06:10:19+00:00"
+  "generated_at": "2026-07-02T06:26:19+00:00"
 }
