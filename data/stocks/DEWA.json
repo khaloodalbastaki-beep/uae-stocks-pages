@@ -9,50 +9,50 @@
   "isin": null,
   "quote": {
     "symbol": "DEWA",
-    "price": 2.76,
-    "change": 0.0,
-    "change_pct": 0.0,
+    "price": 2.77,
+    "change": 0.01,
+    "change_pct": 0.0036,
     "volume": 0,
     "market_cap": null,
-    "high_52w": 2.76,
-    "low_52w": 2.577,
+    "high_52w": 3.0,
+    "low_52w": 2.74,
     "spark": [
-      2.708,
-      2.685,
-      2.669,
-      2.705,
-      2.705,
-      2.674,
-      2.685,
-      2.684,
-      2.654,
-      2.623,
-      2.652,
-      2.668,
-      2.668,
-      2.669,
-      2.676,
-      2.664,
-      2.666,
-      2.675,
-      2.651,
-      2.619,
-      2.645,
-      2.638,
-      2.644,
-      2.621,
-      2.612,
-      2.591,
-      2.577,
-      2.61,
-      2.625,
-      2.76
+      2.74,
+      2.756,
+      2.787,
+      2.801,
+      2.792,
+      2.831,
+      2.812,
+      2.85,
+      2.86,
+      2.872,
+      2.857,
+      2.891,
+      2.913,
+      2.902,
+      2.912,
+      2.895,
+      2.916,
+      2.929,
+      2.956,
+      2.987,
+      2.974,
+      3.0,
+      2.996,
+      2.977,
+      2.944,
+      2.933,
+      2.974,
+      2.939,
+      2.978,
+      2.77
     ],
     "prov": {
       "source_type": "official",
       "source_name": "DFM (delayed)",
       "data_quality": "delayed",
-      "retrieved_at": "2026-07-02T09:23:06.525Z",
+      "retrieved_at": "2026-07-02T09:39:22.883Z",
       "url": null,
       "lang": null
     }
@@ -286,8 +286,8 @@
     "quick_stats": {
       "market_cap": null,
       "volume": 0,
-      "high_52w": 2.76,
-      "low_52w": 2.577,
+      "high_52w": 3.0,
+      "low_52w": 2.74,
       "dividend_yield": 0.0741
     },
     "top_catalysts": [
@@ -301,13 +301,13 @@
   },
   "disclosures": [
     {
-      "id": "DEWA-2-1781922186",
+      "id": "DEWA-2-1781923163",
       "symbol": "DEWA",
       "event_type": "subsidiary",
       "title_src": "Subsidiary event",
       "title_en": "Subsidiary event",
       "title_lang": "en",
-      "published_at": "2026-06-20T02:23:06+00:00",
+      "published_at": "2026-06-20T02:39:23+00:00",
       "body_excerpt": "Material development at a subsidiary disclosed to the market.",
       "url": null,
       "summary_en": "Subsidiary event. Material development at a subsidiary disclosed to the market.",
@@ -320,20 +320,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:23:06+00:00",
+        "retrieved_at": "2026-07-02T09:39:23+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "DEWA-1-1781749386",
+      "id": "DEWA-1-1781750363",
       "symbol": "DEWA",
       "event_type": "dividend",
       "title_src": "الإعلان عن توزيع أرباح نقدية",
       "title_en": "Cash dividend distribution announcement",
       "title_lang": "ar",
-      "published_at": "2026-06-18T02:23:06+00:00",
+      "published_at": "2026-06-18T02:39:23+00:00",
       "body_excerpt": "Company announces a cash dividend per share with entitlement and payment dates.",
       "url": null,
       "summary_en": "Cash dividend distribution announcement. Company announces a cash dividend per share with entitlement and payment dates.",
@@ -346,20 +346,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:23:06+00:00",
+        "retrieved_at": "2026-07-02T09:39:23+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": true
     },
     {
-      "id": "DEWA-0-1777368186",
+      "id": "DEWA-0-1777369163",
       "symbol": "DEWA",
       "event_type": "acquisition",
       "title_src": "Acquisition / strategic transaction",
       "title_en": "Acquisition / strategic transaction",
       "title_lang": "en",
-      "published_at": "2026-04-28T09:23:06+00:00",
+      "published_at": "2026-04-28T09:39:23+00:00",
       "body_excerpt": "Company entered an agreement to acquire a strategic asset, subject to approvals.",
       "url": null,
       "summary_en": "Acquisition / strategic transaction. Company entered an agreement to acquire a strategic asset, subject to approvals.",
@@ -372,20 +372,20 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:23:06+00:00",
+        "retrieved_at": "2026-07-02T09:39:23+00:00",
         "url": null,
         "lang": null
       },
       "translation_app_generated": false
     },
     {
-      "id": "DEWA-3-1775449386",
+      "id": "DEWA-3-1775450363",
       "symbol": "DEWA",
       "event_type": "board_meeting",
       "title_src": "دعوة لاجتماع مجلس الإدارة",
       "title_en": "Board of Directors meeting invitation",
       "title_lang": "ar",
-      "published_at": "2026-04-06T04:23:06+00:00",
+      "published_at": "2026-04-06T04:39:23+00:00",
       "body_excerpt": "Board to convene to discuss results and a proposed cash dividend.",
       "url": null,
       "summary_en": "Board of Directors meeting invitation. Board to convene to discuss results and a proposed cash dividend.",
@@ -398,7 +398,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:23:06+00:00",
+        "retrieved_at": "2026-07-02T09:39:23+00:00",
         "url": null,
         "lang": null
       },
@@ -424,7 +424,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:23:06+00:00",
+        "retrieved_at": "2026-07-02T09:39:23+00:00",
         "url": null,
         "lang": null
       }
@@ -449,7 +449,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:23:06+00:00",
+        "retrieved_at": "2026-07-02T09:39:23+00:00",
         "url": null,
         "lang": null
       }
@@ -475,7 +475,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:23:06+00:00",
+        "retrieved_at": "2026-07-02T09:39:23+00:00",
         "url": null,
         "lang": null
       }
@@ -496,7 +496,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:23:06+00:00",
+        "retrieved_at": "2026-07-02T09:39:23+00:00",
         "url": null,
         "lang": null
       }
@@ -515,7 +515,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:23:06+00:00",
+        "retrieved_at": "2026-07-02T09:39:23+00:00",
         "url": null,
         "lang": null
       }
@@ -534,7 +534,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:23:06+00:00",
+        "retrieved_at": "2026-07-02T09:39:23+00:00",
         "url": null,
         "lang": null
       }
@@ -553,7 +553,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:23:06+00:00",
+        "retrieved_at": "2026-07-02T09:39:23+00:00",
         "url": null,
         "lang": null
       }
@@ -572,7 +572,7 @@
         "source_type": "mock",
         "source_name": "Demo seed",
         "data_quality": "demo",
-        "retrieved_at": "2026-07-02T09:23:06+00:00",
+        "retrieved_at": "2026-07-02T09:39:23+00:00",
         "url": null,
         "lang": null
       }
@@ -602,7 +602,7 @@
       "source_type": "mock",
       "source_name": "Demo seed",
       "data_quality": "demo",
-      "retrieved_at": "2026-07-02T09:23:06+00:00",
+      "retrieved_at": "2026-07-02T09:39:23+00:00",
       "url": null,
       "lang": null
     }
@@ -691,12 +691,12 @@
         "value": 77.2,
         "change_pct": -0.0103,
         "unit": "USD/bbl",
-        "as_of": "2026-07-02T09:23:06+00:00",
+        "as_of": "2026-07-02T09:39:22+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:23:06+00:00",
+          "retrieved_at": "2026-07-02T09:39:22+00:00",
           "url": null,
           "lang": null
         }
@@ -707,12 +707,12 @@
         "value": 11.22,
         "change_pct": -0.024,
         "unit": "USD/mmbtu",
-        "as_of": "2026-07-02T09:23:06+00:00",
+        "as_of": "2026-07-02T09:39:22+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:23:06+00:00",
+          "retrieved_at": "2026-07-02T09:39:22+00:00",
           "url": null,
           "lang": null
         }
@@ -723,12 +723,12 @@
         "value": 2396.1,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-07-02T09:23:06+00:00",
+        "as_of": "2026-07-02T09:39:22+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:23:06+00:00",
+          "retrieved_at": "2026-07-02T09:39:22+00:00",
           "url": null,
           "lang": null
         }
@@ -739,12 +739,12 @@
         "value": 352.08,
         "change_pct": -0.022,
         "unit": "USD/mt",
-        "as_of": "2026-07-02T09:23:06+00:00",
+        "as_of": "2026-07-02T09:39:22+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:23:06+00:00",
+          "retrieved_at": "2026-07-02T09:39:22+00:00",
           "url": null,
           "lang": null
         }
@@ -755,12 +755,12 @@
         "value": 242.82,
         "change_pct": -0.0089,
         "unit": "USD/mt",
-        "as_of": "2026-07-02T09:23:06+00:00",
+        "as_of": "2026-07-02T09:39:22+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:23:06+00:00",
+          "retrieved_at": "2026-07-02T09:39:22+00:00",
           "url": null,
           "lang": null
         }
@@ -771,12 +771,12 @@
         "value": 2470.68,
         "change_pct": 0.0381,
         "unit": "USD/oz",
-        "as_of": "2026-07-02T09:23:06+00:00",
+        "as_of": "2026-07-02T09:39:22+00:00",
         "prov": {
           "source_type": "mock",
           "source_name": "Demo seed",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:23:06+00:00",
+          "retrieved_at": "2026-07-02T09:39:22+00:00",
           "url": null,
           "lang": null
         }
@@ -786,7 +786,7 @@
       {
         "title": "Federal headline — global macro update 1",
         "theme": "ENERGY",
-        "published_at": "2026-07-01T07:23:06+00:00",
+        "published_at": "2026-07-01T07:39:23+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -3.75,
@@ -794,7 +794,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:23:06+00:00",
+          "retrieved_at": "2026-07-02T09:39:23+00:00",
           "url": null,
           "lang": null
         }
@@ -802,7 +802,7 @@
       {
         "title": "Federal headline — global macro update 2",
         "theme": "AGRICULTURE",
-        "published_at": "2026-07-01T07:23:06+00:00",
+        "published_at": "2026-07-01T07:39:23+00:00",
         "domain": "bloomberg.com",
         "url": null,
         "tone": -4.32,
@@ -810,7 +810,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:23:06+00:00",
+          "retrieved_at": "2026-07-02T09:39:23+00:00",
           "url": null,
           "lang": null
         }
@@ -818,7 +818,7 @@
       {
         "title": "Federal headline — global macro update 3",
         "theme": "TRADE",
-        "published_at": "2026-06-29T15:23:06+00:00",
+        "published_at": "2026-06-29T15:39:23+00:00",
         "domain": "thenationalnews.com",
         "url": null,
         "tone": 1.18,
@@ -826,7 +826,7 @@
           "source_type": "mock",
           "source_name": "GDELT (demo)",
           "data_quality": "demo",
-          "retrieved_at": "2026-07-02T09:23:06+00:00",
+          "retrieved_at": "2026-07-02T09:39:23+00:00",
           "url": null,
           "lang": null
         }
@@ -864,7 +864,7 @@
       "short": {
         "stance": "Neutral",
         "confidence": "medium",
-        "score": 60.0,
+        "score": 61.0,
         "reasons": [
           "A high-materiality disclosure (83/100) is in the recent flow",
           "Recent disclosure tone skews positive"
@@ -889,7 +889,7 @@
     },
     "_engine": "deterministic-signal+narration",
     "provider": "stub",
-    "generated_at": "2026-07-02T09:23:06+00:00"
+    "generated_at": "2026-07-02T09:39:23+00:00"
   },
-  "generated_at": "2026-07-02T09:23:06+00:00"
+  "generated_at": "2026-07-02T09:39:23+00:00"
 }
